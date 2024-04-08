@@ -1,0 +1,600 @@
+{"sub_id":"Q725802","sub_label":"Dugi otok","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q541157","sub_label":"Goli otok","sub_aliases":["Goli"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q76925","sub_label":"Venetian Lagoon","sub_aliases":["Laguna di Venezia","Lagoon of Venice","Laguna Veneta","Veneta Lagoon"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q392225","sub_label":"\u0160olta","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q879332","sub_label":"Bi\u0161evo","sub_aliases":["Bisevo"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q6059","sub_label":"Krk","sub_aliases":["Krk Island"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q725896","sub_label":"Pelje\u0161ac","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q639912","sub_label":"Istria","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q131555","sub_label":"Dodecanese","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q190210","sub_label":"Mykonos","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q171132","sub_label":"Cyclades","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q201272","sub_label":"Paros","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q217214","sub_label":"Serifos","sub_aliases":["Seriphus"],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q173148","sub_label":"Delos","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q128087","sub_label":"Lesbos","sub_aliases":["Lesvos","Mytilini","Mytilene"],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q208566","sub_label":"Skyros","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea"}
+{"sub_id":"Q3777329","sub_label":"Anjidiv Island","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q2980652","sub_label":"Kannur district","sub_aliases":["Cannanore (District)","Kannur"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q1383305","sub_label":"Pirotan Island","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q16510069","sub_label":"Gwadar Promontory","sub_aliases":["Gwadar Head","Gwadar Promentory","Gwadar Peninsula"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q4099178","sub_label":"Bundal Island","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q1408929","sub_label":"Kathiawar","sub_aliases":["Kathiawad","Kathiawar Peninsula","Kattywar"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3291873","sub_label":"Tiswadi taluk","sub_aliases":["Ilhas","Tiswadi","Ilhas de Goa"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q18209899","sub_label":"Barberyn Lighthouse","sub_aliases":["Beruwala Lighthouse"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q186822","sub_label":"Lofoten","sub_aliases":["Lofoden Islands"],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q695120","sub_label":"Edge\u00f8ya","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q373190","sub_label":"Barents\u00f8ya","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q217362","sub_label":"Severny Island","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q840509","sub_label":"Rudolf Island","sub_aliases":["Crown Prince Rudolf Land"],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q207677","sub_label":"Vaygach Island","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q215001","sub_label":"Ellef Ringnes Island","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q1140340","sub_label":"Kong Karls Land","sub_aliases":[],"obj_id":"Q788","obj_label":"Arctic Ocean"}
+{"sub_id":"Q26503","sub_label":"Funen","sub_aliases":["Funen Island","F\u00fcnen","Fyn"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q5689","sub_label":"\u00c5land","sub_aliases":["Ahvenanmaa","Aaland","Aaland Islands","\u00c5land region","ax","Aland","\ud83c\udde6\ud83c\uddfd","Aland Islands"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q239276","sub_label":"\u00d6land","sub_aliases":["Oeland"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q1749","sub_label":"Kaliningrad Oblast","sub_aliases":["Kaliningrad Oblast (Russia)"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q146530","sub_label":"Hiiumaa","sub_aliases":["Dag\u00f6","Hiidenmaa","Dago"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q385","sub_label":"Gdynia","sub_aliases":["Gdingen","Gdini\u00f4"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q3218","sub_label":"Insel Hiddensee","sub_aliases":["Hiddensee"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q25535","sub_label":"Zealand","sub_aliases":["Seeland","Zealand Island"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q48767551","sub_label":"Sanana Island","sub_aliases":["Sulabesi","Sula Besi"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q662674","sub_label":"Barat Daya Islands","sub_aliases":["Kepulauan Barat Daya"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q1737894","sub_label":"Kai Besar","sub_aliases":["Great Kai Island","Nuhu Yuut","Nusteen","Nuhuyut","Kei Besar Island","Kei Besar","Pulau Kei Besar"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q456775","sub_label":"Ambelau","sub_aliases":["Ambalau"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q615657","sub_label":"Wetar","sub_aliases":["Wetar Island","Pulau Wetar"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q2658452","sub_label":"Lontor","sub_aliases":["Banda Besar Island","Banda Besar","Pulau Banda Besar"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q15401876","sub_label":"Binongko","sub_aliases":["Binongko Island","Pulau Binongko"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q685305","sub_label":"Pulau Kei Kecil","sub_aliases":["Kei Kecil Island","Kei Kecil"],"obj_id":"Q171510","obj_label":"Banda Sea"}
+{"sub_id":"Q3358539","sub_label":"Skoger\u00f8ya","sub_aliases":["S\u00e1llan"],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q973752","sub_label":"Rybachy Peninsula","sub_aliases":[],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q16294634","sub_label":"Sengeysky","sub_aliases":[],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q13218410","sub_label":"Ambarnaya","sub_aliases":["Fiord Pikku Maatti-Vuono"],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q3411797","sub_label":"Sredny Peninsula","sub_aliases":[],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q4174361","sub_label":"Ekaterina Island","sub_aliases":["Yekaterina Island"],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q3355005","sub_label":"Kibergsneset","sub_aliases":["Kibergneset"],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q2448772","sub_label":"Aynovy Islands","sub_aliases":[],"obj_id":"Q45823","obj_label":"Barents Sea"}
+{"sub_id":"Q6470284","sub_label":"Lady Julia Percy Island","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q18165769","sub_label":"Hogan Group","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q7243337","sub_label":"Prime Seal Island","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q5473717","sub_label":"Foster Islands","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q3593004","sub_label":"Babel Island","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q13471840","sub_label":"Clarke Island ","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q2157790","sub_label":"Councillor Island","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q1318113","sub_label":"Three Hummock Island","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q2663661","sub_label":"Great Andaman","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q186233","sub_label":"Andaman Islands","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q3364527","sub_label":"Mahatma Gandhi Marine National Park","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q3521265","sub_label":"Netaji Subhash Chandra Bose Island","sub_aliases":["Ross Island"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q6484494","sub_label":"Landfall Island","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q1477734","sub_label":"Viper Island","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q2699953","sub_label":"Abdul Kalam Island","sub_aliases":["Wheeler Island"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q1591501","sub_label":"Havelock Island","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q12259123","sub_label":"Higer lighthouse","sub_aliases":["Faro de Higuer","Higerko itsasargia","Higer Lighthouse","Higuer Lighthouse"],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q71028","sub_label":"H\u0153dic","sub_aliases":["Edig","Ho\u00ebdic","Hoedic"],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q285854","sub_label":"Cape Higer","sub_aliases":[],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q3391882","sub_label":"Plateau de Cordouan","sub_aliases":[],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q3378183","sub_label":"Biarritz Lighthouse","sub_aliases":["Phare de Biarritz","Pointe Saint-Martin Lighthouse"],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q292576","sub_label":"\u00cele Sans Nom","sub_aliases":[],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q6399953","sub_label":"Cabo Quejo","sub_aliases":[],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q3394490","sub_label":"Isla Virgen del Mar","sub_aliases":[],"obj_id":"Q41573","obj_label":"Bay of Biscay"}
+{"sub_id":"Q1812891","sub_label":"Herbert Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q2004327","sub_label":"Semichi Islands","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q530454","sub_label":"Nunivak Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q519236","sub_label":"Otter Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q2010115","sub_label":"Adugak Island","sub_aliases":["Adougakh"],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q954281","sub_label":"Saint Paul Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q1655937","sub_label":"St. Matthew Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q638407","sub_label":"St. Lawrence Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q25475","sub_label":"Batumi","sub_aliases":["Batum\u10dd"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q406649","sub_label":"Obzor","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q201101","sub_label":"Rize","sub_aliases":["Rhizaion"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q669688","sub_label":"Skadovs'k","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q907395","sub_label":"Dobrich Province","sub_aliases":["Dobrich Oblast"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1022281","sub_label":"Chernomorets","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q407372","sub_label":"Pomorie","sub_aliases":["Anchialos"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q206045","sub_label":"Gaspra","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q108223","sub_label":"Belize City","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q11703","sub_label":"United States Virgin Islands","sub_aliases":["U.S. Virgin Islands","Virgin Islands of the United States","vi","US Virgin Islands","USVI","\ud83c\uddfb\ud83c\uddee","American Virgin Islands","ISV","the United States Virgin Islands"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q845540","sub_label":"San Salvador Island","sub_aliases":["San Salvador District","Guanahani"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q115444","sub_label":"Cienfuegos Province","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q28361","sub_label":"Belize Barrier Reef","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q185111","sub_label":"Tobago","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q737624","sub_label":"Vieques","sub_aliases":["Vieques, Puerto Rico","Vieques Island","Vieques Municipio"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q25359","sub_label":"Navassa Island","sub_aliases":["Lanavaz","La Navase","Lavash","Navassa","Navaza","Navaza Island","Navase","Lavash Island","UM-76"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q2653976","sub_label":"Miankaleh peninsula","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q2616191","sub_label":"Zhanbay Island","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q4092168","sub_label":"Bolshiye Peshnyye Islands","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q336969","sub_label":"Absheron peninsula","sub_aliases":["Ab\u015feron Peninsula"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q248574","sub_label":"Shah Deniz gas field","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q1750723","sub_label":"Zyudev Island","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q9248","sub_label":"Baku","sub_aliases":["City of Winds"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q1171803","sub_label":"Vulf","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q1335012","sub_label":"Tabawan Island","sub_aliases":[],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q1029633","sub_label":"Timbun Mata","sub_aliases":[],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q30664947","sub_label":"Andulinang Island","sub_aliases":["Anduligan Island"],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q1670781","sub_label":"Siau Island","sub_aliases":["Siau","Pulau Siau"],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q3100064","sub_label":"Sangir Island","sub_aliases":["Sangir","Pulau Sangir"],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q2117740","sub_label":"Omadal Island","sub_aliases":[],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q1280304","sub_label":"Batik Kulambu Island","sub_aliases":[],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q2117743","sub_label":"Pababag Island","sub_aliases":[],"obj_id":"Q19270","obj_label":"Celebes Sea"}
+{"sub_id":"Q62001720","sub_label":"Pinto Arch","sub_aliases":["Bowtie Arch","Pinto Rock"],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q1764135","sub_label":"Lee's Ferry","sub_aliases":["Lee Ferry","Lee's Ferry","Little Colorado Station","Saints Ferry"],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q49688813","sub_label":"Hatch Point","sub_aliases":[],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q5172121","sub_label":"Corona Arch","sub_aliases":["Little Rainbow Bridge"],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q24192791","sub_label":"Shivwits Plateau","sub_aliases":[],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q172822","sub_label":"Hoover Dam","sub_aliases":["Boulder Dam"],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q5268158","sub_label":"Dewey","sub_aliases":["Dewey, Utah"],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q49805158","sub_label":"Gold Bar Canyon","sub_aliases":[],"obj_id":"Q1265","obj_label":"Colorado River"}
+{"sub_id":"Q985271","sub_label":"The Dalles","sub_aliases":["The Dalles, Oregon"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q1510556","sub_label":"North Bonneville","sub_aliases":["North Bonneville, Washington"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q2862516","sub_label":"Umatilla","sub_aliases":["Umatilla, Oregon"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q1003672","sub_label":"Cascade Locks","sub_aliases":["Cascade Locks, Oregon"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q490724","sub_label":"Astoria","sub_aliases":["Astoria, Oregon"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q6881352","sub_label":"Mitchell Point","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q3593332","sub_label":"Bateman Island","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q27988976","sub_label":"Home Valley","sub_aliases":["Home Valley, Washington"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q583383","sub_label":"Gaua","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q1519356","sub_label":"Great Palm Island","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q3179368","sub_label":"Willis Island","sub_aliases":["Willis Islets"],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q1179099","sub_label":"Daydream Island","sub_aliases":["Daydream Island, Queensland","West Molle Island"],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q913347","sub_label":"Bribie Island","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q202990","sub_label":"Indispensable Reefs","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q1573545","sub_label":"Hamilton Island","sub_aliases":["Hamilton Island, Queensland"],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q537817","sub_label":"Banks Islands","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q539391","sub_label":"Csepel Island","sub_aliases":["Csepel"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q60038","sub_label":"\u0160t\u00farovo","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q404939","sub_label":"Tutrakan","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q193890","sub_label":"Drobeta-Turnu Severin","sub_aliases":["Sz\u00f6r\u00e9nyv\u00e1r","Turm Severin","Drobeta-Turnu Severin (Rumunsko)"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q125652","sub_label":"Neuburg an der Donau","sub_aliases":["Neuburg\/Donau","Neuburg a.d.Donau"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1781","sub_label":"Budapest","sub_aliases":["Buda Pest","Buda-Pest","Budape\u0161\u0165","Budapesta","Budapeszt","Buda","Ofen","Bud\u00edn","Budim","Budon","Pest","Pe\u0161\u0165","Pe\u0161ta","\u00d3buda","Alt-Ofen","K\u0151b\u00e1nya"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q182428","sub_label":"Silistra","sub_aliases":["Silistria"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q192201","sub_label":"Wachau","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q925340","sub_label":"Kaniv","sub_aliases":["K\u00e1nev","Kani\u00f3w"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q954948","sub_label":"Bycha\u016d","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q157055","sub_label":"Cherkasy","sub_aliases":["Cherkassy"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q157835","sub_label":"Zaporizhzhia","sub_aliases":["Zapirizhia","Zapirizhya","Zapirizhye","Zapirizhzhia","Zapirizhzhya","Zapirizhzhye","Zapirozhia","Zapirozhya","Zapirozhye","Zapirozhzhia","Zapirozhzhya","Zapirozhzhye","Zaporizhya","Zaporizhye","Zaporizhzhya","Zaporizhzhye","Zaporozhia","Zaporozhya","Zaporozhye","Zaporozhzhia","Zaporozhzhya","Zaporozhzhye","Oleksandrivsk","Aleksandrovsk","Zapirizh'e","Zaporozh'e","Zaporizh'e","Zapirozh'e","Oleksandrivske"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q760224","sub_label":"Hola Prystan","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q1011435","sub_label":"Svitlovodsk","sub_aliases":["Svitlovodske"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q2337","sub_label":"Smolensk","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q1899","sub_label":"Kyiv","sub_aliases":["Kiev","Kyjiv","Kyyiv","Kyjiw","Kyiw","Ky\u00efv","Kief","Kieff","Kiew","Kioff","Kiof","Kiowia","Kiovia","Kiow","Kiou","Ky\u0457v"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q549533","sub_label":"Veryn","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q4506795","sub_label":"Chaikovychi","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q256801","sub_label":"Zhuravno","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q1026915","sub_label":"Melnytsia-Podilska","sub_aliases":["Melnytsia-nad-Dnistrom"],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q4234984","sub_label":"Kosmyryn","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q4178401","sub_label":"Zhvanets","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q4246779","sub_label":"Kulchytsi","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q4503709","sub_label":"Tsekinivka","sub_aliases":[],"obj_id":"Q131210","obj_label":"Dniester"}
+{"sub_id":"Q6530378","sub_label":"Lesidren Island","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q5178940","sub_label":"Cove Rock","sub_aliases":["Roca Boveda"],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q12717511","sub_label":"Ongley Island","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q58502","sub_label":"Skravena Cove","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q7333014","sub_label":"Ridley Island","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q5421668","sub_label":"Express Island","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q3845350","sub_label":"Esperanto Island","sub_aliases":[],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q5879953","sub_label":"Hole Rock","sub_aliases":["Roca de la Ventana"],"obj_id":"Q143650","obj_label":"Drake Passage"}
+{"sub_id":"Q392285","sub_label":"\u0160pindler\u016fv Ml\u00fdn","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q541956","sub_label":"Wittenberge","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q12062","sub_label":"Torgau","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q430864","sub_label":"Nymburk","sub_aliases":["Mesto Nymburk"],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q384403","sub_label":"Litom\u011b\u0159ice","sub_aliases":["Litomerice","Leitmeritz","Kralovske mesto Litomerice"],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q59974","sub_label":"Sch\u00f6nhausen","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q498565","sub_label":"Tangerm\u00fcnde","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q8240","sub_label":"Stadt Wehlen","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q877744","sub_label":"Le Portel","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q453263","sub_label":"Pleumeur-Bodou","sub_aliases":["Pleuveur-Bodo\u00f9"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1031980","sub_label":"Escalles","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q911577","sub_label":"Dungeness","sub_aliases":["Dungeness, Kent"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1431121","sub_label":"St Michael's Mount","sub_aliases":["St Michael's Mount, Cornwall","St. Michael's Mount","Saint Michaels Mount"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q774215","sub_label":"Isle of Portland","sub_aliases":["Portland","Portland, Dorset"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q179313","sub_label":"Alderney","sub_aliases":["Aurigny","GBA","Great Britain Alderney"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q202023","sub_label":"Herm","sub_aliases":["Haerme"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q236570","sub_label":"Barsac","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q254934","sub_label":"Bouliac","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q333571","sub_label":"Cadillac","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q271068","sub_label":"Blagnac","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q12602","sub_label":"Val d'Aran","sub_aliases":["Aran","Vall d'Aran","Valle de Ar\u00e1n"],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q327267","sub_label":"C\u00e9rons","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q192438","sub_label":"B\u00e8gles","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q665215","sub_label":"Barie","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q2299011","sub_label":"Ymer Island","sub_aliases":[],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q3719904","sub_label":"Edvards Island","sub_aliases":[],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q963317","sub_label":"Milne Land","sub_aliases":["Ilimanngip Nunaa"],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q2210011","sub_label":"Sabine Island","sub_aliases":["Sabine\u00f6n"],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q3832625","sub_label":"Lindhards Island","sub_aliases":["Lindhard \u00d8"],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q24840535","sub_label":"Kap Brown","sub_aliases":[],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q1825178","sub_label":"Little Pendulum Island","sub_aliases":[],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q2529799","sub_label":"Ella Island","sub_aliases":["Eila Island"],"obj_id":"Q132868","obj_label":"Greenland Sea"}
+{"sub_id":"Q2634733","sub_label":"Santahamina","sub_aliases":["Sandhamn"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q421586","sub_label":"Aksi","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1327548","sub_label":"Pakri Islands","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1418409","sub_label":"Prangli","sub_aliases":["Vrang\u00f6"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1739249","sub_label":"Keri","sub_aliases":["Keri island"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1292442","sub_label":"Suomenlinna","sub_aliases":["Sveaborg"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1020168","sub_label":"Lauttasaari","sub_aliases":["Drums\u00f6"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q2329425","sub_label":"Moshchny Island","sub_aliases":["L\u00f6vsk\u00e4r","Lavansaari","Lavassaar"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1315101","sub_label":"Galveston Island","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q1696230","sub_label":"San Juan de Ul\u00faa","sub_aliases":["Castle of San Juan de Ul\u00faa","San Juan de Ulua","Castle of San Juan de Ulua"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q2576428","sub_label":"East Texas","sub_aliases":["Eastern Texas"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q61304","sub_label":"Bay of Campeche","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q867480","sub_label":"Pass Christian","sub_aliases":["Pass Christian, Miss.","Pass Christian, MS","Pass Christian, Mississippi"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q3470764","sub_label":"Navarre","sub_aliases":["Navarre, Florida"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q1261587","sub_label":"Dry Tortugas","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q26605","sub_label":"Calhoun County","sub_aliases":["Calhoun County, Texas"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q5035107","sub_label":"Cape Tryon Light","sub_aliases":["Cape Tryon Lighthouse"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q847242","sub_label":"Greenly Island","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q3378311","sub_label":"Miscou Island Lighthouse","sub_aliases":["phare de Miscou"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q528851","sub_label":"Brion Island","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q3378440","sub_label":"L'\u00c9tang-du-Nord lighthouse","sub_aliases":["phare du Borgot","L'\u00c9tang-du-Nord Lighthouse"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q47088755","sub_label":"Shipwreck Point Lighthouse","sub_aliases":["Naufrage Lighthouse"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q7591472","sub_label":"St. Peters Harbour Light","sub_aliases":["St. Peters Harbour Lighthouse"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q30575026","sub_label":"New London Lighthouse","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q1948","sub_label":"Manitoba","sub_aliases":["MB"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q1150703","sub_label":"Mavor Island","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q9380370","sub_label":"Parry Islands","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q1438184","sub_label":"Nastapoka Islands","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q545780","sub_label":"Belcher Islands","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q7451402","sub_label":"Sentry Island","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q7547296","sub_label":"Snape Island","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q4902981","sub_label":"Bibby Island","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q35715","sub_label":"South Australia","sub_aliases":["SA","S.A.","S. Aust."],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q2449","sub_label":"Mogadishu","sub_aliases":["Xamar","The Seat of the Shah","Hamar","Maqad\u012bsh\u016b"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q219642","sub_label":"Mah\u00e9","sub_aliases":["Mahe","Mah\u00e9 Island","Mahe Island"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q201698","sub_label":"Crozet Islands","sub_aliases":["Archipel des Crozet","\u00celes Crozet","Iles Crozet","Crozet Plateau","Crozet Archipelago"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3929","sub_label":"Port Louis","sub_aliases":["Port Louis, Mauritius"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q184851","sub_label":"Diego Garcia","sub_aliases":["\ud83c\udde9\ud83c\uddec"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q157286","sub_label":"Nicobar Islands","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3492","sub_label":"Sumatra","sub_aliases":["Sumatra, Indonesia","Sumatera Island","Sumatera","Pulau Sumatera","Sumatra Island","Andalas"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q486341","sub_label":"Kufstein","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q68986","sub_label":"St. Moritz","sub_aliases":["San Murezzan","Sankt Moritz","St. Moritz GR"],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q583485","sub_label":"Schwaz","sub_aliases":["Schwaz in Tirol"],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q22883","sub_label":"Engadin","sub_aliases":["Engadine valley","Engiadina","Engadina"],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q509310","sub_label":"Kiefersfelden","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q254107","sub_label":"Imst","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q252437","sub_label":"Babensham","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q253639","sub_label":"W\u00f6rgl","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn"}
+{"sub_id":"Q1233234","sub_label":"Ortygia","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q1027846","sub_label":"Calypso Deep","sub_aliases":["Calypso Trench"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q192738","sub_label":"Gulf of Taranto","sub_aliases":["Golfo di Taranto"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q304986","sub_label":"Arkoudi","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q187039","sub_label":"Sapientza","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q3325738","sub_label":"Makri","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q614919","sub_label":"Atokos","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q190138","sub_label":"Lefkada","sub_aliases":["Lefkas"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q1520062","sub_label":"Lambay Island","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1541249","sub_label":"Ll\u0177n Peninsula","sub_aliases":["Lleyn Peninsula"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1191558","sub_label":"Wirral Peninsula","sub_aliases":["Wirral","the Wirral"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1129702","sub_label":"Cooley Peninsula","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q833910","sub_label":"Rhyl Flats","sub_aliases":["Rhyl Flats Offshore Wind Farm"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q2346069","sub_label":"South Stack","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1991483","sub_label":"Bardsey Island","sub_aliases":["Ynys Enlli"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q15135387","sub_label":"Worm's Head","sub_aliases":["Worms Head"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1465918","sub_label":"Graham Bell Island","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q613218","sub_label":"Kamennye Islands","sub_aliases":["Kammenny Islands"],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q1373884","sub_label":"Neupokoev Island","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q37056","sub_label":"Taymyr Peninsula","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q475343","sub_label":"Shokalsky Island","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q601056","sub_label":"Gydan Peninsula","sub_aliases":["Gyda Peninsula"],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q1246888","sub_label":"Mona Islands","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q733162","sub_label":"Kirov Islands","sub_aliases":[],"obj_id":"Q33629","obj_label":"Kara Sea"}
+{"sub_id":"Q23753362","sub_label":"Als Rev","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q216422","sub_label":"Sams\u00f8","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q10698694","sub_label":"Tistlarna lighthouse","sub_aliases":["Tistlarna"],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q3372089","sub_label":"Vinga lighthouse","sub_aliases":["Vinga","Vinga light station","Vinga fyr"],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q1621342","sub_label":"Hjelm","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q2624788","sub_label":"Bj\u00e4re","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q1321986","sub_label":"Ejlinge","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q8770829","sub_label":"Dr\u00e6et","sub_aliases":[],"obj_id":"Q131716","obj_label":"Kattegat"}
+{"sub_id":"Q42942","sub_label":"Lierna","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q17494386","sub_label":"Villa Monastero","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q3832528","sub_label":"Limonta","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q3901887","sub_label":"Pian delle Betulle","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q4007447","sub_label":"Val d'Esino","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q29431803","sub_label":"Villa Commedia","sub_aliases":[],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q573856","sub_label":"Monte Legnone","sub_aliases":["Legnoncino"],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q688861","sub_label":"Crotto","sub_aliases":["grotto","Crott"],"obj_id":"Q15523","obj_label":"Lake Como"}
+{"sub_id":"Q69413","sub_label":"Kesswil","sub_aliases":["Kesswil TG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q62013","sub_label":"Bodman-Ludwigshafen","sub_aliases":[],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q68250","sub_label":"Rorschach","sub_aliases":["Rorschach, St. Gallen","Rorschach SG","Rorschach, St. Gallen SG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q66790","sub_label":"Goldach","sub_aliases":["Goldach SG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q69956","sub_label":"Mammern","sub_aliases":["Mammern TG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q65634","sub_label":"Uttwil","sub_aliases":["Uttwil TG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q69237","sub_label":"Altnau","sub_aliases":["Altnau TG"],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q681029","sub_label":"Werd","sub_aliases":[],"obj_id":"Q4127","obj_label":"Lake Constance"}
+{"sub_id":"Q57115","sub_label":"Crans ","sub_aliases":["Crans-pr\u00e8s-C\u00e9ligny VD","Crans-pres-Celigny","Crans-pres-Celigny VD"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q69738","sub_label":"Pully","sub_aliases":["Pully VD"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q52698","sub_label":"Chardonne","sub_aliases":["Chardonne VD"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q69293","sub_label":"Prangins","sub_aliases":["Prangins VD"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q69398","sub_label":"Tolochenaz","sub_aliases":["Tolochenaz VD"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q48923","sub_label":"Genthod","sub_aliases":["Genthod GE"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q70528","sub_label":"Saint-Gingolph","sub_aliases":["Saint-Gingolph VS","Saint-Gingolph (Valais)"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q69410","sub_label":"C\u00e9ligny","sub_aliases":["C\u00e9ligny GE","Celigny","Celigny GE"],"obj_id":"Q6403","obj_label":"Lake Geneva"}
+{"sub_id":"Q4734801","sub_label":"Alpena Light","sub_aliases":["Alpena Lighthouse"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q5088993","sub_label":"Cheboygan Crib Light","sub_aliases":["Cheboygan Crib Lighthouse"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q5654559","sub_label":"Harbor Beach Light","sub_aliases":["Harbor Beach Lighthouse"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q502560","sub_label":"Presque Isle County","sub_aliases":["Presque Isle County, Michigan"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q49567017","sub_label":"Sturgeon Point Park","sub_aliases":["Sturgeon Point State Park"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q5072691","sub_label":"Chantry Island","sub_aliases":[],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q6638058","sub_label":"St. Joseph Island ","sub_aliases":["St. Joseph Island"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q5472981","sub_label":"Forty Mile Point Light","sub_aliases":["Forty Mile Point Lighthouse"],"obj_id":"Q1383","obj_label":"Lake Huron"}
+{"sub_id":"Q16695369","sub_label":"Svirskaya Lip","sub_aliases":["Svirskaya Guba"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q2991086","sub_label":"Konevets","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q673167","sub_label":"Valaam","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4405923","sub_label":"Salo","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q7977","sub_label":"Priozersk","sub_aliases":["K\u00e4kisalmi","Kexholm","Prioz\u00ebrsk"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q1672020","sub_label":"Puutsaari","sub_aliases":["Putsari","Putsaari","Putsalo","Puutsalo"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4280665","sub_label":"Mantsinsaari Island","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q15339","sub_label":"Shlisselburg","sub_aliases":["Orekhovets","Oreshek","Schlisselburg","Schl\u00fcsselburg","Schluesselberg","Orechovets"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q1572195","sub_label":"Pilot Island","sub_aliases":[],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q7231542","sub_label":"Porte des Morts","sub_aliases":[],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q7235830","sub_label":"Poverty Island","sub_aliases":[],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q37836","sub_label":"Milwaukee","sub_aliases":["Milwaukee, Wisconsin","Milwaukee City, Wisconsin","Milwa\u00fckee"],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q5755744","sub_label":"High Island","sub_aliases":[],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q7457019","sub_label":"Seul Choix Light","sub_aliases":["Seul Choix Lighthouse","Seul-Choix Lighthouse"],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q7995386","sub_label":"White Shoal Light","sub_aliases":["White Shoal Lighthouse"],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q6698798","sub_label":"Ludington Light","sub_aliases":["Ludington Lighthouse"],"obj_id":"Q1169","obj_label":"Lake Michigan"}
+{"sub_id":"Q211867","sub_label":"Oshawa","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q386626","sub_label":"Pickering","sub_aliases":["Pickering, Ontario"],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q470618","sub_label":"Amherst Island","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q4734067","sub_label":"Alnwick\/Haldimand","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q2925383","sub_label":"Brighton","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q3276918","sub_label":"Quinte West","sub_aliases":["Frankford, ON"],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q126805","sub_label":"St. Catharines","sub_aliases":["St Kitts","Saint Catharines","St Catharines","St. Kitts"],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q385085","sub_label":"Prince Edward County","sub_aliases":["Prince Edward County, Ontario","City of Prince Edward County"],"obj_id":"Q1062","obj_label":"Lake Ontario"}
+{"sub_id":"Q3593127","sub_label":"Madeline Island","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q5186005","sub_label":"Crisp Point Light","sub_aliases":["Crisp Point Lighthouse"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q5595882","sub_label":"Granite Island Lighthouse","sub_aliases":["Granite Island Light"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7354450","sub_label":"Rock Harbor Light","sub_aliases":["Rock Harbor Lighthouse"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q5594696","sub_label":"Grand Island Township","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q497737","sub_label":"Keweenaw County","sub_aliases":["Keweenaw County, Michigan"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7304895","sub_label":"Red Rock","sub_aliases":["Red Rock, Ontario"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q5595068","sub_label":"Grand Sable Dunes","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q4099279","sub_label":"Cape Buor-Khaya","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q3802832","sub_label":"Ozyorny","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q2073124","sub_label":"Peschany Island","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q2653696","sub_label":"Komsomolskaya Pravda Islands","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q3802802","sub_label":"Morskoy","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q3593525","sub_label":"Begichev Islands","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q2419408","sub_label":"Faddey Islands","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q2529428","sub_label":"Saint Peter Islands","sub_aliases":[],"obj_id":"Q7988","obj_label":"Laptev Sea"}
+{"sub_id":"Q160927","sub_label":"Blois","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q429910","sub_label":"Beaugency","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q42716","sub_label":"Saint-\u00c9tienne","sub_aliases":["St. Etienne","Armes-Ville","Commune-d'Armes","Canton-d'Armes","Libre-Ville","St. \u00c9tienne"],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q639618","sub_label":"Cordemais","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q243622","sub_label":"Beaulon","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q273922","sub_label":"Saint-Herblain","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q213515","sub_label":"Ancenis","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q475599","sub_label":"Gien","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q41","sub_label":"Greece","sub_aliases":["Hellenic Republic","Hellas","gr","el","\ud83c\uddec\ud83c\uddf7","Greek Republic","GRE","Ellada","Greek"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q5772","sub_label":"Region of Murcia","sub_aliases":["Autonomous Community of the Region of Murcia","Regi\u00f3n de Murcia","Comunidad Aut\u00f3noma de la Regi\u00f3n de Murcia","CARM","Provincia de Murcia","Murcia province","Murcia region","Region de Murcia","Comunidad Autonoma de la Region de Murcia"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q3820","sub_label":"Beirut","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q7194","sub_label":"Province of Girona","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q11959","sub_label":"Alicante","sub_aliases":["Alacant"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q262","sub_label":"Algeria","sub_aliases":["People\u2019s Democratic Republic of Algeria","dz","\ud83c\udde9\ud83c\uddff","ALG"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q10400","sub_label":"Almer\u00eda","sub_aliases":["Almeria"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q3561","sub_label":"Algiers","sub_aliases":["\u0644\u062c\u0632\u0627\u0626\u0631","\u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54","Alger"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q541738","sub_label":"Aiglemont","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q458741","sub_label":"Revin","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q72981","sub_label":"Wijchen","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q430643","sub_label":"Bannoncourt","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q1048554","sub_label":"Aubrives","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q210787","sub_label":"Neufch\u00e2teau","sub_aliases":["Neufchateau","Mouzon-Meuse"],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q212456","sub_label":"Commercy","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q241940","sub_label":"Givet","sub_aliases":["Charlemont (r\u00e9unie en 1800 dans Givet)","Fort-la-Montagne"],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q576110","sub_label":"Nauvoo","sub_aliases":["Nauvoo, Illinois"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q961975","sub_label":"Hannibal","sub_aliases":["Hannibal, Missouri"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q493787","sub_label":"Vicksburg","sub_aliases":["Vicksburg, Mississippi","Vicksburg micropolitan area"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q38022","sub_label":"St. Louis","sub_aliases":["St. Louis, Missouri","City of St. Louis","St. Louis City","Saint Louis","St Louis","St. Louis, MO"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q958781","sub_label":"Grand Rapids","sub_aliases":["Grand Rapids, Minnesota"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1612","sub_label":"Arkansas","sub_aliases":["AR","Ark.","State of Arkansas"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q736834","sub_label":"St. Cloud","sub_aliases":["Saint Cloud","Saint Cloud, Minnesota","St. Cloud, MN","St. Cloud, Minnesota"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q984534","sub_label":"Coon Rapids","sub_aliases":["Coon Rapids, Minnesota"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q477004","sub_label":"Arnaville","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1018407","sub_label":"Bainville-aux-Miroirs","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q461413","sub_label":"Pont-\u00e0-Mousson","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q502749","sub_label":"Cochem","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q22994","sub_label":"Argancy","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q22640","sub_label":"Thionville","sub_aliases":["Diddenuewen","Diedenhofen"],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q21983","sub_label":"Yutz","sub_aliases":["Haute-Yutz","Basse-Yutz"],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q3138","sub_label":"Trier","sub_aliases":["Treveris","Augusta Treverorum"],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q22958","sub_label":"Ilvesheim","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q503878","sub_label":"Offenau","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q537756","sub_label":"Ha\u00dfmersheim","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q82274","sub_label":"Plochingen","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q82960","sub_label":"Rottweil","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q81702","sub_label":"Eutingen im G\u00e4u","sub_aliases":["Eutingen"],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q81302","sub_label":"Epfendorf","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q61960","sub_label":"Hessigheim","sub_aliases":[],"obj_id":"Q1673","obj_label":"Neckar"}
+{"sub_id":"Q1165854","sub_label":"Dargol","sub_aliases":["Darghol","Sonhey"],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q3703","sub_label":"Bamako","sub_aliases":[],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q1003576","sub_label":"Say","sub_aliases":[],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q3674","sub_label":"Niamey","sub_aliases":[],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q1487909","sub_label":"Sinder","sub_aliases":[],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q1200892","sub_label":"Dessa","sub_aliases":[],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q2007254","sub_label":"N'Dounga","sub_aliases":["Dounga","Ndounga"],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q987243","sub_label":"Kollo","sub_aliases":["Kolo","Kollo, Niger"],"obj_id":"Q3542","obj_label":"Niger River"}
+{"sub_id":"Q738734","sub_label":"Shetland Mainland","sub_aliases":["Mainland"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q165269","sub_label":"East Frisia","sub_aliases":["Ostfriesland","East Friesland","East Frisia proper"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q754867","sub_label":"Unst","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q769160","sub_label":"Grande-Synthe","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q505601","sub_label":"Wassenaar","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q213804","sub_label":"Lindisfarne","sub_aliases":["The Holy Island of Lindisfarne","Lindesfarne","Holy Island"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q9980","sub_label":"Zandvoort","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q13706","sub_label":"Principality of Sealand","sub_aliases":["Sealand"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q1063180","sub_label":"Stad","sub_aliases":[],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q1968052","sub_label":"Ormen Lange","sub_aliases":[],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q590768","sub_label":"God\u00f8ya","sub_aliases":["God\u00f8y"],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q1585276","sub_label":"Hareidlandet","sub_aliases":[],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q1356784","sub_label":"Melk\u00f8ya","sub_aliases":["Muolkkut"],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q1641114","sub_label":"West Burra","sub_aliases":[],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q935821","sub_label":"Senja","sub_aliases":[],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q2840250","sub_label":"Alsta","sub_aliases":["Alstein","Alsten"],"obj_id":"Q47545","obj_label":"Norwegian Sea"}
+{"sub_id":"Q4979458","sub_label":"Brunot Island","sub_aliases":["Brunots Island","Brunot's Island"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6943440","sub_label":"Mustapha Island","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q929538","sub_label":"Laughery Island","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5595579","sub_label":"Grandview Island","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q7199458","sub_label":"Pittsburgh metropolitan area","sub_aliases":["Pittsburgh MSA","Southwestern Pennsylvania","Pittsburgh Metro","Greater Pittsburgh Region","Pittsburgh Region","Pittsburgh, PA Metropolitan Statistical Area","Pittsburgh metropolitan statistical area"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q816175","sub_label":"Belpre","sub_aliases":["Belpr\u00e9","Belpre, Ohio"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5416035","sub_label":"Evansville Museum of Arts, History and Science","sub_aliases":["Evansville Museum"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q43196","sub_label":"Cincinnati","sub_aliases":["Cincy","Cincinnati, Ohio","Cinti","Cincinnati, OH","Cin City"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q14452","sub_label":"Easter Island","sub_aliases":["RapaNui","Rapa Nui","Rapa nui","Ostrov Paskhi"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q11708","sub_label":"Southeast Asia","sub_aliases":["Southeastern Asia","South-east Asia","South East Asia","SE Asia","Asia, Southeastern"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q43296","sub_label":"Wake Island","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q797","sub_label":"Alaska","sub_aliases":["AK","State of Alaska","Alaska, United States"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q3612","sub_label":"Antofagasta","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q38834","sub_label":"Nuku'alofa","sub_aliases":["Nuku\u02bbalofa"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q38095","sub_label":"Galapagos Islands","sub_aliases":["Galapagos"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q99","sub_label":"California","sub_aliases":["CA","State of California","The Golden State","Calif."],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q1392962","sub_label":"Failaka Island","sub_aliases":["Failaka"],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q3134340","sub_label":"Tarout Island","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q3882","sub_label":"Manama","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q1184496","sub_label":"Dalma","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q1972281","sub_label":"Palm Deira","sub_aliases":["Deira Island"],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q221883","sub_label":"Kish Island","sub_aliases":["Kamtina","Arakia","Arakata","Ghiss","Qais","Aphrodisias","Cataga","Cyprusa","Kataie"],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q785038","sub_label":"Sirri Island","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q211844","sub_label":"Palm Islands","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf"}
+{"sub_id":"Q165594","sub_label":"Helen Reef","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q1026201","sub_label":"Calaguas","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q1144360","sub_label":"Sarigan","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q3087076","sub_label":"Sefa-utaki","sub_aliases":["Seifa-utaki"],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q746861","sub_label":"Babeldaob","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q725039","sub_label":"Cagraray Island","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q615578","sub_label":"Aogashima","sub_aliases":["Aogashima Island"],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q742683","sub_label":"Tanegashima Space Center","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea"}
+{"sub_id":"Q2679015","sub_label":"Eritrean coastal desert","sub_aliases":[],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q2000838","sub_label":"Sanafir Island","sub_aliases":[],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q1151131","sub_label":"Jeddah Light","sub_aliases":["Jeddah Lighthouse"],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q787095","sub_label":"Dahlak Kebir","sub_aliases":["Dahlak Kebr","Dehalak Kebir","Dehalak Deset"],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q1417843","sub_label":"Hanish Islands","sub_aliases":[],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q1789052","sub_label":"Nora","sub_aliases":["Norah","Noura","Seyl-Nora"],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q990780","sub_label":"Brothers Islands","sub_aliases":[],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q2336295","sub_label":"Farasan Islands","sub_aliases":[],"obj_id":"Q23406","obj_label":"Red Sea"}
+{"sub_id":"Q21226","sub_label":"Daubensand","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q64571","sub_label":"Sargans","sub_aliases":["Sargans SG"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q22435","sub_label":"Lauterbourg","sub_aliases":["Lauterburg"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q486548","sub_label":"Remagen","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q22880","sub_label":"Electoral Palatinate","sub_aliases":["County Palatine of Lotharingia","Bavarian Palatinate","Electorate of Palatinate","Pfalzgrafschaft bei Rhein","Kurpfalz","Kurfurst von der Pfalz","Electorate the Palatinate","Palatinate of the rhein","County Palatine of the Rhine","Palatine Electorate","Rhenish County Palatine","Electorate Palatinate","Kurf\u00fcrstentum von der Pfalz","Palatinate of the Rhine","Electorate of the Palatine","County Palatinate of the Rhine","Electorate of the Palatinate"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q1844","sub_label":"Vaduz","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q2910","sub_label":"Ludwigshafen","sub_aliases":["Ludwigshafen am Rhein","Ludwigshafen\/Rhein","Ludwigshafen (Rhein)","Ludwigshafen, Germany","Ludwigshafen (Germany)"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q21539","sub_label":"Plobsheim","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q244184","sub_label":"Bourg-Saint-And\u00e9ol","sub_aliases":["Bourg-sur-Rh\u00f4ne","Commune-Libre"],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q211651","sub_label":"Br\u00e9gnier-Cordon","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q15583","sub_label":"Brig-Glis","sub_aliases":["Brig-Glis VS","Brig, Switzerland"],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q328367","sub_label":"Ni\u00e9vroz","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q176415","sub_label":"L\u00e9az","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q187796","sub_label":"Orange","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q838570","sub_label":"Lhuis","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q10235","sub_label":"Beynost","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q676689","sub_label":"Gravesend","sub_aliases":["Gravesend, Kent"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q2432955","sub_label":"Isleworth","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q2281721","sub_label":"Teddington","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q205358","sub_label":"London Borough of Barking and Dagenham","sub_aliases":["Barking and Dagenham","Barking and Dagenham (unparished area)"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q5273898","sub_label":"Southwark","sub_aliases":["Borough","The Borough"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q62408","sub_label":"Palace of Westminster","sub_aliases":["Houses of Parliament","Westminster Palace","St. Stephen's"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1033978","sub_label":"Canvey Island","sub_aliases":["Canvey Island, Essex"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q991532","sub_label":"Grays","sub_aliases":["Grays Thurrock","Grays, Essex"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q280842","sub_label":"Deverall Island","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q1130726","sub_label":"Siple Island","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q3435839","sub_label":"Foyn Island","sub_aliases":["Svend Foyn Island"],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q173788","sub_label":"Coulman Island","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q1634141","sub_label":"Cape Evans","sub_aliases":["Evans"],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q2393919","sub_label":"Possession Islands","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q2604993","sub_label":"Cape Philippi","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q1990087","sub_label":"Cape Colbeck","sub_aliases":[],"obj_id":"Q164466","obj_label":"Ross Sea"}
+{"sub_id":"Q633983","sub_label":"Kashiwazaki","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q734416","sub_label":"Tsuruoka","sub_aliases":["Turuoka"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q432055","sub_label":"Hamada","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q132751","sub_label":"Shimane Prefecture","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q847550","sub_label":"Nikaho","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q384796","sub_label":"\u014cda","sub_aliases":["Ohda"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q483146","sub_label":"Oki Islands","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q499047","sub_label":"Sado","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q2639403","sub_label":"Cape Crillon","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1107562","sub_label":"Chkalov Island","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1083875","sub_label":"Cape Aniva","sub_aliases":["Naka Shiretoko Saki"],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4371027","sub_label":"Schmidt Peninsula","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q338279","sub_label":"Shantar Islands","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q757314","sub_label":"Atlasov Island","sub_aliases":["Araido Island"],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4338916","sub_label":"Chastye Islands","sub_aliases":["Ostrova Chastye"],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1211211","sub_label":"Nakatonbetsu","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q189153","sub_label":"Saint-Cloud","sub_aliases":["Pont-la-Montagne","La Montagne-Ch\u00e9rie","St. Cloud"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q201982","sub_label":"Clichy","sub_aliases":["Clichy-la-Garenne","Clichy-sur-Seine"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q208812","sub_label":"Corbeil-Essonnes","sub_aliases":["Corbeil (devenue Corbeil-Essonnes)","Corbeil-la-Montagne"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q206493","sub_label":"S\u00e8vres","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q236736","sub_label":"Vernon","sub_aliases":["Vernon-sur-Seine","Vernon, Normandy","Vernon, Eure"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q236058","sub_label":"Orly","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q189715","sub_label":"Courbevoie","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q192393","sub_label":"\u00c9vry","sub_aliases":["\u00c9vry-Petit-Bourg","Evry-Petit-Bourg"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q19491","sub_label":"Nha Trang","sub_aliases":[],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q10098","sub_label":"Karimun","sub_aliases":["Kabupaten Karimun","Karimun Island","Pulau Karimun"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q42200","sub_label":"Hainan","sub_aliases":["Hainan province"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q771765","sub_label":"Tioman Island","sub_aliases":["Pulau Tioman"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q19483","sub_label":"Hong Kong Island","sub_aliases":["HK Island"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q274388","sub_label":"Paracel Islands","sub_aliases":["Xisha Qundao","Hoang Sa","Xisha Islands"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q137563","sub_label":"Cheung Chau","sub_aliases":["Dumbbell Island"],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q1897123","sub_label":"Redang Island","sub_aliases":[],"obj_id":"Q37660","obj_label":"South China Sea"}
+{"sub_id":"Q887590","sub_label":"Joinville Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q866276","sub_label":"Biscoe Islands","sub_aliases":["Biscoe"],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q1045820","sub_label":"Deception Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q1522879","sub_label":"Gibbs Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q140948","sub_label":"South Shetland Islands","sub_aliases":["Shetland del Sur"],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q1780114","sub_label":"Van Diemen's Land","sub_aliases":["Colony of Tasmania","Colony of Van Diemen's Land","VDL"],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q253243","sub_label":"Drygalski Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q1273031","sub_label":"D'Urville Island, Antarctica","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean"}
+{"sub_id":"Q1567876","sub_label":"Port of Montreal","sub_aliases":[],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q139208","sub_label":"L\u00e9vis","sub_aliases":["Levis"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q1069348","sub_label":"Chemin du Roy","sub_aliases":["King\u2019s Highway","King\u2019s Road"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q39858","sub_label":"Pointe-au-P\u00e8re Lighthouse","sub_aliases":["Pointe-au-Pere Lighthouse","Pointe-au-P\u00e8re Light"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q292060","sub_label":"\u00cele J\u00e9sus","sub_aliases":["Ile Jesus","Jesus Island","Jesus island","Island of Laval"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q3443573","sub_label":"Quebec Route 136","sub_aliases":["Boulevard Champlain","Quai Saint-Andr\u00e9","Quai Saint-Andre","Rue Dalhousie","Rue Saint-Paul"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q142039","sub_label":"Salaberry-de-Valleyfield","sub_aliases":["Valleyfield"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q292493","sub_label":"Nuns' Island","sub_aliases":["\u00cele des Soeurs","Nun's Island","L'\u00cele-Des-Soeurs, Quebec","\u00cele des S\u0153urs","Nuns Island","\u00cele des Soeurs, Quebec","Ile des Soeurs","\u00cele de Soeurs, Quebec","L'Ile-Des-Soeurs, Quebec","Ile de Soeurs, Quebec","Ile des Soeurs, Quebec","Campus Bell","Ile des Sours"],"obj_id":"Q134750","obj_label":"St. Lawrence River"}
+{"sub_id":"Q1161710","sub_label":"Manamoc","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q25054401","sub_label":"Murcielagos Island","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q24869612","sub_label":"Bangsamoro","sub_aliases":["BARMM","Bangsamoro Autonomous Region in Muslim Mindanao"],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q810733","sub_label":"Batbatan Island","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q1676221","sub_label":"Timbang Island","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q2117735","sub_label":"Malawali Island","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q17979357","sub_label":"Tawitawi","sub_aliases":["Tawi Tawi island","Tawi-Tawi island"],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q1134477","sub_label":"Coron Island","sub_aliases":[],"obj_id":"Q160194","obj_label":"Sulu Sea"}
+{"sub_id":"Q15196838","sub_label":"Barrenjoey Head Lighthouse","sub_aliases":["Barrenjoey Lighthouse"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q104784","sub_label":"Lord Howe Island","sub_aliases":["Lord Howe's Island","Lord Howe Island, New South Wales","Lord Howe Island, New South Wales, Australia"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q994133","sub_label":"Mana Island","sub_aliases":["Mana Island, New Zealand"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q495838","sub_label":"Farewell Spit","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1034473","sub_label":"Cape Reinga Lighthouse","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q7745480","sub_label":"The Lanterns","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q7123661","sub_label":"Paddys Island","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q99466422","sub_label":"Wall Island","sub_aliases":["Walls Island"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q207323","sub_label":"Vulcano","sub_aliases":["Isola di Vulcano"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q909048","sub_label":"Santo Stefano Island","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q189387","sub_label":"Ischia","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q3593349","sub_label":"Capraia","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q505847","sub_label":"Salina","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q1192720","sub_label":"Nisida","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q496389","sub_label":"Lipari","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q743908","sub_label":"Filicudi","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q1001297","sub_label":"Ustro\u0144","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q682046","sub_label":"Nieszawa","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q123511","sub_label":"Grudzi\u0105dz","sub_aliases":["Graudenz"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q807271","sub_label":"Baran\u00f3w Sandomierski","sub_aliases":["Baranow Sandomierski"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q983732","sub_label":"D\u0119blin","sub_aliases":["Deblin, Poland","Deblin, Lublin"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q263684","sub_label":"Czechowice-Dziedzice","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q1792","sub_label":"Gda\u0144sk","sub_aliases":["Danzig","Dantzig"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q7342","sub_label":"O\u015bwi\u0119cim","sub_aliases":["Auschwitz","Oshpitsin","\u05d0\u05b8\u05e9\u05e4\u05bc\u05d9\u05e6\u05d9\u05df","Osv\u011btim","Osvien\u010dim","\u041e\u0441\u0432\u0435\u043d\u0446\u0438\u043c","Au\u0161vica","Oshpetzin","Oshvitsin","Oshvyentsim","Osvyenchim","Aushvits","Aushvitsa","Ushpitzin","\u05d0\u05d5\u05e9\u05d5\u05d9\u05e5 (\u05e4\u05d5\u05dc\u05d9\u05df)\u200f"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q2786011","sub_label":"Bubene\u010d","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q2444636","sub_label":"Prague 2","sub_aliases":["Praha 2"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q535173","sub_label":"Oslov","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q987496","sub_label":"Kralupy nad Vltavou","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q3509915","sub_label":"Slovansk\u00fd ostrov","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q2643835","sub_label":"Praha-Troja","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q1775309","sub_label":"Lenora","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12057039","sub_label":"St\u0159eleck\u00fd island","sub_aliases":["St\u0159eleck\u00fd ostrov"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q5289265","sub_label":"Dolleman Island","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q12633528","sub_label":"\u00c5kerlundh Nunatak","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q741243","sub_label":"Berkner Island","sub_aliases":["Berkner Ice Rise","Hubley Island"],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q2680422","sub_label":"Tabarin Peninsula","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q827931","sub_label":"Cape Norvegia","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q12715556","sub_label":"Humps Island","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q1361813","sub_label":"Lockyer Island","sub_aliases":[],"obj_id":"Q173343","obj_label":"Weddell Sea"}
+{"sub_id":"Q5744816","sub_label":"Hertha Nunatak","sub_aliases":["Herthainsel"],"obj_id":"Q173343","obj_label":"Weddell Sea"}

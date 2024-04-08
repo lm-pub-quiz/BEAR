@@ -1,0 +1,150 @@
+{"sub_id":"Q3392","sub_label":"Nile","sub_aliases":["rieka N\u00edl","Rieka N\u00edl","Nile River"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1030","sub_label":"Namibia","sub_aliases":["Republic of Namibia","na","\ud83c\uddf3\ud83c\udde6","NAM"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q117","sub_label":"Ghana","sub_aliases":["Republic of Ghana","gh","GHA"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1027","sub_label":"Mauritius","sub_aliases":["Republic of Mauritius","Maurice","Moris","mu","\ud83c\uddf2\ud83c\uddfa","MRI"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q217169","sub_label":"Rhodesia","sub_aliases":["Republic of Rhodesia"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1008","sub_label":"C\u00f4te d'Ivoire","sub_aliases":["Republic of C\u00f4te d'Ivoire","ci","Cote d'Ivoire","\ud83c\udde8\ud83c\uddee","Republic of Cote d'Ivoire","C\u00f4te-d'Ivoire","C\u00f4te D'Ivoire","Cote D'Ivoire","Cote d'lvoire","C\u00f4te d\u2019Ivoire","Cote d\u00b4Ivoire","Cote Ivoire","Republic of Ivory Coast","Cote-d'Ivoire","Republic of the Ivory Coast","The Ivory Coast","CIV","Ivory Coast"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q965","sub_label":"Burkina Faso","sub_aliases":["bf","\ud83c\udde7\ud83c\uddeb"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q912","sub_label":"Mali","sub_aliases":["Republic of Mali","ml","\ud83c\uddf2\ud83c\uddf1","MLI"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q115","sub_label":"Ethiopia","sub_aliases":["Federal Democratic Republic of Ethiopia","et","\ud83c\uddea\ud83c\uddf9","ETH"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q963","sub_label":"Botswana","sub_aliases":["Republic of Botswana","Lefatshe la Botswana","bw","\ud83c\udde7\ud83c\uddfc","BOT"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1036","sub_label":"Uganda","sub_aliases":["Republic of Uganda","ug","\ud83c\uddfa\ud83c\uddec","UGA"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q986","sub_label":"Eritrea","sub_aliases":["State of Eritrea","Ertr\u0101","Iritriy\u0101","er","\ud83c\uddea\ud83c\uddf7","ERI","IRI"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q5813","sub_label":"Canary Islands","sub_aliases":["Islas Canarias","the Canaries","Canaries","\ud83c\uddee\ud83c\udde8"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1037","sub_label":"Rwanda","sub_aliases":["Republic of Rwanda","rw","\ud83c\uddf7\ud83c\uddfc"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q948","sub_label":"Tunisia","sub_aliases":["Republic of Tunisia","Tunisian Republic","tn","\ud83c\uddf9\ud83c\uddf3","TUN"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1033","sub_label":"Nigeria","sub_aliases":["Federal Republic of Nigeria","\ud83c\uddf3\ud83c\uddec","NG","FRN","NGA","NGR","Naija"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1041","sub_label":"Senegal","sub_aliases":["Republic of Senegal","sn","\ud83c\uddf8\ud83c\uddf3","SEN"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q962","sub_label":"Benin","sub_aliases":["Republic of Benin","Dahomey","bj","\ud83c\udde7\ud83c\uddef","BEN"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q924","sub_label":"Tanzania","sub_aliases":["United Republic of Tanzania","tz","\ud83c\uddf9\ud83c\uddff","United Republic of Tanganyika and Zanzibar"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1014","sub_label":"Liberia","sub_aliases":["Republic of Liberia","lr","\ud83c\uddf1\ud83c\uddf7","LBR"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q7296","sub_label":"Mount Kilimanjaro","sub_aliases":["Mount Kilimawn","Kilimanjaro","Mt Kilimanjaro","Mt. Kilimanjaro","Kilima-Njaro"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q11768","sub_label":"Ancient Egypt","sub_aliases":["Ta-Kemet","Ta-Meri","Ta-Ui"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q977","sub_label":"Djibouti","sub_aliases":["Republic of Djibouti","Jabuuti","Gabuuti","J\u012bb\u016bt\u012b","dj","\ud83c\udde9\ud83c\uddef","DJI"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q958","sub_label":"South Sudan","sub_aliases":["Republic of South Sudan","Southern Sudan","ss","\ud83c\uddf8\ud83c\uddf8","SSD"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q1025","sub_label":"Mauritania","sub_aliases":["Islamic Republic of Mauritania","Muritanya","Agawej","G\u00e0nnaar","Murutaane","Moritani","mr","\ud83c\uddf2\ud83c\uddf7","Gannaar","MTN"],"obj_id":"Q15","obj_label":"Africa","answer_idx":0}
+{"sub_id":"Q885118","sub_label":"Blood Falls","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q211014","sub_label":"Vostok Station","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q933","sub_label":"South Pole","sub_aliases":["Geographic South Pole","Terrestrial South Pole"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q924312","sub_label":"Mount Sidley","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q1571679","sub_label":"Halley Research Station","sub_aliases":["Halley VI","Halley Station"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q140948","sub_label":"South Shetland Islands","sub_aliases":["Shetland del Sur"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q46650","sub_label":"Macquarie Island","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q498627","sub_label":"McMurdo Station","sub_aliases":["Naval Air Facility McMurdo"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q384811","sub_label":"Don Juan Pond","sub_aliases":["Lake Don Juan"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q571430","sub_label":"Antarctic ice sheet","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q202780","sub_label":"Peter I Island","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q182814","sub_label":"Antarctic Treaty System","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q403901","sub_label":"Dumont d'Urville Station","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q7799533","sub_label":"Thwaites Glacier","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q23408","sub_label":"Bouvet Island","sub_aliases":["bv","\ud83c\udde7\ud83c\uddfb"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q131198","sub_label":"Heard Island and McDonald Islands","sub_aliases":["hm","Territory of Heard Island and McDonald Islands","\ud83c\udded\ud83c\uddf2","Heard and McDonald Islands","HIMI"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q189999","sub_label":"Queen Maud Land","sub_aliases":["Dronning Maud Land"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q173343","sub_label":"Weddell Sea","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q208965","sub_label":"Victoria Land","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q200255","sub_label":"Ross Ice Shelf","sub_aliases":["The Great Barrier"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q152044","sub_label":"Lake Vostok","sub_aliases":["Vostok"],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q815478","sub_label":"Belgian Antarctic Expedition","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q859440","sub_label":"King George Island","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q988689","sub_label":"Elephant Island","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q618370","sub_label":"Graham Land","sub_aliases":[],"obj_id":"Q51","obj_label":"Antarctica","answer_idx":1}
+{"sub_id":"Q833","sub_label":"Malaysia","sub_aliases":["my","Federation of Malaysia","Malaysia Federation","MAS","MYS","\ud83c\uddf2\ud83c\uddfe"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q14773","sub_label":"Macau","sub_aliases":["Macao","Macau Special Administrative Region","Macau Special Administrative Region of the People's Republic of China","Aomen","mo","Macao Special Administrative Region","Macao Special Administrative Region of the People's Republic of China","Macau SAR","Macau SAR, China","Macao SAR","Macao SAR, China","\ud83c\uddf2\ud83c\uddf4","MO"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1156","sub_label":"Mumbai","sub_aliases":["Bombay"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q826","sub_label":"Maldives","sub_aliases":["mv","\ud83c\uddf2\ud83c\uddfb","Republic of Maldives","MDV"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1186","sub_label":"Kerala","sub_aliases":["Keralam","IN-KL","God's Own Country","Land of coconuts"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q423","sub_label":"North Korea","sub_aliases":["\ud83c\uddf0\ud83c\uddf5","Democratic People's Republic of Korea","DPRK","PRK","kp","Dem. Rep. Korea","N. Korea"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q884","sub_label":"South Korea","sub_aliases":["Republic of Korea","ROK","kr","Rep. Korea","S. Korea","Korea Republic","\ud83c\uddf0\ud83c\uddf7","KOR","Hanguk","Daehan Minguk","Daehanminguk"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q805","sub_label":"Yemen","sub_aliases":["Republic of Yemen","ye","Rep. Yemen","\ud83c\uddfe\ud83c\uddea","YEM"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q874","sub_label":"Turkmenistan","sub_aliases":["Turkmenia","tm","TKM","\ud83c\uddf9\ud83c\uddf2"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q5451","sub_label":"Himalayas","sub_aliases":["Himalaya","Himalayan Mountains","Himalaya Mountains","The Himalayas"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q794","sub_label":"Iran","sub_aliases":["Islamic Republic of Iran","Persia","ir","Islamic Rep. Iran","\ud83c\uddee\ud83c\uddf7"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q917","sub_label":"Bhutan","sub_aliases":["Kingdom of Bhutan","bt","BHU","\ud83c\udde7\ud83c\uddf9"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q334","sub_label":"Singapore","sub_aliases":["Republic of Singapore","SG","sg","\ud83c\uddf8\ud83c\uddec","Singapore City","SGP","Lion City","Garden City"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1437","sub_label":"Rajasthan","sub_aliases":["Rajputana"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q842","sub_label":"Oman","sub_aliases":["om","\ud83c\uddf4\ud83c\uddf2","Sultanate of Oman"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q902","sub_label":"Bangladesh","sub_aliases":["bd","\ud83c\udde7\ud83c\udde9","BAN","People's Republic of Bangladesh"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1445","sub_label":"Tamil Nadu","sub_aliases":[],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q513","sub_label":"Mount Everest","sub_aliases":["Everest","Mount Qomolangma","Mount Sagarmatha","Qomolangma","Chomolangma","Chomolungma","Qomolangma Feng","Sagarm\u0101th\u0101","Zhumulangma","Sagarmatha","Mount Chomolubutangma","Mt. Everest","Mt Everest","Himalaya Peak XV","Peak XV","World highest peak"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q822","sub_label":"Lebanon","sub_aliases":["\ud83c\uddf1\ud83c\udde7","LBN","Lebanese Republic","lb","Republic of Lebanon"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q612","sub_label":"Dubai","sub_aliases":[],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1188","sub_label":"Madhya Pradesh","sub_aliases":[],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q928","sub_label":"Philippines","sub_aliases":["Republic of the Philippines","PH","ph","Philippine Islands","PHL","RP","\ud83c\uddf5\ud83c\udded","PHI","Pinas","The Philippines"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q851","sub_label":"Saudi Arabia","sub_aliases":["Kingdom of Saudi Arabia","\ud83c\uddf8\ud83c\udde6","KSA","sa"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q1498","sub_label":"Uttar Pradesh","sub_aliases":["UP"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q869","sub_label":"Thailand","sub_aliases":["Kingdom of Thailand","th","Siam","\ud83c\uddf9\ud83c\udded","Land of Smiles","THA"],"obj_id":"Q48","obj_label":"Asia","answer_idx":2}
+{"sub_id":"Q142","sub_label":"France","sub_aliases":["fr","FR","R\u00e9publique fran\u00e7aise","La France","Republic of France","French Republic","FRA","the Hexagon"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q235","sub_label":"Monaco","sub_aliases":["Principality of Monaco","mc","\ud83c\uddf2\ud83c\udde8","MON","Fort-Hercule","Principality and Diocese of Monaco"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q38872","sub_label":"Prussia","sub_aliases":["Preussen"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q84","sub_label":"London","sub_aliases":["London, UK","London, United Kingdom","London, England","Modern Babylon"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q28","sub_label":"Hungary","sub_aliases":["hu","\ud83c\udded\ud83c\uddfa","HUN"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q38","sub_label":"Italy","sub_aliases":["Italia","Italian Republic","IT","\ud83c\uddee\ud83c\uddf9","ITA"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q237","sub_label":"Vatican City","sub_aliases":["Vatican City State","Papal State","Vatican","va","\ud83c\uddfb\ud83c\udde6","The Vatican","vat","Status Civitatis Vaticanae","Stato della Citt\u00e0 del Vaticano","Citt\u00e0 del Vaticano","Civitas Vaticana","State of Vatican City"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q215","sub_label":"Slovenia","sub_aliases":["Slovenija","Republika Slovenija","si","\ud83c\uddf8\ud83c\uddee","svn","slo","Republic of Slovenia","SLO"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q90","sub_label":"Paris","sub_aliases":["City of Light","City of Love","Gay Paris","Gay Paree","Lutetia","Paris, France"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q5705","sub_label":"Catalonia","sub_aliases":["Catalunya","Catalu\u00f1a","Catalonha","Autonomous community of Catalonia"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q403","sub_label":"Serbia","sub_aliases":["\ud83c\uddf7\ud83c\uddf8","Republic of Serbia","Republika Srbija","rs","Srbija","SRB","RS"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q26","sub_label":"Northern Ireland","sub_aliases":["NIR","UKN","North Ireland","N. Ireland","NI","The North"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q214","sub_label":"Slovakia","sub_aliases":["Slovak Republic","sk","\ud83c\uddf8\ud83c\uddf0","SVK","Slovakia (Slovak Republic)"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q9676","sub_label":"Isle of Man","sub_aliases":["Ellan Vannin","Mann","the Isle of Man","im","Manx","\ud83c\uddee\ud83c\uddf2","Isle of Mann","Mannin"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q41","sub_label":"Greece","sub_aliases":["Hellenic Republic","Hellas","gr","el","\ud83c\uddec\ud83c\uddf7","Greek Republic","GRE","Ellada","Greek"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q228","sub_label":"Andorra","sub_aliases":["Principality of Andorra","Principality of the Valleys of Andorra","ad","AND"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q222","sub_label":"Albania","sub_aliases":["Republic of Albania","al","Republika e Shqip\u00ebris\u00eb","Shqip\u00ebris\u00eb","\ud83c\udde6\ud83c\uddf1","ALB"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q43287","sub_label":"German Empire","sub_aliases":["Deutsches Reich","Deutsches Kaiserreich","German Reich","Imperial Germany","Second Reich","Germany"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q649","sub_label":"Moscow","sub_aliases":["Moskva","Moscow, Russia","Moskva Federal City, Russia","Moscow, USSR","Moskva, Russia","City of Moscow","Moscow, Russian Federation","Moscow, Soviet Union","Moscow, Russian SFSR","Muscovite","Moscovite"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q39","sub_label":"Switzerland","sub_aliases":["Swiss Confederation","SUI","Suisse","Schweiz","Svizzera","Swiss","CHE","CH","Confoederatio Helvetica"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q212","sub_label":"Ukraine","sub_aliases":["UA","UKR","ua","Ukrainia","\ud83c\uddfa\ud83c\udde6","Ukr.","Ukraina"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q236","sub_label":"Montenegro","sub_aliases":["me","\ud83c\uddf2\ud83c\uddea","MNE","Crna Gora"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q21","sub_label":"England","sub_aliases":[],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q183","sub_label":"Germany","sub_aliases":["FRG","BRD","Bundesrepublik Deutschland","Federal Republic of Germany","de","Deutschland","GER","BR Deutschland","DE"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q217","sub_label":"Moldova","sub_aliases":["md","Republic of Moldova","Moldavia","Republica Moldova","\ud83c\uddf2\ud83c\udde9","MDA"],"obj_id":"Q46","obj_label":"Europe","answer_idx":3}
+{"sub_id":"Q172","sub_label":"Toronto","sub_aliases":["City of Toronto","The Six","T-O","The 416","Hogtown"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q179997","sub_label":"Thirteen Colonies","sub_aliases":["Colonial America","American colonies","provinces in America","provinces in North America","thirteen American colonies","thirteen British colonies"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q778","sub_label":"The Bahamas","sub_aliases":["Commonwealth of the Bahamas","bs","\ud83c\udde7\ud83c\uddf8","Bahama Islands","Bahamas"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q100","sub_label":"Boston","sub_aliases":["Beantown","The Cradle of Liberty","The Hub","The Cradle of Modern America","The Athens of America","The Walking City","The Hub of the Universe","Bostonia","Boston, Massachusetts","Boston, MA","Boston, Mass.","Puritan City"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q173","sub_label":"Alabama","sub_aliases":["State of Alabama","AL","Heart of Dixie","The Yellowhammer State","Ala.","Ala","Bama"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1439","sub_label":"Texas","sub_aliases":["TX","Lone Star State","Texas, United States","State of Texas","US-TX","Tex."],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1166","sub_label":"Michigan","sub_aliases":["MI","State of Michigan","Michigan, United States","Mich.","Wolverine State"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1393","sub_label":"Delaware","sub_aliases":["DE","State of Delaware","The First State","The Small Wonder","Blue Hen State","The Diamond State"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q35525","sub_label":"White House","sub_aliases":["Executive Mansion","President's Palace","Presidential Mansion","President's House","the White House"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q774","sub_label":"Guatemala","sub_aliases":["gt","\ud83c\uddec\ud83c\uddf9","Republic of Guatemala","GUA"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q65","sub_label":"Los Angeles","sub_aliases":["Los Angeles, California","Pink City","The town of Our Lady the Queen of the Angels of the Little Portion","La La Land","Tinsel Town","City of Angels","City of Los Angeles","LA, California","L.A.","LA","Double Dubuque","Los \u00c1ngeles","Los Angeles, CA"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1497","sub_label":"Mississippi River","sub_aliases":["Mississippi","The Mississippi"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q23635","sub_label":"Bermuda","sub_aliases":["Somers Isles","Bermuda Islands","Atlantic\/Bermuda","Bermudian Islands","Bermoothes","Virgineola","The Somers Isles","Summers' Isles","Territory of Bermuda","Bermudas","Somers Islands","Colony of Bermuda","Devil's Isles","Summer's Isles","Isle of Devils","bm","\ud83c\udde7\ud83c\uddf2"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1342","sub_label":"Pittsburgh","sub_aliases":["Pittsburgh, Pennsylvania","City of Bridges","Steel City","Pgh","Pittsburg, Pennsylvania","Pittsburg","Iron City","Smoky City"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q61","sub_label":"Washington, D.C.","sub_aliases":["Washington","Washington DC","Washington, DC","DC","D.C.","District of Columbia","Washington, District of Columbia","Washington D.C.","The District"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q24639","sub_label":"Vancouver","sub_aliases":["City of Vancouver","Vancouver, BC","Vancouver, British Columbia"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1408","sub_label":"New Jersey","sub_aliases":["Garden State","Jersey","NJ","New Jersey, United States","State of New Jersey","N.J."],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q771","sub_label":"Massachusetts","sub_aliases":["Bay State","Commonwealth of Massachusetts","MA","Mass.","US-MA"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q244","sub_label":"Barbados","sub_aliases":["BB","bb","\ud83c\udde7\ud83c\udde7","BAR"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q769","sub_label":"Grenada","sub_aliases":["gd","\ud83c\uddec\ud83c\udde9","GRN"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1391","sub_label":"Maryland","sub_aliases":["State of Maryland","Maryland, United States","MD","Md.","Old Line State"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q790","sub_label":"Haiti","sub_aliases":["Republic of Haiti","ht","Hayti","HT","R\u00e9publique d'Ha\u00efti","Haitian Republic","Ayiti","\ud83c\udded\ud83c\uddf9","HAI"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1952","sub_label":"Nova Scotia","sub_aliases":["province of Nova Scotia","NS"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q797","sub_label":"Alaska","sub_aliases":["AK","State of Alaska","Alaska, United States"],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q1973","sub_label":"British Columbia","sub_aliases":["BC","B.C."],"obj_id":"Q49","obj_label":"North America","answer_idx":4}
+{"sub_id":"Q25279","sub_label":"Cura\u00e7ao","sub_aliases":["Island Territory of Cura\u00e7ao","Curacau","Cura\u00e7oa","Cura\u03c2ao","K\u00f2rsou","Curocao","ISO 3166-1:CW","CUW","Curazao","Curacao","Country of Cura\u00e7ao","\ud83c\udde8\ud83c\uddfc","CW"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q828329","sub_label":"tepui","sub_aliases":["tepuy","Pantepui"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q414","sub_label":"Argentina","sub_aliases":["AR","ar","\ud83c\udde6\ud83c\uddf7","Argentine Republic","ARG","Republic of Argentina"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q334738","sub_label":"Margarita Island","sub_aliases":["Isla Margarita","Pearl of the Caribbean","Isla de Margarita","Margarita Island (Venezuela)","Margarita Island, Venezuela","Isla de Margarita, Venezuela"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q62823","sub_label":"Barranquilla","sub_aliases":["Barranquilla, Colombia","Colombia's Golden Gate","Quilla"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q717","sub_label":"Venezuela","sub_aliases":["Bolivarian Republic of Venezuela","BR Venezuela","VE","\ud83c\uddfb\ud83c\uddea","Estados Unidos de Venezuela","Vzla","VEN"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q1001339","sub_label":"Puerto Natales","sub_aliases":[],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q918126","sub_label":"British Guiana","sub_aliases":["Colonial Guyana"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q215138","sub_label":"Mount Fitz Roy","sub_aliases":[],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q82601","sub_label":"Tierra del Fuego","sub_aliases":["Land of Fire"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q2166850","sub_label":"Triple Frontier","sub_aliases":["triple frontera","Argentina\u2013Brazil\u2013Paraguay tripoint","Argentina-Brazil-Paraguay tripoint"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q707934","sub_label":"Artesonraju","sub_aliases":[],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q3769","sub_label":"French Guiana","sub_aliases":["gf","\ud83c\uddec\ud83c\uddeb","Guyane","Guyane fran\u00e7aise","Guiana, France","GF","Guiana"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q4361","sub_label":"Curitiba","sub_aliases":["Curityba do Parana","Curityba","Coritiba","Corityba"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q118771","sub_label":"Rio Negro","sub_aliases":["Negro River"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q162192","sub_label":"Riograndense Republic","sub_aliases":["Piratini Republic"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q506938","sub_label":"Corcovado","sub_aliases":["Cristo Redentor (Rio de Janeiro)","Corcovado (Rio de Janeiro)"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q155","sub_label":"Brazil","sub_aliases":["Federative Republic of Brazil","BR","BRA","br","\ud83c\udde7\ud83c\uddf7"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q233351","sub_label":"Nevado del Ruiz","sub_aliases":["La Mesa de Herveo"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q736","sub_label":"Ecuador","sub_aliases":["Republic of Ecuador","ec","ecu","ECU","EC","Republic of the Equator","The Ecuadorian State","\ud83c\uddea\ud83c\udde8"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q589911","sub_label":"Essequibo River","sub_aliases":[],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q471690","sub_label":"Andean Community","sub_aliases":["ANDEAN"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q217071","sub_label":"Pucallpa","sub_aliases":[],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q3783","sub_label":"Amazon","sub_aliases":["Amazon River","River Amazon","Amazonian River"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}
+{"sub_id":"Q118574","sub_label":"Altiplano","sub_aliases":["Collao","Andean Plateau","Bolivian Plateau"],"obj_id":"Q18","obj_label":"South America","answer_idx":5}

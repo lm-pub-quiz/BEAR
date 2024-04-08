@@ -1,0 +1,150 @@
+{"sub_id":"Q725802","sub_label":"Dugi otok","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q541157","sub_label":"Goli otok","sub_aliases":["Goli"],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q76925","sub_label":"Venetian Lagoon","sub_aliases":["Laguna di Venezia","Lagoon of Venice","Laguna Veneta","Veneta Lagoon"],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q6059","sub_label":"Krk","sub_aliases":["Krk Island"],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q725896","sub_label":"Pelje\u0161ac","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q639912","sub_label":"Istria","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea","answer_idx":0}
+{"sub_id":"Q131555","sub_label":"Dodecanese","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q190210","sub_label":"Mykonos","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q171132","sub_label":"Cyclades","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q201272","sub_label":"Paros","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q173148","sub_label":"Delos","sub_aliases":[],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q128087","sub_label":"Lesbos","sub_aliases":["Lesvos","Mytilini","Mytilene"],"obj_id":"Q34575","obj_label":"Aegean Sea","answer_idx":1}
+{"sub_id":"Q26503","sub_label":"Funen","sub_aliases":["Funen Island","F\u00fcnen","Fyn"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q5689","sub_label":"\u00c5land","sub_aliases":["Ahvenanmaa","Aaland","Aaland Islands","\u00c5land region","ax","Aland","\ud83c\udde6\ud83c\uddfd","Aland Islands"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q239276","sub_label":"\u00d6land","sub_aliases":["Oeland"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q1749","sub_label":"Kaliningrad Oblast","sub_aliases":["Kaliningrad Oblast (Russia)"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q385","sub_label":"Gdynia","sub_aliases":["Gdingen","Gdini\u00f4"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q25535","sub_label":"Zealand","sub_aliases":["Seeland","Zealand Island"],"obj_id":"Q545","obj_label":"Baltic Sea","answer_idx":2}
+{"sub_id":"Q1812891","sub_label":"Herbert Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q2004327","sub_label":"Semichi Islands","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q530454","sub_label":"Nunivak Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q954281","sub_label":"Saint Paul Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q1655937","sub_label":"St. Matthew Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q638407","sub_label":"St. Lawrence Island","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea","answer_idx":3}
+{"sub_id":"Q108223","sub_label":"Belize City","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q11703","sub_label":"United States Virgin Islands","sub_aliases":["U.S. Virgin Islands","Virgin Islands of the United States","vi","US Virgin Islands","USVI","\ud83c\uddfb\ud83c\uddee","American Virgin Islands","ISV","the United States Virgin Islands"],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q845540","sub_label":"San Salvador Island","sub_aliases":["San Salvador District","Guanahani"],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q185111","sub_label":"Tobago","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q737624","sub_label":"Vieques","sub_aliases":["Vieques, Puerto Rico","Vieques Island","Vieques Municipio"],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q25359","sub_label":"Navassa Island","sub_aliases":["Lanavaz","La Navase","Lavash","Navassa","Navaza","Navaza Island","Navase","Lavash Island","UM-76"],"obj_id":"Q1247","obj_label":"Caribbean Sea","answer_idx":4}
+{"sub_id":"Q60038","sub_label":"\u0160t\u00farovo","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q193890","sub_label":"Drobeta-Turnu Severin","sub_aliases":["Sz\u00f6r\u00e9nyv\u00e1r","Turm Severin","Drobeta-Turnu Severin (Rumunsko)"],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q125652","sub_label":"Neuburg an der Donau","sub_aliases":["Neuburg\/Donau","Neuburg a.d.Donau"],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q1781","sub_label":"Budapest","sub_aliases":["Buda Pest","Buda-Pest","Budape\u0161\u0165","Budapesta","Budapeszt","Buda","Ofen","Bud\u00edn","Budim","Budon","Pest","Pe\u0161\u0165","Pe\u0161ta","\u00d3buda","Alt-Ofen","K\u0151b\u00e1nya"],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q182428","sub_label":"Silistra","sub_aliases":["Silistria"],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q192201","sub_label":"Wachau","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube","answer_idx":5}
+{"sub_id":"Q925340","sub_label":"Kaniv","sub_aliases":["K\u00e1nev","Kani\u00f3w"],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q157055","sub_label":"Cherkasy","sub_aliases":["Cherkassy"],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q157835","sub_label":"Zaporizhzhia","sub_aliases":["Zapirizhia","Zapirizhya","Zapirizhye","Zapirizhzhia","Zapirizhzhya","Zapirizhzhye","Zapirozhia","Zapirozhya","Zapirozhye","Zapirozhzhia","Zapirozhzhya","Zapirozhzhye","Zaporizhya","Zaporizhye","Zaporizhzhya","Zaporizhzhye","Zaporozhia","Zaporozhya","Zaporozhye","Zaporozhzhia","Zaporozhzhya","Zaporozhzhye","Oleksandrivsk","Aleksandrovsk","Zapirizh'e","Zaporozh'e","Zaporizh'e","Zapirozh'e","Oleksandrivske"],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q760224","sub_label":"Hola Prystan","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q2337","sub_label":"Smolensk","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q1899","sub_label":"Kyiv","sub_aliases":["Kiev","Kyjiv","Kyyiv","Kyjiw","Kyiw","Ky\u00efv","Kief","Kieff","Kiew","Kioff","Kiof","Kiowia","Kiovia","Kiow","Kiou","Ky\u0457v"],"obj_id":"Q40855","obj_label":"Dnieper River","answer_idx":6}
+{"sub_id":"Q877744","sub_label":"Le Portel","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q911577","sub_label":"Dungeness","sub_aliases":["Dungeness, Kent"],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q1431121","sub_label":"St Michael's Mount","sub_aliases":["St Michael's Mount, Cornwall","St. Michael's Mount","Saint Michaels Mount"],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q774215","sub_label":"Isle of Portland","sub_aliases":["Portland","Portland, Dorset"],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q179313","sub_label":"Alderney","sub_aliases":["Aurigny","GBA","Great Britain Alderney"],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q202023","sub_label":"Herm","sub_aliases":["Haerme"],"obj_id":"Q34640","obj_label":"English Channel","answer_idx":7}
+{"sub_id":"Q1315101","sub_label":"Galveston Island","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q2576428","sub_label":"East Texas","sub_aliases":["Eastern Texas"],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q61304","sub_label":"Bay of Campeche","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q867480","sub_label":"Pass Christian","sub_aliases":["Pass Christian, Miss.","Pass Christian, MS","Pass Christian, Mississippi"],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q3470764","sub_label":"Navarre","sub_aliases":["Navarre, Florida"],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q1261587","sub_label":"Dry Tortugas","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico","answer_idx":8}
+{"sub_id":"Q35715","sub_label":"South Australia","sub_aliases":["SA","S.A.","S. Aust."],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q2449","sub_label":"Mogadishu","sub_aliases":["Xamar","The Seat of the Shah","Hamar","Maqad\u012bsh\u016b"],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q3929","sub_label":"Port Louis","sub_aliases":["Port Louis, Mauritius"],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q184851","sub_label":"Diego Garcia","sub_aliases":["\ud83c\udde9\ud83c\uddec"],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q157286","sub_label":"Nicobar Islands","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q3492","sub_label":"Sumatra","sub_aliases":["Sumatra, Indonesia","Sumatera Island","Sumatera","Pulau Sumatera","Sumatra Island","Andalas"],"obj_id":"Q1239","obj_label":"Indian Ocean","answer_idx":9}
+{"sub_id":"Q486341","sub_label":"Kufstein","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q68986","sub_label":"St. Moritz","sub_aliases":["San Murezzan","Sankt Moritz","St. Moritz GR"],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q583485","sub_label":"Schwaz","sub_aliases":["Schwaz in Tirol"],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q22883","sub_label":"Engadin","sub_aliases":["Engadine valley","Engiadina","Engadina"],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q254107","sub_label":"Imst","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q253639","sub_label":"W\u00f6rgl","sub_aliases":[],"obj_id":"Q14369","obj_label":"Inn","answer_idx":10}
+{"sub_id":"Q1233234","sub_label":"Ortygia","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q1027846","sub_label":"Calypso Deep","sub_aliases":["Calypso Trench"],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q192738","sub_label":"Gulf of Taranto","sub_aliases":["Golfo di Taranto"],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q187039","sub_label":"Sapientza","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q614919","sub_label":"Atokos","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q190138","sub_label":"Lefkada","sub_aliases":["Lefkas"],"obj_id":"Q37495","obj_label":"Ionian Sea","answer_idx":11}
+{"sub_id":"Q1520062","sub_label":"Lambay Island","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q1541249","sub_label":"Ll\u0177n Peninsula","sub_aliases":["Lleyn Peninsula"],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q1191558","sub_label":"Wirral Peninsula","sub_aliases":["Wirral","the Wirral"],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q1129702","sub_label":"Cooley Peninsula","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q2346069","sub_label":"South Stack","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q1991483","sub_label":"Bardsey Island","sub_aliases":["Ynys Enlli"],"obj_id":"Q41735","obj_label":"Irish Sea","answer_idx":12}
+{"sub_id":"Q211867","sub_label":"Oshawa","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q386626","sub_label":"Pickering","sub_aliases":["Pickering, Ontario"],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q2925383","sub_label":"Brighton","sub_aliases":[],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q3276918","sub_label":"Quinte West","sub_aliases":["Frankford, ON"],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q126805","sub_label":"St. Catharines","sub_aliases":["St Kitts","Saint Catharines","St Catharines","St. Kitts"],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q385085","sub_label":"Prince Edward County","sub_aliases":["Prince Edward County, Ontario","City of Prince Edward County"],"obj_id":"Q1062","obj_label":"Lake Ontario","answer_idx":13}
+{"sub_id":"Q576110","sub_label":"Nauvoo","sub_aliases":["Nauvoo, Illinois"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q961975","sub_label":"Hannibal","sub_aliases":["Hannibal, Missouri"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q493787","sub_label":"Vicksburg","sub_aliases":["Vicksburg, Mississippi","Vicksburg micropolitan area"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q38022","sub_label":"St. Louis","sub_aliases":["St. Louis, Missouri","City of St. Louis","St. Louis City","Saint Louis","St Louis","St. Louis, MO"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q1612","sub_label":"Arkansas","sub_aliases":["AR","Ark.","State of Arkansas"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q736834","sub_label":"St. Cloud","sub_aliases":["Saint Cloud","Saint Cloud, Minnesota","St. Cloud, MN","St. Cloud, Minnesota"],"obj_id":"Q1497","obj_label":"Mississippi River","answer_idx":14}
+{"sub_id":"Q477004","sub_label":"Arnaville","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q461413","sub_label":"Pont-\u00e0-Mousson","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q502749","sub_label":"Cochem","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q22640","sub_label":"Thionville","sub_aliases":["Diddenuewen","Diedenhofen"],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q21983","sub_label":"Yutz","sub_aliases":["Haute-Yutz","Basse-Yutz"],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q3138","sub_label":"Trier","sub_aliases":["Treveris","Augusta Treverorum"],"obj_id":"Q1667","obj_label":"Moselle","answer_idx":15}
+{"sub_id":"Q165269","sub_label":"East Frisia","sub_aliases":["Ostfriesland","East Friesland","East Frisia proper"],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q754867","sub_label":"Unst","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q505601","sub_label":"Wassenaar","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q213804","sub_label":"Lindisfarne","sub_aliases":["The Holy Island of Lindisfarne","Lindesfarne","Holy Island"],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q9980","sub_label":"Zandvoort","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q13706","sub_label":"Principality of Sealand","sub_aliases":["Sealand"],"obj_id":"Q1693","obj_label":"North Sea","answer_idx":16}
+{"sub_id":"Q1392962","sub_label":"Failaka Island","sub_aliases":["Failaka"],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q3134340","sub_label":"Tarout Island","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q3882","sub_label":"Manama","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q1184496","sub_label":"Dalma","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q221883","sub_label":"Kish Island","sub_aliases":["Kamtina","Arakia","Arakata","Ghiss","Qais","Aphrodisias","Cataga","Cyprusa","Kataie"],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q211844","sub_label":"Palm Islands","sub_aliases":[],"obj_id":"Q34675","obj_label":"Persian Gulf","answer_idx":17}
+{"sub_id":"Q1026201","sub_label":"Calaguas","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q1144360","sub_label":"Sarigan","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q3087076","sub_label":"Sefa-utaki","sub_aliases":["Seifa-utaki"],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q746861","sub_label":"Babeldaob","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q615578","sub_label":"Aogashima","sub_aliases":["Aogashima Island"],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q742683","sub_label":"Tanegashima Space Center","sub_aliases":[],"obj_id":"Q159183","obj_label":"Philippine Sea","answer_idx":18}
+{"sub_id":"Q64571","sub_label":"Sargans","sub_aliases":["Sargans SG"],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q22435","sub_label":"Lauterbourg","sub_aliases":["Lauterburg"],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q486548","sub_label":"Remagen","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q22880","sub_label":"Electoral Palatinate","sub_aliases":["County Palatine of Lotharingia","Bavarian Palatinate","Electorate of Palatinate","Pfalzgrafschaft bei Rhein","Kurpfalz","Kurfurst von der Pfalz","Electorate the Palatinate","Palatinate of the rhein","County Palatine of the Rhine","Palatine Electorate","Rhenish County Palatine","Electorate Palatinate","Kurf\u00fcrstentum von der Pfalz","Palatinate of the Rhine","Electorate of the Palatine","County Palatinate of the Rhine","Electorate of the Palatinate"],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q1844","sub_label":"Vaduz","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q2910","sub_label":"Ludwigshafen","sub_aliases":["Ludwigshafen am Rhein","Ludwigshafen\/Rhein","Ludwigshafen (Rhein)","Ludwigshafen, Germany","Ludwigshafen (Germany)"],"obj_id":"Q584","obj_label":"Rhine","answer_idx":19}
+{"sub_id":"Q676689","sub_label":"Gravesend","sub_aliases":["Gravesend, Kent"],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q2432955","sub_label":"Isleworth","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q2281721","sub_label":"Teddington","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q5273898","sub_label":"Southwark","sub_aliases":["Borough","The Borough"],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q62408","sub_label":"Palace of Westminster","sub_aliases":["Houses of Parliament","Westminster Palace","St. Stephen's"],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q1033978","sub_label":"Canvey Island","sub_aliases":["Canvey Island, Essex"],"obj_id":"Q19686","obj_label":"River Thames","answer_idx":20}
+{"sub_id":"Q189153","sub_label":"Saint-Cloud","sub_aliases":["Pont-la-Montagne","La Montagne-Ch\u00e9rie","St. Cloud"],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q201982","sub_label":"Clichy","sub_aliases":["Clichy-la-Garenne","Clichy-sur-Seine"],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q208812","sub_label":"Corbeil-Essonnes","sub_aliases":["Corbeil (devenue Corbeil-Essonnes)","Corbeil-la-Montagne"],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q206493","sub_label":"S\u00e8vres","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q236736","sub_label":"Vernon","sub_aliases":["Vernon-sur-Seine","Vernon, Normandy","Vernon, Eure"],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q189715","sub_label":"Courbevoie","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine","answer_idx":21}
+{"sub_id":"Q19491","sub_label":"Nha Trang","sub_aliases":[],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q42200","sub_label":"Hainan","sub_aliases":["Hainan province"],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q771765","sub_label":"Tioman Island","sub_aliases":["Pulau Tioman"],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q19483","sub_label":"Hong Kong Island","sub_aliases":["HK Island"],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q274388","sub_label":"Paracel Islands","sub_aliases":["Xisha Qundao","Hoang Sa","Xisha Islands"],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q1897123","sub_label":"Redang Island","sub_aliases":[],"obj_id":"Q37660","obj_label":"South China Sea","answer_idx":22}
+{"sub_id":"Q887590","sub_label":"Joinville Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q866276","sub_label":"Biscoe Islands","sub_aliases":["Biscoe"],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q1045820","sub_label":"Deception Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q140948","sub_label":"South Shetland Islands","sub_aliases":["Shetland del Sur"],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q1780114","sub_label":"Van Diemen's Land","sub_aliases":["Colony of Tasmania","Colony of Van Diemen's Land","VDL"],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q253243","sub_label":"Drygalski Island","sub_aliases":[],"obj_id":"Q7354","obj_label":"Southern Ocean","answer_idx":23}
+{"sub_id":"Q207323","sub_label":"Vulcano","sub_aliases":["Isola di Vulcano"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}
+{"sub_id":"Q189387","sub_label":"Ischia","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}
+{"sub_id":"Q3593349","sub_label":"Capraia","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}
+{"sub_id":"Q505847","sub_label":"Salina","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}
+{"sub_id":"Q496389","sub_label":"Lipari","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}
+{"sub_id":"Q743908","sub_label":"Filicudi","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea","answer_idx":24}

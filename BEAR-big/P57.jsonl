@@ -1,0 +1,576 @@
+{"sub_id":"Q1637967","sub_label":"That Hamilton Woman","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q3602619","sub_label":"A Nagymama","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q6691713","sub_label":"Love and the Devil","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q21647237","sub_label":"Tutyu and Totyo","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q3764146","sub_label":"Yellow Lily","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q3487884","sub_label":"Wedding Rehearsal","sub_aliases":[],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q21869612","sub_label":"The Men Around Lucy","sub_aliases":["Men Around Lucy"],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q1306289","sub_label":"A Modern Dubarry","sub_aliases":["Modern Dubarry"],"obj_id":"Q55221","obj_label":"Alexander Korda"}
+{"sub_id":"Q3940475","sub_label":"Roma Bene","sub_aliases":["Roma bene"],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q3607044","sub_label":"Ai margini della metropoli","sub_aliases":[],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q16554518","sub_label":"Esterina","sub_aliases":[],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q3538090","sub_label":"L'oro di Roma","sub_aliases":["Gold of Rome","Oro di Roma"],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q3835913","sub_label":"Lo svitato","sub_aliases":[],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q3660495","sub_label":"Dear Gorbachev","sub_aliases":["Caro Gorbaciov"],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q4165577","sub_label":"The House of the Yellow Carpet","sub_aliases":["House of the Yellow Carpet","La casa del tappeto giallo"],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q489133","sub_label":"The Hunchback of Rome","sub_aliases":["Hunchback of Rome","Il gobbo"],"obj_id":"Q26208","obj_label":"Carlo Lizzani"}
+{"sub_id":"Q384243","sub_label":"Mam\u00e1 cumple cien a\u00f1os","sub_aliases":["Mama Turns 100"],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q2445245","sub_label":"I, Don Giovanni","sub_aliases":["Io, Don Giovanni"],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q59612","sub_label":"Elisa, vida m\u00eda","sub_aliases":["Elisa, My Love"],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q3360690","sub_label":"Pajarico","sub_aliases":[],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q922099","sub_label":"Deprisa, Deprisa","sub_aliases":["Deprisa, deprisa","Faster, Faster"],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q1391920","sub_label":"Fados","sub_aliases":[],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q3646803","sub_label":"Stress Is Three","sub_aliases":[],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q4099264","sub_label":"Bunuel and King Solomon's Table","sub_aliases":["Bu\u00f1uel y la mesa del rey Salom\u00f3n"],"obj_id":"Q295855","obj_label":"Carlos Saura"}
+{"sub_id":"Q669929","sub_label":"The Circus","sub_aliases":["Circus"],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q1068968","sub_label":"A King in New York","sub_aliases":["King in New York"],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q2446049","sub_label":"Gentlemen of Nerve","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q1195688","sub_label":"The Rink","sub_aliases":["Rink"],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q2447133","sub_label":"Mabel's Married Life","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q2294264","sub_label":"His New Job","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q1251918","sub_label":"Dough and Dynamite","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q45602","sub_label":"Modern Times","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin"}
+{"sub_id":"Q3125781","sub_label":"Hair-Raising Hare","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q2334032","sub_label":"Snowbody Loves Me","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q3602865","sub_label":"Pent-House Mouse","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q2575434","sub_label":"Duck Dodgers in the 24\u00bdth Century","sub_aliases":["Duck Dodgers in the 24 1\/2th Century"],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q3354067","sub_label":"Operation: Rabbit","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q2584290","sub_label":"One Froggy Evening","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q7549440","sub_label":"So Much for So Little","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q3415900","sub_label":"Rabbit Seasoning","sub_aliases":[],"obj_id":"Q312657","obj_label":"Chuck Jones"}
+{"sub_id":"Q72330","sub_label":"The Color of Lies","sub_aliases":["Color of Lies","Au c\u0153ur du mensonge"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q232020","sub_label":"Les Biches","sub_aliases":["Biches","Bad Girls"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q1306392","sub_label":"Story of Women","sub_aliases":["Une affaire de femmes"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q886823","sub_label":"Blood Relatives","sub_aliases":[],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q1406056","sub_label":"Inspecteur Lavardin","sub_aliases":["Inspector Lavardin"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q769712","sub_label":"Dr. Popaul","sub_aliases":["Docteur Popaul","High Heels"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q701173","sub_label":"A Girl Cut in Two","sub_aliases":["Girl Cut in Two","La Fille coup\u00e9e en deux","La Fille coupee en deux"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q426332","sub_label":"Les Bonnes Femmes","sub_aliases":["Bonnes Femmes","Good Time Girls","The Good Time Girls","The Girls","The Good Girls"],"obj_id":"Q55375","obj_label":"Claude Chabrol"}
+{"sub_id":"Q970378","sub_label":"Roman de Gare","sub_aliases":["Roman de gare"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q1978086","sub_label":"\u00c9dith et Marcel","sub_aliases":["Edith et Marcel","Edith and Marcel"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q3213559","sub_label":"Life Love Death","sub_aliases":["La Vie, l'Amour, la Mort"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q3372985","sub_label":"Smic Smac Smoc","sub_aliases":["Smic, Smac"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q3228321","sub_label":"Le Voyou","sub_aliases":["Voyou"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q3128065","sub_label":"Chance or Coincidence","sub_aliases":["Hasards ou co\u00efncidences"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q1962764","sub_label":"La bonne ann\u00e9e","sub_aliases":["Bonne ann\u00e9e","La Bonne Ann\u00e9e","La bonne annee","Bonne annee","Happy New Year!"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q2298220","sub_label":"Us Two","sub_aliases":["\u00c0 nous deux","A nous deux"],"obj_id":"Q295093","obj_label":"Claude Lelouch"}
+{"sub_id":"Q65058737","sub_label":"Richard Jewell","sub_aliases":["The Ballad of Richard Jewell"],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q602522","sub_label":"The Eiger Sanction","sub_aliases":["Eiger Sanction"],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q502189","sub_label":"Space Cowboys","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q464951","sub_label":"Flags of Our Fathers","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q741196","sub_label":"Heartbreak Ridge","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q1418932","sub_label":"Firefox","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q503338","sub_label":"Pale Rider","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q221586","sub_label":"Mystic River","sub_aliases":[],"obj_id":"Q43203","obj_label":"Clint Eastwood"}
+{"sub_id":"Q691055","sub_label":"Edgar Allan Poe","sub_aliases":[],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q1136736","sub_label":"Those Awful Hats","sub_aliases":[],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q2629466","sub_label":"Balked at the Altar","sub_aliases":[],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q6085139","sub_label":"Isn't Life Wonderful","sub_aliases":[],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q3203035","sub_label":"The Red Man and the Child","sub_aliases":["Red Man and the Child"],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q966923","sub_label":"The Lonely Villa","sub_aliases":["Lonely Villa"],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q602878","sub_label":"An Unseen Enemy","sub_aliases":["Unseen Enemy"],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q3549426","sub_label":"A Calamitous Elopement","sub_aliases":["Calamitous Elopement"],"obj_id":"Q51123","obj_label":"D. W. Griffith"}
+{"sub_id":"Q1161497","sub_label":"Good King Dagobert","sub_aliases":["Bon roi Dagobert","Le Bon Roi Dagobert","The Good King Dagobert"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q2290234","sub_label":"The Tiger and the Pussycat","sub_aliases":["Tiger and the Pussycat","Il tigre"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q1212606","sub_label":"The Priest's Wife","sub_aliases":["Priest's Wife","La moglie del prete"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q644964","sub_label":"Operazione San Gennaro","sub_aliases":[],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q3819615","sub_label":"L'ombrellone","sub_aliases":["Ombrellone"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q3148555","sub_label":"Il vedovo","sub_aliases":["Vedovo"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q3577076","sub_label":"Anima persa","sub_aliases":["Lost Soul"],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q1163902","sub_label":"Vacanze col gangster","sub_aliases":[],"obj_id":"Q53034","obj_label":"Dino Risi"}
+{"sub_id":"Q3989318","sub_label":"The Six Best Cellars","sub_aliases":["Six Best Cellars"],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q18709008","sub_label":"The Marcellini Millions","sub_aliases":["Marcellini Millions"],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q17478845","sub_label":"The Bond Between","sub_aliases":["Bond Between"],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q18914903","sub_label":"The Clever Mrs. Carfax","sub_aliases":["Clever Mrs. Carfax"],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q17426211","sub_label":"Why Smith Left Home","sub_aliases":[],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q13501062","sub_label":"Something to Do","sub_aliases":[],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q3988786","sub_label":"The Poor Boob","sub_aliases":["Poor Boob"],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q7227864","sub_label":"Ponjola","sub_aliases":[],"obj_id":"Q367073","obj_label":"Donald Crisp"}
+{"sub_id":"Q1755067","sub_label":"The Carpetbaggers","sub_aliases":["Carpetbaggers"],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q5435430","sub_label":"The Caine Mutiny","sub_aliases":["Caine Mutiny"],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q448463","sub_label":"Alvarez Kelly","sub_aliases":[],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q6948866","sub_label":"Mystery Sea Raider","sub_aliases":[],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q1819149","sub_label":"Back to Bataan","sub_aliases":[],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q2329726","sub_label":"The 'Human' Factor","sub_aliases":["'Human' Factor","La Guerre des otages","The Human Factor"],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q582281","sub_label":"Raintree County","sub_aliases":[],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q968723","sub_label":"Confessions of Boston Blackie","sub_aliases":[],"obj_id":"Q72229","obj_label":"Edward Dmytryk"}
+{"sub_id":"Q3006368","sub_label":"The Little Train Robbery","sub_aliases":["Little Train Robbery"],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q2069070","sub_label":"The Artist's Dilemma","sub_aliases":["Artist's Dilemma"],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q4480321","sub_label":"Dog Factory","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q482384","sub_label":"An Artist's Dream","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q3361832","sub_label":"Pan-American Exposition by Night","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q2877858","sub_label":"Babies Rolling Eggs","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q2405386","sub_label":"Terrible Teddy, the Grizzly King","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q16666335","sub_label":"Nervy Nat Kisses the Bride","sub_aliases":[],"obj_id":"Q347864","obj_label":"Edwin Stanton Porter"}
+{"sub_id":"Q974314","sub_label":"Romeo and Juliet in the Snow","sub_aliases":[],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q152427","sub_label":"Anna Boleyn","sub_aliases":[],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q2651391","sub_label":"Where is My Treasure?","sub_aliases":[],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q1581723","sub_label":"The Love Parade","sub_aliases":["Love Parade"],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q152435","sub_label":"Miss Soapsuds","sub_aliases":[],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q1171129","sub_label":"The Merry Jail","sub_aliases":["Merry Jail"],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q2072523","sub_label":"Broken Lullaby","sub_aliases":["Broken Lullaby"],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q1199446","sub_label":"The Smiling Lieutenant","sub_aliases":["Smiling Lieutenant"],"obj_id":"Q51562","obj_label":"Ernst Lubitsch"}
+{"sub_id":"Q3163625","sub_label":"I've Always Loved You","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q3520651","sub_label":"The Dixie Merchant","sub_aliases":["Dixie Merchant"],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q2843555","sub_label":"Shipmates Forever","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q3228426","sub_label":"History Is Made at Night","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q3222839","sub_label":"Moonrise","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q3523964","sub_label":"They Had to See Paris","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q3207200","sub_label":"Song o' My Heart","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q931835","sub_label":"Magnificent Doll","sub_aliases":[],"obj_id":"Q369190","obj_label":"Frank Borzage"}
+{"sub_id":"Q1142877","sub_label":"Weary River","sub_aliases":[],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q3208387","sub_label":"The Eternal Flame","sub_aliases":["Eternal Flame"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q3990108","sub_label":"The World and Its Woman","sub_aliases":["World and Its Woman"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q3221813","sub_label":"The Eagle of the Sea","sub_aliases":["Eagle of the Sea"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q21183919","sub_label":"Sins of Her Parent","sub_aliases":[],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q20092456","sub_label":"The Splendid Road","sub_aliases":["Splendid Road"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q21511839","sub_label":"The Blindness of Divorce","sub_aliases":["Blindness of Divorce"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q952079","sub_label":"The Divine Lady","sub_aliases":["Divine Lady"],"obj_id":"Q28941","obj_label":"Frank Lloyd"}
+{"sub_id":"Q152865","sub_label":"Cl\u00e9op\u00e2tre","sub_aliases":["Cleopatre"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q1518017","sub_label":"L'Arroseur","sub_aliases":["Arroseur"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q153591","sub_label":"Escamotage d'une dame au th\u00e9\u00e2tre Robert Houdin","sub_aliases":["The Vanishing Lady"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q244971","sub_label":"A Trip to the Moon","sub_aliases":["Voyage to the Moon","Trip to the Moon","Le Voyage dans la Lune"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q1455089","sub_label":"L'auberge ensorcel\u00e9e","sub_aliases":["Auberge ensorcel\u00e9e","Auberge ensorcelee"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q1319849","sub_label":"The Infernal Cauldron","sub_aliases":["Infernal Boiling Pot","Le Chaudron infernal"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q1810328","sub_label":"The Devil in a Convent","sub_aliases":["Devil in a Convent","Le Diable au couvent"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q6507973","sub_label":"Le ch\u00e2teau hant\u00e9","sub_aliases":["Ch\u00e2teau hant\u00e9","Le chateau hante","Chateau hante"],"obj_id":"Q152272","obj_label":"Georges M\u00e9li\u00e8s"}
+{"sub_id":"Q10593712","sub_label":"Meeting in the Night","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10468833","sub_label":"The White Cat","sub_aliases":["White Cat"],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10579012","sub_label":"Med dej i mina armar","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10669369","sub_label":"Sj\u00e4tte skottet","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q6168446","sub_label":"Jazzgossen","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10483240","sub_label":"En dag skall gry","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10483280","sub_label":"One Swallow Does Not Make a Summer","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q10571200","sub_label":"Lyckan kommer","sub_aliases":[],"obj_id":"Q445497","obj_label":"Hasse Ekman"}
+{"sub_id":"Q387382","sub_label":"The Last Safari","sub_aliases":["Last Safari"],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q3235479","sub_label":"Seven Thieves","sub_aliases":[],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q3209286","sub_label":"From Hell to Texas","sub_aliases":[],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q1193717","sub_label":"Garden of Evil","sub_aliases":[],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q1438205","sub_label":"The Racers","sub_aliases":["Racers"],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q2403802","sub_label":"The House on 92nd Street","sub_aliases":["House on 92nd Street"],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q2067275","sub_label":"Brigham Young","sub_aliases":["Brigham Young \u2013 Frontiersman"],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q1092932","sub_label":"Circus World","sub_aliases":[],"obj_id":"Q457250","obj_label":"Henry Hathaway"}
+{"sub_id":"Q3521897","sub_label":"The Mistress of Shenstone","sub_aliases":["Mistress of Shenstone"],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q16028548","sub_label":"Hobbs in a Hurry","sub_aliases":[],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q1194145","sub_label":"Captain from Castile","sub_aliases":[],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q1619977","sub_label":"Alexander's Ragtime Band","sub_aliases":["'''''Alexander's Ragtime Band'''''"],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q3129968","sub_label":"Help Wanted-Male","sub_aliases":["Help Wanted - Male"],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q3523392","sub_label":"The Winning of Barbara Worth","sub_aliases":["Winning of Barbara Worth"],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q1194888","sub_label":"Twelve O'Clock High","sub_aliases":[],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q669749","sub_label":"The Song of Bernadette","sub_aliases":["Song of Bernadette"],"obj_id":"Q269505","obj_label":"Henry King"}
+{"sub_id":"Q918111","sub_label":"Hour of the Wolf","sub_aliases":["Vargtimmen"],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q217189","sub_label":"The Seventh Seal","sub_aliases":["Seventh Seal"],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q753141","sub_label":"The Virgin Spring","sub_aliases":["Virgin Spring"],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q1091856","sub_label":"This Can't Happen Here","sub_aliases":[],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q1078811","sub_label":"Secrets of Women","sub_aliases":["Waiting Women"],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q428617","sub_label":"The Devil's Eye","sub_aliases":["Devil's Eye"],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q259831","sub_label":"It Rains on Our Love","sub_aliases":[],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q921612","sub_label":"Music in Darkness","sub_aliases":[],"obj_id":"Q7546","obj_label":"Ingmar Bergman"}
+{"sub_id":"Q1759684","sub_label":"Atragon","sub_aliases":[],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q2621366","sub_label":"The Mysterians","sub_aliases":["Mysterians"],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q519893","sub_label":"Battle in Outer Space","sub_aliases":[],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q1444735","sub_label":"The War of the Gargantuas","sub_aliases":["War of the Gargantuas"],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q6691034","sub_label":"Love Makeup","sub_aliases":[],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q5435046","sub_label":"Farewell Rabaul","sub_aliases":[],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q1211778","sub_label":"Terror of Mechagodzilla","sub_aliases":[],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q1215918","sub_label":"King Kong vs. Godzilla","sub_aliases":["Kingu Kongu Tai Gojira","\u30ad\u30f3\u30b0\u30b3\u30f3\u30b0\u5bfe\u30b4\u30b8\u30e9"],"obj_id":"Q150840","obj_label":"Ishir\u014d Honda"}
+{"sub_id":"Q3987927","sub_label":"The Last of the Saxons","sub_aliases":["Last of the Saxons"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q56651754","sub_label":"The Clean Heart","sub_aliases":["Clean Heart"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q3831021","sub_label":"Let Not Man Put Asunder","sub_aliases":[],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q17478938","sub_label":"A Gipsy Cavalier","sub_aliases":["Gipsy Cavalier"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q3989952","sub_label":"The Way of the Cross","sub_aliases":["Way of the Cross"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q19364006","sub_label":"The World for Sale","sub_aliases":["World for Sale"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q7768691","sub_label":"The Thieving Hand","sub_aliases":["Thieving Hand"],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q15079694","sub_label":"Kidnapped in New York","sub_aliases":[],"obj_id":"Q724276","obj_label":"J. Stuart Blackton"}
+{"sub_id":"Q630237","sub_label":"Night of the Demon","sub_aliases":["Curse of the demon"],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q3339720","sub_label":"Nick Carter, Master Detective","sub_aliases":[],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q3223078","sub_label":"Way of a Gaucho","sub_aliases":[],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q16028450","sub_label":"Les Filles de la concierge","sub_aliases":["Filles de la concierge"],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q3204954","sub_label":"Circle of Danger","sub_aliases":[],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q13418280","sub_label":"They All Come Out","sub_aliases":[],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q1196413","sub_label":"The Flame and the Arrow","sub_aliases":["Flame and the Arrow"],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q16028816","sub_label":"Pour \u00eatre aim\u00e9","sub_aliases":[],"obj_id":"Q55393","obj_label":"Jacques Tourneur"}
+{"sub_id":"Q542688","sub_label":"Alphaville","sub_aliases":["Alphaville: A Strange Adventure of Lemmy Caution","Alphaville, une \u00e9trange aventure de Lemmy Caution","The Strange Adventure of Lemmy Caution"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q978949","sub_label":"All the Boys Are Called Patrick","sub_aliases":["Charlotte et V\u00e9ronique","Charlotte et Veronique"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q1199284","sub_label":"Le Petit Soldat","sub_aliases":["Le petit soldat","The Little Soldier"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q3141131","sub_label":"Notre musique","sub_aliases":["Our Music"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q27591008","sub_label":"The Image Book","sub_aliases":["Image Book"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q2478879","sub_label":"La Chinoise","sub_aliases":["Chinoise","The Chinese Girl"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q1148491","sub_label":"My Life to Live","sub_aliases":["Vivre sa vie"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q979271","sub_label":"British Sounds","sub_aliases":["See You at Mao"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard"}
+{"sub_id":"Q1197362","sub_label":"The Devil Came from Akasava","sub_aliases":["Devil Came from Akasava"],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q3207690","sub_label":"Female Vampire","sub_aliases":["La Comtesse noire","Vampire Junction"],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q1713438","sub_label":"Devil Hunter","sub_aliases":[],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q3210151","sub_label":"Bloody Moon","sub_aliases":["Die S\u00e4ge des Todes","The Bloody Moon Murders"],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q575980","sub_label":"Vampyros Lesbos","sub_aliases":[],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q3961749","sub_label":"The Sadistic Baron Von Klaus","sub_aliases":["Sadistic Baron Von Klaus"],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q479898","sub_label":"Sadomania","sub_aliases":[],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q945185","sub_label":"Mansion of the Living Dead","sub_aliases":["Zombie Lake"],"obj_id":"Q353758","obj_label":"Jes\u00fas Franco"}
+{"sub_id":"Q518492","sub_label":"Night Has a Thousand Eyes","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q6816261","sub_label":"Men in Exile","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q1581633","sub_label":"Wake Island","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q3284362","sub_label":"Alias Nick Beal","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q914238","sub_label":"The Sea Chase","sub_aliases":["Sea Chase"],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q7631583","sub_label":"Submarine Command","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q3458333","sub_label":"Two Years Before the Mast","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q3655896","sub_label":"You Came Along","sub_aliases":[],"obj_id":"Q547495","obj_label":"John Farrow"}
+{"sub_id":"Q1122534","sub_label":"Mogambo","sub_aliases":[],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q1218906","sub_label":"The Lost Patrol","sub_aliases":["Lost Patrol"],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q773276","sub_label":"Fort Apache","sub_aliases":[],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q279284","sub_label":"Young Mr. Lincoln","sub_aliases":[],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q1199357","sub_label":"The Long Voyage Home","sub_aliases":["Long Voyage Home"],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q528296","sub_label":"3 Godfathers","sub_aliases":[],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q2261553","sub_label":"7 Women","sub_aliases":["Seven Women"],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q1795389","sub_label":"The Battle of Midway","sub_aliases":["Battle of Midway"],"obj_id":"Q51114","obj_label":"John Ford"}
+{"sub_id":"Q485836","sub_label":"La Femme et le Pantin","sub_aliases":["Femmina","Femme et le Pantin","The Female"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q749755","sub_label":"Tales of Manhattan","sub_aliases":[],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q1241684","sub_label":"P\u00e9p\u00e9 le Moko","sub_aliases":["Pepe le Moko"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q1999366","sub_label":"L'Affaire Maurizius","sub_aliases":["Il caso Maurizius","Affaire Maurizius"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q3399892","sub_label":"Lovers of Paris","sub_aliases":["Pot-Bouille"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q3207253","sub_label":"La Charrette fant\u00f4me","sub_aliases":["Charrette fant\u00f4me","La Charrette fantome","Charrette fantome"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q3206424","sub_label":"La Bandera","sub_aliases":["Escape from Yesterday","Bandera"],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q3017981","sub_label":"David Golder","sub_aliases":[],"obj_id":"Q453683","obj_label":"Julien Duvivier"}
+{"sub_id":"Q369379","sub_label":"Ae Fond Kiss...","sub_aliases":["Ae Fond Kiss ..."],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q1041618","sub_label":"Carla's Song","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q827106","sub_label":"The Wind That Shakes the Barley","sub_aliases":["Wind That Shakes the Barley"],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q1917949","sub_label":"My Name Is Joe","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q2467712","sub_label":"Route Irish","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q23823458","sub_label":"I, Daniel Blake","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q20804306","sub_label":"End of the Battle... Not the End of the War ","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q56604161","sub_label":"Sorry We Missed You","sub_aliases":[],"obj_id":"Q55238","obj_label":"Ken Loach"}
+{"sub_id":"Q3549471","sub_label":"The Woman in the Rumor","sub_aliases":["Woman in the Rumor"],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q3222239","sub_label":"Portrait of Madame Yuki","sub_aliases":[],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q7773707","sub_label":"The Water Magician","sub_aliases":["Water Magician"],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q7813937","sub_label":"Tokyo March","sub_aliases":[],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q3207420","sub_label":"The Downfall of Osen","sub_aliases":["Downfall of Osen"],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q1076605","sub_label":"Ugetsu","sub_aliases":["Ugetsu monogatori"],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q2972869","sub_label":"Utamaro and His Five Women","sub_aliases":[],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q7752307","sub_label":"The Morning Sun Shines","sub_aliases":["Morning Sun Shines"],"obj_id":"Q55401","obj_label":"Kenji Mizoguchi"}
+{"sub_id":"Q3885763","sub_label":"Proud Flesh","sub_aliases":[],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q633008","sub_label":"The Fountainhead","sub_aliases":["Fountainhead"],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q3490025","sub_label":"His Hour","sub_aliases":[],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q3041660","sub_label":"Dusk to Dawn","sub_aliases":[],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q3007016","sub_label":"The Jack-Knife Man","sub_aliases":["Jack-Knife Man"],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q2937575","sub_label":"Wild Oranges","sub_aliases":[],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q282666","sub_label":"The Sky Pilot","sub_aliases":["Sky Pilot"],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q960499","sub_label":"Street Scene","sub_aliases":[],"obj_id":"Q51133","obj_label":"King Vidor"}
+{"sub_id":"Q7811022","sub_label":"To Love Again","sub_aliases":[],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q17215609","sub_label":"River Solo Flows","sub_aliases":["Bungawan soro"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q3032566","sub_label":"Ten Dark Women","sub_aliases":[],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q4660126","sub_label":"A Thousand and One Nights with Toho","sub_aliases":["Thousand and One Nights with Toho"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q17191632","sub_label":"This Way, That Way","sub_aliases":["Ano te kono te"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q11442750","sub_label":"Noh Mask Murders","sub_aliases":["Tenkawa densetsu satsujin jiken"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q11272534","sub_label":"Crane","sub_aliases":["Tsuru"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q11390404","sub_label":"The 8-Tomb Village","sub_aliases":["Yatsuhaka-mura","The Eight-Tomb Village"],"obj_id":"Q55397","obj_label":"Kon Ichikawa"}
+{"sub_id":"Q23653989","sub_label":"I don\u2019t know","sub_aliases":["I Don't Know","Nie wiem"],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q5195149","sub_label":"Curriculum vitae","sub_aliases":[],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q11786667","sub_label":"Bricklayer","sub_aliases":["Murarz"],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q66105073","sub_label":"Workers '71: Nothing About Us Without Us","sub_aliases":["Robotnicy '71: Nic o nas bez nas","Workers 1971 - Nothing About Us Without Us"],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q1080638","sub_label":"Decalogue VII","sub_aliases":[],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q3816345","sub_label":"Concert of Requests","sub_aliases":[],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q2607490","sub_label":"No End","sub_aliases":[],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q3701086","sub_label":"From the City of Lodz","sub_aliases":[],"obj_id":"Q55165","obj_label":"Krzysztof Kie\u015blowski"}
+{"sub_id":"Q497252","sub_label":"We Faw Down","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q3018707","sub_label":"Wrong Again","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q2928182","sub_label":"Bungalow Boobs","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q303719","sub_label":"An Affair to Remember","sub_aliases":["Affair to Remember"],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q3016870","sub_label":"Let's Go Native","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q3482559","sub_label":"Should Men Walk Home?","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q925363","sub_label":"Innocent Husbands","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q3561504","sub_label":"Long Fliv the King","sub_aliases":[],"obj_id":"Q332530","obj_label":"Leo McCarey"}
+{"sub_id":"Q14775276","sub_label":"Indianapolis Speedway","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q534459","sub_label":"Footlight Parade","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q12124836","sub_label":"Honor of the Family","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q785333","sub_label":"Action in the North Atlantic","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q747912","sub_label":"The Frogmen","sub_aliases":["Frogmen"],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q748901","sub_label":"A Slight Case of Murder","sub_aliases":["Slight Case of Murder"],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q7279786","sub_label":"Racket Busters","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q1162490","sub_label":"Cain and Mabel","sub_aliases":[],"obj_id":"Q706678","obj_label":"Lloyd Bacon"}
+{"sub_id":"Q18708984","sub_label":"It's No Laughing Matter","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q63284684","sub_label":"The Pursuit of Hate","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q63283540","sub_label":"A Modern Fairy Tale","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q63199314","sub_label":"The Wife's Deceit","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q27963198","sub_label":"What Do Men Want?","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q19363940","sub_label":"Too Wise Wives","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q13501859","sub_label":"The Triumph of Mind","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q77892770","sub_label":"The Mysterious Mrs. M","sub_aliases":[],"obj_id":"Q462440","obj_label":"Lois Weber"}
+{"sub_id":"Q1232085","sub_label":"Massacre Time","sub_aliases":["Le colt cantarono la morte e fu... tempo di massacro"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q1196027","sub_label":"The New York Ripper","sub_aliases":["New York Ripper","Lo squartatore di New York"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q3596407","sub_label":"002 Operazione Luna","sub_aliases":[],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q3794671","sub_label":"The Devil's Honey","sub_aliases":["Devil's Honey"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q979273","sub_label":"Four of the Apocalypse","sub_aliases":["I quattro dell'apocalisse"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q833248","sub_label":"Silver Saddle","sub_aliases":["Sella d'argento"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q1171082","sub_label":"Warriors of the Year 2072","sub_aliases":["I guerrieri dell'anno 2072"],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q3790964","sub_label":"I maniaci","sub_aliases":[],"obj_id":"Q345217","obj_label":"Lucio Fulci"}
+{"sub_id":"Q727713","sub_label":"The Window to Luna Park","sub_aliases":["Window to Luna Park","La finestra sul Luna Park"],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q3829089","sub_label":"Le sorprese dell'amore","sub_aliases":["Sorprese dell'amore"],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q1585239","sub_label":"Pane, amore e gelosia","sub_aliases":[],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q1197986","sub_label":"Everybody Go Home","sub_aliases":["Tutti a casa"],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q3236150","sub_label":"Persiane chiuse","sub_aliases":[],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q15714272","sub_label":"Mogli pericolose","sub_aliases":[],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q1102351","sub_label":"The Sunday Woman","sub_aliases":["Sunday Woman","La donna della domenica"],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q779490","sub_label":"The Scientific Cardplayer","sub_aliases":["Scientific Cardplayer","Lo scopone scientifico"],"obj_id":"Q53015","obj_label":"Luigi Comencini"}
+{"sub_id":"Q3264110","sub_label":"Love, Loot and Crash","sub_aliases":[],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q7773219","sub_label":"The Waiters' Picnic","sub_aliases":["Waiters' Picnic"],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q6721388","sub_label":"Mabel's Awful Mistakes","sub_aliases":[],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q16249742","sub_label":"A Dash Through the Clouds","sub_aliases":["Dash Through the Clouds"],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q2819645","sub_label":"A Bandit","sub_aliases":["Bandit"],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q5141322","sub_label":"Cohen Saves the Flag","sub_aliases":[],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q18468745","sub_label":"Katchem Kate","sub_aliases":[],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q731935","sub_label":"The Gypsy Queen","sub_aliases":["Gypsy Queen"],"obj_id":"Q317574","obj_label":"Mack Sennett"}
+{"sub_id":"Q3412090","sub_label":"P\u00e9trus","sub_aliases":[],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q2873389","sub_label":"Avec Andr\u00e9 Gide","sub_aliases":["Avec Andre Gide"],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q3204882","sub_label":"Love Is at Stake","sub_aliases":[],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q3232241","sub_label":"Midnight Folly","sub_aliases":[],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q3189730","sub_label":"Julietta","sub_aliases":[],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q3354995","sub_label":"Orage","sub_aliases":[],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q3548564","sub_label":"Sunday Encounter","sub_aliases":["Un dr\u00f4le de dimanche","Un drole de dimanche"],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q1110260","sub_label":"The Curtain Rises","sub_aliases":["Curtain Rises"],"obj_id":"Q284911","obj_label":"Marc All\u00e9gret"}
+{"sub_id":"Q1225121","sub_label":"Speriamo che sia femmina","sub_aliases":["Let's Hope It's a Girl"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q3992241","sub_label":"Oh, Grandmother's Dead","sub_aliases":["Toh, \u00e8 morta la nonna!"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q3895804","sub_label":"Parenti serpenti","sub_aliases":[],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q672841","sub_label":"The Two Lives of Mattia Pascal","sub_aliases":["Two Lives of Mattia Pascal","Il fu Mattia Pascal (1985 film)","Le due vite di Mattia Pascal"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q717966","sub_label":"Romanzo popolare","sub_aliases":[],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q3020002","sub_label":"Caro Michele","sub_aliases":["Dear Michael"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q1215362","sub_label":"The Organizer","sub_aliases":["Organizer","I compagni"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q80617","sub_label":"My Friends","sub_aliases":["Amici miei"],"obj_id":"Q53026","obj_label":"Mario Monicelli"}
+{"sub_id":"Q2005061","sub_label":"The Big Shave","sub_aliases":["Big Shave"],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q1212396","sub_label":"Boxcar Bertha","sub_aliases":[],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q220780","sub_label":"Raging Bull","sub_aliases":["'' Raging Bull ''"],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q3284170","sub_label":"It's Not Just You","sub_aliases":["It's Not Just You, Murray!"],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q916431","sub_label":"Alice Doesn't Live Here Anymore","sub_aliases":[],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q2575227","sub_label":"Who's That Knocking at My Door","sub_aliases":["Who's That Knocking at My Door?"],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q7257627","sub_label":"Public Speaking","sub_aliases":[],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q210364","sub_label":"Shutter Island","sub_aliases":[],"obj_id":"Q41148","obj_label":"Martin Scorsese"}
+{"sub_id":"Q1258295","sub_label":"Thirty Seconds Over Tokyo","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q4972408","sub_label":"Broadway Babies","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q3211595","sub_label":"Fools for Scandal","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q1199222","sub_label":"Little Caesar","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q2385458","sub_label":"Million Dollar Mermaid","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q1058071","sub_label":"They Won't Forget","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q1085121","sub_label":"The FBI Story","sub_aliases":["FBI Story"],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q7859212","sub_label":"Two Seconds","sub_aliases":[],"obj_id":"Q103788","obj_label":"Mervyn LeRoy"}
+{"sub_id":"Q1211898","sub_label":"The Comancheros","sub_aliases":["Comancheros"],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q1168139","sub_label":"Mystery of the Wax Museum","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q1392437","sub_label":"Passage to Marseille","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q1444517","sub_label":"The Best Things in Life Are Free","sub_aliases":["Best Things in Life Are Free"],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q279058","sub_label":"British Agent","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q1660686","sub_label":"Black Fury","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q2032599","sub_label":"Life with Father","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q1598010","sub_label":"Santa Fe Trail","sub_aliases":[],"obj_id":"Q51491","obj_label":"Michael Curtiz"}
+{"sub_id":"Q2714058","sub_label":"When a Woman Ascends the Stairs","sub_aliases":[],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q11447170","sub_label":"Poignant Story","sub_aliases":["Tsuma to shite onna to shite"],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q11612348","sub_label":"Flunky, Work Hard","sub_aliases":["Koshiben gambare (Flunky, Work Hard!)"],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q4660548","sub_label":"A Wanderer's Notebook","sub_aliases":["Wanderer's Notebook"],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q930109","sub_label":"Older Brother, Younger Sister","sub_aliases":[],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q5417429","sub_label":"Every-Night Dreams","sub_aliases":["Yogoto no yume (Every Night Dreams)"],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q3222054","sub_label":"A Wife's Heart","sub_aliases":["Wife's Heart"],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q60854203","sub_label":"A Woman's Sorrows","sub_aliases":[],"obj_id":"Q1371306","obj_label":"Mikio Naruse"}
+{"sub_id":"Q426466","sub_label":"Skippy","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q944145","sub_label":"Jumping Jacks","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q2742237","sub_label":"Rich, Young and Pretty","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q601537","sub_label":"G.I. Blues","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q2698650","sub_label":"The Adventures of Tom Sawyer","sub_aliases":["Adventures of Tom Sawyer"],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q727016","sub_label":"Boys Town","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q11506212","sub_label":"Fifty Roads to Town","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q2039739","sub_label":"Rhythm on the Range","sub_aliases":[],"obj_id":"Q95111","obj_label":"Norman Taurog"}
+{"sub_id":"Q3208713","sub_label":"The Stationmaster's Wife","sub_aliases":["Stationmaster's Wife"],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q2641533","sub_label":"Beware of a Holy Whore","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q3284902","sub_label":"Mother K\u00fcsters' Trip to Heaven","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q570483","sub_label":"In a Year of 13 Moons","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q567519","sub_label":"Katzelmacher","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q4836348","sub_label":"BRD Trilogy","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q703188","sub_label":"Veronika Voss","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q2979315","sub_label":"Satan's Brew","sub_aliases":[],"obj_id":"Q44426","obj_label":"Rainer Werner Fassbinder"}
+{"sub_id":"Q1138382","sub_label":"High Sierra","sub_aliases":[],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q2804739","sub_label":"A Distant Trumpet","sub_aliases":["Distant Trumpet"],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q1219927","sub_label":"The Roaring Twenties","sub_aliases":["Roaring Twenties"],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q1198613","sub_label":"Gentleman Jim","sub_aliases":[],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q886662","sub_label":"Northern Pursuit","sub_aliases":[],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q1615135","sub_label":"Manpower","sub_aliases":["'' Manpower ''"],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q2856498","sub_label":"Band of Angels","sub_aliases":[],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q2428921","sub_label":"Me and My Gal","sub_aliases":[],"obj_id":"Q72756","obj_label":"Raoul Walsh"}
+{"sub_id":"Q3015588","sub_label":"On an Island with You","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q3005707","sub_label":"Cry \"Havoc\"","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q2547546","sub_label":"Three Loves Has Nancy","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q2037195","sub_label":"Tarzan's New York Adventure","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q2761816","sub_label":"Two Girls and a Sailor","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q1215806","sub_label":"Knights of the Round Table","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q668948","sub_label":"Ten Thousand Bedrooms","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q536342","sub_label":"Jailhouse Rock","sub_aliases":[],"obj_id":"Q216748","obj_label":"Richard Thorpe"}
+{"sub_id":"Q1996348","sub_label":"The File on Thelma Jordon","sub_aliases":["File on Thelma Jordon"],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q1305262","sub_label":"Custer of the West","sub_aliases":[],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q1993181","sub_label":"Cobra Woman","sub_aliases":[],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q1199536","sub_label":"The Crimson Pirate","sub_aliases":["Crimson Pirate"],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q3567437","sub_label":"West Point Widow","sub_aliases":[],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q822599","sub_label":"The Man in Search of His Murderer","sub_aliases":["Man in Search of His Murderer"],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q2417639","sub_label":"The Strange Affair of Uncle Harry","sub_aliases":["Strange Affair of Uncle Harry","Uncle Harry"],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q551992","sub_label":"The Devil Came at Night","sub_aliases":["Devil Came at Night"],"obj_id":"Q51498","obj_label":"Robert Siodmak"}
+{"sub_id":"Q885281","sub_label":"Bloody Mama","sub_aliases":[],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q1219899","sub_label":"The Wild Angels","sub_aliases":["Wild Angels"],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q3822789","sub_label":"The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent","sub_aliases":["Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent"],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q2451844","sub_label":"Tales of Terror","sub_aliases":[],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q3638879","sub_label":"Target: Harry","sub_aliases":[],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q1625566","sub_label":"The Premature Burial","sub_aliases":["Premature Burial"],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q1769592","sub_label":"Attack of the Crab Monsters","sub_aliases":[],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q2191923","sub_label":"It Conquered the World","sub_aliases":[],"obj_id":"Q318292","obj_label":"Roger Corman"}
+{"sub_id":"Q6876669","sub_label":"Miss Fatty's Seaside Lovers","sub_aliases":[],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q3223526","sub_label":"A Desert Hero","sub_aliases":["Desert Hero"],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q3208025","sub_label":"Fatty's Magic Pants","sub_aliases":[],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q3067289","sub_label":"The Bell Boy","sub_aliases":["Bell Boy"],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q738339","sub_label":"Leading Lizzie Astray","sub_aliases":[],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q5438014","sub_label":"Fatty and the Broadway Stars","sub_aliases":[],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q3067293","sub_label":"Good Night, Nurse!","sub_aliases":[],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q7762771","sub_label":"The Sea Nymphs","sub_aliases":["Sea Nymphs"],"obj_id":"Q315202","obj_label":"Roscoe Arbuckle"}
+{"sub_id":"Q5299883","sub_label":"Double Speed","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q3739901","sub_label":"Fascinating Youth","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q7292797","sub_label":"Rangers of Fortune","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q4843460","sub_label":"Telling the World","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q16995487","sub_label":"His Children's Children","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q3045125","sub_label":"Guest Wife","sub_aliases":[],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q2292080","sub_label":"The Stratton Story","sub_aliases":["Stratton Story"],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q3986970","sub_label":"The Fair Co-Ed","sub_aliases":["Fair Co-Ed"],"obj_id":"Q457269","obj_label":"Sam Wood"}
+{"sub_id":"Q1122805","sub_label":"Mr. Robinson","sub_aliases":["Il signor Robinson, mostruosa storia d'amore e d'avventure"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q3790751","sub_label":"The Two Marshals","sub_aliases":["Two Marshals","I due marescialli"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q428350","sub_label":"The White, the Yellow, and the Black","sub_aliases":["White, the Yellow, and the Black","Il bianco, il giallo, il nero","Shoot First, Ask Questions Later"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q3282927","sub_label":"Chi si ferma \u00e8 perduto","sub_aliases":["Chi si ferma e perduto"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q3223684","sub_label":"The Shortest Day","sub_aliases":["Shortest Day","Il giorno pi\u00f9 corto","Il giorno piu corto"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q3280614","sub_label":"Neapolitan Mystery","sub_aliases":["Giallo napoletano"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q1937342","sub_label":"Minnesota Clay","sub_aliases":[],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q3794820","sub_label":"The Monk of Monza","sub_aliases":["Monk of Monza","Il monaco di Monza"],"obj_id":"Q55443","obj_label":"Sergio Corbucci"}
+{"sub_id":"Q1196202","sub_label":"The Pawnbroker","sub_aliases":["Pawnbroker"],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q458656","sub_label":"Dog Day Afternoon","sub_aliases":[],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q1192193","sub_label":"The Anderson Tapes","sub_aliases":["Anderson Tapes"],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q1195600","sub_label":"The Fugitive Kind","sub_aliases":["Fugitive Kind"],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q1709419","sub_label":"Prince of the City","sub_aliases":[],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q64173","sub_label":"Find Me Guilty","sub_aliases":[],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q1321503","sub_label":"Before the Devil Knows You're Dead","sub_aliases":[],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q428158","sub_label":"The Wiz","sub_aliases":["Wiz"],"obj_id":"Q51559","obj_label":"Sidney Lumet"}
+{"sub_id":"Q2534007","sub_label":"Crooklyn","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q1002100","sub_label":"Miracle at St. Anna","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q210503","sub_label":"Shark","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q508410","sub_label":"He Got Game","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q22079453","sub_label":"Michael Jackson's Journey from Motown to Off the Wall","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q1148304","sub_label":"4 Little Girls","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q3602523","sub_label":"A Huey P. Newton Story","sub_aliases":["Huey P. Newton Story"],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q519592","sub_label":"She Hate Me","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee"}
+{"sub_id":"Q218589","sub_label":"War Horse","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q271281","sub_label":"Empire of the Sun","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q223299","sub_label":"The Color Purple","sub_aliases":["Color Purple"],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q6456192","sub_label":"L.A. 2017","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q179215","sub_label":"Indiana Jones and the Temple of Doom","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q980041","sub_label":"The Adventures of Tintin","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q107710009","sub_label":"The Fabelmans","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q457886","sub_label":"Amblin'","sub_aliases":[],"obj_id":"Q8877","obj_label":"Steven Spielberg"}
+{"sub_id":"Q391943","sub_label":"Lesson of the Evil","sub_aliases":[],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q28683695","sub_label":"Idol \u00d7 Warrior Miracle Tunes!","sub_aliases":["Idol Warrior","Miracle Tunes","Idol Heroine","Idol Senshi"],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q7968758","sub_label":"Shield of Straw","sub_aliases":["Wara no tate (Shield of Straw)"],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q603958","sub_label":"Big Bang Love, Juvenile A","sub_aliases":[],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q3483977","sub_label":"Silver","sub_aliases":[],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q837181","sub_label":"Sabu","sub_aliases":[],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q30935164","sub_label":"Laplace's Witch","sub_aliases":[],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q1536287","sub_label":"The Guys from Paradise","sub_aliases":["Guys from Paradise"],"obj_id":"Q185421","obj_label":"Takashi Miike"}
+{"sub_id":"Q2494111","sub_label":"Slap Happy Lion","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q4340663","sub_label":"King-Size Canary","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q1693222","sub_label":"Little Johnny Jet","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q5546664","sub_label":"George and Junior","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q3177375","sub_label":"Jerky Turkey","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q2658658","sub_label":"Magical Maestro","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q2941230","sub_label":"Screwy Squirrel","sub_aliases":[],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q1143315","sub_label":"A Wild Hare","sub_aliases":["Wild Hare"],"obj_id":"Q319723","obj_label":"Tex Avery"}
+{"sub_id":"Q3986536","sub_label":"The Day of Faith","sub_aliases":["Day of Faith"],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3990051","sub_label":"The Wise Kid","sub_aliases":["Wise Kid"],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3986863","sub_label":"The Exquisite Thief","sub_aliases":["Exquisite Thief"],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3739991","sub_label":"Fast Workers","sub_aliases":[],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3258661","sub_label":"Where East Is East","sub_aliases":[],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q1141261","sub_label":"The Devil-Doll","sub_aliases":["Devil-Doll","The Devil Doll"],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3987976","sub_label":"The Legion of Death","sub_aliases":["Legion of Death"],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q1170898","sub_label":"Mark of the Vampire","sub_aliases":[],"obj_id":"Q51476","obj_label":"Tod Browning"}
+{"sub_id":"Q3542571","sub_label":"Twisted Trails","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20802339","sub_label":"A Lucky Deal","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20803068","sub_label":"Slim Higgins","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20802603","sub_label":"Mistakes Will Happen","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q21580783","sub_label":"Who's Your Father?","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20801816","sub_label":"A Bear of a Story","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20802210","sub_label":"The Chef at Circle G","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q20802346","sub_label":"A Militant School Ma'am","sub_aliases":[],"obj_id":"Q345468","obj_label":"Tom Mix"}
+{"sub_id":"Q743065","sub_label":"Ike's Wee Wee","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q898213","sub_label":"Chef's Chocolate Salty Balls","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q855471","sub_label":"Whale Whores","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q40654","sub_label":"Jewbilee","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q1175681","sub_label":"Big Gay Al's Big Gay Boat Ride","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q477585","sub_label":"Conjoined Fetus Lady","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q722058","sub_label":"Two Guys Naked in a Hot Tub","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q691785","sub_label":"Orgazmo","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker"}
+{"sub_id":"Q4659307","sub_label":"A Ruined Life","sub_aliases":["Ruined Life"],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q7389457","sub_label":"His Lordship's Last Will","sub_aliases":[],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q7389898","sub_label":"The Price of Betrayal","sub_aliases":["Price of Betrayal"],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q7389394","sub_label":"Hearts That Meet","sub_aliases":[],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q3335452","sub_label":"Name the Man","sub_aliases":[],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q7475995","sub_label":"The Voice of Passion","sub_aliases":["Voice of Passion"],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q1762006","sub_label":"A Lover in Pawn","sub_aliases":["Lover in Pawn"],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q1758308","sub_label":"Ingeborg Holm","sub_aliases":[],"obj_id":"Q55170","obj_label":"Victor Sj\u00f6str\u00f6m"}
+{"sub_id":"Q587566","sub_label":"Stroszek","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q698111","sub_label":"Fitzcarraldo","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q688329","sub_label":"Even Dwarfs Started Small","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q2527167","sub_label":"Lessons of Darkness","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q15407746","sub_label":"Queen of the Desert","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q695888","sub_label":"The Enigma of Kaspar Hauser","sub_aliases":["Enigma of Kaspar Hauser","Every Man for Himself and God Against All"],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q2870474","sub_label":"Land of Silence and Darkness","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q814288","sub_label":"Encounters at the End of the World","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog"}
+{"sub_id":"Q1424210","sub_label":"Frisco Jenny","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q2622104","sub_label":"Lafayette Escadrille","sub_aliases":["C'est la Guerre","Hell Bent for Glory","With You in My Arms"],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q998565","sub_label":"Magic Town","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q1950393","sub_label":"Roxie Hart","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q1750424","sub_label":"Thunder Birds","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q6469572","sub_label":"Ladies of the Mob","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q1260366","sub_label":"Westward the Women","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q1198689","sub_label":"Blood Alley","sub_aliases":[],"obj_id":"Q290962","obj_label":"William A. Wellman"}
+{"sub_id":"Q1619752","sub_label":"The Story of Louis Pasteur","sub_aliases":["Story of Louis Pasteur"],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q3823226","sub_label":"Red Mountain","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q166711","sub_label":"Elephant Walk","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q3796182","sub_label":"Dubrowsky","sub_aliases":["Il vendicatore"],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q1710735","sub_label":"Juarez","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q2004290","sub_label":"Satan Met a Lady","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q20430082","sub_label":"Six Hours to Live","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q2687809","sub_label":"Adorable","sub_aliases":[],"obj_id":"Q55413","obj_label":"William Dieterle"}
+{"sub_id":"Q3068334","sub_label":"Fencing","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q18088542","sub_label":"Man on Parallel Bars","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q1920204","sub_label":"Men Boxing","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q13108193","sub_label":"Awakening of Rip","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q1983441","sub_label":"Newark Athlete","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q17461154","sub_label":"Duncan Smoking","sub_aliases":[],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q15271061","sub_label":"Annabelle Butterfly Dance","sub_aliases":["Butterfly Dance"],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q61764570","sub_label":"Bubina com cinetogramas de Santos Dumont","sub_aliases":["Explaining His Air Ship to the Hon. C.S. Rolls","Bubina com cinetogramas de Santos Dumont"],"obj_id":"Q465350","obj_label":"William Kennedy Dickson"}
+{"sub_id":"Q2288599","sub_label":"Room 666","sub_aliases":[],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q657477","sub_label":"Faraway, So Close!","sub_aliases":[],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q870450","sub_label":"A Trick of Light","sub_aliases":["Trick of Light"],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q571053","sub_label":"Until the End of the World","sub_aliases":[],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q54554847","sub_label":"Pope Francis: A Man of His Word","sub_aliases":["Pope Francis -- A Man of His Word"],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q694781","sub_label":"The American Friend","sub_aliases":["American Friend"],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q1573923","sub_label":"Hammett","sub_aliases":[],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q175600","sub_label":"Don't Come Knocking","sub_aliases":[],"obj_id":"Q55411","obj_label":"Wim Wenders"}
+{"sub_id":"Q20950014","sub_label":"Caf\u00e9 Society","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q961403","sub_label":"Interiors","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q233464","sub_label":"Annie Hall","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q833530","sub_label":"Cassandra's Dream","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q1146315","sub_label":"Take the Money and Run","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q1334572","sub_label":"Everyone Says I Love You","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q682002","sub_label":"scoop","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q206124","sub_label":"Midnight in Paris","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen"}
+{"sub_id":"Q3633631","sub_label":"A Straightforward Boy","sub_aliases":["Tokkan koz\u014d","Straightforward Boy"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q3235681","sub_label":"The Munekata Sisters","sub_aliases":["Munekata ky\u014ddai","Munekata Sisters"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q26060","sub_label":"Tokyo Story","sub_aliases":["Tokyo monogatari"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q4004209","sub_label":"Woman of Tokyo","sub_aliases":["Tokyo no onna"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q2053010","sub_label":"The Record of a Tenement Gentleman","sub_aliases":["Record of a Tenement Gentleman"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q4004278","sub_label":"A Mother Should be Loved","sub_aliases":["Haha wo kowazuya","Mother Should be Loved"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q3937081","sub_label":"Fighting Friends Japanese Style","sub_aliases":["Wasei kenka tomodachi"],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q3824288","sub_label":"Sword of Penitence","sub_aliases":[],"obj_id":"Q55402","obj_label":"Yasujir\u014d Ozu"}
+{"sub_id":"Q1970972","sub_label":"Triple Agent","sub_aliases":["Triple agent"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q3564391","sub_label":"Veronica and Her Dunce","sub_aliases":["V\u00e9ronique et son cancre","Veronique and Her Dunce"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q1193581","sub_label":"Boyfriends and Girlfriends","sub_aliases":["L'Ami de mon amie"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q1774309","sub_label":"L'Arbre, le maire et la m\u00e9diath\u00e8que","sub_aliases":["Arbre, le maire et la m\u00e9diath\u00e8que","The Tree, the Mayor and the Mediatheque"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q689393","sub_label":"The Aviator's Wife","sub_aliases":["Aviator's Wife","La Femme de l'aviateur"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q1171334","sub_label":"The Green Ray","sub_aliases":["Green Ray","Le Rayon vert","Summer"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q2537080","sub_label":"Le Beau Mariage","sub_aliases":["Beau Mariage","A Good Marriage"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}
+{"sub_id":"Q2277596","sub_label":"Romance of Astree and Celadon","sub_aliases":["Les Amours d'Astr\u00e9e et de C\u00e9ladon","The Romance of Astrea and Celadon"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer"}

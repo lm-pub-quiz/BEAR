@@ -1,0 +1,150 @@
+{"sub_id":"Q181693","sub_label":"IEEE 1394","sub_aliases":["FireWire","High Performance Serial Bus","i.LINK","Lynx","IEEE 1394-1995","IEEE 1394a-2000","IEEE 1394b-2002","IEEE 1394c-2006","1394"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q48493","sub_label":"iOS","sub_aliases":["iPhone OS"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q20962060","sub_label":"iPad Pro","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q150307","sub_label":"iPad 2","sub_aliases":["iPad (2nd generation)","Apple iPad 2","Apple iPad (2nd generation)","iPad2"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q18012472","sub_label":"watchOS","sub_aliases":["watch OS","Apple watchOS"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q283469","sub_label":"ICLOUD","sub_aliases":["iCloud Drive","ITunes Match"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q798003","sub_label":"Swordquest","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q2590391","sub_label":"Lunar Lander","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q2075966","sub_label":"Haunted House","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q1507926","sub_label":"Yars' Revenge","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q2646223","sub_label":"Gravitar","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q216293","sub_label":"Pong","sub_aliases":["PONG"],"obj_id":"Q13409231","obj_label":"Atari, Inc.","answer_idx":1}
+{"sub_id":"Q19601604","sub_label":"Etrian Odyssey V","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q277377","sub_label":"Catherine","sub_aliases":["Catherine Classic","Catherine Video Game","Catherine Classic Video Game"],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q7678170","sub_label":"Bonk","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q5959117","sub_label":"Trauma Team","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q11328844","sub_label":"Kwirk","sub_aliases":["Puzzle Boy","Puzzle Boys"],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q7497192","sub_label":"Tokyo Mirage Sessions \u266fFE","sub_aliases":["Tokyo Mirage Sessions #FE","Shin Megami Tensei X Fire Emblem"],"obj_id":"Q780528","obj_label":"Atlus","answer_idx":2}
+{"sub_id":"Q3312737","sub_label":"Midway Arcade Treasures","sub_aliases":["Midway Arcade Treasures 1"],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q2311359","sub_label":"X-Men: Reign of Apocalypse","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q2569809","sub_label":"Spyro: Attack of the Rhynocs","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q3656176","sub_label":"Charlotte's Web","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q47474004","sub_label":"Street Fighter 30th Anniversary Collection","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q1188554","sub_label":"Age of Empires: The Age of Kings","sub_aliases":["The Age of Kings","Age of Kings"],"obj_id":"Q389261","obj_label":"Backbone Entertainment","answer_idx":3}
+{"sub_id":"Q4690228","sub_label":"Afro Samurai","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q18185769","sub_label":"Pokk\u00e9n Tournament","sub_aliases":["Pokken Tournament","Pokk\u00e9n Tournament DX"],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q3196429","sub_label":"Kid\u014d Senshi Gundam: Senj\u014d no Kizuna","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q2355468","sub_label":"Tales of Xillia 2","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q28127139","sub_label":"Mario Sports Superstars","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q20899751","sub_label":"Tales of Berseria","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment","answer_idx":4}
+{"sub_id":"Q55532","sub_label":"1942","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q1141946","sub_label":"Final Fight","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q956303","sub_label":"Ghosts 'n Goblins","sub_aliases":["\u9b54\u754c\u6751","Makaimura"],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q2539142","sub_label":"Cadillacs and Dinosaurs","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q1315653","sub_label":"Ghouls 'n Ghosts","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q1322480","sub_label":"Phoenix Wright: Ace Attorney","sub_aliases":["Phoenix Wright"],"obj_id":"Q14428","obj_label":"Capcom","answer_idx":5}
+{"sub_id":"Q54851","sub_label":"Clone Wars Adventures","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q691224","sub_label":"Free Realms","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q1476927","sub_label":"Vanguard: Saga of Heroes","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q23013631","sub_label":"H1Z1","sub_aliases":["H1Z1: KOTK","H1Z1: King of the Kill","Z1 Battle Royale"],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q333367","sub_label":"PlanetSide 2","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q55272","sub_label":"Star Wars Galaxies","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company","answer_idx":6}
+{"sub_id":"Q2655757","sub_label":"Kuon","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q3357676","sub_label":"Otogi: Myth of Demons","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q7712517","sub_label":"The Adventures of Cookie & Cream","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q55609312","sub_label":"D\u00e9racin\u00e9","sub_aliases":["Deracine"],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q6150799","sub_label":"Shadow Tower","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q111683","sub_label":"Chromehounds","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware","answer_idx":7}
+{"sub_id":"Q22954794","sub_label":"Pok\u00e9mon Sun and Moon","sub_aliases":["Pokemon Sun and Moon","SuMo","Pok\u00e9mon Sun\/ Pok\u00e9mon Moon"],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q1988120","sub_label":"Pok\u00e9mon Yellow","sub_aliases":["Pokemon Yellow","Pok\u00e9mon Yellow: Special Pikachu Edition","Pokemon Yellow: Special Pikachu Edition"],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q837346","sub_label":"Pok\u00e9mon Gold and Silver","sub_aliases":["Pokemon Gold and Silver","GS"],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q1154227","sub_label":"Pok\u00e9mon Platinum","sub_aliases":["Pokemon Platinum","Pok\u00e9mon Platinum Version","Pokemon Platinum Version"],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q20690147","sub_label":"Tembo the Badass Elephant","sub_aliases":[],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q2351827","sub_label":"Pok\u00e9mon Crystal","sub_aliases":["Pokemon Crystal"],"obj_id":"Q782028","obj_label":"Game Freak","answer_idx":8}
+{"sub_id":"Q2849803","sub_label":"AngularJS","sub_aliases":["Angular.js","Angular JS","Angular 1."],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q30637282","sub_label":"YouTube Kids","sub_aliases":["YT Kids"],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q18063397","sub_label":"Android One","sub_aliases":[],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q942327","sub_label":"Waze","sub_aliases":["Waze Android app"],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q14253532","sub_label":"Chromecast","sub_aliases":["Google Chromecast","CC"],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q171186","sub_label":"Blogger","sub_aliases":["Blogspot","blogspot.com",".blogspot.com","Google Blogger","Blogger beta","Blogger.com"],"obj_id":"Q95","obj_label":"Google","answer_idx":9}
+{"sub_id":"Q1154059","sub_label":"Kirby's Adventure","sub_aliases":["Kirby Adventure"],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q870981","sub_label":"Super Smash Bros.","sub_aliases":["Super Smash","Smash","Smash Bros.","Smash Bros","Smash Brothers","Super Smash Brothers","SSB"],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q3197316","sub_label":"Kirby: Triple Deluxe","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q2619366","sub_label":"Kirby's Block Ball","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q1705294","sub_label":"Pok\u00e9mon Snap","sub_aliases":["Pokemon Snap"],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q99655088","sub_label":"Kirby Fighters 2","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory","answer_idx":10}
+{"sub_id":"Q181596","sub_label":"Statistical Package for the Social Sciences","sub_aliases":["SPSS"],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q25390342","sub_label":"POWER9","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q1121334","sub_label":"Postfix","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q2468681","sub_label":"POWER4","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q2706928","sub_label":"POWER3","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q1411665","sub_label":"Virtual Telecommunications Access Method","sub_aliases":["VTAM"],"obj_id":"Q37156","obj_label":"IBM","answer_idx":11}
+{"sub_id":"Q2421908","sub_label":"Castlevania: Rondo of Blood","sub_aliases":["Castlevania: Dracula X","Castlevania: Vampire's Kiss","Castlevania: The Dracula Chronicles","Akumaj\u014d Dracula X: Chi no Rondo"],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q247935","sub_label":"Metal Gear Solid 3: Snake Eater","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q837338","sub_label":"Silent Hill 3","sub_aliases":["'' Silent Hill 3 '''"],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q1920147","sub_label":"Super Contra","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q2320111","sub_label":"Vampire Killer","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q1368099","sub_label":"Contra III: The Alien Wars","sub_aliases":["Super Probotector: Alien Rebels","Contra Spirits"],"obj_id":"Q45700","obj_label":"Konami","answer_idx":12}
+{"sub_id":"Q48263","sub_label":"Xbox 360","sub_aliases":["X-BOX 360","XB360","Xbox 360 Elite","X360","Xbox 360 E","Xbox 360 S","360","XBOX360"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q978185","sub_label":"TypeScript","sub_aliases":["TS",".ts"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q2370","sub_label":"C#","sub_aliases":["C-Sharp","CSharp","C Sharp","C\u266f"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q11215","sub_label":"Windows 7","sub_aliases":["Microsoft Windows 7","Win7","Windows 7 SP1","Windows Seven","Windows Vienna","Vienna","Windows Blackcomb"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q1575","sub_label":"Internet Explorer","sub_aliases":["IE","Windows Internet Explorer","Microsoft Internet Explorer","MSIE","Internet Jumpstart Kit","Windows IE","MS IE"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q47604","sub_label":"MS-DOS","sub_aliases":["MSDOS","Microsoft DOS","MS DOS","Microsoft Disk Operating System"],"obj_id":"Q2283","obj_label":"Microsoft","answer_idx":13}
+{"sub_id":"Q3143715","sub_label":"Hydro Thunder","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q3421557","sub_label":"Ready 2 Rumble Boxing: Round 2","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q4926943","sub_label":"Blitz: The League","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q843486","sub_label":"Mortal Kombat II","sub_aliases":["Mortal Kombat 2","MK2","MKII"],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q925253","sub_label":"Mortal Kombat 3","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q3005567","sub_label":"Cruis'n World","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games","answer_idx":14}
+{"sub_id":"Q1461054","sub_label":"OpenJDK","sub_aliases":["jdk"],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q741303","sub_label":"Java Development Kit","sub_aliases":["Java 2 SDK","JDK","J2SDK","Java 2 Software Development Kit","Java SDK"],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q16928072","sub_label":"Graal","sub_aliases":["GraalVM","GraalVM Community Edition"],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q2190596","sub_label":"Tuxedo","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q283820","sub_label":"Btrfs","sub_aliases":["B-tree file system"],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q640741","sub_label":"MySQL Workbench","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle","answer_idx":15}
+{"sub_id":"Q836690","sub_label":"The Simpsons: Hit & Run","sub_aliases":["The Simpsons Hit & Run","The Simpsons Hit and Run"],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q6902881","sub_label":"Monsters, Inc. Scream Arena","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q473852","sub_label":"Prototype","sub_aliases":["[PROTOTYPE]"],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q869522","sub_label":"Crash Tag Team Racing","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q2016278","sub_label":"Beavis and Butt-head","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q5223435","sub_label":"Dark Summit","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment","answer_idx":16}
+{"sub_id":"Q1688483","sub_label":"Jet Force Gemini","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q524661","sub_label":"Perfect Dark Zero","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q1741985","sub_label":"Kinect Sports","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q3048043","sub_label":"Mickey's Speedway USA","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q774773","sub_label":"Donkey Kong 64","sub_aliases":["DK64","DK 64"],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q2188282","sub_label":"R.C. Pro-Am","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd.","answer_idx":17}
+{"sub_id":"Q751346","sub_label":"NetworkManager","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q2912272","sub_label":"OpenShift","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q768923","sub_label":"D-Bus","sub_aliases":["dbus","DBus","Desktop Bus"],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q830550","sub_label":"GlusterFS","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q1188957","sub_label":"libvirt","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q483544","sub_label":"Anaconda","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat","answer_idx":18}
+{"sub_id":"Q1707792","sub_label":"Space Harrier","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q1432516","sub_label":"Daytona USA 2","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q1060660","sub_label":"Virtua Fighter","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q654354","sub_label":"Shenmue","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q1070977","sub_label":"Border Break","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q2660069","sub_label":"Sword of Vermilion","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2","answer_idx":19}
+{"sub_id":"Q4053202","sub_label":"Wizard and the Princess","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q1751498","sub_label":"Mystery House","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q2268809","sub_label":"Quest for Glory: So You Want to Be a Hero","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q1742194","sub_label":"King's Quest I","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q588963","sub_label":"Phantasmagoria","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q384919","sub_label":"Space Quest","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment","answer_idx":20}
+{"sub_id":"Q1378740","sub_label":"PSX","sub_aliases":["PlayStation X","PlayStation Extreme"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q960773","sub_label":"Ape Escape","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q1262565","sub_label":"DualShock","sub_aliases":["DualShock Analog Controller","Dual Shock","Dualshock","DualShock series"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q1132745","sub_label":"Dual Analog Controller","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q2562250","sub_label":"The Legend of Dragoon","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q56668812","sub_label":"PlayStation Classic","sub_aliases":["PS Classic","PlayStation 1 Classic","PS 1 Classic"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment","answer_idx":21}
+{"sub_id":"Q647780","sub_label":"Kaku-San-Sei Million Arthur","sub_aliases":["Million Arthur"],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q2147678","sub_label":"Unlimited Saga","sub_aliases":["unlimited:SaGa"],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q626802","sub_label":"Kingdom Hearts II","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q2538054","sub_label":"Musashi: Samurai Legend","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q327594","sub_label":"Final Fantasy XII","sub_aliases":["Final Fantasy","Final Fantasy game","Final Fantasy xii","Final Fantasy xii game","Final Fantasy XII game"],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q1339322","sub_label":"The Last Remnant","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix","answer_idx":22}
+{"sub_id":"Q2891460","sub_label":"Batman: Rise of Sin Tzu","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q645418","sub_label":"Donald Duck: Goin' Quackers","sub_aliases":["Donald Duck: Quack Attack"],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q1814981","sub_label":"Shaun White Snowboarding","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q1193623","sub_label":"Lost: Via Domus","sub_aliases":["Lost: The Video Game"],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q16319370","sub_label":"Child of Light","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q2713853","sub_label":"Naruto: Rise of a Ninja","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal","answer_idx":23}
+{"sub_id":"Q17506098","sub_label":"NBA 2K15","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}
+{"sub_id":"Q13715618","sub_label":"NBA 2K14","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}
+{"sub_id":"Q2837379","sub_label":"All-Pro Football 2K8","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}
+{"sub_id":"Q1684851","sub_label":"NBA 2K11","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}
+{"sub_id":"Q65040623","sub_label":"NBA 2K20","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}
+{"sub_id":"Q54871545","sub_label":"NBA 2K19","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts","answer_idx":24}

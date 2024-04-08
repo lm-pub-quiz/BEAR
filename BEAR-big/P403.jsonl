@@ -1,0 +1,600 @@
+{"sub_id":"Q998333","sub_label":"Gacka","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q71621","sub_label":"Sangro","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q788452","sub_label":"Dragonja","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q372490","sub_label":"Bojana","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q736668","sub_label":"Shkumbin","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q14087","sub_label":"Tronto","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q71530","sub_label":"Aterno-Pescara","sub_aliases":["Aterno River"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q658594","sub_label":"Reno","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q643","sub_label":"Po","sub_aliases":["River Po","Po River"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q214551","sub_label":"Brenta","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q522100","sub_label":"Cetina","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q747929","sub_label":"Tagliamento","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q202760","sub_label":"So\u010da","sub_aliases":["Isonzo","Soca"],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q1236208","sub_label":"Marecchia","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q664362","sub_label":"Foglia","sub_aliases":[],"obj_id":"Q13924","obj_label":"Adriatic Sea"}
+{"sub_id":"Q6881611","sub_label":"Mithi River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q1030189","sub_label":"Hingol River","sub_aliases":["Hungol River"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3521753","sub_label":"Valapattanam River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q7348","sub_label":"Indus River","sub_aliases":["Darya-i-Sindh","Mehran river","Sindhu River","Sindh River","Indus"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3248039","sub_label":"Hub River","sub_aliases":["Hab River"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q6735075","sub_label":"Mah\u00e9 River","sub_aliases":["Mahe River"],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q10362759","sub_label":"Zuari River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q11225404","sub_label":"Wadi Hadhramaut","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3520928","sub_label":"Netravati River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q7915411","sub_label":"Varahi River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q2587169","sub_label":"Mandovi River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q630397","sub_label":"Sabarmati","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q2604984","sub_label":"Chaliyar","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3519817","sub_label":"Sharavathi","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q3595344","sub_label":"Kadalundi River","sub_aliases":[],"obj_id":"Q58705","obj_label":"Arabian Sea"}
+{"sub_id":"Q207136","sub_label":"\u00dej\u00f3rs\u00e1","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q320649","sub_label":"Cunene River","sub_aliases":["Kunene River"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q207366","sub_label":"Adour","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q123362","sub_label":"Charente","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q3569","sub_label":"Senegal River","sub_aliases":["Senegal"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q3503","sub_label":"Congo","sub_aliases":["Zaire River","Congo River"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q589911","sub_label":"Essequibo River","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q14554","sub_label":"Minho River","sub_aliases":["Rio Minho","R\u00edo Mi\u00f1o"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q160819","sub_label":"Gambia River","sub_aliases":["River Gambia","River Gambra"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q213840","sub_label":"Cuanza River","sub_aliases":["Coanza River","Quanza River"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q15656","sub_label":"Mondego River","sub_aliases":["Mondego"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q867460","sub_label":"Long Island Sound","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q486636","sub_label":"Draa River","sub_aliases":["Darha"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q14299","sub_label":"Douro","sub_aliases":["Duero","Duero River","Douro River"],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q842462","sub_label":"Vilaine","sub_aliases":[],"obj_id":"Q97","obj_label":"Atlantic Ocean"}
+{"sub_id":"Q1515455","sub_label":"S\u0142upia","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q696745","sub_label":"Recknitz","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q6979909","sub_label":"Br\u00e4kne\u00e5n","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q3280","sub_label":"Warnow","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q534929","sub_label":"Barthe","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q4991975","sub_label":"Lyckeby\u00e5n","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q271112","sub_label":"\u00c5ngerman River","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q504582","sub_label":"Rega","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q729801","sub_label":"Trosa\u00e5n","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q1810813","sub_label":"\u0141eba","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q215397","sub_label":"Venta","sub_aliases":["Windau","Windawa","Vanta","Venta River"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q2071851","sub_label":"Pars\u0119ta","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q6976632","sub_label":"Pia\u015bnica","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q5622","sub_label":"Neman River","sub_aliases":["Nyoman","Niemen","Nemunas","Memel","Nioman"],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q4803847","sub_label":"Gothems\u00e5n","sub_aliases":[],"obj_id":"Q545","obj_label":"Baltic Sea"}
+{"sub_id":"Q8051120","sub_label":"Yeerung River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q7197373","sub_label":"Pipers River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q2155460","sub_label":"Forth River, Australia","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q4860645","sub_label":"Barham River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q7138369","sub_label":"Parker River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q4887393","sub_label":"Benedore River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q1339781","sub_label":"Emu River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q4698653","sub_label":"Aire River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q5032534","sub_label":"Cann River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q4763386","sub_label":"Anglesea River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q14935138","sub_label":"Erskine River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q7799366","sub_label":"Thurra River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q971590","sub_label":"Tamar River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q8025135","sub_label":"Wingan River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q914028","sub_label":"Inglis River","sub_aliases":[],"obj_id":"Q171846","obj_label":"Bass Strait"}
+{"sub_id":"Q3506413","sub_label":"Ponnaiyar River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q3523794","sub_label":"Kollidam River","sub_aliases":["Kollidam"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q1125242","sub_label":"Meghna River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q2825422","sub_label":"Adyar River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q2982759","sub_label":"Feni River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q7913057","sub_label":"Vamsadhara River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q1709169","sub_label":"Barak River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q45403","sub_label":"Brahmaputra River","sub_aliases":["Tsangpo-Brahmaputra","Dihong"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q1129931","sub_label":"Cooum River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q4985057","sub_label":"Budhabalanga River","sub_aliases":["Balanga River"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q739687","sub_label":"Hooghly River","sub_aliases":["Hooghly","H\u00fbgli"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q496952","sub_label":"Naf River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q216239","sub_label":"Kaveri","sub_aliases":["Cauvery","Kaveri River"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q6958704","sub_label":"Nagavali River","sub_aliases":[],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q191314","sub_label":"Godavari River","sub_aliases":["Godavari"],"obj_id":"Q38684","obj_label":"Bay of Bengal"}
+{"sub_id":"Q60067","sub_label":"Kuskokwim River","sub_aliases":["Kuskokwim River\u3001Kusko River"],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4199945","sub_label":"Il'piveyem","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4066216","sub_label":"Anivayam","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4205140","sub_label":"Istyk","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q16895878","sub_label":"Nome River","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4279636","sub_label":"Malyuveem","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4443095","sub_label":"Storozh","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q763999","sub_label":"Unalakleet River","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4496598","sub_label":"Khatyrka","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4197027","sub_label":"Emivayam","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4400229","sub_label":"Rusakova","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4470785","sub_label":"Ukelayat","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4262262","sub_label":"Linlinvayam","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q104437","sub_label":"Yukon River","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q4393974","sub_label":"Vtoraya River","sub_aliases":[],"obj_id":"Q44725","obj_label":"Bering Sea"}
+{"sub_id":"Q1668781","sub_label":"Sf\u00e2ntu Gheorghe branch","sub_aliases":["Sfantu Gheorghe branch","Bra\u021bul Sf\u00e2ntul Gheorghe"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1344617","sub_label":"Chilia branch","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q504388","sub_label":"Inguri River","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q501454","sub_label":"Psou","sub_aliases":["Psou River"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1369180","sub_label":"Sulina branch","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1972264","sub_label":"Bzyb River","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q2657626","sub_label":"Khobi","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q2455311","sub_label":"Veleka","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q2385642","sub_label":"Reprua River","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q203409","sub_label":"Rioni","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1145293","sub_label":"Ye\u015fil\u0131rmak River","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q2119511","sub_label":"Ropotamo","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q188940","sub_label":"Southern Bug","sub_aliases":["Pivdennyi Buh","Boh River","Buh Pivdennyi","Hipanis"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1048890","sub_label":"Kodori River","sub_aliases":[],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q1653","sub_label":"Danube","sub_aliases":["Donau","Danube River"],"obj_id":"Q166","obj_label":"Black Sea"}
+{"sub_id":"Q3377609","sub_label":"Pacuare River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q1602686","sub_label":"Tocuyo River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q3273587","sub_label":"Tuy River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q3291594","sub_label":"Chav\u00f3n River","sub_aliases":["Chavon River"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q2154401","sub_label":"Rio Minho","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q7507308","sub_label":"Sibun River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q1634730","sub_label":"Ozama River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q3044624","sub_label":"Yaracuy River","sub_aliases":["R\u00edo Yaracuy"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q2631071","sub_label":"Sarstoon River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q1266226","sub_label":"Dunn's River Falls","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q3458711","sub_label":"Mulatos River","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q3458768","sub_label":"Rancher\u00eda River","sub_aliases":["Rancheria River"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q147326","sub_label":"Yaque del Sur","sub_aliases":["Yaque del Sur River"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q2154356","sub_label":"Rio Cobre","sub_aliases":[],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q2631101","sub_label":"Agu\u00e1n River","sub_aliases":["Aguan River"],"obj_id":"Q1247","obj_label":"Caribbean Sea"}
+{"sub_id":"Q1342847","sub_label":"Samur","sub_aliases":["Samur River"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q1430986","sub_label":"Sefid Rud","sub_aliases":["Amardos","Sef\u012bd-R\u016bd","Safid Rud"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q4249198","sub_label":"Qusar River","sub_aliases":["Qusar\u00e7ay"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q770781","sub_label":"Sulak","sub_aliases":["Sulak River"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q3512615","sub_label":"Sumgayit River","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q12844309","sub_label":"Karachay river","sub_aliases":["Qara\u00e7ay"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q3720471","sub_label":"Shuraozen","sub_aliases":["Shuraozen'","Shura-Ozen River"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q626","sub_label":"Volga","sub_aliases":["Volga River","River Volga"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q5673901","sub_label":"Babol River","sub_aliases":["Babol Rud"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q80240","sub_label":"Ural River","sub_aliases":["Ural","Zhayyq"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q6295339","sub_label":"Qarasu River ","sub_aliases":[],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q4111448","sub_label":"Vilesh","sub_aliases":["Weli-Tschai"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q3720244","sub_label":"Rubas","sub_aliases":["Rubas River"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q283622","sub_label":"Atrek River","sub_aliases":["R\u016bdkh\u0101neh-ye Atrak"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q517670","sub_label":"Emba River","sub_aliases":["Zhem"],"obj_id":"Q5484","obj_label":"Caspian Sea"}
+{"sub_id":"Q6772336","sub_label":"Maroochy River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q6268708","sub_label":"Johnstone River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q31599","sub_label":"Noosa River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q7416457","sub_label":"Sandon River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q21909878","sub_label":"Jeannie River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q6933976","sub_label":"Mulgrave River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q14934803","sub_label":"Evans River ","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q3012139","sub_label":"Daintree River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q5195191","sub_label":"Currumbin Creek","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q527474","sub_label":"Endeavour River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q2151242","sub_label":"Richmond River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q5210865","sub_label":"Dalhousie Creek","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q1010448","sub_label":"Burdekin River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q20859312","sub_label":"Pascoe River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q6907379","sub_label":"Mooloolah River","sub_aliases":[],"obj_id":"Q82931","obj_label":"Coral Sea"}
+{"sub_id":"Q16679547","sub_label":"Nanuk","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q32147903","sub_label":"Achikkuul'","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q82228","sub_label":"Alazeya","sub_aliases":["Alazeya River"],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q12088329","sub_label":"Bol'shoy Eterikan","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q35329829","sub_label":"Ryveyem","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q1111274","sub_label":"Pegtymel River","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q38060014","sub_label":"Chukoch\u2019ya Protoka","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q48941895","sub_label":"Protoka Srednyaya","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q2573871","sub_label":"Balyktakh","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q1108208","sub_label":"Bol'shaya Khomus-Yuryakh","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q78879","sub_label":"Kolyma","sub_aliases":["Kolyma River"],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q32750899","sub_label":"Enmaattyr","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q2574082","sub_label":"Rauchua River","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q23846554","sub_label":"Yttykkulveem","sub_aliases":["Etyukul'veyem"],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q14943293","sub_label":"Kitepveyem","sub_aliases":[],"obj_id":"Q163434","obj_label":"East Siberian Sea"}
+{"sub_id":"Q3099370","sub_label":"Gou\u00ebt","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q661525","sub_label":"Bresle","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1238790","sub_label":"River Exe","sub_aliases":["Exe"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q3242393","sub_label":"River Fal","sub_aliases":["Dowr Fala"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1143082","sub_label":"River Cuckmere","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q666291","sub_label":"River Teign","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q969618","sub_label":"Touques","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1247758","sub_label":"S\u00e9e","sub_aliases":["See"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1346604","sub_label":"River Piddle","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q632961","sub_label":"Couesnon","sub_aliases":["Couesnon River"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q698998","sub_label":"Arques","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q1471","sub_label":"Seine","sub_aliases":["river Seine","Seine River"],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q2861062","sub_label":"Arguenon","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q261603","sub_label":"River Arun","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q379099","sub_label":"River Adur","sub_aliases":[],"obj_id":"Q34640","obj_label":"English Channel"}
+{"sub_id":"Q2873108","sub_label":"Auvignon","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q897439","sub_label":"Touch","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q288629","sub_label":"Volp","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q867604","sub_label":"Ciron","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q1075373","sub_label":"Save","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q932993","sub_label":"Louge","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q11945748","sub_label":"river Valarties","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q1130775","sub_label":"S\u00e9oune","sub_aliases":["Seoune"],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q21619203","sub_label":"Arriu Unh\u00f2la","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q1010532","sub_label":"Gimone","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q118426","sub_label":"Barguelonne","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q836299","sub_label":"Gers","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q897217","sub_label":"Neste","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q211766","sub_label":"Lot","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q254725","sub_label":"Pique","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q23978952","sub_label":"Torres river","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q6114991","sub_label":"Cerezuelo River","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q4120492","sub_label":"Guadalbull\u00f3n","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23984801","sub_label":"Rivera de Huesna","sub_aliases":["Hu\u00e9znar"],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q17755","sub_label":"Guadajoz","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23987564","sub_label":"Arenoso","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23987767","sub_label":"Cuadros","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q2666460","sub_label":"Guadiamar","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q6109263","sub_label":"Rivera de Huelva","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23990944","sub_label":"Aguamulas River","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q16572982","sub_label":"Guadalmellato","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23979590","sub_label":"Retortillo","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q23980032","sub_label":"Arroyo Salado de Lebrija","sub_aliases":[],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q17761","sub_label":"Guada\u00edra","sub_aliases":["Guadaira"],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q17794","sub_label":"J\u00e1ndula River","sub_aliases":["Jandula River"],"obj_id":"Q14309","obj_label":"Guadalquivir"}
+{"sub_id":"Q2442985","sub_label":"Toolse River","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q36561730","sub_label":"Shingarka","sub_aliases":["Shingarka River"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q739632","sub_label":"V\u00e4\u00e4na River","sub_aliases":["V\u00e4\u00e4na"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q4234926","sub_label":"Vaalimaanjoki","sub_aliases":["Koskelanyoki","Koskelanjoki"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q11859708","sub_label":"Fiskars river","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q4517917","sub_label":"Chulkovka","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q4106215","sub_label":"Vilajoki","sub_aliases":["Velikaya"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q195867","sub_label":"Purtse River","sub_aliases":["Purtse"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q24309896","sub_label":"Taasianjoki","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q11892424","sub_label":"Santajoki","sub_aliases":["Peschanaya","Kaltonjoki"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q3744167","sub_label":"S\u00f5tke River","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q4417881","sub_label":"Urpalanjoki","sub_aliases":["Serga"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q1714829","sub_label":"J\u00e4gala River","sub_aliases":["J\u00e4gala"],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q4214235","sub_label":"Karasta","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q24343412","sub_label":"Summanjoki","sub_aliases":[],"obj_id":"Q14686","obj_label":"Gulf of Finland"}
+{"sub_id":"Q5046001","sub_label":"Carrabelle River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q6115723","sub_label":"R\u00edo Soto La Marina","sub_aliases":["Soto La Marina River"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q1139679","sub_label":"Usumacinta River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q5476381","sub_label":"Fowl River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q7396172","sub_label":"Sabine Pass","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q3433661","sub_label":"Calcasieu River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q5087406","sub_label":"Chassahowitzka River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q2299655","sub_label":"Suwannee River","sub_aliases":["Suwanee River"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q7606886","sub_label":"Steinhatchee River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q3348721","sub_label":"Ochlockonee River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q27035","sub_label":"Grijalva River","sub_aliases":["Tabasco River","R\u00edo Chiapa","Mezcalapa River"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q55262","sub_label":"Pascagoula River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q1468723","sub_label":"Nueces River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q617414","sub_label":"Apalachicola River","sub_aliases":[],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q583044","sub_label":"Papaloapan River","sub_aliases":["La poblaci\u00f3n entre todos los que rodean a el r\u00edo papaluapan"],"obj_id":"Q12630","obj_label":"Gulf of Mexico"}
+{"sub_id":"Q3433714","sub_label":"Kouchibouguac River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q22431558","sub_label":"N\u00e9tagamiou River","sub_aliases":["Rivi\u00e8re N\u00e9tagamiou"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q15842579","sub_label":"Jupiter River","sub_aliases":["Rivi\u00e8re Jupiter"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q15842568","sub_label":"Dartmouth river","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q859909","sub_label":"Natashquan River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q23021848","sub_label":"York river","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q860143","sub_label":"Little Mecatina River","sub_aliases":["Rivi\u00e8re du Petit M\u00e9catina","Riviere du Petit Mecatina"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q781978","sub_label":"Pokemouche River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q429286","sub_label":"Ch\u00e9ticamp River","sub_aliases":["Cheticamp River"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q1059646","sub_label":"Chaleur Bay","sub_aliases":["Baie des Chaleurs","Bay of Chaleur"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q15842608","sub_label":"Watshishou River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q1429272","sub_label":"St. Paul River","sub_aliases":["Aiahtshimeu Hipu","Rivi\u00e8re Saint-Paul"],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q3433914","sub_label":"Gros M\u00e9catina River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q22411265","sub_label":"Chicotte River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q23817443","sub_label":"Grand Pabos River","sub_aliases":[],"obj_id":"Q169523","obj_label":"Gulf of Saint Lawrence"}
+{"sub_id":"Q217670","sub_label":"Kogaluc River","sub_aliases":["Rivi\u00e8re Kogaluc","Riviere Kogaluc"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q19919401","sub_label":"Iktotat River","sub_aliases":["Rivi\u00e8re Iktotat"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q15842606","sub_label":"Vauquelin River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q80350","sub_label":"Winisk River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q19935808","sub_label":"Koktac River","sub_aliases":["Rivi\u00e8re Koktac"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q15842580","sub_label":"Kongut River","sub_aliases":["Rivi\u00e8re Kongut"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q72075","sub_label":"Thlewiaza River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q19934983","sub_label":"Qikirtaluup Kuunga River","sub_aliases":["Rivi\u00e8re Qikirtaluup Kuunga"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q1324875","sub_label":"Lake Tasiujaq","sub_aliases":["lac Guillaume-Delisle","lac Tasiujaq","Richmond Gulf"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q2416760","sub_label":"Thelon River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q94258","sub_label":"Povungnituk River","sub_aliases":["Rivi\u00e8re de Puvirnituq","Riviere de Puvirnituq"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q20750417","sub_label":"Sorehead River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q22420404","sub_label":"Formel River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q251648","sub_label":"Great Whale River","sub_aliases":["Grande rivi\u00e8re de la Baleine","Grande riviere de la Baleine"],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q20726130","sub_label":"Longland River","sub_aliases":[],"obj_id":"Q3040","obj_label":"Hudson Bay"}
+{"sub_id":"Q476317","sub_label":"Tugela River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q1163759","sub_label":"Ganges Delta","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q1130009","sub_label":"Great Fish River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3470706","sub_label":"Sambirano River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q173017","sub_label":"Limpopo River","sub_aliases":["Limpopo"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3285958","sub_label":"Maningory River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q904992","sub_label":"Breede River","sub_aliases":["Bre\u00eb River"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q138491","sub_label":"Jubba River","sub_aliases":["Juba","Webi Jubba"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q271044","sub_label":"Mahanadi","sub_aliases":["Mahanadi River","Mah\u0101nad\u012b River","Mah\u00e1nad\u00e9"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q2699957","sub_label":"Bemarivo River","sub_aliases":["Bemarivo"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q746779","sub_label":"Ruvuma River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q425","sub_label":"Betsiboka River","sub_aliases":["Betsiboka"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q936023","sub_label":"Rufiji River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3642203","sub_label":"Gourits River","sub_aliases":["Gouritz River"],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q506955","sub_label":"Pangani River","sub_aliases":[],"obj_id":"Q1239","obj_label":"Indian Ocean"}
+{"sub_id":"Q3612535","sub_label":"Alli","sub_aliases":["Crotalus"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q848877","sub_label":"Bradano","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q614659","sub_label":"Cassibile","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q3362574","sub_label":"Larissos","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q1721931","sub_label":"Thyamis","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q191087","sub_label":"Acheron","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q1641987","sub_label":"Neda","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q2837805","sub_label":"Allaro","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q2292234","sub_label":"Asinaro","sub_aliases":["Assinarus"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q5018782","sub_label":"Calcinara","sub_aliases":["Torrente Calcinara"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q1235338","sub_label":"Simeto","sub_aliases":["Symaethus","Symaithos"],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q6812965","sub_label":"Melito","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q3746244","sub_label":"Fiumefreddo river","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q866727","sub_label":"Bistric\u00eb","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q486100","sub_label":"Anapo","sub_aliases":[],"obj_id":"Q37495","obj_label":"Ionian Sea"}
+{"sub_id":"Q2390594","sub_label":"River Avoca","sub_aliases":["Abhainn Mh\u00f3r","Abhainn D\u00e9","Abhainn Abh\u00f3ca","Abhainn Mhor","Abhainn De","Abhainn Abhoca"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q3399804","sub_label":"River Rheidol","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q7337150","sub_label":"River Bladnoch","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1165852","sub_label":"River Dargle","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q2408129","sub_label":"River Vartry","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q851348","sub_label":"River Cleddau","sub_aliases":["Cleddau","Cleddau River"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q7337374","sub_label":"River Dysynni","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1585830","sub_label":"River Mawddach","sub_aliases":["Afon Mawddach","Mawddach"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q4574428","sub_label":"River Ehen","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q208009","sub_label":"Liffey","sub_aliases":["River Liffey","The River Liffey"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q868968","sub_label":"River Conwy","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q1122203","sub_label":"River Slaney","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q3445979","sub_label":"Silver Burn","sub_aliases":["Silverburn"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q2611124","sub_label":"River Dwyryd","sub_aliases":["Afon Dwyryd","Dwyryd"],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q3323743","sub_label":"Castletown River","sub_aliases":[],"obj_id":"Q41735","obj_label":"Irish Sea"}
+{"sub_id":"Q4222569","sub_label":"Kichera","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14915370","sub_label":"Pereyomnaya","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14943342","sub_label":"Tokshaki","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14915469","sub_label":"Nalimovka","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14943338","sub_label":"Shirildy","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14915368","sub_label":"Bol'shaya Shumikha","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q2462900","sub_label":"Utulik","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q2921573","sub_label":"Bugul'deyka","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q14915486","sub_label":"Rel","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q3017105","sub_label":"Davsha","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q3196524","sub_label":"Kika","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q808176","sub_label":"Barguzin River","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q75745","sub_label":"Selenga River","sub_aliases":["Selenga"],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q4408691","sub_label":"Sarma River","sub_aliases":["Sarma"],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q854686","sub_label":"Goloustnaya","sub_aliases":[],"obj_id":"Q5513","obj_label":"Lake Baikal"}
+{"sub_id":"Q4391220","sub_label":"Raholanjoki","sub_aliases":["Rakholanyoki","Rakholan-Yoki","Savijoki","Saviyoki","Kalyoki","Kaljoki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q53484","sub_label":"Syas","sub_aliases":["Syas'","Syas River"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4445977","sub_label":"Sumerianjoki","sub_aliases":["Sumerianyoki","Sumerian-yoki","Sumerian-joki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q15243","sub_label":"Volkhov","sub_aliases":["Volkhov River"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4448571","sub_label":"Sysky\u00e4njoki","sub_aliases":["Syuskuyanyoki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4293986","sub_label":"Miinalanjoki","sub_aliases":["Minalanyoki","Miynalanyoki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4329202","sub_label":"Obzhanka","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q1714941","sub_label":"J\u00e4nisjoki","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4465154","sub_label":"Tuloksa","sub_aliases":["Tuulos","Lumbas"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q819448","sub_label":"Vuoksa","sub_aliases":["Vuoksi"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4403655","sub_label":"Savaynyoki","sub_aliases":["Savainjoki","Savan-Yoki","Savanyoki","Savanjoki","Savan-Joki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q213067","sub_label":"Svir","sub_aliases":["Svir'"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q2024689","sub_label":"Uuksunjoki","sub_aliases":["Uksunyoki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q4303521","sub_label":"Morye","sub_aliases":[],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q1816420","sub_label":"Tohmajoki","sub_aliases":["Tokhmayoki","Tokhma","Khelyulyanyoki"],"obj_id":"Q15288","obj_label":"Lake Ladoga"}
+{"sub_id":"Q32153687","sub_label":"Rumpi River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q26868927","sub_label":"Lufira","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32149711","sub_label":"Nankundu River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32138475","sub_label":"Livulezi River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32139163","sub_label":"Lungwena","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32144658","sub_label":"Mpatsanjoka","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32137963","sub_label":"Linthipe","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32150517","sub_label":"Ngodzi River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32140176","sub_label":"Mafi","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q2006780","sub_label":"North Nukuru River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q2175154","sub_label":"Ruhuhu River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32149696","sub_label":"Nankolakolo","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32142898","sub_label":"Mbwasi","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q32138137","sub_label":"Lisangadzi River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q1268417","sub_label":"Dwangwa River","sub_aliases":[],"obj_id":"Q5532","obj_label":"Lake Malawi"}
+{"sub_id":"Q4484027","sub_label":"Filippa","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4362974","sub_label":"Pindushka","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4385713","sub_label":"Pyalma","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4069125","sub_label":"Arzhema","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q35307423","sub_label":"Pukhta","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q30890100","sub_label":"Selgskaya Rechka","sub_aliases":["Udega","Sel'gskaya Rechka"],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4138589","sub_label":"Gimreka","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4316725","sub_label":"Neleksa","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4384364","sub_label":"Putka","sub_aliases":["Nizhnyaya Putka"],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4091749","sub_label":"Bolshaya Uya","sub_aliases":["Bol'shaya Uya"],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4226125","sub_label":"Kodacha","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4507132","sub_label":"Chapa","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4257748","sub_label":"Lelrechka","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q2492910","sub_label":"Vytegra","sub_aliases":["Vytegra River"],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q4315946","sub_label":"Neglinka","sub_aliases":[],"obj_id":"Q166162","obj_label":"Lake Onega"}
+{"sub_id":"Q1273955","sub_label":"Saint Louis River","sub_aliases":["St. Louis River"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q14177621","sub_label":"Gooseberry River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q1710848","sub_label":"Pic River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q1524764","sub_label":"Michipicoten River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7241591","sub_label":"Presque Isle River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q6652094","sub_label":"Little Sucker River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7859003","sub_label":"Two Hearted River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q4906479","sub_label":"Big Sucker Creek","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q5948294","sub_label":"Hurricane River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q4691630","sub_label":"Agawa River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7575054","sub_label":"Speckled Trout Creek","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q4938419","sub_label":"Bois Brule River","sub_aliases":["Brule River"],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q6531937","sub_label":"Lester River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7095064","sub_label":"Ontonagon River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q7259088","sub_label":"Pukaskwa River","sub_aliases":[],"obj_id":"Q1066","obj_label":"Lake Superior"}
+{"sub_id":"Q3753322","sub_label":"Frigido","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q3830036","sub_label":"Leira, Italy","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q3655043","sub_label":"Canale Burlamacca","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q692549","sub_label":"Magra","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q1344504","sub_label":"Entella","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q1978088","sub_label":"Nervia","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q3664425","sub_label":"Centa","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q3665218","sub_label":"Cerusa","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q645291","sub_label":"Argentina","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q2823442","sub_label":"Acqua Tignese","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q3556173","sub_label":"Versilia ","sub_aliases":["Versilia Creek"],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q866011","sub_label":"Bisagno","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q21079393","sub_label":"Varatella","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q4008701","sub_label":"Varenna","sub_aliases":[],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q19961943","sub_label":"Pora","sub_aliases":["Porra"],"obj_id":"Q42820","obj_label":"Ligurian Sea"}
+{"sub_id":"Q1057961","sub_label":"Ceyhan River","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q765483","sub_label":"Bes\u00f2s","sub_aliases":["riu Bes\u00f2s"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q1529011","sub_label":"T\u00eat","sub_aliases":["Tet"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q214240","sub_label":"Aude","sub_aliases":["Aude River"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q14311","sub_label":"J\u00facar-X\u00faquer","sub_aliases":["X\u00faquer","Riu X\u00faquer","Rio J\u00facar","Jucar","Xuquer","Riu Xuquer","Rio Jucar"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q602","sub_label":"Rh\u00f4ne","sub_aliases":["Rhone"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q17956","sub_label":"Guadalhorce","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q18612","sub_label":"Segura","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q153675","sub_label":"Manavgat River","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q1146608","sub_label":"Moulouya River","sub_aliases":["Moulaya","Moulouya"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q644839","sub_label":"Argens","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q10965","sub_label":"Ebro","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q740393","sub_label":"Muga","sub_aliases":["La Muga"],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q772214","sub_label":"Chelif River","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q732201","sub_label":"G\u00f6ksu","sub_aliases":[],"obj_id":"Q4918","obj_label":"Mediterranean Sea"}
+{"sub_id":"Q221807","sub_label":"River Yare","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q2601506","sub_label":"River Ythan","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q1515974","sub_label":"River Aln","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q515022","sub_label":"River Tees","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q1266165","sub_label":"Oosterschelde","sub_aliases":["Eastern Scheldt"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q487864","sub_label":"Harle","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q19716","sub_label":"River Great Ouse","sub_aliases":["Great Ouse","Ouse"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q1585393","sub_label":"Haringvliet","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q41986","sub_label":"Meuse","sub_aliases":["Maas","Meuse River"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q430043","sub_label":"Marsdiep","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q550995","sub_label":"Humber","sub_aliases":["River Humber"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q2001027","sub_label":"River Orwell","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q1650","sub_label":"Weser","sub_aliases":["Werser"],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q2473946","sub_label":"River Ugie","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q584","sub_label":"Rhine","sub_aliases":[],"obj_id":"Q1693","obj_label":"North Sea"}
+{"sub_id":"Q49949882","sub_label":"Logtown Run","sub_aliases":["Logstown Run"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q34665045","sub_label":"Congress Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q7859834","sub_label":"Tygarts Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5086909","sub_label":"Chartiers Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6705186","sub_label":"Lusk Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49858171","sub_label":"Big Sewickley Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5475916","sub_label":"Fourteen Mile Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49923632","sub_label":"Lacock Run","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49898927","sub_label":"Dutchman Run","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49913678","sub_label":"Flaugherty Run","sub_aliases":["Boggs Run"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q20709354","sub_label":"Laughery Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q34673441","sub_label":"Forked Run","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49915794","sub_label":"Fourmile Run","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q49915290","sub_label":"Fosburg Run","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6841472","sub_label":"Middle Island Creek","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q232264","sub_label":"San Francisco Bay","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q1511554","sub_label":"Lempa River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q1343245","sub_label":"R\u00edmac","sub_aliases":["R\u00edmac River","Rimac","Rimac River","R\u00edo R\u00edmac"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q738745","sub_label":"Aconcagua River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q1479360","sub_label":"Maule River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q726986","sub_label":"Mamberamo River","sub_aliases":["Sungai Mamberamo"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q738445","sub_label":"Elqui River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q124878","sub_label":"Shimanto River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q1426113","sub_label":"Tolt\u00e9n River","sub_aliases":["Tolten River"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q737831","sub_label":"Loa River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q93360","sub_label":"B\u00edo B\u00edo River","sub_aliases":["Bio Bio River","Biobio River"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q2302661","sub_label":"R\u00edo Grande de Santiago","sub_aliases":["Rio Grande de Santiago"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q542965","sub_label":"Los Angeles River","sub_aliases":["L.A. River","LA River"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q2092571","sub_label":"Stikine River","sub_aliases":[],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q738478","sub_label":"Limar\u00ed River","sub_aliases":["Limari River"],"obj_id":"Q98","obj_label":"Pacific Ocean"}
+{"sub_id":"Q11500714","sub_label":"Hii River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q2090210","sub_label":"G\u014dnokawa River","sub_aliases":["Gonokawa River"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q11442115","sub_label":"Amanogawa","sub_aliases":["Amanogawa River","Amano-gawa","Amano"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q55501","sub_label":"Nakdong River","sub_aliases":["Rakdong River"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q11635570","sub_label":"Aka River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q11603978","sub_label":"Yoneshiro River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q7498581","sub_label":"Shiribeshi-Toshibetsu River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q6449325","sub_label":"Kuzury\u016b River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q11447417","sub_label":"Himekawa River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q11447867","sub_label":"Koyoshi River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q489946","sub_label":"Hyeongsan River","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q7450175","sub_label":"Sendai River ","sub_aliases":[],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q734455","sub_label":"Shinano River","sub_aliases":["Chikuma River"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q2214518","sub_label":"Kiyevka River","sub_aliases":["Kiyevka"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q7379336","sub_label":"Rumoi River","sub_aliases":["Rumoi-gawa"],"obj_id":"Q27092","obj_label":"Sea of Japan"}
+{"sub_id":"Q2623351","sub_label":"Tigil","sub_aliases":["Tigil'","Tigil River"],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4142674","sub_label":"Golygina River","sub_aliases":["Golygina"],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4385289","sub_label":"Pymta","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q3488628","sub_label":"Ulbeya","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1466439","sub_label":"Okhota River","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4222336","sub_label":"Kisun","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q7500188","sub_label":"Shokotsu River","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4494851","sub_label":"Khayryuzova","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4222541","sub_label":"Kikhchik","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1971030","sub_label":"Gizhiga","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q7813680","sub_label":"Tokoro River","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1608234","sub_label":"Tauy","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4082312","sub_label":"Belogolovaya","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4312375","sub_label":"Nayba","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q1104640","sub_label":"Y\u016bbetsu River","sub_aliases":[],"obj_id":"Q41602","obj_label":"Sea of Okhotsk"}
+{"sub_id":"Q4199638","sub_label":"Il'inka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4515228","sub_label":"Chekhovka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4521888","sub_label":"Shebuninka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4055478","sub_label":"Avgustovka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q16673658","sub_label":"Malaya Dyuanka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4259874","sub_label":"Lesogorka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4499228","sub_label":"Kholmskaya","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q2489943","sub_label":"Samarga River","sub_aliases":["Samarga"],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4110477","sub_label":"Viakhtu","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4056985","sub_label":"Agnevo","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4238453","sub_label":"Krasnogorka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q16627454","sub_label":"Bolshaya Dyuanka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4500637","sub_label":"Khoe","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4468900","sub_label":"Uglegorka","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q4064566","sub_label":"Amurskaya","sub_aliases":[],"obj_id":"Q110802","obj_label":"Strait of Tartary"}
+{"sub_id":"Q8007897","sub_label":"Jishui River","sub_aliases":[],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q700777","sub_label":"Erren River","sub_aliases":[],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q2420747","sub_label":"Tamsui River","sub_aliases":["Danshui He"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q6963739","sub_label":"Nankan River","sub_aliases":[],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q5434432","sub_label":"Fanzihliao River","sub_aliases":["Fanziliao Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q708374","sub_label":"Zhuoshui River","sub_aliases":["Choshui River","Jhuoshuei River"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q57256","sub_label":"Gaoping River","sub_aliases":["Kaoping River","Gaoping Xi","Xiadanshui River","Hsiatanshui River"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q11173760","sub_label":"Chienchen River","sub_aliases":["Qianzhen Yunhe"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q5465035","sub_label":"Fengshan River","sub_aliases":["Fengshan Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q11070260","sub_label":"Houlong River","sub_aliases":[],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q714246","sub_label":"Dajia River","sub_aliases":["Dajia Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q11119649","sub_label":"Fenggang River","sub_aliases":["Fenggang Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q15921248","sub_label":"Xihu River","sub_aliases":["Xihu Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q697324","sub_label":"Zengwen River","sub_aliases":[],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q11094995","sub_label":"Pozi River","sub_aliases":["Pozi Xi"],"obj_id":"Q127031","obj_label":"Taiwan Strait"}
+{"sub_id":"Q1768704","sub_label":"Rangit\u012bkei River","sub_aliases":["Rangitikei River"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1048219","sub_label":"Waikato River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q6772297","sub_label":"Marokopa River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q2461532","sub_label":"Tuross River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q765836","sub_label":"Hunter River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q646906","sub_label":"Moruya River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q706997","sub_label":"Taramakau River","sub_aliases":["Teramakau River"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q823277","sub_label":"Shoalhaven River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q618313","sub_label":"Manawatu River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1628207","sub_label":"Huon River","sub_aliases":["Huon River, Tasmania"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q13560132","sub_label":"Heaphy River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1490262","sub_label":"Whangaehu River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q556804","sub_label":"Bellinger River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q5882378","sub_label":"Hollyford River\/Whakatipu K\u0101 Tuka","sub_aliases":["Hollyford River"],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1943153","sub_label":"Mokau River","sub_aliases":[],"obj_id":"Q33254","obj_label":"Tasman Sea"}
+{"sub_id":"Q1223308","sub_label":"Albegna","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q649519","sub_label":"Golo","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q13712","sub_label":"Tiber","sub_aliases":["Tiberis","Tevere"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q1325664","sub_label":"Tusciano","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q1084625","sub_label":"Sarno","sub_aliases":["Sarnus"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q2820199","sub_label":"Abatesco","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q3346299","sub_label":"Numicus","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q287568","sub_label":"Garigliano","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q19631185","sub_label":"Fium Alto","sub_aliases":["Fium'Alto","Fium' Alto"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q1243685","sub_label":"Flumendosa","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q703305","sub_label":"Lao River, Italy","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q3355899","sub_label":"Oreto River","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q572191","sub_label":"Volturno","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q621202","sub_label":"Alento","sub_aliases":["Hales"],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q182969","sub_label":"Tavignano","sub_aliases":[],"obj_id":"Q38882","obj_label":"Tyrrhenian Sea"}
+{"sub_id":"Q3722843","sub_label":"Birsya","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723326","sub_label":"Baral","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3722998","sub_label":"Tuzlukkol","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723422","sub_label":"Vorovskaya","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723042","sub_label":"Urtaburtya","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3722943","sub_label":"Zingeyka","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723612","sub_label":"Bolshoy Kumak","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q1111259","sub_label":"Shagan","sub_aliases":["Chagan"],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3722767","sub_label":"Gumbeyka","sub_aliases":["Gumbeyka River"],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723592","sub_label":"Maly Kizil","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q2568448","sub_label":"Bolshoy Kizil","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723498","sub_label":"Yangelka","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3722777","sub_label":"Urlyada","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q3723115","sub_label":"Ebita","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q20576285","sub_label":"Berdyanka","sub_aliases":[],"obj_id":"Q80240","obj_label":"Ural River"}
+{"sub_id":"Q6743228","sub_label":"Lopatka","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q4418542","sub_label":"Sig","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q6937993","sub_label":"Maloshuyka","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q4310160","sub_label":"Myagreka","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q4225782","sub_label":"Kyuvikanda","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q1347122","sub_label":"Chapoma","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q6744369","sub_label":"Volosova","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q3816191","sub_label":"Koyda","sub_aliases":["Kojda"],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q1075070","sub_label":"Ponoy","sub_aliases":["Ponoy River"],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q6937674","sub_label":"Pushka","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q4475682","sub_label":"Unduksa","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q6745742","sub_label":"Bolshaya Kiya","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q1779724","sub_label":"Kolvitsa","sub_aliases":["Kolvitsa River"],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q4515711","sub_label":"Chizhreka","sub_aliases":["Chizh-reka"],"obj_id":"Q44133","obj_label":"White Sea"}
+{"sub_id":"Q19900782","sub_label":"Shoyna","sub_aliases":[],"obj_id":"Q44133","obj_label":"White Sea"}

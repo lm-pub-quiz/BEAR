@@ -1,0 +1,150 @@
+{"sub_id":"Q598231","sub_label":"Birsa Munda Airport","sub_aliases":["IXR","VERC","RANCHI"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q1431870","sub_label":"Kushok Bakula Rimpochee Airport","sub_aliases":["Leh Airport","IXL","VILH","LEH"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q1431173","sub_label":"Dabolim Airport","sub_aliases":["Goa Airport","Goa International Airport","GOI","VAGO","GOA"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q502670","sub_label":"Chennai International Airport","sub_aliases":["Madras International Airport","Anna International Terminal","Kamraj Domestic Terminal","Meenambakkam Airport","MAA","VOMM","CHENNAI","Madras Airport"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q2673010","sub_label":"Lok Nayak Jayaprakash Airport","sub_aliases":["Patna Airport","PAT","VEPT","PATNA"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q1432525","sub_label":"Pune Airport","sub_aliases":["Lohegaon Airport","Pune AB Airport","PNQ","VAPO","PUNE"],"obj_id":"Q3630199","obj_label":"Airports Authority of India","answer_idx":0}
+{"sub_id":"Q770386","sub_label":"Southwest Chief","sub_aliases":["Southwest Limited"],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q1218597","sub_label":"Northeast Regional","sub_aliases":["Regional","NortheastDirect","Acela Regional"],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q1036098","sub_label":"Hiawatha Service","sub_aliases":["Hiawatha"],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q847589","sub_label":"Pacific Surfliner","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q389948","sub_label":"Silver Meteor","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q46014043","sub_label":"2017 Washington train derailment","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak","answer_idx":1}
+{"sub_id":"Q546960","sub_label":"Meko 360","sub_aliases":[],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q3183870","sub_label":"Mantilla class patrol vessel","sub_aliases":[],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q5653859","sub_label":"ARA San Juan","sub_aliases":["S-42"],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q3283635","sub_label":"ARA Sarand\u00ed","sub_aliases":["ARA Sarandi"],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q2519278","sub_label":"Espora","sub_aliases":["Espora-class corvette","Argentine MEKO 140A16"],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q747743","sub_label":"Almirante Brown class","sub_aliases":["Almirante Brown-class destroyer"],"obj_id":"Q1777326","obj_label":"Argentine Navy","answer_idx":2}
+{"sub_id":"Q934922","sub_label":"Tintagel Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q764804","sub_label":"Kenwood House","sub_aliases":["Kenwood","Kenwood House (iveagh Bequest)"],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q1469493","sub_label":"Whitby Abbey","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q540237","sub_label":"Fountains Abbey","sub_aliases":["Fountains Cistercian Abbey"],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q1738764","sub_label":"Kenilworth Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q661855","sub_label":"Avebury","sub_aliases":["Avebury Stones","Avebury henge and stone circles"],"obj_id":"Q936287","obj_label":"English Heritage","answer_idx":3}
+{"sub_id":"Q4302480","sub_label":"Sentinel-2","sub_aliases":["Sentinel 2"],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q909703","sub_label":"Johannes Kepler ATV","sub_aliases":["ATV-002 Johannes Kepler","ATV-002","Automated Transfer Vehicle 002"],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q1009523","sub_label":"Georges Lema\u00eetre ATV","sub_aliases":["ATV-005","Automated Transfer Vehicle 005","ATV-005 Georges Lema\u00eetre","Georges Lemaitre ATV"],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q63350","sub_label":"Jupiter Icy Moon Explorer","sub_aliases":["JUICE"],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q725309","sub_label":"Planck","sub_aliases":["Cosmic Background Radiation Anisotropy Satellite\/Satellite for Measurement of Background Anisotropies","COBRAS\/SAMBA"],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q660356","sub_label":"Giotto","sub_aliases":[],"obj_id":"Q42262","obj_label":"European Space Agency","answer_idx":4}
+{"sub_id":"Q726641","sub_label":"Dunkerque class battleship","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q2080143","sub_label":"Foch","sub_aliases":["Foch, R 99"],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q429377","sub_label":"Narval","sub_aliases":["Q4","Q 4","French submarine Narval"],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q2006248","sub_label":"Soleil Royal","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q1058502","sub_label":"Mistral class amphibious assault ship","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q1061181","sub_label":"Triomphant-class submarine","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy","answer_idx":5}
+{"sub_id":"Q571372","sub_label":"Dresden-class cruiser","sub_aliases":["Dresden class"],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q533999","sub_label":"SMS Scharnhorst","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q694461","sub_label":"SMS Goeben","sub_aliases":["Yavuz Sultan Selim","Goeben"],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q688303","sub_label":"Kaiser-class battleship","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q551918","sub_label":"SMS Prinzregent Luitpold","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q697132","sub_label":"SMS Bl\u00fccher","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy","answer_idx":6}
+{"sub_id":"Q3558427","sub_label":"Saryu-class patrol vessel","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q1155823","sub_label":"MiG-29K","sub_aliases":["Mikoyan MiG-29K","MIG29K","Fulcrum-D"],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q5972559","sub_label":"INS Kochi","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q5972561","sub_label":"INS Kolkata","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q3488471","sub_label":"Delhi-class destroyer","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q3521714","sub_label":"INS Rana","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy","answer_idx":7}
+{"sub_id":"Q22668071","sub_label":"Mahamana Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q5576185","sub_label":"Godavari Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q7197614","sub_label":"Pir Panjal Railway Tunnel","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q3595302","sub_label":"Parasuram Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q13121126","sub_label":"Vidarbha Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q3595704","sub_label":"Kerala Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways","answer_idx":8}
+{"sub_id":"Q1138466","sub_label":"US-2","sub_aliases":["ShinMaywa US-2","US2"],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q6883080","sub_label":"Mitsubishi H-60","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q1634912","sub_label":"JDS Kong\u014d","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q3061263","sub_label":"JDS Kashima","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q1152025","sub_label":"\u014csumi class tank landing ship","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q549341","sub_label":"JS Ise","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force","answer_idx":9}
+{"sub_id":"Q703050","sub_label":"U-30","sub_aliases":["German submarine U-30","U30","U 30"],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q153370","sub_label":"German battleship Tirpitz","sub_aliases":["Tirpitz"],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q519370","sub_label":"Flettner Fl 282","sub_aliases":["Fletcher Fl 282 Kolibri","Hummingbird"],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q699024","sub_label":"U-29","sub_aliases":["German submarine U-29","U-29 submarine","U29 submarine"],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q383949","sub_label":"Type 1934 class destroyer","sub_aliases":[],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q655312","sub_label":"U-28","sub_aliases":["German submarine U-28"],"obj_id":"Q151701","obj_label":"Kriegsmarine","answer_idx":10}
+{"sub_id":"Q155360","sub_label":"Messerschmitt Me 163 Komet","sub_aliases":["Messerschmitt Me 163","ME163","Komet","Messerschmitt Komet","Me 163 Komet"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q155642","sub_label":"Bf 110","sub_aliases":["Messerschmitt Bf 110"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q34775","sub_label":"Fw 190","sub_aliases":["Focke-Wulf Fw 190"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q167286","sub_label":"Dornier Do 335","sub_aliases":["Pfeil fighter","Pfeil aircraft","Arrow fighter","Arrow aircraft","Do 335"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q156878","sub_label":"He 162 Volksj\u00e4ger","sub_aliases":["Heinkel He 162","He162","Salamander","Spatz","Sparrow","People's Fighter"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q154532","sub_label":"He 111","sub_aliases":["Heinkel He 111","He111"],"obj_id":"Q2564009","obj_label":"Luftwaffe","answer_idx":11}
+{"sub_id":"Q838827","sub_label":"HKU station","sub_aliases":["Hong Kong University Station","HKU","HKU Station"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q989335","sub_label":"Ma On Shan line","sub_aliases":["MOL"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q989330","sub_label":"Disneyland Resort line","sub_aliases":[],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q732649","sub_label":"Crossrail","sub_aliases":["Elizabeth line","Crossrail project"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q866024","sub_label":"Macau Light Rail Transit","sub_aliases":[],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q2106205","sub_label":"Hong Kong station","sub_aliases":["HOK"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited","answer_idx":12}
+{"sub_id":"Q460468","sub_label":"STS-132","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q48496","sub_label":"Mars Science Laboratory","sub_aliases":["MSL"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q178836","sub_label":"STS-107","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q48461","sub_label":"New Horizons","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q328927","sub_label":"STS-133","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q1766751","sub_label":"Constellation program","sub_aliases":["Project Constellation"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration","answer_idx":13}
+{"sub_id":"Q862312","sub_label":"Oregon Trail","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q2004262","sub_label":"USS Arizona Memorial","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q592198","sub_label":"Franklin Delano Roosevelt Memorial","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q985484","sub_label":"Manzanar","sub_aliases":["Manzanar War Relocation Center","Manzanar National Historic Site"],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q675702","sub_label":"Arlington House","sub_aliases":["Arlington House, The Robert E. Lee Memorial"],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q1438634","sub_label":"Fort McHenry","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service","answer_idx":14}
+{"sub_id":"Q928453","sub_label":"JL-1","sub_aliases":["\u5317\u7ea6\u4ee3\u53f7: \u201cCSS-N-3\u201d"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q129200","sub_label":"Liaoning","sub_aliases":["Type 001 aircraft carrier"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q860225","sub_label":"Type 054A frigate","sub_aliases":[],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q1209066","sub_label":"JL-2","sub_aliases":["CSS-N-4\/CSS-NX-4"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q151229","sub_label":"Chinese submarine 361","sub_aliases":["Great Wall # 61"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q1203377","sub_label":"Type 094 submarine","sub_aliases":["09-IV","Jin class"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy","answer_idx":15}
+{"sub_id":"Q2294530","sub_label":"Zara","sub_aliases":["Zara (1931)","Italian cruiser Zara"],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q3094097","sub_label":"Re Umberto-class ironclad","sub_aliases":["Re Umberto class"],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q1481262","sub_label":"Italian aircraft carrier Aquila","sub_aliases":["Aquila"],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q1190744","sub_label":"Littorio-class","sub_aliases":["Vittorio Veneto-class"],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q11707318","sub_label":"Regina Elena","sub_aliases":["Italian battleship Regina Elena"],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q2279080","sub_label":"Giuseppe Miraglia","sub_aliases":[],"obj_id":"Q855186","obj_label":"Regia Marina","answer_idx":16}
+{"sub_id":"Q4787528","sub_label":"Arctic Patrol Ship Project","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q3334316","sub_label":"HMCS Ville de Qu\u00e9bec","sub_aliases":["FFH 332"],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q3334300","sub_label":"HMCS Montr\u00e9al","sub_aliases":["FFH 336"],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q3334281","sub_label":"HMCS Alberni","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q5630754","sub_label":"HMCS Cayuga","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q177552","sub_label":"Halifax-class frigate","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy","answer_idx":17}
+{"sub_id":"Q1152178","sub_label":"MS Mariner of the Seas","sub_aliases":["IMO 9227510","Mariner of the Seas"],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q2635563","sub_label":"MS Grandeur of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q1340017","sub_label":"MS Enchantment of the Seas","sub_aliases":["Enchantment of the Seas"],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q192381","sub_label":"MS Oasis of the Seas","sub_aliases":["Oasis of the Seas","IMO 9383936"],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q2072116","sub_label":"MS Jewel of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q606959","sub_label":"Explorer of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International","answer_idx":18}
+{"sub_id":"Q3837436","sub_label":"Losharik","sub_aliases":["Russian submarine Losharik","Project 210"],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q4461857","sub_label":"Project 12700 Alexandrit","sub_aliases":["Alexandrit-class minesweeper","Alexandr Obukhov-class minesweeper","BT-730 class"],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q16685137","sub_label":"Project 03160 Raptor","sub_aliases":[],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q29413411","sub_label":"3M22 Zircon","sub_aliases":["3M22 Tsirkon","SS-N-33","Zircon"],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q1984972","sub_label":"Olenya","sub_aliases":["XLMO"],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q1723248","sub_label":"Kamov Ka-31","sub_aliases":[],"obj_id":"Q465283","obj_label":"Russian Navy","answer_idx":19}
+{"sub_id":"Q58767","sub_label":"Trans-Siberian railway","sub_aliases":["TSR"],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q4516642","sub_label":"Chita II","sub_aliases":["Chita 2"],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q1128196","sub_label":"Siemens Desiro ML RUS train","sub_aliases":["Lastochka"],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q1294789","sub_label":"Sapsan","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q578796","sub_label":"Khabarovsk-1 Station","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q548259","sub_label":"Finlandsky Rail Terminal","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways","answer_idx":20}
+{"sub_id":"Q630051","sub_label":"Il-40","sub_aliases":["Brawny","Ilyushin Il-40","Il40 aircraft"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q271446","sub_label":"MiG-3","sub_aliases":["Mikoyan-Gurevich MiG-3","Mikoyan MiG-3","MIG3"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q931706","sub_label":"La-15","sub_aliases":["Izdeliye 52","Type 21","Fantail","Lavochkin La-15","LA15"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q943315","sub_label":"Pe-2 Peshka","sub_aliases":["Peshka","Buck","Pekka-Eemeli","Petlyakov Pe-2 Peshka","PE2"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q1939029","sub_label":"Petlyakov Pe-3","sub_aliases":["Pe-3"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q562475","sub_label":"Yakovlev Yak-9","sub_aliases":["Frank","Iak-9","Yak-9"],"obj_id":"Q921432","obj_label":"Soviet Air Forces","answer_idx":21}
+{"sub_id":"Q19867977","sub_label":"Starlink","sub_aliases":["SpaceX satellite constellation"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q3038762","sub_label":"Dragon Spacecraft Qualification Unit","sub_aliases":["Dragon C100","SpaceX Dragon C100","C100"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q56650652","sub_label":"Starship","sub_aliases":["BFS","Interplanetary Spaceship","Big Falcon Ship","Starship upper stage"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q108782850","sub_label":"Endurance","sub_aliases":["Crew Dragon C210","Dragon C210","C210","SpaceX Dragon C210","Crew Dragon Endurance"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q96215689","sub_label":"C204","sub_aliases":["Dragon C204","SpaceX Dragon C204","Crew Dragon C204"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q47246047","sub_label":"Crew Dragon Demo-2","sub_aliases":["SpaceX Demo-2","NASA Demo-2","Crew Demo-2","Dragon Crew Demo-2","DM-2","SpX-DM-2","Demo-2"],"obj_id":"Q193701","obj_label":"SpaceX","answer_idx":22}
+{"sub_id":"Q1130988","sub_label":"Meteoro-class offshore patrol vessel","sub_aliases":["BAM","Buque de Accion Maritima","Buque de Acci\u00f3n Mar\u00edtima"],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q979877","sub_label":"Espa\u00f1a-class battleship","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q3274434","sub_label":"Jaime I","sub_aliases":["Spanish battleship Jaime I"],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q1158936","sub_label":"Torpedo ram","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q913332","sub_label":"S-80 Plus class","sub_aliases":["clase S-80 Plus","Isaac Peral","S 80 Plus class","S 80 class","S-80 class","S80","Isaac Peral class"],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q1987949","sub_label":"G-5 class motor torpedo boat","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy","answer_idx":23}
+{"sub_id":"Q1330093","sub_label":"SS Germanic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}
+{"sub_id":"Q25173","sub_label":"Titanic","sub_aliases":["The Titanic","RMS Titanic","Royal Mail Steamship Titanic"],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}
+{"sub_id":"Q2902230","sub_label":"Big Four","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}
+{"sub_id":"Q767166","sub_label":"Olympic-class ocean liner","sub_aliases":["Olympic Class"],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}
+{"sub_id":"Q1882903","sub_label":"CS Mackay-Bennett","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}
+{"sub_id":"Q376252","sub_label":"RMS Adriatic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line","answer_idx":24}

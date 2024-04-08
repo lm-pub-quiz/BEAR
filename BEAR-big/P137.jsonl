@@ -1,0 +1,568 @@
+{"sub_id":"Q598231","sub_label":"Birsa Munda Airport","sub_aliases":["IXR","VERC","RANCHI"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q1431870","sub_label":"Kushok Bakula Rimpochee Airport","sub_aliases":["Leh Airport","IXL","VILH","LEH"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q1431173","sub_label":"Dabolim Airport","sub_aliases":["Goa Airport","Goa International Airport","GOI","VAGO","GOA"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q2902692","sub_label":"Jodhpur Airport","sub_aliases":["Jodhpur AB Airport","JDH","VIJO","JODHPUR"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q502670","sub_label":"Chennai International Airport","sub_aliases":["Madras International Airport","Anna International Terminal","Kamraj Domestic Terminal","Meenambakkam Airport","MAA","VOMM","CHENNAI","Madras Airport"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q2673010","sub_label":"Lok Nayak Jayaprakash Airport","sub_aliases":["Patna Airport","PAT","VEPT","PATNA"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q1432525","sub_label":"Pune Airport","sub_aliases":["Lohegaon Airport","Pune AB Airport","PNQ","VAPO","PUNE"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q2247582","sub_label":"Jammu Airport","sub_aliases":["IXJ","VIJU","JAMMU"],"obj_id":"Q3630199","obj_label":"Airports Authority of India"}
+{"sub_id":"Q770386","sub_label":"Southwest Chief","sub_aliases":["Southwest Limited"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q1218597","sub_label":"Northeast Regional","sub_aliases":["Regional","NortheastDirect","Acela Regional"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q1036098","sub_label":"Hiawatha Service","sub_aliases":["Hiawatha"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q3095577","sub_label":"Miami Intermodal Center","sub_aliases":["Miami Airport Station","Miami International Airport"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q847589","sub_label":"Pacific Surfliner","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q389948","sub_label":"Silver Meteor","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q599348","sub_label":"1993 Big Bayou Canot train wreck","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q46014043","sub_label":"2017 Washington train derailment","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q3353998","sub_label":"Buenos Aires","sub_aliases":["Buenos Aires-class destroyer"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q3390936","sub_label":"Mendoza","sub_aliases":["Mendoza-class destroyer"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q546960","sub_label":"Meko 360","sub_aliases":[],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q3183870","sub_label":"Mantilla class patrol vessel","sub_aliases":[],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q5653859","sub_label":"ARA San Juan","sub_aliases":["S-42"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q3283635","sub_label":"ARA Sarand\u00ed","sub_aliases":["ARA Sarandi"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q2519278","sub_label":"Espora","sub_aliases":["Espora-class corvette","Argentine MEKO 140A16"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q747743","sub_label":"Almirante Brown class","sub_aliases":["Almirante Brown-class destroyer"],"obj_id":"Q1777326","obj_label":"Argentine Navy"}
+{"sub_id":"Q1254210","sub_label":"SMS Budapest","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q658670","sub_label":"SMS Admiral Spaun","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q277927","sub_label":"SMS Aspern","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q832155","sub_label":"SMS Warasdiner","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q558429","sub_label":"SMS Kronprinz Erzherzog Rudolf","sub_aliases":["Kronprinz Erzherzog Rudolf"],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q696735","sub_label":"SMS Kaiser Karl VI","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q278823","sub_label":"SMS Babenberg","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q2206931","sub_label":"SMS Juan de Austria","sub_aliases":[],"obj_id":"Q159211","obj_label":"Austro-Hungarian Navy"}
+{"sub_id":"Q14682028","sub_label":"Glen Park station","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q7102700","sub_label":"Orinda station","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q5843043","sub_label":"Lake Merritt station","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q5297037","sub_label":"Doolittle Maintenance and Storage Facility","sub_aliases":["Doolittle station"],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q7963571","sub_label":"Walnut Creek station","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q7414680","sub_label":"San Leandro station","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q250113","sub_label":"San Francisco International Airport station","sub_aliases":["SFIA station","SFO station"],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q4892034","sub_label":"Berkeley Hills Tunnel","sub_aliases":[],"obj_id":"Q610120","obj_label":"Bay Area Rapid Transit"}
+{"sub_id":"Q570943","sub_label":"Paulsternstra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q678372","sub_label":"Gleisdreieck","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q656523","sub_label":"Hausvogteiplatz station","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q571393","sub_label":"Mierendorffplatz","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q663264","sub_label":"Siemensdamm","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q658302","sub_label":"Hallesches Tor","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q689797","sub_label":"Prinzenstra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q68646","sub_label":"Berlin U-Bahn","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q18469230","sub_label":"Graja\u00fa-class patrol boat","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q10279097","sub_label":"F41 Defensora","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q12060481","sub_label":"Tupi-class submarine","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q3211254","sub_label":"Inha\u00fama-class corvette","sub_aliases":["Inhauma-class corvette"],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q10262560","sub_label":"Cv Inhuama","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q10366671","sub_label":"S30 Tupi","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q9542","sub_label":"Minas Geraes-class battleship","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q604977","sub_label":"Bahia-class cruiser","sub_aliases":[],"obj_id":"Q1750688","obj_label":"Brazilian Navy"}
+{"sub_id":"Q41804671","sub_label":"Reichspr\u00e4sident-Ebert-Kaserne","sub_aliases":["Iserbrook-Kaserne"],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q1452636","sub_label":"Jaeger barracks","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q2696704","sub_label":"Friedenstein-Kaserne","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q15812472","sub_label":"Gmeinder 440 PS type","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q808493","sub_label":"Barnim-Kaserne","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q1558874","sub_label":"G\u00e4ubodenkaserne","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q316504","sub_label":"Lager Heuberg","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q1258738","sub_label":"Kurt-Schumacher-Kaserne","sub_aliases":[],"obj_id":"Q56010","obj_label":"Bundeswehr"}
+{"sub_id":"Q338733","sub_label":"CP Class 3150","sub_aliases":["Portuguese train type 3150-3520"],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q850648","sub_label":"CP Class 2550","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q526416","sub_label":"Linha do Algarve","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q2931920","sub_label":"CP 1930 class","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q8779773","sub_label":"Faro train station","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q558542","sub_label":"Corgo line","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q1160445","sub_label":"Linha do Oeste","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q913978","sub_label":"Linha do Sul","sub_aliases":[],"obj_id":"Q81123","obj_label":"Comboios de Portugal"}
+{"sub_id":"Q686519","sub_label":"Nordhavn station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q578784","sub_label":"Lyngby station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2459840","sub_label":"Dybb\u00f8lsbro station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2305499","sub_label":"Valby station","sub_aliases":["Valby Station","Station Valby"],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q1798321","sub_label":"Aalborg\u2013Frederikshavn Line","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q4596270","sub_label":"Aller\u00f8d station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q616388","sub_label":"\u00d8restad Station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2355834","sub_label":"Dansh\u00f8j station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q315629","sub_label":"M\u00fcnchen Karlsplatz station","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q316830","sub_label":"DB Class 610","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q613165","sub_label":"DB Class 120","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q323156","sub_label":"Berlin\u2013Blankenheim railway","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q165368","sub_label":"Frankfurt  Hauptbahnhof","sub_aliases":["Frankfurt Hauptbahnhof","Frankfurt am Main main station"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q456533","sub_label":"Berlin Northern Railway","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q800701","sub_label":"D\u00fcsseldorf Airport station","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q472217","sub_label":"G\u00f6ppingen station","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q24928591","sub_label":"B\u00fcchener Tunnel","sub_aliases":[],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q478834","sub_label":"Helvetia ","sub_aliases":[],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q2074619","sub_label":"Van Beethoven ","sub_aliases":[],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q558185","sub_label":"DB Class 111","sub_aliases":["DB Baureihe 111"],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q872921","sub_label":"DB Class E 320","sub_aliases":["DB Class 182"],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q1151890","sub_label":"DB Kdl 91","sub_aliases":[],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q479989","sub_label":"DB Class 181","sub_aliases":["DB Class E 310"],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q137556","sub_label":"DB Class V 162","sub_aliases":["DB Class 217"],"obj_id":"Q687175","obj_label":"Deutsche Bundesbahn"}
+{"sub_id":"Q934922","sub_label":"Tintagel Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q764804","sub_label":"Kenwood House","sub_aliases":["Kenwood","Kenwood House (iveagh Bequest)"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q534028","sub_label":"Woodhenge","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1469493","sub_label":"Whitby Abbey","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q540237","sub_label":"Fountains Abbey","sub_aliases":["Fountains Cistercian Abbey"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1738764","sub_label":"Kenilworth Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q661855","sub_label":"Avebury","sub_aliases":["Avebury Stones","Avebury henge and stone circles"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q334303","sub_label":"St Augustine's Abbey","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q4302480","sub_label":"Sentinel-2","sub_aliases":["Sentinel 2"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q909703","sub_label":"Johannes Kepler ATV","sub_aliases":["ATV-002 Johannes Kepler","ATV-002","Automated Transfer Vehicle 002"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q1009523","sub_label":"Georges Lema\u00eetre ATV","sub_aliases":["ATV-005","Automated Transfer Vehicle 005","ATV-005 Georges Lema\u00eetre","Georges Lemaitre ATV"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q59683","sub_label":"Edoardo Amaldi ATV","sub_aliases":["ATV-003 Edoardo Amaldi","ATV-003","Automated Transfer Vehicle 003"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q63350","sub_label":"Jupiter Icy Moon Explorer","sub_aliases":["JUICE"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q725309","sub_label":"Planck","sub_aliases":["Cosmic Background Radiation Anisotropy Satellite\/Satellite for Measurement of Background Anisotropies","COBRAS\/SAMBA"],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q660356","sub_label":"Giotto","sub_aliases":[],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q742155","sub_label":"PROBA-2","sub_aliases":[],"obj_id":"Q42262","obj_label":"European Space Agency"}
+{"sub_id":"Q2464598","sub_label":"Cycnus ","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q1108740","sub_label":"Ligure ","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q3836155","sub_label":"FS class 680","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q1853394","sub_label":"Adriatico ","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q987422","sub_label":"FS Class ETR 500","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q634597","sub_label":"Val Gardena Railway","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q1023756","sub_label":"ETR610","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q3836145","sub_label":"FS Class 625","sub_aliases":[],"obj_id":"Q83823","obj_label":"Ferrovie dello Stato Italiane"}
+{"sub_id":"Q4114271","sub_label":"Matti Kurki","sub_aliases":["Voivoda"],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q1275222","sub_label":"P421 Suurop","sub_aliases":[],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q4310057","sub_label":"Sampo","sub_aliases":[],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q3492108","sub_label":"Katanp\u00e4\u00e4-class mine countermeasure vessel","sub_aliases":["Katanp\u00e4\u00e4 class mine countermeasure vessel","Katanpaa-class mine countermeasure vessel","Katanpaa class mine countermeasure vessel"],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q3793687","sub_label":"Vetehinen-class submarine","sub_aliases":[],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q10655089","sub_label":"P422 Ristna","sub_aliases":[],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q2495365","sub_label":"Saukko","sub_aliases":["Finnish submarine Saukko"],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q3793653","sub_label":"Kiiski","sub_aliases":["Kiiski-class minesweeper","Kiiski class minesweeper"],"obj_id":"Q2071948","obj_label":"Finnish Navy"}
+{"sub_id":"Q726641","sub_label":"Dunkerque class battleship","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q4031110","sub_label":"380 mm\/45 Mod\u00e8le 1935 gun","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q2080143","sub_label":"Foch","sub_aliases":["Foch, R 99"],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q429377","sub_label":"Narval","sub_aliases":["Q4","Q 4","French submarine Narval"],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q49644","sub_label":"France","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q2006248","sub_label":"Soleil Royal","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q1058502","sub_label":"Mistral class amphibious assault ship","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q1061181","sub_label":"Triomphant-class submarine","sub_aliases":[],"obj_id":"Q217406","obj_label":"French Navy"}
+{"sub_id":"Q3563943","sub_label":"Greek brig Aris","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q2589408","sub_label":"Greek gunboat Amvrakia","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q5601946","sub_label":"Hellas","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q11861000","sub_label":"HMS Lauderdale","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q2298689","sub_label":"Greek destroyer Vasilissa Olga","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q1332131","sub_label":"Elli-class frigate","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q768734","sub_label":"Hydra-class ironclad","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q5016651","sub_label":"Greek ironclad Vasilissa Olga","sub_aliases":[],"obj_id":"Q1129369","obj_label":"Hellenic Navy"}
+{"sub_id":"Q1105962","sub_label":"Kecskem\u00e9t Light Railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q3095658","sub_label":"Aquincum M\u00c1V station","sub_aliases":["Aquincum fels\u0151","Aquincum MAV station"],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q21876898","sub_label":"Bicske als\u00f3 railway halt","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q1029453","sub_label":"Gyermekvas\u00fat","sub_aliases":["Children's Railway","Gyermekvasut"],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q3240165","sub_label":"Balatonfenyves Narrow Gauge Railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q859243","sub_label":"Cegl\u00e9d\u2013Szeged railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q514005","sub_label":"Domb\u00f3v\u00e1r\u2013B\u00e1tasz\u00e9k-line","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q733970","sub_label":"Budapest\u2013Kunszentmikl\u00f3s-Tass\u2013Kelebia railway line","sub_aliases":["Budapest\u2013Kelebia railway line","Kelebia\u2013Budapest railway line"],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q571372","sub_label":"Dresden-class cruiser","sub_aliases":["Dresden class"],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q533999","sub_label":"SMS Scharnhorst","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q694461","sub_label":"SMS Goeben","sub_aliases":["Yavuz Sultan Selim","Goeben"],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q688303","sub_label":"Kaiser-class battleship","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q669817","sub_label":"SMS Posen","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q547324","sub_label":"SMS Rostock","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q551918","sub_label":"SMS Prinzregent Luitpold","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q697132","sub_label":"SMS Bl\u00fccher","sub_aliases":[],"obj_id":"Q156649","obj_label":"Imperial German Navy"}
+{"sub_id":"Q5972672","sub_label":"INS Shivalik","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q3558427","sub_label":"Saryu-class patrol vessel","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q1155823","sub_label":"MiG-29K","sub_aliases":["Mikoyan MiG-29K","MIG29K","Fulcrum-D"],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q5972559","sub_label":"INS Kochi","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q5972561","sub_label":"INS Kolkata","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q3488471","sub_label":"Delhi-class destroyer","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q3521714","sub_label":"INS Rana","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q3520873","sub_label":"INS Ranvir","sub_aliases":[],"obj_id":"Q356359","obj_label":"Indian Navy"}
+{"sub_id":"Q24033994","sub_label":"GIPR EA\/1","sub_aliases":["Indian locomotive class WCP-1"],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q22668071","sub_label":"Mahamana Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q5576185","sub_label":"Godavari Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q7197614","sub_label":"Pir Panjal Railway Tunnel","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q3595302","sub_label":"Parasuram Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q20750773","sub_label":"Harda twin train derailment","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q13121126","sub_label":"Vidarbha Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q3595704","sub_label":"Kerala Express","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q22908533","sub_label":"SCATSAT-1","sub_aliases":["Scatterometer Satellite-1"],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q5972416","sub_label":"INSAT-4E","sub_aliases":["GSAT-6"],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q59284044","sub_label":"HysIS","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q63425869","sub_label":"Pragyan","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q7692568","sub_label":"The Technology Experiment Satellite ","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q1493326","sub_label":"Megha-Tropiques","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q56677635","sub_label":"PSLV-C42","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q2145867","sub_label":"RESOURCESAT-2","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q3629460","sub_label":"Audace","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q3769420","sub_label":"Giuliano Prini ","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q1541753","sub_label":"Maestrale class frigate","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q476956","sub_label":"Lerici-class minehunter","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q16622292","sub_label":"Virginio Fasan","sub_aliases":["F591"],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q3019982","sub_label":"Francesco Mimbelli","sub_aliases":["D 561","D561"],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q3680826","sub_label":"Clio","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q1129249","sub_label":"Etna-class replenishment oiler","sub_aliases":[],"obj_id":"Q833040","obj_label":"Italian Navy"}
+{"sub_id":"Q2205675","sub_label":"SDS-1","sub_aliases":[],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q49480","sub_label":"Advanced Land Observation Satellite","sub_aliases":["ALOS"],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q22084833","sub_label":"Super Low Altitude Test Satellite","sub_aliases":["SLATS"],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q2819483","sub_label":"Astro-G","sub_aliases":[],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q5327099","sub_label":"Earth Observation Center","sub_aliases":[],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q42266261","sub_label":"DESTINY+","sub_aliases":["DESTINY PLUS"],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q570562","sub_label":"Hinode","sub_aliases":[],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q516725","sub_label":"Suisei","sub_aliases":["PLANET-A"],"obj_id":"Q179103","obj_label":"Japan Aerospace Exploration Agency"}
+{"sub_id":"Q1138466","sub_label":"US-2","sub_aliases":["ShinMaywa US-2","US2"],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q6883080","sub_label":"Mitsubishi H-60","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q1634912","sub_label":"JDS Kong\u014d","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q3061263","sub_label":"JDS Kashima","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q7496958","sub_label":"Shimofusa Air Base","sub_aliases":["RJTL","Shimofusa Ab"],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q1152025","sub_label":"\u014csumi class tank landing ship","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q6107975","sub_label":"JS Shimokita","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q549341","sub_label":"JS Ise","sub_aliases":[],"obj_id":"Q731647","obj_label":"Japan Maritime Self-Defense Force"}
+{"sub_id":"Q11227387","sub_label":"K012","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11228998","sub_label":"LGL21","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11253294","sub_label":"W62T","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11242331","sub_label":"S003","sub_aliases":["SO003"],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11253208","sub_label":"W42K","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11253262","sub_label":"W53K","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11253280","sub_label":"W61SA","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q11253217","sub_label":"W43S","sub_aliases":[],"obj_id":"Q971946","obj_label":"KDDI"}
+{"sub_id":"Q53118","sub_label":"Busan Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q490629","sub_label":"Nokcheon Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q50007","sub_label":"Seonbawi Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q490712","sub_label":"Bugae Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q490241","sub_label":"Wolgye Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q490265","sub_label":"Sinimun Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q490070","sub_label":"Hankuk University of Foreign Studies Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q497916","sub_label":"Guro Station","sub_aliases":[],"obj_id":"Q18169","obj_label":"Korea Railroad Corporation"}
+{"sub_id":"Q703050","sub_label":"U-30","sub_aliases":["German submarine U-30","U30","U 30"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q153370","sub_label":"German battleship Tirpitz","sub_aliases":["Tirpitz"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q519370","sub_label":"Flettner Fl 282","sub_aliases":["Fletcher Fl 282 Kolibri","Hummingbird"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q559159","sub_label":"U-5","sub_aliases":["German submarine U-5","U 5","U5"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q558989","sub_label":"U-6","sub_aliases":["German submarine U-6"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q699024","sub_label":"U-29","sub_aliases":["German submarine U-29","U-29 submarine","U29 submarine"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q383949","sub_label":"Type 1934 class destroyer","sub_aliases":[],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q655312","sub_label":"U-28","sub_aliases":["German submarine U-28"],"obj_id":"Q151701","obj_label":"Kriegsmarine"}
+{"sub_id":"Q155360","sub_label":"Messerschmitt Me 163 Komet","sub_aliases":["Messerschmitt Me 163","ME163","Komet","Messerschmitt Komet","Me 163 Komet"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q155642","sub_label":"Bf 110","sub_aliases":["Messerschmitt Bf 110"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q128631","sub_label":"Ju 188","sub_aliases":["Ju188"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q34775","sub_label":"Fw 190","sub_aliases":["Focke-Wulf Fw 190"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q167286","sub_label":"Dornier Do 335","sub_aliases":["Pfeil fighter","Pfeil aircraft","Arrow fighter","Arrow aircraft","Do 335"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q156878","sub_label":"He 162 Volksj\u00e4ger","sub_aliases":["Heinkel He 162","He162","Salamander","Spatz","Sparrow","People's Fighter"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q31555","sub_label":"Ar 96","sub_aliases":["Arado Ar 96","Arado 96","AR96"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q154532","sub_label":"He 111","sub_aliases":["Heinkel He 111","He111"],"obj_id":"Q2564009","obj_label":"Luftwaffe"}
+{"sub_id":"Q838827","sub_label":"HKU station","sub_aliases":["Hong Kong University Station","HKU","HKU Station"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q989335","sub_label":"Ma On Shan line","sub_aliases":["MOL"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q989330","sub_label":"Disneyland Resort line","sub_aliases":[],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q732649","sub_label":"Crossrail","sub_aliases":["Elizabeth line","Crossrail project"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q838422","sub_label":"Tsing Yi station","sub_aliases":["TSY"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q15168","sub_label":"Sheung Wan station","sub_aliases":["SHW"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q866024","sub_label":"Macau Light Rail Transit","sub_aliases":[],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q2106205","sub_label":"Hong Kong station","sub_aliases":["HOK"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q11234233","sub_label":"N2001","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11234250","sub_label":"N506i","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11234164","sub_label":"N-03C","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11234190","sub_label":"N-07A","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11238129","sub_label":"P-10A","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11198672","sub_label":"F-08B","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11198666","sub_label":"F-07B","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q11238087","sub_label":"P-01C","sub_aliases":[],"obj_id":"Q853958","obj_label":"NTT DoCoMo"}
+{"sub_id":"Q460468","sub_label":"STS-132","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q719652","sub_label":"Mariner 3","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q48496","sub_label":"Mars Science Laboratory","sub_aliases":["MSL"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q155937","sub_label":"STS-122","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q178836","sub_label":"STS-107","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q48461","sub_label":"New Horizons","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q328927","sub_label":"STS-133","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q1766751","sub_label":"Constellation program","sub_aliases":["Project Constellation"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q862312","sub_label":"Oregon Trail","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q2004262","sub_label":"USS Arizona Memorial","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q592198","sub_label":"Franklin Delano Roosevelt Memorial","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q985484","sub_label":"Manzanar","sub_aliases":["Manzanar War Relocation Center","Manzanar National Historic Site"],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q675702","sub_label":"Arlington House","sub_aliases":["Arlington House, The Robert E. Lee Memorial"],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1438634","sub_label":"Fort McHenry","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1438645","sub_label":"Fort Moultrie","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1438483","sub_label":"Fort Caroline","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1329660","sub_label":"USA-223","sub_aliases":["NRO L-32"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q7865684","sub_label":"USA-215","sub_aliases":["NRO Launch 41","NROL-41","L-41","Topaz 1","Gladys"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q7865686","sub_label":"USA-227","sub_aliases":["NRO Launch 27","NROL-27","L-27"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q3547315","sub_label":"USA-202","sub_aliases":["NRO Launch 26","NROL-26","L-26"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q7865674","sub_label":"USA-200","sub_aliases":["NRO Launch 28","NROL-28","L-28"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q748395","sub_label":"USA-193","sub_aliases":["NRO Launch 21","NROL-21","L-21"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q3278151","sub_label":"KH 11-15","sub_aliases":["Keyhole 11-15","USA-224","Crystal 15","NROL-49","NRO L-49","NRO Launch 49","Enhanced CRYSTAL 2109","Betty"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q28668946","sub_label":"USA-269","sub_aliases":["NRO Launch 61","NROL-61","L-61","Quasar 20"],"obj_id":"Q427818","obj_label":"National Reconnaissance Office"}
+{"sub_id":"Q2629982","sub_label":"OV-fiets","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q1938950","sub_label":"NS SGMm","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q803323","sub_label":"Tilburg\u2013Nijmegen railway","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q752967","sub_label":"NS Intercity Materieel","sub_aliases":["ICMm"],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q1339376","sub_label":"Trams in Houten","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q49872","sub_label":"Amsterdam Zuid","sub_aliases":["Station Amsterdam Zuid"],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q801843","sub_label":"Amsterdam\u2013Haarlem\u2013Rotterdam railway","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q254073","sub_label":"NS 1300 class","sub_aliases":[],"obj_id":"Q23076","obj_label":"Nederlandse Spoorwegen"}
+{"sub_id":"Q1142773","sub_label":"Tanimachi Line","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q1073354","sub_label":"Sennichimae Line","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q135207","sub_label":"Kadoma-minami Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q126032","sub_label":"Fukaebashi Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q180463","sub_label":"Itakano Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q1134463","sub_label":"Asashiobashi Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q1052129","sub_label":"Daikokuch\u014d Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q2066656","sub_label":"Ebisuch\u014d Station","sub_aliases":[],"obj_id":"Q51211653","obj_label":"Osaka Metro"}
+{"sub_id":"Q928453","sub_label":"JL-1","sub_aliases":["\u5317\u7ea6\u4ee3\u53f7: \u201cCSS-N-3\u201d"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q129200","sub_label":"Liaoning","sub_aliases":["Type 001 aircraft carrier"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q11149703","sub_label":"Naval Vessels Naming Regulation","sub_aliases":[],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q860225","sub_label":"Type 054A frigate","sub_aliases":[],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q1209066","sub_label":"JL-2","sub_aliases":["CSS-N-4\/CSS-NX-4"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q151229","sub_label":"Chinese submarine 361","sub_aliases":["Great Wall # 61"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q48691714","sub_label":"Type 726 LCAC","sub_aliases":[],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q1203377","sub_label":"Type 094 submarine","sub_aliases":["09-IV","Jin class"],"obj_id":"Q755179","obj_label":"People's Liberation Army Navy"}
+{"sub_id":"Q167711","sub_label":"Wilk-class submarine","sub_aliases":["Wilk","Wilk class"],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q974927","sub_label":"ORP \u017bbik","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q1745011","sub_label":"ORP Burza","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q498683","sub_label":"Lublin-class minelayer-landing ship","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q7278099","sub_label":"RWD 17","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q553592","sub_label":"Orkan class","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q1760207","sub_label":"ORP Ry\u015b","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q11794430","sub_label":"ORP Gniezno","sub_aliases":[],"obj_id":"Q267167","obj_label":"Polish Navy"}
+{"sub_id":"Q1418821","sub_label":"Stalingrad","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1341849","sub_label":"R\u00e9publique","sub_aliases":["Republique"],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1344536","sub_label":"Porte Maillot","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q140277","sub_label":"La D\u00e9fense\u2013Grande Arche","sub_aliases":["La D\u00e9fense - Grande Arche"],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1511318","sub_label":"Od\u00e9on","sub_aliases":["Odeon"],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1494172","sub_label":"Gare de l'Est","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q645400","sub_label":"Argentine","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q177476","sub_label":"Place Monge","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q2294530","sub_label":"Zara","sub_aliases":["Zara (1931)","Italian cruiser Zara"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q3094097","sub_label":"Re Umberto-class ironclad","sub_aliases":["Re Umberto class"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q1481262","sub_label":"Italian aircraft carrier Aquila","sub_aliases":["Aquila"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q1190744","sub_label":"Littorio-class","sub_aliases":["Vittorio Veneto-class"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q11707318","sub_label":"Regina Elena","sub_aliases":["Italian battleship Regina Elena"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q12640854","sub_label":"Idomito","sub_aliases":["Triglav"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q2279080","sub_label":"Giuseppe Miraglia","sub_aliases":[],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q3904083","sub_label":"Pietro Micca submarine","sub_aliases":["MC"],"obj_id":"Q855186","obj_label":"Regia Marina"}
+{"sub_id":"Q800445","sub_label":"Arc de Triomf station","sub_aliases":[],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q938723","sub_label":"RENFE Class 130","sub_aliases":["Talgo 250"],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q2328516","sub_label":"Passeig de Gr\u00e0cia","sub_aliases":["Passeig de Gracia"],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q1054739","sub_label":"Cercan\u00edas Asturias","sub_aliases":["Cercanias Asturias"],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q596727","sub_label":"Madrid\u2013Le\u00f3n high-speed rail line","sub_aliases":[],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q1161505","sub_label":"Madrid\u2013Barcelona high-speed rail line","sub_aliases":["Madrid-Barcelona high-speed rail line"],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q752962","sub_label":"CAF Oaris","sub_aliases":[],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q448931","sub_label":"Alvia","sub_aliases":["Renfe Alvia"],"obj_id":"Q2476154","obj_label":"Renfe Operadora"}
+{"sub_id":"Q24858836","sub_label":"ROKS Marado","sub_aliases":["LPH-6112 Marado","LPH-6112"],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q217721","sub_label":"Yoon Youngha-class patrol vessel","sub_aliases":[],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q12580706","sub_label":"ROKS Hwacheon","sub_aliases":[],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q625204","sub_label":"ROKS Choe Yeong","sub_aliases":["Choi Young DDH-981"],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q626328","sub_label":"Go Jun Bong class LST","sub_aliases":[],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q488573","sub_label":"Chung Sang Eo","sub_aliases":["Blue Shark","K745"],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q488613","sub_label":"SSM-700K Haeseong","sub_aliases":["SSM-700K","Haeseong"],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q10386197","sub_label":"USS LST-1010","sub_aliases":[],"obj_id":"Q488756","obj_label":"Republic of Korea Navy"}
+{"sub_id":"Q177477","sub_label":"Baikonur Cosmodrome","sub_aliases":["Baykonur Cosmodrome","Tyuratam"],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q2599542","sub_label":"Progress M-SO1","sub_aliases":["Progress DC-1"],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q18474242","sub_label":"Marsokhod","sub_aliases":[],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q4393669","sub_label":"Resurs-P No.1","sub_aliases":[],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q23930969","sub_label":"Vostochny Cosmodrome Site 1S","sub_aliases":["Site 1S"],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q4379822","sub_label":"Progress M-18M","sub_aliases":[],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q60767924","sub_label":"Soyuz GVK","sub_aliases":[],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q20639832","sub_label":"Progress M-28M","sub_aliases":["Progress 60","Progress 60P"],"obj_id":"Q190795","obj_label":"Roscosmos State Corporation"}
+{"sub_id":"Q4787528","sub_label":"Arctic Patrol Ship Project","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q3334316","sub_label":"HMCS Ville de Qu\u00e9bec","sub_aliases":["FFH 332"],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q5630694","sub_label":"HMCS Agassiz","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q3334300","sub_label":"HMCS Montr\u00e9al","sub_aliases":["FFH 336"],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q3334281","sub_label":"HMCS Alberni","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q5630754","sub_label":"HMCS Cayuga","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q177552","sub_label":"Halifax-class frigate","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q3788144","sub_label":"HMCS Magog","sub_aliases":[],"obj_id":"Q25387","obj_label":"Royal Canadian Navy"}
+{"sub_id":"Q1152178","sub_label":"MS Mariner of the Seas","sub_aliases":["IMO 9227510","Mariner of the Seas"],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q1866407","sub_label":"MS Vision of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q2635563","sub_label":"MS Grandeur of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q1340017","sub_label":"MS Enchantment of the Seas","sub_aliases":["Enchantment of the Seas"],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q1163371","sub_label":"Oriental Dragon","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q192381","sub_label":"MS Oasis of the Seas","sub_aliases":["Oasis of the Seas","IMO 9383936"],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q2072116","sub_label":"MS Jewel of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q606959","sub_label":"Explorer of the Seas","sub_aliases":[],"obj_id":"Q929872","obj_label":"Royal Caribbean International"}
+{"sub_id":"Q3837436","sub_label":"Losharik","sub_aliases":["Russian submarine Losharik","Project 210"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q4461857","sub_label":"Project 12700 Alexandrit","sub_aliases":["Alexandrit-class minesweeper","Alexandr Obukhov-class minesweeper","BT-730 class"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q16685137","sub_label":"Project 03160 Raptor","sub_aliases":[],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q3679322","sub_label":"Project 12660 Rubin","sub_aliases":["Gorya-class minesweeper","Rubin class minesweeper","Zheleznyakov class minesweeper"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q29413411","sub_label":"3M22 Zircon","sub_aliases":["3M22 Tsirkon","SS-N-33","Zircon"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q1984972","sub_label":"Olenya","sub_aliases":["XLMO"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q1723248","sub_label":"Kamov Ka-31","sub_aliases":[],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q2448576","sub_label":"Alakurtti","sub_aliases":["XLMA"],"obj_id":"Q465283","obj_label":"Russian Navy"}
+{"sub_id":"Q4529475","sub_label":"ER22","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q58767","sub_label":"Trans-Siberian railway","sub_aliases":["TSR"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4516642","sub_label":"Chita II","sub_aliases":["Chita 2"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q1128196","sub_label":"Siemens Desiro ML RUS train","sub_aliases":["Lastochka"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q1294789","sub_label":"Sapsan","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q578796","sub_label":"Khabarovsk-1 Station","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q548259","sub_label":"Finlandsky Rail Terminal","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4398275","sub_label":"Rossiya","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q12753754","sub_label":"Kosmos 2402","sub_aliases":["Cosmos 2402","GC 794"],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q12753751","sub_label":"Kosmos 2396","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q6433277","sub_label":"Kosmos 2447","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q12712953","sub_label":"Kosmos 2436","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q2606901","sub_label":"Kosmos 2175","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q3398004","sub_label":"Kosmos 2224","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q12729929","sub_label":"Kosmos 2433","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q2661654","sub_label":"Kosmos 2251","sub_aliases":[],"obj_id":"Q1703142","obj_label":"Russian Space Forces"}
+{"sub_id":"Q31899882","sub_label":"Limmareds station","sub_aliases":["Limmared station"],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q245786","sub_label":"Katterat","sub_aliases":["Katterat Station","Katterat station","Katterat railway station"],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q10428539","sub_label":"Bergslagsbanans station","sub_aliases":[],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q3097173","sub_label":"Narvik","sub_aliases":["Narvik Station","Narvik station","Narvik railway station"],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q11883439","sub_label":"Murjek","sub_aliases":["Murjek station","Murjek railway station"],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q16489031","sub_label":"AFM7","sub_aliases":[],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q3429432","sub_label":"S\u00f6dert\u00e4lje Syd","sub_aliases":[],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q1844369","sub_label":"Hyllie railway station","sub_aliases":[],"obj_id":"Q8301325","obj_label":"SJ AB"}
+{"sub_id":"Q997166","sub_label":"North\u2013South connection","sub_aliases":["North-South Junction","North-South connection","Belgian railway line 0"],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q28057211","sub_label":"\u00c9tat Belge type 18","sub_aliases":["NMBS Type 18","SNCB Type 18","EB type 18"],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q87069535","sub_label":"S32","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q56678265","sub_label":"Ghent S-train","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q678572","sub_label":"Vennbahn","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q56309273","sub_label":"Line S10","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q2025931","sub_label":"Jean Monnet","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q56678201","sub_label":"Charleroi S-train","sub_aliases":[],"obj_id":"Q524255","obj_label":"SNCB\/NMBS"}
+{"sub_id":"Q2260577","sub_label":"Gare de Pau","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q801170","sub_label":"Gare de Massy TGV","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q371217","sub_label":"Gare de Marseille-Saint-Charles","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q801099","sub_label":"Lille-Europe railway station","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q745942","sub_label":"Gare de Paris-Nord","sub_aliases":["Paris-Nord","Gare du Nord"],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q800620","sub_label":"Gare du Champ de Mars - Tour Eiffel","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q2008","sub_label":"Gare de Lyon-Part-Dieu","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q2164826","sub_label":"Ligne de Cerdagne","sub_aliases":["Train Jaune","Tren Groc"],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q843153","sub_label":"H\u014dya Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q842904","sub_label":"Kami-Shakujii Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q8017361","sub_label":"Sh\u014dmaru Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q842569","sub_label":"Tokorozawa Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q7497126","sub_label":"Shin-Sakuradai Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q6428027","sub_label":"Koma Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q6074023","sub_label":"Irumashi Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q843464","sub_label":"Shimo-Ochiai Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q7862690","sub_label":"T\u014dkawa Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q4388378","sub_label":"Izume Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q1057073","sub_label":"Kita-Uwajima Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q6441296","sub_label":"Kubokawa Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q5990007","sub_label":"Iejigawa Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q4388236","sub_label":"Chikanaga Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q860478","sub_label":"Mugi Line","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q875869","sub_label":"Imabari Station","sub_aliases":[],"obj_id":"Q496531","obj_label":"Shikoku Railway Company"}
+{"sub_id":"Q2322529","sub_label":"Yakovlev UT-1","sub_aliases":[],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q543507","sub_label":"DIS","sub_aliases":["Mikoyan-Gurevich DIS","Mikoyan-Gurevich MiG-5","Mikoyan DIS","Mikoyan MiG-5","MiG-5","MiG-5 aircraft","DIS aircraft","MiG5","MiG5 aircraft"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q630051","sub_label":"Il-40","sub_aliases":["Brawny","Ilyushin Il-40","Il40 aircraft"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q271446","sub_label":"MiG-3","sub_aliases":["Mikoyan-Gurevich MiG-3","Mikoyan MiG-3","MIG3"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q931706","sub_label":"La-15","sub_aliases":["Izdeliye 52","Type 21","Fantail","Lavochkin La-15","LA15"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q943315","sub_label":"Pe-2 Peshka","sub_aliases":["Peshka","Buck","Pekka-Eemeli","Petlyakov Pe-2 Peshka","PE2"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q1939029","sub_label":"Petlyakov Pe-3","sub_aliases":["Pe-3"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q562475","sub_label":"Yakovlev Yak-9","sub_aliases":["Frank","Iak-9","Yak-9"],"obj_id":"Q921432","obj_label":"Soviet Air Forces"}
+{"sub_id":"Q1116056","sub_label":"Poti class corvette","sub_aliases":[],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q1347700","sub_label":"R-29 Vysota","sub_aliases":["SS-N-8 Sawfly","Sawfly","Vysota","4K75"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q583164","sub_label":"Project 30bis","sub_aliases":["Skoryy-class destroyer"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q359024","sub_label":"Admiral Gorshkov","sub_aliases":["Baku","Soviet aircraft carrier Admiral Gorshkov","Admiral Flota Sovetskogo Soyuza Gorshkov"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q3679237","sub_label":"Balzam-class intelligence ship","sub_aliases":[],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q1473465","sub_label":"R-31","sub_aliases":["RSM-45","SS-N-17 Snipe","Snipe"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q1411851","sub_label":"KM","sub_aliases":["Caspian Sea Monster","Korabl Maket","Ekranoplan"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q1123074","sub_label":"RPK-6 Vodopad\/RPK-7 Veter","sub_aliases":["RPK-6 Vodopad","RPK-7 Veter","SS-N-16 Stallion","Vodopad","Veter","Stallion"],"obj_id":"Q796754","obj_label":"Soviet Navy"}
+{"sub_id":"Q19867977","sub_label":"Starlink","sub_aliases":["SpaceX satellite constellation"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q3038762","sub_label":"Dragon Spacecraft Qualification Unit","sub_aliases":["Dragon C100","SpaceX Dragon C100","C100"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q42575237","sub_label":"C108","sub_aliases":["SpaceX Dragon C108","CRS Dragon C108","Dragon C108"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q56650652","sub_label":"Starship","sub_aliases":["BFS","Interplanetary Spaceship","Big Falcon Ship","Starship upper stage"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q66486047","sub_label":"B1056","sub_aliases":["Falcon 9 B1056","Falcon 9 booster B1056","SpaceX Falcon 9 B1056"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q108782850","sub_label":"Endurance","sub_aliases":["Crew Dragon C210","Dragon C210","C210","SpaceX Dragon C210","Crew Dragon Endurance"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q96215689","sub_label":"C204","sub_aliases":["Dragon C204","SpaceX Dragon C204","Crew Dragon C204"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q47246047","sub_label":"Crew Dragon Demo-2","sub_aliases":["SpaceX Demo-2","NASA Demo-2","Crew Demo-2","Dragon Crew Demo-2","DM-2","SpX-DM-2","Demo-2"],"obj_id":"Q193701","obj_label":"SpaceX"}
+{"sub_id":"Q1130988","sub_label":"Meteoro-class offshore patrol vessel","sub_aliases":["BAM","Buque de Accion Maritima","Buque de Acci\u00f3n Mar\u00edtima"],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q979877","sub_label":"Espa\u00f1a-class battleship","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q3274434","sub_label":"Jaime I","sub_aliases":["Spanish battleship Jaime I"],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q1158936","sub_label":"Torpedo ram","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q913332","sub_label":"S-80 Plus class","sub_aliases":["clase S-80 Plus","Isaac Peral","S 80 Plus class","S 80 class","S-80 class","S80","Isaac Peral class"],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q1033665","sub_label":"SPS Cantabria","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q1352725","sub_label":"BIO Hesperides","sub_aliases":["IMO 8803563"],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q1987949","sub_label":"G-5 class motor torpedo boat","sub_aliases":[],"obj_id":"Q676404","obj_label":"Spanish Navy"}
+{"sub_id":"Q4352763","sub_label":"HMS S\u00f6lve","sub_aliases":[],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q52901","sub_label":"HMS Sverige","sub_aliases":[],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q4352643","sub_label":"HMS Helsingborg","sub_aliases":[],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q1141901","sub_label":"Gotland-class submarine","sub_aliases":["A19 submarine"],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q533540","sub_label":"HMS Clas Fleming","sub_aliases":[],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q1259156","sub_label":"HMS Dristigheten","sub_aliases":[],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q1342496","sub_label":"HMS Oscar II","sub_aliases":["HSwMS Oscar II"],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q2030835","sub_label":"turuma","sub_aliases":["turunmaa"],"obj_id":"Q1141396","obj_label":"Swedish Navy"}
+{"sub_id":"Q675029","sub_label":"B\u00f6zberg railway line","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q672992","sub_label":"Stadler KISS","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q3018236","sub_label":"Gottardo ","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q802618","sub_label":"Lausanne\u2013Geneva railway","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q224808","sub_label":"Zug Stadtbahn","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q564966","sub_label":"Basel trinational S-Bahn","sub_aliases":["Basel S-Bahn"],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q688618","sub_label":"Gotthard Tunnel","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q251328","sub_label":"Aargau S-Bahn","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q112348","sub_label":"Kuramae Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q128319","sub_label":"Iwamotoch\u014d Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1147009","sub_label":"Shinjuku-sanch\u014dme Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1039887","sub_label":"Nishi-Sugamo Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1078393","sub_label":"Higashi-ginza Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1132210","sub_label":"Hikarigaoka Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1043756","sub_label":"Kikukawa Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q1041252","sub_label":"Funabori Station","sub_aliases":[],"obj_id":"Q1377135","obj_label":"Tokyo Metropolitan Bureau of Transportation"}
+{"sub_id":"Q388195","sub_label":"Funicular de Montju\u00efc","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2367549","sub_label":"Can Serra","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2607435","sub_label":"Avinguda Carrilet","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2003013","sub_label":"Torrassa","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2054359","sub_label":"Pla\u00e7a de Sants","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2547644","sub_label":"Fondo","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q669990","sub_label":"Espanya","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2035804","sub_label":"Santa Eul\u00e0lia","sub_aliases":["Santa Eulalia"],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q732765","sub_label":"FS Class E.424","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q1207539","sub_label":"Leonardo Express","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q801397","sub_label":"Sanremo railway halt","sub_aliases":["Sanremo railway station","Sanremo train station"],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q941461","sub_label":"FS Class ETR.450","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q3752594","sub_label":"Frecciargento","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q25410366","sub_label":"Jazz","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q773539","sub_label":"FS E.626","sub_aliases":[],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q3743652","sub_label":"Turin\u2013Fossano\u2013Savona railway","sub_aliases":["Turin\u2013Savona railway"],"obj_id":"Q286650","obj_label":"Trenitalia"}
+{"sub_id":"Q639128","sub_label":"Baghdad Railway","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q241385","sub_label":"TCDD DE11000","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q1315693","sub_label":"TCDD DE18100","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q30045897","sub_label":"TCDD 57001 Class","sub_aliases":["TCDD 57000-class"],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q5299345","sub_label":"Dostluk\/Filia Express","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q4851110","sub_label":"Balkans Express","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q781779","sub_label":"TCDD E14000","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q28446065","sub_label":"TCDD DE36000","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q1106966","sub_label":"ER1 electric trainset","sub_aliases":["\u042d\u04201","RVR type 62-11"],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q892996","sub_label":"Ivano-Frankivsk railway station","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q1588117","sub_label":"Rudnytsia - Haivoron - Holovanivsk narrow gauge railway","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q9635778","sub_label":"Tunnel of Love","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q4498477","sub_label":"Khmelnytskyi","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q16711861","sub_label":"Kyiv Boryspil Express","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q2023815","sub_label":"Kharkiv-Pasazhyrskiy","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q7250520","sub_label":"Kryvyi Rih Main Station","sub_aliases":[],"obj_id":"Q923337","obj_label":"Ukrainian Railways"}
+{"sub_id":"Q5471558","sub_label":"Fort Lyon","sub_aliases":["Camp Lyon"],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q5471422","sub_label":"Fort Kearny","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q55611922","sub_label":"Fort Slemmer","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q5472326","sub_label":"Fort Willard","sub_aliases":["Fort Willard Park","Fort Willard Historic Site"],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q5471395","sub_label":"Fort Jackson","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q5027132","sub_label":"Camp Douglas","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q5472353","sub_label":"Fort Williams","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q4869884","sub_label":"Battery Rodgers","sub_aliases":[],"obj_id":"Q1752901","obj_label":"Union Army"}
+{"sub_id":"Q7927172","sub_label":"Victoria\u2013Courtenay train","sub_aliases":["Malahat","Dayliner","Victoria\u2013Courtenay","Victoria-Courtenay train","Victoria-Courtenay"],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q1449564","sub_label":"London railway station","sub_aliases":["London, Ontario railway station","London station"],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q3095844","sub_label":"Ottawa station","sub_aliases":["Ottawa Station","Ottawa Train Station","Via Rail Ottawa","Ottawa Railway Station","Ottawa Via Rail Station","OTTW","XDS","Ottawa Via Station","Ottawa Rail Station","Via Ottawa Station"],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q3096343","sub_label":"Dalton station","sub_aliases":[],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q3096805","sub_label":"La Pocati\u00e8re station","sub_aliases":["La Pocatiere railway station"],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q1148666","sub_label":"Montreal Central Station","sub_aliases":[],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q4357460","sub_label":"Winnipeg\u2013Churchill train","sub_aliases":["Hudson Bay","Northern Spirits","Winnipeg\u2013Churchill","Winnipeg-Churchill train","Winnipeg-Churchill"],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q3096536","sub_label":"Georgetown GO Station","sub_aliases":[],"obj_id":"Q876720","obj_label":"Via Rail"}
+{"sub_id":"Q2160599","sub_label":"Heggedal Station","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q165305","sub_label":"J\u00e6ren Line","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q1255744","sub_label":"Drammen Line","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q3267413","sub_label":"Bergen Station","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q671729","sub_label":"Myrdal Station","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q3096943","sub_label":"L\u00f8renskog Station","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q798539","sub_label":"Trunk Line","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q195832","sub_label":"Arendal Line","sub_aliases":[],"obj_id":"Q83825","obj_label":"Vy"}
+{"sub_id":"Q2713927","sub_label":"SS City of New York","sub_aliases":["SS New York"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1330093","sub_label":"SS Germanic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1728082","sub_label":"SS Medic","sub_aliases":["Hektoria"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q25173","sub_label":"Titanic","sub_aliases":["The Titanic","RMS Titanic","Royal Mail Steamship Titanic"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q2902230","sub_label":"Big Four","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q767166","sub_label":"Olympic-class ocean liner","sub_aliases":["Olympic Class"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1882903","sub_label":"CS Mackay-Bennett","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q376252","sub_label":"RMS Adriatic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q668750","sub_label":"Pyhrnbahn","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q514441","sub_label":"Wien Meidling","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q680235","sub_label":"Tyrol S-Bahn","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q695595","sub_label":"Vienna S-Bahn","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q17445278","sub_label":"\u00d6BB 4746","sub_aliases":["Cityjet"],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q694717","sub_label":"Western Railway","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q694694","sub_label":"Salzburg Hauptbahnhof","sub_aliases":["Salzburg Hbf","Salzburg main station","Salzburg Central Station"],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q357597","sub_label":"Southern Railway","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q20755164","sub_label":"\u010cD Class 660","sub_aliases":["CD Class 660"],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q337262","sub_label":"\u010cSD Class T 458.1","sub_aliases":["CSD Class T 458.1","\u010cD Class 721","CD Class 721","ZSSK Class 721"],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q12033817","sub_label":"\u0160koda 16E","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q1453777","sub_label":"Praha Masarykovo n\u00e1dra\u017e\u00ed","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q108776201","sub_label":"\u0160koda 13Ev","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q936406","sub_label":"Esko Moravian-Silesian Region","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q11727233","sub_label":"Jistebn\u00edk","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}
+{"sub_id":"Q336680","sub_label":"\u010cD Class 814","sub_aliases":[],"obj_id":"Q304944","obj_label":"\u010cesk\u00e9 dr\u00e1hy"}

@@ -1,0 +1,620 @@
+{"sub_id":"Q3520913","sub_label":"The Flash","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q2908426","sub_label":"Body Count","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q953890","sub_label":"Alien Trilogy","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q3012229","sub_label":"Dakar 2: The World's Ultimate Rally","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q3176904","sub_label":"Jelly Boy","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q3522153","sub_label":"The Pagemaster","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q7427696","sub_label":"Savage","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q3701356","sub_label":"Dan Dare III: The Escape","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q2862795","sub_label":"Armorines: Project S.W.A.R.M.","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q2527522","sub_label":"Batman Forever","sub_aliases":[],"obj_id":"Q2822760","obj_label":"Acclaim Studios London"}
+{"sub_id":"Q2214754","sub_label":"Keystone Kapers","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q7317345","sub_label":"Return to Zork","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q15281843","sub_label":"Call of Duty: Strike Team","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q1431368","sub_label":"Interstate '76","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q4876224","sub_label":"Beamrider","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q7730901","sub_label":"The Dreadnaught Factor","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q5305511","sub_label":"Dragster","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q3905832","sub_label":"Pitfall II: Lost Caverns","sub_aliases":["Pitfall II","Pitfall 2"],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q1128275","sub_label":"Deuteros","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q1567191","sub_label":"Hacker","sub_aliases":[],"obj_id":"Q200491","obj_label":"Activision Publishing"}
+{"sub_id":"Q294890","sub_label":"Athlon 64 X2","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q3048904","sub_label":"Socket F+","sub_aliases":["Socket Fr2"],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q58867016","sub_label":"Infinity Fabric","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q4032956","sub_label":"Framewave","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q295079","sub_label":"AMD Turbo Core","sub_aliases":["Turbo Core"],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q1936343","sub_label":"fglrx","sub_aliases":["AMD Catalyst Linux","AMD Catalyst Proprietary Linux Graphics Driver"],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q21729745","sub_label":"GPUOpen","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q5014786","sub_label":"CVT16 instruction set","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q7865111","sub_label":"Unified Media Inteface","sub_aliases":["UMI"],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q933989","sub_label":"SSE5","sub_aliases":[],"obj_id":"Q128896","obj_label":"Advanced Micro Devices"}
+{"sub_id":"Q181693","sub_label":"IEEE 1394","sub_aliases":["FireWire","High Performance Serial Bus","i.LINK","Lynx","IEEE 1394-1995","IEEE 1394a-2000","IEEE 1394b-2002","IEEE 1394c-2006","1394"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q48493","sub_label":"iOS","sub_aliases":["iPhone OS"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q20962060","sub_label":"iPad Pro","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q306020","sub_label":"iWork","sub_aliases":["Apple Productivity Apps","iWork.com"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q222996","sub_label":"Mac OS X Leopard","sub_aliases":["Mac OS X 10.5","Mac OS X 10.5 Leopard"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q150307","sub_label":"iPad 2","sub_aliases":["iPad (2nd generation)","Apple iPad 2","Apple iPad (2nd generation)","iPad2"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q18012472","sub_label":"watchOS","sub_aliases":["watch OS","Apple watchOS"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q412510","sub_label":"Keynote","sub_aliases":["Apple Keynote"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q368215","sub_label":"App Store","sub_aliases":["Apple App Store","App Store (iOS)","App Store (iPadOS)"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q283469","sub_label":"ICLOUD","sub_aliases":["iCloud Drive","ITunes Match"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q5433266","sub_label":"Family Table Tennis","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q28126965","sub_label":"Double Dragon IV","sub_aliases":["Double Dragon 4","Double Dragon Four"],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q39059749","sub_label":"New Frontier Days: Founding Pioneers","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q3375698","sub_label":"Persona 4 Arena","sub_aliases":["P4A"],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q17218670","sub_label":"Xblaze Code: Embryo","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q5433256","sub_label":"Family Slot Car Racing","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q3826802","sub_label":"Battle Fantasia","sub_aliases":["BatFan"],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q5102634","sub_label":"Chiyonofuji no \u014cich\u014d","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q60419059","sub_label":"Daedalus: The Awakening of Golden Jazz","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q5516978","sub_label":"Gaia Saver","sub_aliases":[],"obj_id":"Q2617855","obj_label":"Arc System Works"}
+{"sub_id":"Q3566834","sub_label":"Wayne Gretzky and the NHLPA All-Stars","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q2933987","sub_label":"California Speed","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q1141199","sub_label":"Super Sprint","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q1634362","sub_label":"Rush 2: Extreme Racing USA","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q2007458","sub_label":"Gauntlet Legends","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q3497781","sub_label":"Steel Talons","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q677764","sub_label":"Klax","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q2613835","sub_label":"Xybots","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q1632811","sub_label":"San Francisco Rush 2049","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q2783679","sub_label":"Race Drivin'","sub_aliases":[],"obj_id":"Q1061580","obj_label":"Atari Games"}
+{"sub_id":"Q798003","sub_label":"Swordquest","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q2590391","sub_label":"Lunar Lander","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q2075966","sub_label":"Haunted House","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q105615126","sub_label":"Home Run","sub_aliases":["Baseball"],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q15726606","sub_label":"RealSports Baseball","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q2936913","sub_label":"Canyon Bomber","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q1507926","sub_label":"Yars' Revenge","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q2646223","sub_label":"Gravitar","sub_aliases":[],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q216293","sub_label":"Pong","sub_aliases":["PONG"],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q1965432","sub_label":"Video Pinball series","sub_aliases":["Video Pinball","Atari Video Pinball series","Atari Video Pinball"],"obj_id":"Q13409231","obj_label":"Atari, Inc."}
+{"sub_id":"Q3504171","sub_label":"Super Dodge Ball Advance","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q19601604","sub_label":"Etrian Odyssey V","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q278227","sub_label":"Amazing Tater","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q277377","sub_label":"Catherine","sub_aliases":["Catherine Classic","Catherine Video Game","Catherine Classic Video Game"],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q7678170","sub_label":"Bonk","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q5959117","sub_label":"Trauma Team","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q11328844","sub_label":"Kwirk","sub_aliases":["Puzzle Boy","Puzzle Boys"],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q7497192","sub_label":"Tokyo Mirage Sessions \u266fFE","sub_aliases":["Tokyo Mirage Sessions #FE","Shin Megami Tensei X Fire Emblem"],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q752968","sub_label":"Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q650804","sub_label":"Dungeon Explorer","sub_aliases":[],"obj_id":"Q780528","obj_label":"Atlus"}
+{"sub_id":"Q3312737","sub_label":"Midway Arcade Treasures","sub_aliases":["Midway Arcade Treasures 1"],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q2311359","sub_label":"X-Men: Reign of Apocalypse","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q2909720","sub_label":"Bomberman Live","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q2569809","sub_label":"Spyro: Attack of the Rhynocs","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q3656176","sub_label":"Charlotte's Web","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q47474004","sub_label":"Street Fighter 30th Anniversary Collection","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q2709426","sub_label":"MechAssault: Phantom War","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q1188554","sub_label":"Age of Empires: The Age of Kings","sub_aliases":["The Age of Kings","Age of Kings"],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q6952654","sub_label":"NBA Ballers: Rebound","sub_aliases":[],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q2513822","sub_label":"Rayman: Hoodlums' Revenge","sub_aliases":["Rayman: Hoodlum's Revenge"],"obj_id":"Q389261","obj_label":"Backbone Entertainment"}
+{"sub_id":"Q5517864","sub_label":"Galaga Legions DX","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q4690228","sub_label":"Afro Samurai","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q18185769","sub_label":"Pokk\u00e9n Tournament","sub_aliases":["Pokken Tournament","Pokk\u00e9n Tournament DX"],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q9029138","sub_label":"Mario Kart Arcade GP 2","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q33132999","sub_label":"Angry Birds Blast!","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q3196429","sub_label":"Kid\u014d Senshi Gundam: Senj\u014d no Kizuna","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q2355468","sub_label":"Tales of Xillia 2","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q28127139","sub_label":"Mario Sports Superstars","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q4697816","sub_label":"Air Combat 22","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q20899751","sub_label":"Tales of Berseria","sub_aliases":[],"obj_id":"Q1194689","obj_label":"Bandai Namco Entertainment"}
+{"sub_id":"Q2427987","sub_label":"MySims Racing","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q3817367","sub_label":"Kung Fu Panda: Legendary Warriors","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q1304078","sub_label":"High School Musical: Sing It!","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q7834177","sub_label":"Transformers Animated: The Game","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q5554065","sub_label":"Get On Da Mic","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q3331137","sub_label":"MySims SkyHeroes","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q925748","sub_label":"Ed, Edd n Eddy: The Mis-Edventures","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q3542265","sub_label":"Smurf Racer!","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q3136790","sub_label":"Power Rangers: Super Legends","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q647667","sub_label":"Scooby-Doo! Unmasked","sub_aliases":[],"obj_id":"Q2080076","obj_label":"Behaviour Interactive"}
+{"sub_id":"Q55532","sub_label":"1942","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q2559819","sub_label":"Marvel Super Heroes","sub_aliases":["MSH","MARVEL SUPER HEROES","Marvel Super Heroes (video game)","Marvel Super Heroes (arcade game)"],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q1141946","sub_label":"Final Fight","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q692715","sub_label":"X-Men: Children of the Atom","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q956303","sub_label":"Ghosts 'n Goblins","sub_aliases":["\u9b54\u754c\u6751","Makaimura"],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q2539142","sub_label":"Cadillacs and Dinosaurs","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q933328","sub_label":"DuckTales","sub_aliases":["Disney's DuckTales"],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q1315653","sub_label":"Ghouls 'n Ghosts","sub_aliases":[],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q1322480","sub_label":"Phoenix Wright: Ace Attorney","sub_aliases":["Phoenix Wright"],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q2381494","sub_label":"Darkwing Duck","sub_aliases":["Darkwing Duck"],"obj_id":"Q14428","obj_label":"Capcom"}
+{"sub_id":"Q250989","sub_label":"TOCA Race Driver 3","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q16982737","sub_label":"Grid Autosport","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q918061","sub_label":"F1 2010","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q534497","sub_label":"Jonah Lomu Rugby","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q2358844","sub_label":"Bee 52","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q9358285","sub_label":"The Ultimate Stuntman","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q4038503","sub_label":"FADE","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q17457242","sub_label":"F1 2014","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q3312023","sub_label":"Micro Machines 2: Turbo Tournament","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q20967672","sub_label":"Overlord: Fellowship of Evil","sub_aliases":[],"obj_id":"Q23901","obj_label":"Codemasters"}
+{"sub_id":"Q18201850","sub_label":"The Prophecy","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q24935995","sub_label":"Legend of Djel","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q24935478","sub_label":"African Raiders-01","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q17515050","sub_label":"E.S.S. Mega","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q3797547","sub_label":"Inca","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q3109623","sub_label":"Goblins Quest 3","sub_aliases":["Goblins 3"],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q24935407","sub_label":"Operation Nemo","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q24935487","sub_label":"Super G\u00e9odyss\u00e9e","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q24935040","sub_label":"Intrigue \u00e0 la Renaissance","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q4131304","sub_label":"Gobliins 2: The Prince Buffoon","sub_aliases":[],"obj_id":"Q2981951","obj_label":"Coktel Vision"}
+{"sub_id":"Q2036099","sub_label":"MegaRace","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3528972","sub_label":"Timecop","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3284708","sub_label":"Versailles II: Testament of the King","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3038747","sub_label":"Dragon Lore","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q2202049","sub_label":"Ubik","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3525826","sub_label":"Thorgal: Curse of Atlantis","sub_aliases":["Curse of Atlantis: Thorgal's Quest"],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q4832929","sub_label":"Aztec: The Curse in the Heart of the City of Gold","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q2403445","sub_label":"Saga: Rage of the Vikings","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3062504","sub_label":"Extase","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q3586212","sub_label":"Egypt","sub_aliases":[],"obj_id":"Q71930","obj_label":"Cryo Interactive"}
+{"sub_id":"Q4870132","sub_label":"Battle Wings","sub_aliases":["B-Wings"],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q933967","sub_label":"Tumblepop","sub_aliases":["Tumble Pop"],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q3129137","sub_label":"Heavy Barrel","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q3868738","sub_label":"Mutant Fighter","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q7514555","sub_label":"Silent Debuggers","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q3283937","sub_label":"Congo's Caper","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q3397398","sub_label":"Sly Spy","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q2034580","sub_label":"Side Pocket","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q1143494","sub_label":"DECO Cassette System","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q1982008","sub_label":"Karnov","sub_aliases":[],"obj_id":"Q1172213","obj_label":"Data East"}
+{"sub_id":"Q54851","sub_label":"Clone Wars Adventures","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q691224","sub_label":"Free Realms","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q1163706","sub_label":"The Agency: Covert Ops","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q1476927","sub_label":"Vanguard: Saga of Heroes","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q16259484","sub_label":"EverQuest II: Chains of Eternity","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q3071514","sub_label":"Field Commander","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q23013631","sub_label":"H1Z1","sub_aliases":["H1Z1: KOTK","H1Z1: King of the Kill","Z1 Battle Royale"],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q3061444","sub_label":"EverQuest II: Echoes of Faydwer","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q333367","sub_label":"PlanetSide 2","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q55272","sub_label":"Star Wars Galaxies","sub_aliases":[],"obj_id":"Q959672","obj_label":"Daybreak Game Company"}
+{"sub_id":"Q492225","sub_label":"Tribes 2","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q477443","sub_label":"The Adventures of Willy Beamish","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q29919498","sub_label":"GBA Championship Basketball: Two-on-Two","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q5054998","sub_label":"Caveman Ughlympics","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q105975119","sub_label":"3-D Ultra NASCAR Pinball","sub_aliases":["3D Ultra NASCAR Pinball","3-D Ultra Pinball 4","3-D Ultra Pinball: Turbo Racing"],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q2742131","sub_label":"Abrams Battle Tank","sub_aliases":["M-1 Abrams Battle Tank"],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q820415","sub_label":"Earthsiege 2","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q107112853","sub_label":"Field & Stream: Trophy Bass 3D","sub_aliases":["Trophy Bass 3D"],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q509832","sub_label":"CyberStorm 2: Corporate Wars","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q7537719","sub_label":"Skyfox II: The Cygnus Conflict","sub_aliases":[],"obj_id":"Q1269052","obj_label":"Dynamix"}
+{"sub_id":"Q897058","sub_label":"EclipseLink","sub_aliases":[],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q1399846","sub_label":"Jakarta Expression Language","sub_aliases":["EL 1.1","EL 2.1","EL 2.2","EL 3.0","EL 3.1 (TBD)","Unified Expression Language"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q742961","sub_label":"Jakarta Enterprise Beans","sub_aliases":["Enterprise Java Beans","EJB","Enterprise JavaBeans"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q850689","sub_label":"Remote Application Platform","sub_aliases":[],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q901340","sub_label":"Standard Widget Toolkit","sub_aliases":["SWT"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q3047046","sub_label":"Virgo","sub_aliases":[],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q16927974","sub_label":"Jakarta Management","sub_aliases":["J2EE Management"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q735604","sub_label":"AspectJ","sub_aliases":[],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q156763","sub_label":"Jakarta Transactions","sub_aliases":["Java Transaction API","JTA"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q68847","sub_label":"GlassFish","sub_aliases":["Eclipse GlassFish"],"obj_id":"Q937756","obj_label":"Eclipse Foundation"}
+{"sub_id":"Q1462499","sub_label":"Starflight","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q3346033","sub_label":"Nuclear Strike","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q1569639","sub_label":"Interchange File Format","sub_aliases":["IFF","EA IFF 85",".iff"],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q645101","sub_label":"SimAnimals","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q3021186","sub_label":"Def Jam: Icon","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q15622727","sub_label":"FIFA World","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q2468432","sub_label":"Motor City Online","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q31708","sub_label":"Origin","sub_aliases":["EA Origin","Origin Powered by EA"],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q1445841","sub_label":"One on One","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q1192060","sub_label":"SimCity DS","sub_aliases":[],"obj_id":"Q173941","obj_label":"Electronic Arts"}
+{"sub_id":"Q2268695","sub_label":"Buffy the Vampire Slayer: Chaos Bleeds","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q2780270","sub_label":"Lethal Weapon","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q161192","sub_label":"007 Legends","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q943546","sub_label":"Spyro: A Hero's Tail","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q6952673","sub_label":"NBA Hoopz","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q7378613","sub_label":"Rugrats: I Gotta Go Party","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q7353463","sub_label":"Robots","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q2070170","sub_label":"G-Force","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q6731042","sub_label":"Magician","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q3494192","sub_label":"Spot Goes To Hollywood","sub_aliases":[],"obj_id":"Q2411797","obj_label":"Eurocom"}
+{"sub_id":"Q8056320","sub_label":"Yoshitsune Eiyuuden: The Story of Hero Yoshitsune","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q2655757","sub_label":"Kuon","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q898020","sub_label":"Tenchu: Fatal Shadows","sub_aliases":["Tenchu Kurenai","Tench\u016b Kurenai"],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q3357676","sub_label":"Otogi: Myth of Demons","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q7712517","sub_label":"The Adventures of Cookie & Cream","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q6937261","sub_label":"Murakumo: Renegade Mech Pursuit","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q55609312","sub_label":"D\u00e9racin\u00e9","sub_aliases":["Deracine"],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q7460445","sub_label":"Shadow Assault: Tenchu","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q6150799","sub_label":"Shadow Tower","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q111683","sub_label":"Chromehounds","sub_aliases":[],"obj_id":"Q2414469","obj_label":"FromSoftware"}
+{"sub_id":"Q20085696","sub_label":"libreboot","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q1334586","sub_label":"Emacs Lisp","sub_aliases":["Elisp",".el"],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q958908","sub_label":"Dia","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q1007056","sub_label":"GNUnet","sub_aliases":["gnunet","GNet"],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q581256","sub_label":"CLISP","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q1142317","sub_label":"Gnash","sub_aliases":["GNU Gnash"],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q17940363","sub_label":"LibreJS","sub_aliases":["GNU LibreJS"],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q306996","sub_label":"shred","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q3087096","sub_label":"Liquid War","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q602012","sub_label":"Sather","sub_aliases":[],"obj_id":"Q7598","obj_label":"GNU Project"}
+{"sub_id":"Q22954794","sub_label":"Pok\u00e9mon Sun and Moon","sub_aliases":["Pokemon Sun and Moon","SuMo","Pok\u00e9mon Sun\/ Pok\u00e9mon Moon"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q1988120","sub_label":"Pok\u00e9mon Yellow","sub_aliases":["Pokemon Yellow","Pok\u00e9mon Yellow: Special Pikachu Edition","Pokemon Yellow: Special Pikachu Edition"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q837346","sub_label":"Pok\u00e9mon Gold and Silver","sub_aliases":["Pokemon Gold and Silver","GS"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q11191904","sub_label":"Bushi Seiry\u016bden: Futari no Y\u016bsha","sub_aliases":["Bushi Seiry\u016bden"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q1154227","sub_label":"Pok\u00e9mon Platinum","sub_aliases":["Pokemon Platinum","Pok\u00e9mon Platinum Version","Pokemon Platinum Version"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q3107409","sub_label":"Pulseman","sub_aliases":[],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q20690147","sub_label":"Tembo the Badass Elephant","sub_aliases":[],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q2351827","sub_label":"Pok\u00e9mon Crystal","sub_aliases":["Pokemon Crystal"],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q626993","sub_label":"HarmoKnight","sub_aliases":[],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q62008701","sub_label":"Giga Wrecker","sub_aliases":[],"obj_id":"Q782028","obj_label":"Game Freak"}
+{"sub_id":"Q18154235","sub_label":"Spider-Man Unlimited","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q4807944","sub_label":"Asphalt: Injection","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q4807954","sub_label":"Asphalt 4: Elite Racing","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q2395531","sub_label":"Driver: Vegas","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q7013815","sub_label":"New York Nights: Success in the City","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q16743216","sub_label":"Blitz Brigade","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q4807956","sub_label":"Asphalt 7: Heat","sub_aliases":["Asphalt 7"],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q3028254","sub_label":"Real Football","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q14916183","sub_label":"Asphalt 8: Airborne","sub_aliases":["Asphalt 8","Asphalt 8 Airborne"],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q18753780","sub_label":"Dragon Mania Legends","sub_aliases":[],"obj_id":"Q689093","obj_label":"Gameloft"}
+{"sub_id":"Q11297758","sub_label":"Kileak: The DNA Imperative","sub_aliases":["Kileak: The Blood"],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q7229838","sub_label":"Populous DS","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q7180560","sub_label":"Phantom Crash","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q518629","sub_label":"Rally Challenge 2000","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q5256199","sub_label":"Demon Chaos","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q5514136","sub_label":"GP-1","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q2496494","sub_label":"Accele Brid","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q5506830","sub_label":"Fu-un Bakumatsu-den","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q7967800","sub_label":"Wangan Midnight","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q5506828","sub_label":"Fu-un Shinsengumi","sub_aliases":[],"obj_id":"Q1502293","obj_label":"Genki"}
+{"sub_id":"Q22021703","sub_label":"Android Froyo","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q2849803","sub_label":"AngularJS","sub_aliases":["Angular.js","Angular JS","Angular 1."],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q30637282","sub_label":"YouTube Kids","sub_aliases":["YT Kids"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q18063397","sub_label":"Android One","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q942327","sub_label":"Waze","sub_aliases":["Waze Android app"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q79531","sub_label":"Chrome OS","sub_aliases":["Google Chrome OS","ChromeOS"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q14253532","sub_label":"Chromecast","sub_aliases":["Google Chromecast","CC"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q16948181","sub_label":"Noto fonts","sub_aliases":["Noto"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q15893711","sub_label":"Gboard","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q171186","sub_label":"Blogger","sub_aliases":["Blogspot","blogspot.com",".blogspot.com","Google Blogger","Blogger beta","Blogger.com"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q16207799","sub_label":"Actua Ice Hockey 2","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q3256571","sub_label":"Litil Divil","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q12644045","sub_label":"UEFA Euro 96","sub_aliases":["UEFA Euro 96 England"],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q4042340","sub_label":"Krakout","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q4677812","sub_label":"Actua Golf 2","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q2389221","sub_label":"Jack the Nipper","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q2823769","sub_label":"Actua Pool","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q21170301","sub_label":"Space Crusade","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q1984869","sub_label":"Superman: Shadow of Apokolips","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q7301354","sub_label":"Realms of the Haunting","sub_aliases":[],"obj_id":"Q2274654","obj_label":"Gremlin Interactive"}
+{"sub_id":"Q1154059","sub_label":"Kirby's Adventure","sub_aliases":["Kirby Adventure"],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q870981","sub_label":"Super Smash Bros.","sub_aliases":["Super Smash","Smash","Smash Bros.","Smash Bros","Smash Brothers","Super Smash Brothers","SSB"],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q3197316","sub_label":"Kirby: Triple Deluxe","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q4353245","sub_label":"Alcahest","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q2078681","sub_label":"Air Fortress","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q2619366","sub_label":"Kirby's Block Ball","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q1705294","sub_label":"Pok\u00e9mon Snap","sub_aliases":["Pokemon Snap"],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q99655088","sub_label":"Kirby Fighters 2","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q1835912","sub_label":"Face Raiders","sub_aliases":[],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q19801761","sub_label":"BoxBoy!","sub_aliases":["Box Boy!"],"obj_id":"Q1068734","obj_label":"HAL Laboratory"}
+{"sub_id":"Q547836","sub_label":"SimCity Creator","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q5236657","sub_label":"Milon's Secret Castle","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q2478472","sub_label":"Calling","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q388566","sub_label":"Blazing Lazers","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q1398972","sub_label":"Faxanadu","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q373305","sub_label":"Bloody Roar 4","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q2593819","sub_label":"Mickey Mousecapade","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q4639069","sub_label":"4 Nin Uchi Mahjong","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q978521","sub_label":"Deca Sports","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q1321796","sub_label":"Doraemon","sub_aliases":[],"obj_id":"Q1049502","obj_label":"Hudson Soft"}
+{"sub_id":"Q478019","sub_label":"Rational Unified Process","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q181596","sub_label":"Statistical Package for the Social Sciences","sub_aliases":["SPSS"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q25390342","sub_label":"POWER9","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q665895","sub_label":"Jikes","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q1121334","sub_label":"Postfix","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q2468681","sub_label":"POWER4","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q2706928","sub_label":"POWER3","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q283705","sub_label":"z\/OS","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q1726891","sub_label":"OS\/390","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q1411665","sub_label":"Virtual Telecommunications Access Method","sub_aliases":["VTAM"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q979567","sub_label":"Zork Zero","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q226736","sub_label":"Zork","sub_aliases":["Zork trilogy"],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q1419773","sub_label":"Starcross","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q1941016","sub_label":"Wishbringer","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q1946760","sub_label":"Moonmist","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q7649171","sub_label":"Suspended","sub_aliases":["Suspended: A Cryogenic Nightmare"],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q7563358","sub_label":"Sorcerer","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q1671179","sub_label":"Leather Goddesses of Phobos","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q7604356","sub_label":"Stationfall","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q893416","sub_label":"Border Zone","sub_aliases":[],"obj_id":"Q742561","obj_label":"Infocom"}
+{"sub_id":"Q4049806","sub_label":"Soulbringer","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q1155168","sub_label":"Shadow of the Comet","sub_aliases":["Call of Cthulhu: Shadow of the Comet"],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q385812","sub_label":"Prisoner of Ice","sub_aliases":["Call of Cthulhu: Prisoner of Ice"],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q3066546","sub_label":"Fantasia","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q7864310","sub_label":"UEFA Challenge","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q4928692","sub_label":"Blue's Clues Kindergarten","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q4735142","sub_label":"Alpha Waves","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q3407106","sub_label":"Prohibition","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q5449356","sub_label":"Final Assault","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q6675674","sub_label":"Looney Tunes Collector: Alert!","sub_aliases":[],"obj_id":"Q1782700","obj_label":"Infogrames"}
+{"sub_id":"Q846203","sub_label":"Super R-Type","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q2669580","sub_label":"10-Yard Fight","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q1777612","sub_label":"Vigilante","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q1319139","sub_label":"Kung-Fu Master","sub_aliases":["Kung Fu Master","Spartan X"],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q2040360","sub_label":"Mr. Heli","sub_aliases":["Battle Chopper"],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q7575928","sub_label":"Spelunker HD","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q840733","sub_label":"Disaster Report","sub_aliases":["SOS: The Final Escape"],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q5278473","sub_label":"DinoCity","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q1150903","sub_label":"Ninja Spirit","sub_aliases":[],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q765954","sub_label":"Raw Danger!","sub_aliases":["Zettai Zetsumei Toshi 2: Itetsuita Kiokutachi"],"obj_id":"Q617752","obj_label":"Irem"}
+{"sub_id":"Q7997606","sub_label":"Whomp 'Em","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q7033177","sub_label":"NightCaster II: Equinox","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q1440134","sub_label":"Rod Land","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q5470030","sub_label":"Formation Z","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q1153074","sub_label":"City Connection","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q5002372","sub_label":"Butasan","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q3109621","sub_label":"Goblin Commander: Unleash the Horde","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q5846885","sub_label":"The Ignition Factor","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q16267502","sub_label":"Pulse Racer","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q55381997","sub_label":"Sea Trader: Rise of Taipan","sub_aliases":[],"obj_id":"Q1344080","obj_label":"Jaleco"}
+{"sub_id":"Q2421908","sub_label":"Castlevania: Rondo of Blood","sub_aliases":["Castlevania: Dracula X","Castlevania: Vampire's Kiss","Castlevania: The Dracula Chronicles","Akumaj\u014d Dracula X: Chi no Rondo"],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q247935","sub_label":"Metal Gear Solid 3: Snake Eater","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q837338","sub_label":"Silent Hill 3","sub_aliases":["'' Silent Hill 3 '''"],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q1920147","sub_label":"Super Contra","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q1318106","sub_label":"Pro Evolution Soccer 2011","sub_aliases":["PES 2011"],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q2659903","sub_label":"Jackal","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q1323953","sub_label":"Antarctic Adventure","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q2320111","sub_label":"Vampire Killer","sub_aliases":[],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q1368099","sub_label":"Contra III: The Alien Wars","sub_aliases":["Super Probotector: Alien Rebels","Contra Spirits"],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q1630875","sub_label":"Track & Field","sub_aliases":["Hyper Olympic","Track & Field in Barcelona"],"obj_id":"Q45700","obj_label":"Konami"}
+{"sub_id":"Q2332147","sub_label":"Blades of Vengeance","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q6838523","sub_label":"Mickey's Adventures in Numberland","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q1359413","sub_label":"War in Middle Earth","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q3530938","sub_label":"Tom and Jerry: Frantic Antics","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q2933418","sub_label":"Cal Ripken Jr. Baseball","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q1324596","sub_label":"The Way of the Exploding Fist","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q3627511","sub_label":"Asterix and the Magic Cauldron","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q3946696","sub_label":"Samurai Warrior: The Battles of Usagi Yojimbo","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q7752635","sub_label":"The Muncher","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q6838562","sub_label":"Mickey's Safari in Letterland","sub_aliases":[],"obj_id":"Q2456686","obj_label":"Krome Studios Melbourne"}
+{"sub_id":"Q1725580","sub_label":"The Getaway: Black Monday","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q2211726","sub_label":"EyeToy: Operation Spy","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q6821377","sub_label":"Mesmerize","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q5215340","sub_label":"SingStar Dance","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q127408","sub_label":"Wonderbook","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q5417695","sub_label":"Everybody Dance","sub_aliases":["DanceStar Party"],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q7096939","sub_label":"Operation Creature Feature","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q64211940","sub_label":"Blood & Truth","sub_aliases":["Blood and Truth"],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q2104578","sub_label":"Porsche Challenge","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q3784353","sub_label":"Book of Spells","sub_aliases":[],"obj_id":"Q266418","obj_label":"London Studio"}
+{"sub_id":"Q1234583","sub_label":"Strike Fleet","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q2146521","sub_label":"PHM Pegasus","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q6696944","sub_label":"Lucidity","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q1405025","sub_label":"Jedi","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q1430706","sub_label":"Sam & Max Hit the Road","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q493603","sub_label":"The Eidolon","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q448882","sub_label":"Night Shift","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q672380","sub_label":"Loom","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q2011146","sub_label":"Sith","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q1371367","sub_label":"GrimE","sub_aliases":[],"obj_id":"Q216611","obj_label":"LucasArts"}
+{"sub_id":"Q968045","sub_label":"X-COM: Enforcer","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q5958622","sub_label":"Hyperspeed","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q1421623","sub_label":"Stunt Car Racer","sub_aliases":["Stunt Track Racer"],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q3428838","sub_label":"Rex Nebular and the Cosmic Gender Bender","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q5400123","sub_label":"Railroad Tycoon","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q2631873","sub_label":"Falcon 4.0","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q7317243","sub_label":"Return of the Phantom","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q684629","sub_label":"F-15 Strike Eagle","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q675511","sub_label":"X-COM: Interceptor","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q2811781","sub_label":"1942: The Pacific Air War","sub_aliases":[],"obj_id":"Q652421","obj_label":"MicroProse"}
+{"sub_id":"Q381247","sub_label":"QBasic","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q48263","sub_label":"Xbox 360","sub_aliases":["X-BOX 360","XB360","Xbox 360 Elite","X360","Xbox 360 E","Xbox 360 S","360","XBOX360"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q231136","sub_label":"Encarta","sub_aliases":["Microsoft Encarta","Encarta Encyclopedia"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q978185","sub_label":"TypeScript","sub_aliases":["TS",".ts"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q2370","sub_label":"C#","sub_aliases":["C-Sharp","CSharp","C Sharp","C\u266f"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q11215","sub_label":"Windows 7","sub_aliases":["Microsoft Windows 7","Win7","Windows 7 SP1","Windows Seven","Windows Vienna","Vienna","Windows Blackcomb"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q1575","sub_label":"Internet Explorer","sub_aliases":["IE","Windows Internet Explorer","Microsoft Internet Explorer","MSIE","Internet Jumpstart Kit","Windows IE","MS IE"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q47604","sub_label":"MS-DOS","sub_aliases":["MSDOS","Microsoft DOS","MS DOS","Microsoft Disk Operating System"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q3903488","sub_label":"Hotmail","sub_aliases":["Microsoft Hotmail","Windows Live Hotmail","MSN Hotmail","Outlook.com"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q190167","sub_label":"File Allocation Table","sub_aliases":["FAT","VFAT"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q5670135","sub_label":"The Grid","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q3143715","sub_label":"Hydro Thunder","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q3815061","sub_label":"Kick","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q3421557","sub_label":"Ready 2 Rumble Boxing: Round 2","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q3005559","sub_label":"Cruis'n Exotica","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q4926943","sub_label":"Blitz: The League","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q2033284","sub_label":"TouchMaster","sub_aliases":["TouchMaster DS"],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q843486","sub_label":"Mortal Kombat II","sub_aliases":["Mortal Kombat 2","MK2","MKII"],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q925253","sub_label":"Mortal Kombat 3","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q3005567","sub_label":"Cruis'n World","sub_aliases":[],"obj_id":"Q149947","obj_label":"Midway Games"}
+{"sub_id":"Q2491737","sub_label":"S.C.A.T.: Special Cybernetic Attack Team","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q3783578","sub_label":"Harvest Moon: Frantic Farming","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q2748662","sub_label":"Mighty Morphin Power Rangers: The Movie","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q2052338","sub_label":"Pocky & Rocky","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q4037585","sub_label":"Dragon Fighter","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q7676056","sub_label":"Tail 'Gator","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q2944565","sub_label":"The Jetsons: Cogswell's Caper!","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q2803175","sub_label":"Chaos World","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q4051552","sub_label":"Shatterhand","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q4044393","sub_label":"Mitsume ga Tooru","sub_aliases":[],"obj_id":"Q3772556","obj_label":"Natsume"}
+{"sub_id":"Q370055","sub_label":"The Legend of Zelda: A Link to the Past","sub_aliases":["The Legend of Zelda: Triforce of the Gods","A Link to the Past","Triforce of the Gods","TLoZ: A Link to the Past","Zelda III","Zelda 3"],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q284064","sub_label":"Stunt Race FX","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q3142278","sub_label":"Wave Race 64","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q168615","sub_label":"1080\u00b0 Snowboarding","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q840121","sub_label":"Wii Fit","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q2337280","sub_label":"Yoshi's Story","sub_aliases":["Yoshi Story"],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q864389","sub_label":"Nintendogs","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q6141895","sub_label":"Mole Mania","sub_aliases":[],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q2290930","sub_label":"Pok\u00e9mon Stadium 2","sub_aliases":["Pokemon Stadium 2","Pok\u00e9mon Stadium Gold Silver","Pokemon Stadium Gold Silver","Pocket Monsters' Stadium G\u014drudo Shirub\u0101"],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q11168","sub_label":"Super Mario Bros.","sub_aliases":["Super Mario Brothers","Super Mario Bros. 1","SMB","SMB1","SMB 1","SMB.","SMB. 1"],"obj_id":"Q170420","obj_label":"Nintendo Entertainment Analysis & Development"}
+{"sub_id":"Q5595560","sub_label":"Grandview","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q1055444","sub_label":"Symantec Endpoint Protection","sub_aliases":["SEP"],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q5307905","sub_label":"Drive Image","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q7093991","sub_label":"OnlineFamily.Norton","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q17042798","sub_label":"Norton CleanSweep","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q1370256","sub_label":"Norton Internet Security","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q2291630","sub_label":"Backup Exec","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q2064372","sub_label":"Veritas File System","sub_aliases":["VxFS"],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q4868707","sub_label":"Batch Enhancer","sub_aliases":[],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q7921395","sub_label":"Veritas Volume Manager","sub_aliases":["VxVM"],"obj_id":"Q677085","obj_label":"NortonLifeLock"}
+{"sub_id":"Q1461054","sub_label":"OpenJDK","sub_aliases":["jdk"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q1504505","sub_label":"Java Runtime Environment","sub_aliases":["JRE"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q741303","sub_label":"Java Development Kit","sub_aliases":["Java 2 SDK","JDK","J2SDK","Java 2 Software Development Kit","Java SDK"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q4041849","sub_label":"Jinitiator","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q16928072","sub_label":"Graal","sub_aliases":["GraalVM","GraalVM Community Edition"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q2190596","sub_label":"Tuxedo","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q823827","sub_label":"K virtual machine","sub_aliases":["Kilo Virtual Machine","kilobyte Virtual Machine","KVM","KVM (Java)","K-Software","K-Program"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q3991449","sub_label":"TimesTen","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q283820","sub_label":"Btrfs","sub_aliases":["B-tree file system"],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q640741","sub_label":"MySQL Workbench","sub_aliases":[],"obj_id":"Q19900","obj_label":"Oracle"}
+{"sub_id":"Q836690","sub_label":"The Simpsons: Hit & Run","sub_aliases":["The Simpsons Hit & Run","The Simpsons Hit and Run"],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q6902881","sub_label":"Monsters, Inc. Scream Arena","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q6924877","sub_label":"Mountain Bike Rally","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q3607557","sub_label":"Al Unser Jr.'s Road to the Top","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q473852","sub_label":"Prototype","sub_aliases":["[PROTOTYPE]"],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q869522","sub_label":"Crash Tag Team Racing","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q1987465","sub_label":"CSI: Miami","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q105637119","sub_label":"NBA Basketball 2000","sub_aliases":["Fox Sports NBA Basketball 2000"],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q2016278","sub_label":"Beavis and Butt-head","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q5223435","sub_label":"Dark Summit","sub_aliases":[],"obj_id":"Q1515682","obj_label":"Radical Entertainment"}
+{"sub_id":"Q1688483","sub_label":"Jet Force Gemini","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q1759528","sub_label":"Snake Rattle 'n' Roll","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q524661","sub_label":"Perfect Dark Zero","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q2015406","sub_label":"WWF WrestleMania Challenge","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q1741985","sub_label":"Kinect Sports","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q3048043","sub_label":"Mickey's Speedway USA","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q2532676","sub_label":"Battletoads & Double Dragon","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q774773","sub_label":"Donkey Kong 64","sub_aliases":["DK64","DK 64"],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q2188282","sub_label":"R.C. Pro-Am","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q2281747","sub_label":"Anticipation","sub_aliases":[],"obj_id":"Q642707","obj_label":"Rare Ltd."}
+{"sub_id":"Q751346","sub_label":"NetworkManager","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q2912272","sub_label":"OpenShift","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q18152516","sub_label":"Infinispan","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q768923","sub_label":"D-Bus","sub_aliases":["dbus","DBus","Desktop Bus"],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q7572741","sub_label":"Spacewalk","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q18154068","sub_label":"kpatch","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q286227","sub_label":"jBPM","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q830550","sub_label":"GlusterFS","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q1188957","sub_label":"libvirt","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q483544","sub_label":"Anaconda","sub_aliases":[],"obj_id":"Q485593","obj_label":"Red Hat"}
+{"sub_id":"Q2081774","sub_label":"2020 Super Baseball","sub_aliases":[],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q17639228","sub_label":"Sengoku 2","sub_aliases":["Sengoku Densh\u014d 2"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q2642768","sub_label":"Iron Tank","sub_aliases":["Iron Tank"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q2796607","sub_label":"Ikari Warriors","sub_aliases":["Ikari"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q2819439","sub_label":"Alpha Mission","sub_aliases":["Armored Scrum Object","ASO: Armored Scrum Object"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q839884","sub_label":"Super Sidekicks","sub_aliases":[],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q3071624","sub_label":"Fight Fever","sub_aliases":["FIGHT FEVER"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q198081","sub_label":"The King of Fighters '94","sub_aliases":["KOF '94"],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q3041940","sub_label":"Psycho Soldier","sub_aliases":[],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q2452389","sub_label":"Rage of the Dragons","sub_aliases":[],"obj_id":"Q1044563","obj_label":"SNK"}
+{"sub_id":"Q1707792","sub_label":"Space Harrier","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q812837","sub_label":"Beach Spikers","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q1751719","sub_label":"Scud Race","sub_aliases":["Sega Super GT"],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q1432516","sub_label":"Daytona USA 2","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q1060660","sub_label":"Virtua Fighter","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q3371596","sub_label":"Power Drift","sub_aliases":["POWER DRIFT"],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q654354","sub_label":"Shenmue","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q3093019","sub_label":"G-LOC: Air Battle","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q1070977","sub_label":"Border Break","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q2660069","sub_label":"Sword of Vermilion","sub_aliases":[],"obj_id":"Q294587","obj_label":"Sega AM2"}
+{"sub_id":"Q4053202","sub_label":"Wizard and the Princess","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q2537295","sub_label":"Lighthouse: The Dark Being","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q3245478","sub_label":"Gold Rush!","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q1751498","sub_label":"Mystery House","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q2268809","sub_label":"Quest for Glory: So You Want to Be a Hero","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q499257","sub_label":"Shivers","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q1742194","sub_label":"King's Quest I","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q588963","sub_label":"Phantasmagoria","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q384919","sub_label":"Space Quest","sub_aliases":[],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q930283","sub_label":"Lost Secret of the Rainforest","sub_aliases":["EcoQuest 2: Lost Secret of the Rainforest"],"obj_id":"Q494614","obj_label":"Sierra Entertainment"}
+{"sub_id":"Q26906780","sub_label":"PlayStation 4 Pro","sub_aliases":["PS4 Pro","PlayStation 4 Neo","PS4 Neo","Sony PlayStation 4 Pro","PS 4 Pro","Sony PS 4 Pro","PS 4 Neo","Sony PlayStation 4 Neo","Sony PS4 Neo","Sony PS4 Pro","Sony PS 4 Neo"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q834539","sub_label":"PhyreEngine","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q1378740","sub_label":"PSX","sub_aliases":["PlayStation X","PlayStation Extreme"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q960773","sub_label":"Ape Escape","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q1262565","sub_label":"DualShock","sub_aliases":["DualShock Analog Controller","Dual Shock","Dualshock","DualShock series"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q3325286","sub_label":"Motor Toon Grand Prix","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q1132745","sub_label":"Dual Analog Controller","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q2562250","sub_label":"The Legend of Dragoon","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q56668812","sub_label":"PlayStation Classic","sub_aliases":["PS Classic","PlayStation 1 Classic","PS 1 Classic"],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q5294700","sub_label":"Rally Cross","sub_aliases":[],"obj_id":"Q18594","obj_label":"Sony Interactive Entertainment"}
+{"sub_id":"Q24867634","sub_label":"Valkyrie Anatomia: The Origin","sub_aliases":["VALKYRIE ANATOMIA -THE ORIGIN-"],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q5158558","sub_label":"Concerto Gate","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q647780","sub_label":"Kaku-San-Sei Million Arthur","sub_aliases":["Million Arthur"],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q2147678","sub_label":"Unlimited Saga","sub_aliases":["unlimited:SaGa"],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q25680","sub_label":"Guardian Cross","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q5373960","sub_label":"Emperors SaGa","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q626802","sub_label":"Kingdom Hearts II","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q2538054","sub_label":"Musashi: Samurai Legend","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q327594","sub_label":"Final Fantasy XII","sub_aliases":["Final Fantasy","Final Fantasy game","Final Fantasy xii","Final Fantasy xii game","Final Fantasy XII game"],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q1339322","sub_label":"The Last Remnant","sub_aliases":[],"obj_id":"Q207784","obj_label":"Square Enix"}
+{"sub_id":"Q3062745","sub_label":"Eye of the Beholder III: Assault on Myth Drannor","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q3197458","sub_label":"Panzer Commander","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q3566234","sub_label":"War of the Lance","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q2955873","sub_label":"Champions of Krynn","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q3066606","sub_label":"Fantasy General","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q847645","sub_label":"Forgotten Realms: Unlimited Adventures","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q3007751","sub_label":"Curse of the Azure Bonds","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q3020724","sub_label":"Death Knights of Krynn","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q5157419","sub_label":"Computer Bismarck","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q13740879","sub_label":"Kampfgruppe","sub_aliases":[],"obj_id":"Q1268871","obj_label":"Strategic Simulations"}
+{"sub_id":"Q1324054","sub_label":"Open Firmware","sub_aliases":["IEEE 1275"],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q237580","sub_label":"OpenSolaris","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q451869","sub_label":"SuperSPARC","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q525892","sub_label":"Network Information Service","sub_aliases":["NIS","YP","Yellow Pages"],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q1753053","sub_label":"Tarantella","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q2385453","sub_label":"Open Network Computing Remote Procedure Call","sub_aliases":["ONC RPC","Sun Remote Procedure Call"],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q189625","sub_label":"Zenity","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q2641407","sub_label":"UltraSPARC","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q33079","sub_label":"Java Web Start","sub_aliases":[],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q2622457","sub_label":"Oracle Developer Studio","sub_aliases":["Oracle Solaris Studio","Forte Developer","SunPro Compilers","Sun Studio","Sun WorkShop"],"obj_id":"Q14647","obj_label":"Sun Microsystems"}
+{"sub_id":"Q3094545","sub_label":"Galaxy Fight: Universal Warriors","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q7862685","sub_label":"T\u014dkaid\u014d Goj\u016bsan-tsugi","sub_aliases":["Kanshaku tamanage Kantar\u014d no T\u014dkaid\u014d Goj\u016bsan-tsugi"],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q2891476","sub_label":"Batman ","sub_aliases":["Batman"],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q6734149","sub_label":"Mahjong Cub3d","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q20875653","sub_label":"Hashire Hebereke","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q3517243","sub_label":"Tel-Tel Stadium","sub_aliases":["Tel Tel Stadium"],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q7775129","sub_label":"The Wing of Madoola","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q2022792","sub_label":"Super Spy Hunter","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q16266999","sub_label":"Hebereke's Popoon","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q2364724","sub_label":"Blaster Master","sub_aliases":[],"obj_id":"Q2298387","obj_label":"Sunsoft"}
+{"sub_id":"Q1713469","sub_label":"Jungle Hunt","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q1108749","sub_label":"Bubble Symphony","sub_aliases":["Bubble Bobble II"],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q1432978","sub_label":"Gun Fight","sub_aliases":["Western Gun"],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q2585558","sub_label":"The Legend of Kage","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q591171","sub_label":"Elevator Action","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q1634991","sub_label":"Operation Thunderbolt","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q2266449","sub_label":"Cadash","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q1158763","sub_label":"Rastan Saga","sub_aliases":["Rastan"],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q1137071","sub_label":"Exit","sub_aliases":["Exit DS"],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q220665","sub_label":"Space Invaders","sub_aliases":[],"obj_id":"Q1054844","obj_label":"Taito Corporation"}
+{"sub_id":"Q3704216","sub_label":"Dead Rising: Chop Till You Drop","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q7746870","sub_label":"The Legendary Starfy","sub_aliases":["The Legendary Starfy 5","The Legend of Starfy 5","Densetsu no Stafy 5","Densetsu no Stafi 5"],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q5432912","sub_label":"Famicom Jump: Hero Retsuden","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q3959791","sub_label":"Shrek: Hassle at the Castle","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q5520537","sub_label":"Ganbare Goemon: Tengu-t\u014d no Gyakush\u016b!","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q3013534","sub_label":"Dangerous Seed","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q2749049","sub_label":"Goal!","sub_aliases":["Moero 5!! Pro Soccer","GOAL!!"],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q2947434","sub_label":"Maru's Mission","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q1151532","sub_label":"Ultimate Ghosts 'n Goblins","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q2668497","sub_label":"Final Fantasy Chronicles","sub_aliases":[],"obj_id":"Q2271746","obj_label":"Tose Co."}
+{"sub_id":"Q2891460","sub_label":"Batman: Rise of Sin Tzu","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q282293","sub_label":"Anvil","sub_aliases":["AnvilNext","Scimitar"],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q645418","sub_label":"Donald Duck: Goin' Quackers","sub_aliases":["Donald Duck: Quack Attack"],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q1814981","sub_label":"Shaun White Snowboarding","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q1193623","sub_label":"Lost: Via Domus","sub_aliases":["Lost: The Video Game"],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q16319370","sub_label":"Child of Light","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q2633663","sub_label":"Naruto: The Broken Bond","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q2361500","sub_label":"Star Wars: Lethal Alliance","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q2713853","sub_label":"Naruto: Rise of a Ninja","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q10539438","sub_label":"James Noir's Hollywood Crimes","sub_aliases":[],"obj_id":"Q903621","obj_label":"Ubisoft Montreal"}
+{"sub_id":"Q17506098","sub_label":"NBA 2K15","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q6738124","sub_label":"Major League Baseball 2K13","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q6954039","sub_label":"NHL 2K11","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q13715618","sub_label":"NBA 2K14","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q2837379","sub_label":"All-Pro Football 2K8","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q1684851","sub_label":"NBA 2K11","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q65040623","sub_label":"NBA 2K20","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q3334212","sub_label":"NBA 2K3","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q1827675","sub_label":"Harley's Humongous Adventure","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q54871545","sub_label":"NBA 2K19","sub_aliases":[],"obj_id":"Q133482","obj_label":"Visual Concepts"}
+{"sub_id":"Q66665639","sub_label":"River City Girls","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q15092055","sub_label":"Regular Show: Mordecai and Rigby in 8-Bit Land","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q6844161","sub_label":"Mighty Milky Way","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q18071595","sub_label":"Godzilla: Domination!","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q21016479","sub_label":"Teenage Mutant Ninja Turtles: Danger of the Ooze","sub_aliases":["TMNT: Danger of the Ooze"],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q42851578","sub_label":"The Mummy Demastered","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q3477711","sub_label":"Xtreme Sports","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q1029084","sub_label":"Batman: The Brave and the Bold \u2013 The Videogame","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q6844121","sub_label":"Mighty Flip Champs!","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}
+{"sub_id":"Q4355846","sub_label":"American Dragon: Jake Long \u2013 Attack of the Dark Dragon","sub_aliases":[],"obj_id":"Q3566785","obj_label":"WayForward Technologies"}

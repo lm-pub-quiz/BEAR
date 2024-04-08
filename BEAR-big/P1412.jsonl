@@ -1,0 +1,600 @@
+{"sub_id":"Q2255228","sub_label":"Joan Hambidge","sub_aliases":["Joan Helene Hambidge"],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q3903506","sub_label":"Piet Uys","sub_aliases":["Petrus Lafras Uys"],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q982266","sub_label":"D. J. Opperman","sub_aliases":[],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q6216696","sub_label":"Johannes Geldenhuys","sub_aliases":[],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q11267129","sub_label":"Zach de Beer","sub_aliases":[],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q2384374","sub_label":"Elisabeth Eybers","sub_aliases":[],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q439901","sub_label":"Peter Blum","sub_aliases":["Peter Emil Julius Blum"],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q380938","sub_label":"Koos de la Rey","sub_aliases":["Jacobus Herculaas de la Rey"],"obj_id":"Q14196","obj_label":"Afrikaans"}
+{"sub_id":"Q514427","sub_label":"Granit Xhaka","sub_aliases":[],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q294250","sub_label":"Rexhep Meidani","sub_aliases":["Rexhep Qemal Meidani"],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q57625","sub_label":"Sali Berisha","sub_aliases":["Sali Ram Berisha"],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q190889","sub_label":"Alfred Moisiu","sub_aliases":["Alfred Spiro Moisiu"],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q288189","sub_label":"Nexhmije Hoxha","sub_aliases":["Nexhmije Xhuglini"],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q3301350","sub_label":"Musine Kokalari","sub_aliases":[],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q443883","sub_label":"Pjet\u00ebr Bogdani","sub_aliases":["Pjeter Bogdani"],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q115455","sub_label":"Gjergj Fishta","sub_aliases":[],"obj_id":"Q8748","obj_label":"Albanian"}
+{"sub_id":"Q41980","sub_label":"Democritus","sub_aliases":["Democritos","Democritus of Abdera","Laughing Philosopher"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q8739","sub_label":"Archimedes","sub_aliases":["Archimedes of Syracuse"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q41683","sub_label":"Thucydides","sub_aliases":[],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q11903","sub_label":"Hypatia","sub_aliases":["Hypatia of Alexandria","Divine Pagan"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q8778","sub_label":"Galen","sub_aliases":["Claudius Galenus","Aelius Galenus","Galen of Pergamon"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q8409","sub_label":"Alexander the Great","sub_aliases":["Alexander III of Macedon","Alexander","Iskander","Eskandar","Sikandar","Alexander of Macedonia","Alexander III","Great Alexander","Alexandros the Great","the Great Alexander"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q43353","sub_label":"Aristophanes","sub_aliases":["Father of Comedy"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q118992","sub_label":"Menander","sub_aliases":["Menander of Athens"],"obj_id":"Q35497","obj_label":"Ancient Greek"}
+{"sub_id":"Q5670","sub_label":"Abu Nuwas","sub_aliases":["Ab\u016b Nuw\u0101s al-\u1e24asan ibn H\u0101n\u012b al-\u1e24akam\u012b","Ab\u016b Nuw\u0101s"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q104622","sub_label":"Tawakel Karman","sub_aliases":["Tawakkol Karman","Tawakkul Karman","Tawakkul \u2018Abd us-Sal\u0101m Karm\u0101n","Tawakkol Abdel-Salam Khalid Karman"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q190896","sub_label":"Ab\u016b \u1e24an\u012bfa","sub_aliases":["Abu Hanifa","Imam Azam","The Great Imam","The Lamp of the Imams","al-Nu\u02bfm\u0101n b. al-\u1e6e\u0101bit, Ab\u016b \u1e24an\u012bfa\u0167"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q57265","sub_label":"Omar al-Bashir","sub_aliases":[],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q118725","sub_label":"Hafez al-Assad","sub_aliases":[],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q307871","sub_label":"Abdel Fattah el-Sisi","sub_aliases":["Abdul Fatah Khalil a-Sisi","Abdel-Fattah el-Sissi","Abdel Fattah al-Sisi","Abd El-Fattah El-Sisi","Abdul Fatah Saeed Hussein Khalil Al-Sisi","Abdul Fatah Saeed Khalil Al-Sisi","Sisi","El Sisi","Al Sisi","General Sisi","Abdul Fattah al-Sisi","Abdel Fattah Saeed Hussein Khalil el-Sisi","Abdel Fattah Al-Sisi"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q1257","sub_label":"Boutros Boutros-Ghali","sub_aliases":["Ghali"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q8467","sub_label":"Umar ibn Al-Khatt\u0101b","sub_aliases":["Farooq the Great","Leader of the Faithful","Umar","Omar","'Umar ibn al-Kha\u1e6d\u1e6d\u00e2b","'Umar ibn al-Kha\u1e6d\u1e6d\u00e2b ibn Nufayl ibn 'Abdul-'Uzza ibn Riy\u00e2\u1e25 ibn 'Abdullah ibn Qurut ibn Raz\u00e2h ibn 'Adiyy ibn Ka'b ibn Lu'ayy ibn Gh\u00e2lib al-Qurashi al-'Adawi"],"obj_id":"Q13955","obj_label":"Arabic"}
+{"sub_id":"Q2996375","sub_label":"Abbas Sahhat","sub_aliases":[],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q2636522","sub_label":"Ashig Alasgar","sub_aliases":["\u00c2\u015f\u0131k Alesker"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q2394080","sub_label":"Jafar Jabbarly","sub_aliases":["Cafar Cabbarli","Jafar Gafar oglu Jabbarly"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q31294219","sub_label":"Samira Efendi","sub_aliases":["Samira Efendiyeva"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q995873","sub_label":"Molla Panah Vagif","sub_aliases":["Molla Panah"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q23024178","sub_label":"Samra Rahimli","sub_aliases":["S\u0259mra R\u0259himli"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q12848240","sub_label":"Zakir Hasanov","sub_aliases":[],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q97357641","sub_label":"Polad Hashimov","sub_aliases":["Polad Gashimov","Polad Israyil oglu Hashimov"],"obj_id":"Q9292","obj_label":"Azerbaijani"}
+{"sub_id":"Q11042193","sub_label":"Qadir Dayan","sub_aliases":["Kadir Dayan"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q580788","sub_label":"Yakup Kulmiy","sub_aliases":[],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q18603885","sub_label":"Fakiya Tuguzbayeva","sub_aliases":["Fakiya Khadyyevna Tuguzbayeva","Fakiya Tuquzbayeva"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q4534395","sub_label":"Daut Yulty","sub_aliases":[],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q4220989","sub_label":"Katiba Kinyabulatova","sub_aliases":["Katiba Karimovna Kinyabulatova"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q4054593","sub_label":"Ibragim Abdullin","sub_aliases":["Ibragim Akhmetovich Abdullin","Ibrahim Abdullin"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q13055808","sub_label":"Khabibulla Ibragimov","sub_aliases":["Khabibulla Kalimullovich Ibragimov"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q16634744","sub_label":"Rozalia Sultangareeva","sub_aliases":["Rozalia Soltangaraeva","Rozaliya Sultangareyeva"],"obj_id":"Q13389","obj_label":"Bashkir"}
+{"sub_id":"Q296652","sub_label":"Sancho III of Navarre","sub_aliases":["Sancho III Sanchez, Comte d'Aragon"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q462828","sub_label":"Be\u00f1at Intxausti","sub_aliases":["Benat Intxausti","Be\u00f1at Intxausti Elorriaga","Benat Intxausti Elorriaga"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q961601","sub_label":"Uxue Barkos","sub_aliases":["Miren Uxue Barkos Berruezo"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q3098381","sub_label":"Garikoitz Bravo","sub_aliases":["Garikoitz Bravo Oiarbide"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q362037","sub_label":"Amets Txurruka","sub_aliases":["Amets Txurruka Ansola"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q410904","sub_label":"Aitor Osa","sub_aliases":["Aitor Osa Eizaguirre"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q2298503","sub_label":"Fort\u00fan Garc\u00e9s of Pamplona","sub_aliases":["Fortun Garces of Pamplona","Fort\u00fan Garc\u00e9s, Rey de Navarre"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q2718905","sub_label":"Maialen Chourraut","sub_aliases":["Maialen Chourraut Yurramendi"],"obj_id":"Q8752","obj_label":"Basque"}
+{"sub_id":"Q2588862","sub_label":"Pimien Pan\u010danka","sub_aliases":[],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q2991206","sub_label":"Alexander Chervyakov","sub_aliases":["Aliaksandr \u010carviako\u016d","Alaksandar \u010carviako\u016d","Alexander Grigoryevich Chervyakov"],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q1137995","sub_label":"Pyotra Krecheuski","sub_aliases":["Piotra Kra\u010de\u016dski","Piotra Kre\u010de\u016dski","Piotra Krecheuski"],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q467119","sub_label":"Veronika Cherkasova","sub_aliases":[],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q983686","sub_label":"Lavon Volski","sub_aliases":["Leanid Arturavich Zeydel-Volski"],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q724655","sub_label":"Zianon Pazniak","sub_aliases":[],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q2618935","sub_label":"Janka Bryl","sub_aliases":[],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q381755","sub_label":"Jan Czerski","sub_aliases":[],"obj_id":"Q9091","obj_label":"Belarusian"}
+{"sub_id":"Q144391","sub_label":"Mahasweta Devi","sub_aliases":[],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q319578","sub_label":"Sri Chinmoy","sub_aliases":["Chinmoy Kumar Ghose"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q465060","sub_label":"Devika Rani","sub_aliases":["Devika Rani Chaudhuri","Devika Rani Chaudhari"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q404622","sub_label":"Sarat Chandra Chattopadhyay","sub_aliases":["Sarat Chandra Chatterjee","Saratchandra Chattopadhyay"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q2900953","sub_label":"Bibhutibhushan Bandyopadhyay","sub_aliases":[],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q183126","sub_label":"Ramakrishna","sub_aliases":["Ramakrishna Paramahamsa","Gadadhar Chattopadhyay","Sri Ramakrishna Paramahamsa"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q234898","sub_label":"A. C. Bhaktivedanta Swami Prabhupada","sub_aliases":["Abhay Charan De","Abhay Charanaravinda Bhaktivedanta Swami","Srila Prabhupada"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q19361202","sub_label":"Avijit Roy","sub_aliases":["Abhijit Roy"],"obj_id":"Q9610","obj_label":"Bengali"}
+{"sub_id":"Q261048","sub_label":"Edin Cocali\u0107","sub_aliases":[],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q20738525","sub_label":"Edvin Kanka \u0106udi\u0107","sub_aliases":["Edvin Cudic","Edvin \u0106udi\u0107"],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q153786","sub_label":"Edin D\u017eeko","sub_aliases":["Edin Dzeko","Diamond"],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q361153","sub_label":"Haris Medunjanin","sub_aliases":[],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q528973","sub_label":"Anel Had\u017ei\u0107","sub_aliases":[],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q733202","sub_label":"Asmir Avduki\u0107","sub_aliases":[],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q129045","sub_label":"Mensur Mujd\u017ea","sub_aliases":["Mensur Mujdza"],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q253163","sub_label":"Emir Spahi\u0107","sub_aliases":[],"obj_id":"Q9303","obj_label":"Bosnian"}
+{"sub_id":"Q3189904","sub_label":"Juluan Godest","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q967083","sub_label":"Mich Beyer","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q3257816","sub_label":"Loeiz Herrieu","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q3573815","sub_label":"Yves Mahyeuc","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q3572241","sub_label":"Yeun ar Gow","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q3185223","sub_label":"Joseph Le Bayon","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q3103057","sub_label":"Georges Le Rumeur","sub_aliases":[],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q16241489","sub_label":"Gabriel \u00c9li\u00e8s","sub_aliases":["Mab an Dig","Biel Elies","Gabriel H\u00e9li\u00e8s","Gabriel Eli\u00e8s"],"obj_id":"Q12107","obj_label":"Breton"}
+{"sub_id":"Q28517","sub_label":"Todor Zhivkov","sub_aliases":["Todor Hristov Zhivkov"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q458743","sub_label":"Georgi Asparuhov","sub_aliases":["Georgi Asparuhov Rangelov"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q318461","sub_label":"Vasil Levski","sub_aliases":["Vasil Ivanov Kunchev","Vassil Levski"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q362129","sub_label":"Ivan Kostov","sub_aliases":["Ivan Yordanov Kostov"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q276567","sub_label":"Zhelyu Zhelev","sub_aliases":["Zhelyu Mitev Zhelev"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q459651","sub_label":"Jason Savard","sub_aliases":["Kimon Georgiev Stoyanov"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q313833","sub_label":"Stefan Stambolov","sub_aliases":["Stefan Nikolov Stambolov"],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q288999","sub_label":"Ghena Dimitrova","sub_aliases":[],"obj_id":"Q7918","obj_label":"Bulgarian"}
+{"sub_id":"Q4531836","sub_label":"Vassili Endip","sub_aliases":[],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q4070230","sub_label":"Alexander Artemiev","sub_aliases":["Aleksandr Spiridonovich Artemyev","Aleksandr Artemyev"],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q4255489","sub_label":"Stepan Lashman","sub_aliases":["Stepan Mitrofanovich Lashman"],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q4537605","sub_label":"Vladimir Yamash","sub_aliases":[],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q13210088","sub_label":"Gavril Koren\u02b9kov","sub_aliases":[],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q4519234","sub_label":"Stikhvan Shavly","sub_aliases":[],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q4104753","sub_label":"Lyudmila Vasilyeva","sub_aliases":["Lyudmila Nikolayevna Vasilyeva"],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q13210208","sub_label":"Porfiry Lukoyanov","sub_aliases":[],"obj_id":"Q33348","obj_label":"Chuvash"}
+{"sub_id":"Q193665","sub_label":"Tom\u00e1\u0161 Berdych","sub_aliases":["Tomas Berdych"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q155880","sub_label":"Mirek Topol\u00e1nek","sub_aliases":["Mirek Topolanek"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q31376","sub_label":"Ivan Ha\u0161ek","sub_aliases":["Ivan Hasek"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q487141","sub_label":"Silvia Saint","sub_aliases":["Silvie Tom\u010dalov\u00e1 de Soto","Sylvia Saint"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q30812","sub_label":"Petra Kvitov\u00e1","sub_aliases":["Petra Kvitova"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q224033","sub_label":"Karel Poborsk\u00fd","sub_aliases":["Karel Poborsky"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q296054","sub_label":"Klement Gottwald","sub_aliases":[],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q223258","sub_label":"Bohuslav Martin\u016f","sub_aliases":["Bohuslav Martinu"],"obj_id":"Q9056","obj_label":"Czech"}
+{"sub_id":"Q182964","sub_label":"Niels Ryberg Finsen","sub_aliases":["Niels Finsen"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q245057","sub_label":"Anders Lindegaard","sub_aliases":["Anders Rozenkrantz Lindegaard"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q316045","sub_label":"Georg Brandes","sub_aliases":["Georg Morris Cohen Brandes","Morris Cohen"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q182397","sub_label":"Lars L\u00f8kke Rasmussen","sub_aliases":[],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q160187","sub_label":"Ole R\u00f8mer","sub_aliases":["Olaus Roemer","Ole Christensen Romer","Ole Christensen R\u00f8mer"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q216324","sub_label":"Johannes Andreas Grib Fibiger","sub_aliases":["Johannes Fibiger"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q232404","sub_label":"Asta Nielsen","sub_aliases":["Die Asta","Asta Sofie Amalie Nielsen"],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q5015","sub_label":"Mette Frederiksen","sub_aliases":[],"obj_id":"Q9035","obj_label":"Danish"}
+{"sub_id":"Q41264","sub_label":"Johannes Vermeer","sub_aliases":["Jan Reyniersz Vermeer van Delft","Jan van Der Meer","Jan Van der Meer","Jan van der Meer","Jan Vermeer de Delft","Johannes van Delft Vermeer","Jan Van der Meer van Delft","\u012cokhannes Vermer","\u012cokhannes Vermer Delftski\u012d","Jan Vermeer van Delft","Jan Vermeer Delft","Johannes Schwartz","vander Meer van Delft","Vermeer van van Delft","jan vermeer of haarlem","Delfsche van der Meer","of Delft Van der Meer","Vandermeer de Delft","J. vander Meer van Delft","V. D. Meer","Der Delftsche v. d. Neer","de Delft Vander M\u00e9er","de Delfet Vander-Meer","jan van der meer der altere","de Delfze van der Meer","J. Vermeer of Delft","Delftsche Vermeer","van der Meer","jan der meer","of Delft V. der Meer","Vermeer van Delft","De Delfsche van der Meer","vermeer of haarlem","De Meere","de Delftsche van der Meer","Van der Meer de Delft","Jan Vermeer of Delft","ver meer","Delfter Vermeer","de Delfsche vander Meer","Vander Meer de Delft","Van der, of Delft Meer","Jan Vermeer","Johannes Vermeer van Delft"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q79000","sub_label":"Pieter Zeeman","sub_aliases":["P. Zeeman"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q2339","sub_label":"Robin van Persie","sub_aliases":[],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q173714","sub_label":"Max Euwe","sub_aliases":["Machgielis Euwe"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q150747","sub_label":"Wilhelmina of the Netherlands","sub_aliases":["Queen Wilhelmina","Queen Wilhelmina of the Netherlands","Princess Wilhelmina of the Netherlands","Wilhelmina","Princess Wilhelmina of The Netherlands"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q183181","sub_label":"Jan Tinbergen","sub_aliases":["J. Tinbergen"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q150679","sub_label":"Anthony van Dyck","sub_aliases":["Antoon van Dyck","Anton van Dyck","Sir Anthony van Dyck","Anthonis van Dyck","Anthony Van Dyck","Antonio Wandik","Antoon Van Dyck","Anthony van Dijk","Anthony Vandyke","Anton Van Dyck","Anthonis Van Dyck","Anthonie Dijck","Antonio Van Dyck","Anthony, Sir Vandyck","Anthony Van Dycke","Anthonie Van Dyck","Anthony van, Sir Dyck","Anttonio Vandique","Antoni Van-De\u012dk","Anthony, Sir Van Dyck","Antonie van Dyck","Anton Van Daik","Antonio Vandych","Anthony Van Dyck Sir","Anthonie van Dyck","Antonio Vandicch","Anthonie Dyck","Antonio Vandik","Anthony Van Dyk","Anthony Van Dick","Antoni van De\u012dk","Antonis Van Da\u012dk","Antoine Van Dyck","Antoon Dyck","Antoon Dijck","Antonis van Da\u012dk","Anthony Vandyck","Antonio Vandyck","Antoine Vandeik","Sir Anthony Vandyck","Antonio Vandich","Sir Anthony Vandyke","Antoine van Dyck","Sir Anthony van Dijck","Sir Dyck","Anthony Vandycke","Antoon, Sir Van Dyck","Anthonie van Dijck","Anton van Dijck","Antonie van Dijck","Antoon van Dijck","Sir Anthony Van Dyck","An. van Dyck","Bandique","dyck anton van","Valdiq","Vandike","Antoine Vandik","Antonii van Dyck","Sir Ant. Flem. Vandyck","Antoni van Dyk","a. van dyck","Sir A. Vandyck","Van-Deyck","van Deyck","After Vandyck","Vnaydke","Anthony van Dyk","Wandich","van dyck","A. van Dycl","von Deycks","Ant. Vandick","Vau Dyke","Antoine Wandick","Dyk","anthonius van dyck","A. Van Dyck","Vandeyc","den Ridder van Dyk","Vandik","Sir A. Vandyke","A. Vaudick","Vendeich","Ant. Van Dyck","Ant. Van-Dyck","Vannic","Bandiq","van Dyijck","Antonius van Dyck","Vandiq","A. von Deyk","Wan Dyck","dyck van","Wan Dick","Deick","Valdique","Vandech","A. van-Dyck","van dyck sir anthony","Antoni van Dyck","Van. Dick","Vandych","Wandih","Vandyck","anton van dyck","Van diq","Vandiche","A.v. Dyck","sir anthony van dycke","v. Dyk","A Van Dyck","Antoni v. Deick","v. Dychs","A. V. Dyke","Vandycke","Vandeck","Vandeic","Anthonius van Dijck","antoon van dyck","Ant v. Dyk","Anth. Vandyke","Bandeique","Antony van Dyk","Anton von Deyck","Vannich","Anthonis van Dijck","antonis van dyck","A Vandyke","Ant. Vandeyck","Van-Dyck","sir a. van dyck","antonie van dyck","&amp Vandyck","Vandisco fiamengo","Anth. van Dyk","Vandichi","Van Dijck","Ant. von Dyck","Vandeique","Anthonij van Dijck","Van-Dick","Ant. van Dyk","Antoine Van-Dick","Antonio Vandik Fiammingo","Van Vandyck","A. Dyck","Sir Antonio Van Dyck","Chevali\u00e9r van Dyk","bandic","Badic","A. Van Dick","Anth. v. Dyck","anthonis van dyck","Antonio von Dyk","Anthoni van Dyck","Antoine Vandich","Anton von Dyck","jan van dyck","vandic","Van Dycke","Dack","Antonio Vandichi fiamengho","Anthonis, van Dyck","Ant Van Dyck","V. Dyck","Sir Ant. Vandyck","A. v. Dyck","A. Vandyck. en Italie","Ant. van Dyks","A. Vandik","Van Dyke","Dyck Ant. van","Anthonius van Dyk","V. Dyke","Antonis van Dyck","A. Van-Dick","A. Vandyk","Van Dijk","V Dyck","Anthonio van Dijk","Van-Dyk","van a. dyck","Chev. Anton van Dyk","Anthonie van Dyk","A. van Dyk","Anton Vandyk","Wandyck","von Deick","Ant.v. Dyck","Antonio van Deyck","Antonio van Dyk","Vandec","Antony van Dijck","A.v. Dyk","von Deyck","Sr. Ant. Van. Dych","Ant. Vandyck","anthony van dyck","Ant Van Dick","A. van Dyck","Anton. van Dyck","A. v. Dyk","A. Vandyke","Ant. v. Dyck","Ant. Vandeick","Anton van Dyk","Van Deick","Van Dyck School","Antoin Vandyk","Van. Dyck","Van Dyk","Antoine Vandyck","anthonys van dyck","Vandicche","Antoine Van Dick","bandio","A. Vandych","Anthonis van Dyk","Wandick","A. Vandyck","Vand Duyke","After Van Dyck","V. Dycke","Anth. van Dyck","Vandyk","A. Van Dyc","Vandique","Antonio Dyck","Van Dyc","Vandyke","Van Dick","Antt.o van Deyck","Ant. v. Dyk","van dyck a.","Van Dych","Anton de D\u00fcck","Vandicco","A. Van Dik","antonys van dyck","Antoine Vandick","Antonio van Dyck","Antoine Van-Dyck","Ban Dycq","An. Dyk","comme de Van Dyck","Van Dich","Vandick","Antoine van Dyk","Vandick Fiammengo","von Dyck","Ant. Van Dick","Antonio van Deyc","A. Vandick","Vandich","Dyck","Wandik","von Dyk","Vandicca","Van Dich Antonio","Ant. van Dyck","Ch\u00e9valier van Dyk","Vandeich","Dyck V","Wanclelfef","baldique","Antony van Dyck","A. von Dyck","Vandino","Van Dyck","Antoine Vandyk","A. van Dijk","Vandaich","Mandique","Dyke","Anthon van Dyck","&c. Vandyck"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q41688","sub_label":"Hendrik Lorentz","sub_aliases":["Hendrik Antoon Lorentz","H.Lorentz","H.A. Lorentz","H. A. Lorentz","Lorentz"],"obj_id":"Q7411","obj_label":"Dutch"}
+{"sub_id":"Q284156","sub_label":"Joseph Plunkett","sub_aliases":["Seosamh Pluinc\u00e9id","Seosamh M\u00e1ire Pluinc\u00e9id","Seosamh Pluinceid","Seosamh Maire Pluinceid","Joseph Mary Plunkett"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q18447","sub_label":"Odo Bujwid","sub_aliases":["Odo Feliks Kazimierz Bujwid"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q235105","sub_label":"Anna Moffo","sub_aliases":[],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q76991","sub_label":"Wladimir K\u00f6ppen","sub_aliases":[],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q13020","sub_label":"Tivadar Soros","sub_aliases":["Teodoro Schwartz","Teo Melas"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q376244","sub_label":"Benedykt Dybowski","sub_aliases":["Dybowski","Benedykt Ivanovich Dybowski","Benedykt Tadeusz Dybowski"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q288747","sub_label":"\u00de\u00f3rbergur \u00de\u00f3r\u00f0arson","sub_aliases":["Th\u00f3rbergur Th\u00f3rdarson","Thorbergur Thordarson"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q11652358","sub_label":"Hilda Dresen","sub_aliases":["Hilda Helene Dresen"],"obj_id":"Q143","obj_label":"Esperanto"}
+{"sub_id":"Q353637","sub_label":"A. H. Tammsaare","sub_aliases":["Anton Hansen","Anton Hansen Tammsaare"],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q233793","sub_label":"Lenna Kuurmaa","sub_aliases":[],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q237061","sub_label":"Getter Jaani","sub_aliases":[],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q553307","sub_label":"Kristjan Jaak Peterson","sub_aliases":["Kristian Jaak Peterson"],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q558166","sub_label":"Johannes Aavik","sub_aliases":[],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q6331507","sub_label":"Uku Suviste","sub_aliases":[],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q433818","sub_label":"Johan Laidoner","sub_aliases":[],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q154410","sub_label":"Marie Under","sub_aliases":["Under M.","Under","M. Under"],"obj_id":"Q9072","obj_label":"Estonian"}
+{"sub_id":"Q311037","sub_label":"V\u00e4in\u00f6 Linna","sub_aliases":["Vaino Linna","V\u00e4in\u00f6 Valtteri Linna"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q185489","sub_label":"Simo H\u00e4yh\u00e4","sub_aliases":[],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q294411","sub_label":"Olli Rehn","sub_aliases":["Olli Ilmari Rehn"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q29021","sub_label":"Mauno Koivisto","sub_aliases":["Mauno Henrik Koivisto"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q216904","sub_label":"Aleksis Kivi","sub_aliases":["Alexis Stenvall","A. Kivi","A. Kiwi","Aleksis Kiwi","Aleksis Stenvall"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q214009","sub_label":"Lauri Kristian Relander","sub_aliases":[],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q157239","sub_label":"Artturi Ilmari Virtanen","sub_aliases":["Artturi I. Virtanen","A. I. Virtanen","Artturi Virtanen"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q182043","sub_label":"Matti Vanhanen","sub_aliases":["Matti Taneli Vanhanen"],"obj_id":"Q1412","obj_label":"Finnish"}
+{"sub_id":"Q2758970","sub_label":"Antonio Noriega Varela","sub_aliases":[],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q20533706","sub_label":"Ledicia Costas","sub_aliases":[],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q1053162","sub_label":"Celso Emilio Ferreiro","sub_aliases":[],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q435882","sub_label":"Jo\u00e3o de N\u00f3voa","sub_aliases":["Jo\u00e3o da Nova the Galician"],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q12392695","sub_label":"Manuel Charl\u00edn Gama","sub_aliases":[],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q4887825","sub_label":"Manuel Fern\u00e1ndez Anidos","sub_aliases":["Manuel Fernandez Anidos"],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q510891","sub_label":"Fran Gonz\u00e1lez","sub_aliases":["Fran Gonzalez"],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q360388","sub_label":"Alfonso II of Asturias","sub_aliases":["Alfonso II, King of Galicia"],"obj_id":"Q9307","obj_label":"Galician"}
+{"sub_id":"Q290713","sub_label":"Saida Gunba","sub_aliases":["Saida Kanosovna Gunba"],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q4477434","sub_label":"Zaza Urushadze","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q232720","sub_label":"Maia Chiburdanidze","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q80470301","sub_label":"Tornike Kipiani","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q502076","sub_label":"Revas Chkheidze","sub_aliases":["Rezo Chkheidze"],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q969642","sub_label":"Giorgi Ugulava","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q1485988","sub_label":"Mikheil Javakhishvili","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q359956","sub_label":"Vakhtang I of Iberia","sub_aliases":[],"obj_id":"Q8108","obj_label":"Georgian"}
+{"sub_id":"Q10240","sub_label":"Dadabhai Naoroji","sub_aliases":["Grand Old Man of India"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q13156010","sub_label":"Kundanika Kapadia","sub_aliases":[],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q2721893","sub_label":"Akha Bhagat","sub_aliases":["Akho","Akharam"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q2766623","sub_label":"Bhagwatikumar Sharma","sub_aliases":[],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q2761804","sub_label":"Dhiruben Patel","sub_aliases":["Dhiruben Gordhanbhai Patel"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q2762181","sub_label":"Narhari Parikh","sub_aliases":["Narhari Dwarkadas Parikh"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q3633979","sub_label":"Govardhanram Tripathi","sub_aliases":["Govardhanram Madhavram Tripathi","G. M. Tripathi","Govardhanar\u0101ma M\u0101dhavar\u0101ma Trip\u0101\u1e6dh\u012b"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q27967443","sub_label":"Sharda Mehta","sub_aliases":["Sarada Ben Mehta"],"obj_id":"Q5137","obj_label":"Gujarati"}
+{"sub_id":"Q466767","sub_label":"Sarit Hadad","sub_aliases":[],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q189449","sub_label":"Yossi Benayoun","sub_aliases":["Yossi Shai Benayoun","\u05d9\u05d5\u05e1\u05d9 \u05d1\u05e0\u05d9\u05d5\u05df","\u05d9\u05d5\u05e1\u05d9 \u05e9\u05d9 \u05d1\u05e0\u05d9\u05d5\u05df"],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q151872","sub_label":"Amos Oz","sub_aliases":["Amos Klausner"],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q214821","sub_label":"Gilad Shalit","sub_aliases":[],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q1938388","sub_label":"Miriam","sub_aliases":[],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q48775","sub_label":"Mordechai Vanunu","sub_aliases":[],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q311583","sub_label":"Yitzhak Navon","sub_aliases":["Yizhak Navon","Yitzhak Rachamim Navon"],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q167429","sub_label":"Ephraim Kishon","sub_aliases":["Ferenc Hoffmann"],"obj_id":"Q9288","obj_label":"Hebrew"}
+{"sub_id":"Q312551","sub_label":"Kabir","sub_aliases":["Kabir Sahib"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q10218","sub_label":"Rahul Gandhi","sub_aliases":[],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q156347","sub_label":"Lata Mangeshkar","sub_aliases":["Mangu","Lata Dinanath Mangeshkar","Latha Mangeshkar","Lataji"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q313956","sub_label":"Anil Kapoor","sub_aliases":["anil"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q146929","sub_label":"Ajay Devgn","sub_aliases":["Vishal Devgan","Ajay Devgan","Vishal Virender Devgan"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q188671","sub_label":"Preity Zinta","sub_aliases":["Preity G Zinta"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q187058","sub_label":"Abhishek Bachchan","sub_aliases":["Abhishek A Bachchan","Abhishek Amitabh Bachchan"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q16845347","sub_label":"Ram Nath Kovind","sub_aliases":["Shri Ram Nath Kovind","Ramnath Kovind"],"obj_id":"Q1568","obj_label":"Hindi"}
+{"sub_id":"Q210207","sub_label":"\u00c1rp\u00e1d","sub_aliases":["Arpad"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q153818","sub_label":"Emmerich K\u00e1lm\u00e1n","sub_aliases":["Imre K\u00e1lm\u00e1n","Imre Koppstein","Emmerich K\u00e1lman","Emmerich Kalman","Imre Kalman"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q379621","sub_label":"M\u00f3r J\u00f3kai","sub_aliases":["Moritz Jokai","Maurus Jokai","M\u00f3ric J\u00f3kay de \u00c1sva","Mor Jokai","Moric Jokay de Asva","Maurice Jokai"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q53998","sub_label":"Louis I of Hungary","sub_aliases":["Anjou I Lajos","Ludwik W\u0119gierski"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q201534","sub_label":"Fl\u00f3ri\u00e1n Albert","sub_aliases":["Florian Albert"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q547455","sub_label":"G\u00e1bor Kir\u00e1ly","sub_aliases":["G\u00e1bor Ferenc Kir\u00e1ly"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q170846","sub_label":"Elizabeth B\u00e1thory","sub_aliases":["The Blood Countess","Erzsebet Bathory","Elizabeth Bathory","Erzs\u00e9bet B\u00e1thory","Al\u017ebeta B\u00e1toriov\u00e1","Alzbeta Batoriova"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q313443","sub_label":"Alfr\u00e9d Haj\u00f3s","sub_aliases":["Alfr\u00e9d Guttmann","Alfred Hajos","Alfred Guttmann"],"obj_id":"Q9067","obj_label":"Hungarian"}
+{"sub_id":"Q553621","sub_label":"Paul Oscar","sub_aliases":["P\u00e1ll \u00d3skar"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q433734","sub_label":"Hildur Gu\u00f0nad\u00f3ttir","sub_aliases":["Hildur Gudnad\u00f3ttir","Hildur Gudnadottir","Gu\u00f0nad\u00f3ttir Hildur"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q355194","sub_label":"Ari \u00deorgilsson","sub_aliases":["Ari Thorgilsson","Ari Frode","Ari the Wise"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q310396","sub_label":"Kristj\u00e1n Eldj\u00e1rn","sub_aliases":["Kristj\u00e1n Th\u00f3rarinsson Eldj\u00e1rn","Kristjan Eldjarn","Kristjan Thorarinsson Eldjarn"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q80321","sub_label":"Halld\u00f3r Laxness","sub_aliases":["Halld\u00f3r Kiljan Laxness","Halldor Laxness","Halldor Kiljan Laxness"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q24701552","sub_label":"Sam\u00fael Fri\u00f0j\u00f3nsson","sub_aliases":["Sam\u00fael K\u00e1ri Fri\u00f0j\u00f3nsson","Samuel Fridjonsson","Samuel Karl Fridjonsson"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q298030","sub_label":"Dav\u00ed\u00f0 Oddsson","sub_aliases":["Dav\u00edd Oddsson","David Oddsson"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q559098","sub_label":"J\u00f3nas Hallgr\u00edmsson","sub_aliases":["Jonas Hallgrimsson"],"obj_id":"Q294","obj_label":"Icelandic"}
+{"sub_id":"Q558761","sub_label":"Markis Kido","sub_aliases":[],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q28481203","sub_label":"Muammar Z.A.","sub_aliases":["Muammar Zainal Asyikin"],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q26710852","sub_label":"Mbah Gotho","sub_aliases":["Sodimejo","Saparman Sodimejo"],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q5388188","sub_label":"Erick Thohir","sub_aliases":[],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q76297","sub_label":"Adam Malik","sub_aliases":["Adam Malik Batubara"],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q57405","sub_label":"Susilo Bambang Yudhoyono","sub_aliases":["SBY"],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q29050","sub_label":"Mohammad Hatta","sub_aliases":["Bung Hatta","Hatta","Moh Hatta","M Hatta","Muhammad Hatta","Moch Hatta","M. Hatta","Muh Hatta","Moh. Hatta","Mohammed Hatta"],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q12033409","sub_label":"Fatin Shidqia","sub_aliases":[],"obj_id":"Q9240","obj_label":"Indonesian"}
+{"sub_id":"Q24266701","sub_label":"Pian Boalt","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q11132545","sub_label":"Alice Morris Sturges","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q11017562","sub_label":"Eric Ahlstr\u00f6m","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q12356357","sub_label":"Valter Ahlstedt","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q18238171","sub_label":"Sven Collberg","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q24233520","sub_label":"Jonas Negalha","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q3942656","sub_label":"Stanley A. Mulaik","sub_aliases":["Stanley Mulaik","S. A. Mulaik","Stanley Allen Mulaik"],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q6315154","sub_label":"Jurij Cherednikov","sub_aliases":[],"obj_id":"Q35934","obj_label":"Interlingua"}
+{"sub_id":"Q4020003","sub_label":"William FitzGerald, 2nd Duke of Leinster","sub_aliases":[],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q237541","sub_label":"Veronica Guerin","sub_aliases":["Veronica Guerin Turley"],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q965189","sub_label":"\u00c9amonn Ceannt","sub_aliases":["Eamonn Ceannt","Edward Thomas Kent"],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q2057461","sub_label":"Patrick Bront\u00eb","sub_aliases":[],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q733922","sub_label":"Geoffrey Keating","sub_aliases":["Seathr\u00fan C\u00e9itinn","Seathrun Ceitinn"],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q404099","sub_label":"M\u00e1ed\u00f3c of Ferns","sub_aliases":["Maedoc of Ferns","Madoc of Ferns","St. Aedan of Ferns","Aedan of Ferns","Saint Aedan"],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q380894","sub_label":"Cearbhall \u00d3 D\u00e1laigh","sub_aliases":["Cearbhall O Dalaigh"],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q444609","sub_label":"Nora Barnacle","sub_aliases":[],"obj_id":"Q9142","obj_label":"Irish"}
+{"sub_id":"Q762","sub_label":"Leonardo da Vinci","sub_aliases":[],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q42323","sub_label":"Pius XI","sub_aliases":["Ambrogio Damiano Achille Ratti","Achille Ratti","Pope Pius XI","Pius PP. XI","paus Pius XI","A. Ratti","Pius XI. Papst","Papa P\u00edo XI","pape Pie XI","Pope Pio XI","papa Pio XI"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q765","sub_label":"Dario Fo","sub_aliases":["Dario Luigi Angelo Fo"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q7814","sub_label":"Giotto","sub_aliases":["di Bondone Giotto","Giotti","Giotto Di Bondone","Giotto de Bondone","Giotto Fiorentino","Ambrogio Bondone","Ambrogio di Bondone","Angelus de, detto Giotto Bondonis","Dzhotto di Bondone","L. di Giotto","Giott\u00e8","Giott`e","Ambrogio Bondone Giotto","Le Giotto","Dzhiotto","Ambrogio di Bondone Giotto","Giotto da Vespignano"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q23873","sub_label":"John XXIII","sub_aliases":["Angelo Giuseppe Roncalli","Angelo Roncalli","John 23","Pope John XXIII","Saint John XXIII","el `papa bo","Pope Saint John XXIII","papa Giovanni XXIII","santo Iohannes PP. XXIII","pape Jean XXIII","Johannes XXIII. Papst","Papa Juan XXIII"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q38484","sub_label":"Romano Prodi","sub_aliases":["Romano Antonio Prodi"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q4448","sub_label":"Benedict XV","sub_aliases":["Giacomo Paolo Giovanni Battista della Chiesa","Pope Benedict XV","Giacomo Giambattista della Chiesa"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q193236","sub_label":"Gabriele D'Annunzio","sub_aliases":["Gabriele d'Annunzio","Gabriele d' Annunzio"],"obj_id":"Q652","obj_label":"Italian"}
+{"sub_id":"Q34479","sub_label":"Hirohito","sub_aliases":["Emperor Hirohito","Showa","Sh\u014dwa","Emperor Sh\u014dwa","Emperor Showa","Prince Michi"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q8006","sub_label":"Akira Kurosawa","sub_aliases":["Kurosawa Akira","Kurosawa"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q134456","sub_label":"Yukio Mishima","sub_aliases":["Mishima Yukio","Kimitake Hiraoka","Hiraoka Kimitake"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q179852","sub_label":"Leo Esaki","sub_aliases":["Reona Esaki"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q5586","sub_label":"Katsushika Hokusai","sub_aliases":["Hokusai","Hokusai Katsushika","Taito Katsushika","Hachiemon Miuraya","Taito","Raishin","Manji R\u014djin","Tokimasa","Iitsu Katsushika","Hokusai Tokimasa","Zenhokusai","Tatsumasa","Manji","Pei-chai Ko-shih","Iitsu","Shunro","Katsushika Taito","Fusenkyo","Sorobeku"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q80095","sub_label":"Kenzabur\u014d \u014ce","sub_aliases":["\u014ce Kenzabur\u014d","Oe Kenzaburo","Kenzaburo Oe","Kenzaburou Oue"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q193344","sub_label":"Miyamoto Musashi","sub_aliases":["Shinmen Takez\u014d","Musashi Masana","Niten","Miyamoto Musashi Niten","Miyamoto Niten","Musashi","Takemura Musashi"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q37001","sub_label":"Toshir\u014d Mifune","sub_aliases":["Toshiro Mifune","Mifune Toshiro","Toshirou Mifune"],"obj_id":"Q5287","obj_label":"Japanese"}
+{"sub_id":"Q470772","sub_label":"Rahul Dravid","sub_aliases":["Rahul Sharad Dravid","The Wall","Jammy","Mr. Dependable"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q159178","sub_label":"Deepika Padukone","sub_aliases":[],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q5512518","sub_label":"G. V. Iyer","sub_aliases":["Ganapathi Venkataramana Iyer"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q7117564","sub_label":"P. T. Narasimhachar","sub_aliases":["Purohita Thirunarayana Narasimhachar"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q3595532","sub_label":"Ashwini Nachappa","sub_aliases":["Aswini Nachappa"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q3536450","sub_label":"K. Shivaram Karanth","sub_aliases":["K. S. Karanth"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q7908699","sub_label":"Vaidehi","sub_aliases":["Janaki Srinivasamurthy"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q38711433","sub_label":"Gauri Lankesh","sub_aliases":["Gouri Lankesh"],"obj_id":"Q33673","obj_label":"Kannada"}
+{"sub_id":"Q1046216","sub_label":"Magzhan Zhumabayev","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q65559052","sub_label":"Yevgeniy Fedorov","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q1047477","sub_label":"Akhmet Baitursynov","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q1048743","sub_label":"Kadyr Myrza \u00c4li","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q185965","sub_label":"Sultanmahmut Toraygirov","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q12568120","sub_label":"Far\u012bza Onggharsynova","sub_aliases":["Far\u00efza Ong\u011farsynova","Fariza Onggharsynova","Fariza Ongarsynova","Fariza Ongarsynkyzy Ongarsynova"],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q4740842","sub_label":"Urker","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q4181638","sub_label":"Galymbek Zhumatov","sub_aliases":[],"obj_id":"Q9252","obj_label":"Kazakh"}
+{"sub_id":"Q20150","sub_label":"PSY","sub_aliases":["Park Jae-sang","Bak Jae-Sang","Pak Chaesang","Psycho"],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q10665","sub_label":"Kim Jong-il","sub_aliases":["Kim Jong Il","Yuri Irsenovich Kim"],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q21001","sub_label":"Moon Jae-in","sub_aliases":["President Moon"],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q484942","sub_label":"Chun Jung-myung","sub_aliases":[],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q4330912","sub_label":"Kim Yo-jong","sub_aliases":[],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q485784","sub_label":"Ha Seok-jin","sub_aliases":[],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q14342","sub_label":"Lee Myung-bak","sub_aliases":["Myung-Bak Lee"],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q22338877","sub_label":"Jungkook","sub_aliases":["Jeon Jung-kook","Jeon Jeong-guk"],"obj_id":"Q9176","obj_label":"Korean"}
+{"sub_id":"Q176935","sub_label":"Mahmud Bayazidi","sub_aliases":[],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q7282687","sub_label":"Rafiq Hilmi","sub_aliases":[],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q6999944","sub_label":"Nado Makhmudov","sub_aliases":["Nado Khdoi Makhmudov"],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q1363783","sub_label":"Piramerd","sub_aliases":["Piremerd"],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q1396705","sub_label":"Najiba Ahmad","sub_aliases":[],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q4121919","sub_label":"Ata Nahai","sub_aliases":[],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q4116238","sub_label":"Muhammed Emin Zeki Bey","sub_aliases":["Muhamed Amin Zaki","Muhammed Amin Zaki"],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q379851","sub_label":"Evdile Ko\u00e7er","sub_aliases":[],"obj_id":"Q36368","obj_label":"Kurdish"}
+{"sub_id":"Q4307852","sub_label":"Musa Murataliev","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q836856","sub_label":"Togolok Moldo","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q4070338","sub_label":"Kachkynba\u012d Artykbaev","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q430504","sub_label":"Bahadyr Kochkarov","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q4556187","sub_label":"Kubanychbek Malikov","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q13168130","sub_label":"Kasymal Jant\u00f6shev","sub_aliases":["Kasymal Dzhantoshev"],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q4063946","sub_label":"Roza Amanova","sub_aliases":["Rosa Amanova"],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q13175293","sub_label":"Temirkul U\u0307m\u022ftaliev","sub_aliases":[],"obj_id":"Q9255","obj_label":"Kyrgyz"}
+{"sub_id":"Q511817","sub_label":"Andris Nelsons","sub_aliases":[],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q13217375","sub_label":"Samanta T\u012bna","sub_aliases":["Samanta Tina","Samanta Po\u013cakova"],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q298041","sub_label":"K\u0101rlis Ulmanis","sub_aliases":["K\u0101rlis Augusts Vilhelms Ulmanis"],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q284106","sub_label":"Kri\u0161j\u0101nis Barons","sub_aliases":[],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q382253","sub_label":"Alberts Kviesis","sub_aliases":[],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q57630","sub_label":"Valdis Dombrovskis","sub_aliases":[],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q60106","sub_label":"Guntis Ulmanis","sub_aliases":["Guntis Rump\u012btis"],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q6112509","sub_label":"M\u0101ris Ku\u010dinskis","sub_aliases":[],"obj_id":"Q9078","obj_label":"Latvian"}
+{"sub_id":"Q50410249","sub_label":"Ieva Zasimauskait\u0117","sub_aliases":["Ieva Z asim auskait\u0117-Kiltinavi\u010dien\u0117"],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q218186","sub_label":"Vytautas","sub_aliases":["Witold"],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q908633","sub_label":"Donatas Banionis","sub_aliases":["Donatas Banjonis"],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q383772","sub_label":"Jurga Ivanauskait\u0117","sub_aliases":[],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q296956","sub_label":"Rolandas Paksas","sub_aliases":[],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q381418","sub_label":"Augustinas Voldemaras","sub_aliases":[],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q932413","sub_label":"Vyd\u016bnas","sub_aliases":[],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q117150","sub_label":"Zigmantas Bal\u010dytis","sub_aliases":[],"obj_id":"Q9083","obj_label":"Lithuanian"}
+{"sub_id":"Q7208814","sub_label":"Pol Greisch","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q153724","sub_label":"Ernest M\u00fchlen","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q6191031","sub_label":"Jhemp Hoscheit","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q3107918","sub_label":"Giulio-Enrico Pisani","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q6756106","sub_label":"Marcel Fischbach","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q1384400","sub_label":"Lex Jacoby","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q3247649","sub_label":"Lucien Dury","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q1384198","sub_label":"Albert Borschette","sub_aliases":[],"obj_id":"Q9051","obj_label":"Luxembourgish"}
+{"sub_id":"Q3088154","sub_label":"Mihajlo Apostolski","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q12297495","sub_label":"Fanula Papazoglu","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q342010","sub_label":"Aco \u0160opov","sub_aliases":["Aco Sopov"],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q3131452","sub_label":"Vlatko Stefanovski","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q337891","sub_label":"Vlatko Ilievski","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q3028173","sub_label":"Dimitrija \u010cupovski","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q3136439","sub_label":"Vlado Maleski","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q220579","sub_label":"Zoran Zaev","sub_aliases":[],"obj_id":"Q9296","obj_label":"Macedonian"}
+{"sub_id":"Q477710","sub_label":"Amrita Prakash","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q464895","sub_label":"Saint Alphonsa","sub_aliases":["Saint Alphonsa of the Immaculate Conception","Saint Alphonsa Muttathupadathu","Alphonsa of the Immaculate Conception"],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q2723672","sub_label":"Namitha","sub_aliases":["Namitha Vankawala","Namitha Kapoor"],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q6079884","sub_label":"Isha Talwar","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q2748319","sub_label":"Nayanthara","sub_aliases":["Chillamma"],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q6435847","sub_label":"Nithya Menen","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q5052949","sub_label":"Catherine Tresa","sub_aliases":["Catherine Tresa Alexander"],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q3284484","sub_label":"P. T. Usha","sub_aliases":["Pilavullakandi Thekkeparambil Usha","Payyoli Express","Pilavullakandi Thekkevarambil Usha"],"obj_id":"Q36236","obj_label":"Malayalam"}
+{"sub_id":"Q3805881","sub_label":"Immanuel Mifsud","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q167724","sub_label":"Guido de Marco","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q315321","sub_label":"Frans Sammut","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q578504","sub_label":"David Casa","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q545552","sub_label":"Joseph Cuschieri","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q559545","sub_label":"Alfred Sant","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q1573895","sub_label":"Manwel Dimech","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q1871727","sub_label":"Louis Grech","sub_aliases":[],"obj_id":"Q9166","obj_label":"Maltese"}
+{"sub_id":"Q2600351","sub_label":"Yin Haiguang","sub_aliases":["Yin Foo-sun"],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q27063284","sub_label":"Zou Lijuan","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q9185769","sub_label":"Li Er","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q49410056","sub_label":"Yang Tao","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q8071019","sub_label":"Zhou Hongzhuan","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q30942772","sub_label":"Evan Ma","sub_aliases":["Evan","Ma Zhen-huan"],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q2121606","sub_label":"Qin Mu","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q351359","sub_label":"Emmanuel Mounier","sub_aliases":[],"obj_id":"Q9192","obj_label":"Mandarin Chinese"}
+{"sub_id":"Q313299","sub_label":"Gopal Krishna Gokhale","sub_aliases":["Namdar Gokhale"],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q55760","sub_label":"Govind Sakharam Sardesai","sub_aliases":["Riyasatkar Sardesai"],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q55779","sub_label":"Ramabai Ranade","sub_aliases":[],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q3630368","sub_label":"Bhalchandra Nemade","sub_aliases":[],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q94889","sub_label":"Pandita Ramabai","sub_aliases":["Mary Ramabai","Pandita Mary Saraswati Ramabai","Ramabai Dongre","Ramabai Das Medhavi","Ramabai","Pundita Ramabai","Pandita Ramabai Sarasvati"],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q462082","sub_label":"Surya Sen","sub_aliases":["Master Da"],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q2645692","sub_label":"Savitribai Phule","sub_aliases":["savitribhai phule charitra"],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q3630378","sub_label":"Priya Tendulkar","sub_aliases":[],"obj_id":"Q1571","obj_label":"Marathi"}
+{"sub_id":"Q334518","sub_label":"Jamukha","sub_aliases":["Gul Khagan"],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q372223","sub_label":"Enkhbatyn Badar-Uugan","sub_aliases":[],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q470322","sub_label":"Gaykhatu","sub_aliases":["\u0393aykhat\u00fc","Qihedou","Kiqatu"],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q698603","sub_label":"Arpa Ke'un","sub_aliases":[],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q1171809","sub_label":"Dashdorjiin Natsagdorj","sub_aliases":["Borjgin Dashdorjiin Natsagdorj"],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q982445","sub_label":"Khabul Khan","sub_aliases":["Gebulvhan","Gabul Qan","Beierzhijin Hebule"],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q558670","sub_label":"Kaidu","sub_aliases":["Haidou","Qaidu"],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q81129","sub_label":"J\u00fcgderdemidiin G\u00fcrragchaa","sub_aliases":[],"obj_id":"Q9246","obj_label":"Mongolian"}
+{"sub_id":"Q16193958","sub_label":"Bidya Devi Bhandari","sub_aliases":["Bidhya Bhandari","Bidhya Devi Bhandari"],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q17517127","sub_label":"Kedar Ghimire","sub_aliases":["Magne Budho","Kedar P. Ghimire","Kedar Prasad Ghimire"],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q425728","sub_label":"Narayan Gopal","sub_aliases":["Swar Samrat","Tragedy King","Emperor of Voice","Narayan Gopal Guruwacharya","Swar Samrat Narayan Gopal","N. Gopal","Gopal Narayan","Narayan Gopal Lama","\u0928\u093e\u0930\u093e\u092f\u0923\u0917\u094b\u092a\u093e\u0932","\u0928\u093e\u0930\u093e\u092f\u0923\u0917\u094b\u092a\u093e\u0932 \u0917\u0941\u0930\u0942\u0935\u093e\u091a\u093e\u0930\u094d\u092f","\u0928\u093e\u0930\u093e\u092f\u0923 \u0917\u0941\u0930\u0942\u0935\u093e\u091a\u093e\u0930\u094d\u092f","Sir Narayan Gopal","Shree Narayan Gopal","\u0938\u094d\u0935\u0930 \u0938\u092e\u094d\u0930\u093e\u091f \u0928\u093e\u0930\u093e\u092f\u0923 \u0917\u094b\u092a\u093e\u0932 \u0917\u0941\u0930\u0942\u0935\u093e\u091a\u093e\u0930\u094d\u092f","Voice King Narayan Gopal Guruwacharya","\u0938\u094d\u0935\u0930 \u0938\u092e\u094d\u0930\u093e\u091f","\u0938\u094d\u0935\u0930 \u0938\u092e\u094d\u0930\u093e\u091f \u0928\u093e\u0930\u093e\u092f\u0923 \u0917\u094b\u092a\u093e\u0932","\u0938\u094d\u0935\u0930 \u0938\u092e\u094d\u0930\u093e\u091f \u0928\u093e\u0930\u093e\u092f\u0923 \u0917\u0941\u0930\u0942\u0935\u093e\u091a\u093e\u0930\u094d\u092f","Narayan Gopal Guruacharya"],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q7137083","sub_label":"Parijat","sub_aliases":[],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q1156712","sub_label":"Dachhiri Sherpa","sub_aliases":["Dawa Dachhiri Sherpa"],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q732951","sub_label":"Khagendra Thapa Magar","sub_aliases":[],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q3522396","sub_label":"Anuradha Koirala","sub_aliases":[],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q23762473","sub_label":"Gaurika Singh","sub_aliases":[],"obj_id":"Q33823","obj_label":"Nepali"}
+{"sub_id":"Q926","sub_label":"Roald Amundsen","sub_aliases":["Roald Engelbregt Gravning Amundsen"],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q207824","sub_label":"Varg Vikernes","sub_aliases":["Count Grishnackh","Greven","Varg Kv\u00edsling Larsson V\u00edkarnes","Louis Cachet","The Count","Christian Vikernes","Varg Kvisling Larsson Vikarnes"],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q1271","sub_label":"Trygve Lie","sub_aliases":["Trygve Halvdan Lie","Rodney Witherspoon"],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q215944","sub_label":"Tore Andr\u00e9 Flo","sub_aliases":[],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q203647","sub_label":"Harald III of Norway","sub_aliases":["Harald Hardrada","Harald III Sigurdsson"],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q80889","sub_label":"Sigrid Undset","sub_aliases":[],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q30769","sub_label":"Sophus Lie","sub_aliases":["Marius Sophus Lie"],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q291644","sub_label":"Erna Solberg","sub_aliases":[],"obj_id":"Q9043","obj_label":"Norwegian"}
+{"sub_id":"Q317411","sub_label":"Abdul Rahman Pazhwak","sub_aliases":[],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q186013","sub_label":"Jalaluddin Haqqani","sub_aliases":[],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q3365444","sub_label":"Abdul Hai Habibi","sub_aliases":[],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q21662937","sub_label":"Gul Agha Ishakzai","sub_aliases":[],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q43944","sub_label":"Hamid Karzai","sub_aliases":["Karzai","Hamid Abd al-Ahad Karzai"],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q2442752","sub_label":"Maulana Fazlullah","sub_aliases":["Fazal Hayat","Radio Mullah"],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q108444479","sub_label":"Mohammad Hasan Akhund","sub_aliases":["Mullah Mohammad Hasan Akhund","Muhammad Hassan Akhund","Mullah Muhammad Hassan Akhund"],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q465872","sub_label":"Meena Keshwar Kamal","sub_aliases":[],"obj_id":"Q58680","obj_label":"Pashto"}
+{"sub_id":"Q334242","sub_label":"Asghar Farhadi","sub_aliases":[],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q335210","sub_label":"Abu Muslim al Khorasani","sub_aliases":["Abu Muslim Khorasani"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q328796","sub_label":"Nasir Khusraw","sub_aliases":[],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q464394","sub_label":"Forugh Farrokhzad","sub_aliases":["Fur\u016bgh Farrukhz\u0101d","Forough Farrokhzad","Foruq Farrochzad"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q242124","sub_label":"Nasrin Sotoudeh","sub_aliases":["Nasrin Sotoodeh","Nasrin Sotuda","Nasrin Aghajan","Nasrin Aghajan Sotoudeh","Nasrin Sotoudeh Langarudi"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q234908","sub_label":"Nezami Ganjavi","sub_aliases":["Nizami Ganjavi"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q194091","sub_label":"Attar of Nishapur","sub_aliases":["Far\u00edd-Udd\u00edn Attar"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q366521","sub_label":"Ahmad Shamloo","sub_aliases":["Ahmad Shamlou"],"obj_id":"Q9168","obj_label":"Persian"}
+{"sub_id":"Q53436","sub_label":"Boles\u0142aw I the Brave","sub_aliases":["Boleslaus I"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q151025","sub_label":"Jakub B\u0142aszczykowski","sub_aliases":[],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q199901","sub_label":"Doda","sub_aliases":["Dorota Rabczewska","Doda Rabczewska"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q885","sub_label":"J\u00f3zef Pi\u0142sudski","sub_aliases":["J\u00f3zef Klemens Pi\u0142sudski","J\u00f3zef Klemens Pilsudski","Jozef Klemens Pilsudski"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q165969","sub_label":"Isidor Isaac Rabi","sub_aliases":["Israel Isaac Rabi"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q121180","sub_label":"W\u0142adys\u0142aw Reymont","sub_aliases":["Wladyslaw Reymont","W\u0142adys\u0142aw Stanis\u0142aw Reymont"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q4877021","sub_label":"Beata Szyd\u0142o","sub_aliases":["Beata Szydlo","Beata Maria Szyd\u0142o","Beata Maria Kusi\u0144ska"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q444","sub_label":"Lech Wa\u0142\u0119sa","sub_aliases":["Lech Walesa","Wa\u0142\u0119sa"],"obj_id":"Q809","obj_label":"Polish"}
+{"sub_id":"Q7494639","sub_label":"Sher Singh","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q3631344","sub_label":"Waris Shah","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q3694931","sub_label":"Gurdas Maan","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q3244622","sub_label":"Farid-ud-din Ganj Shakar","sub_aliases":["Fariduddin Ganjshakar","Bhagat Farid","Baba Sheikh Farid","Cheikh Farid"],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q464185","sub_label":"Daler Mehndi","sub_aliases":["Daler Singh"],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q5619923","sub_label":"Gurdial Singh","sub_aliases":["Gurdial Singh Rahi"],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q4857023","sub_label":"Bano Qudsia","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q3351571","sub_label":"Bulleh Shah","sub_aliases":["Syed Abdullah Shah Qadri"],"obj_id":"Q58635","obj_label":"Punjabi"}
+{"sub_id":"Q210491","sub_label":"Cristian Chivu","sub_aliases":["Cristian Eugen Chivu"],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q106113","sub_label":"Ilie N\u0103stase","sub_aliases":["Ilie Nastase"],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q197661","sub_label":"Pavel Badea","sub_aliases":[],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q15071069","sub_label":"Maia Sandu","sub_aliases":[],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q315132","sub_label":"Ion Luca Caragiale","sub_aliases":["Caragiale","I. L. Caragiale","Luca Ion Palicar Caragiale"],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q189575","sub_label":"Ion Iliescu","sub_aliases":[],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q57478","sub_label":"Nicolae Nasoc","sub_aliases":["Nicolae Timofti"],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q152030","sub_label":"Ion Antonescu","sub_aliases":[],"obj_id":"Q7913","obj_label":"Romanian"}
+{"sub_id":"Q14565843","sub_label":"Gian Travers","sub_aliases":["Johann Travers","Johann von Travers","Joan Travers"],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q11036871","sub_label":"Jon Semadeni","sub_aliases":[],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q122050","sub_label":"Lucius Gabriel","sub_aliases":[],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q122106","sub_label":"Men Rauch","sub_aliases":[],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q14565871","sub_label":"Conradin de Flugi","sub_aliases":["Conradin Flugi d'Aspermont"],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q14565868","sub_label":"Gian Singer","sub_aliases":[],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q122114","sub_label":"Stefan Gabriel","sub_aliases":[],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q122047","sub_label":"Durich Chiampell","sub_aliases":["Ulrich Campell","Huldericus Campell"],"obj_id":"Q13199","obj_label":"Romansh"}
+{"sub_id":"Q34474","sub_label":"Aleksandr Solzhenitsyn","sub_aliases":["Aleksandr Isayevich Solzhenitsyn","Alexander Solzhenitsyn"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q997","sub_label":"Andrei Sakharov","sub_aliases":["Andrei D. Sakharov","Andrei Dmitrievich Sakharov"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q15193","sub_label":"Alexander I of Russia","sub_aliases":["Alexander the Blessed","Alexander I"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q132964","sub_label":"Vladimir Mayakovsky","sub_aliases":["Vladimir Vladimirovich Mayakovsky","Vladimir Maiakovsky","Vladimir Mayakov","Vladimir Vladimirovich Majakovski","Wladimir Wladimirowitsch Majakovskij","Vladimir Vladimirovich Mayakovski","Vladimir Vladimirovic Mayakovskij","Vladimir Vladimirovi\u010d Majakovskij"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q44371","sub_label":"Valentina Tereshkova","sub_aliases":["Valentina Vladimirovna Tereshkova"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q27645","sub_label":"Mikhail Bakunin","sub_aliases":["Michael Bakunin","Michail Alexandrovich Bakunin","A. M. Bakunin","Mikhail Aleksandrovich Bakunin","Mikhail Alexandrovich Bakunin"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q5685","sub_label":"Anton Chekhov","sub_aliases":["Anton Pavlovich Chekhov","Ant\u00f3n P\u00e1vlovi\u010d \u010c\u00e9hov","Ant\u00f3n P\u00e1vlovich Ch\u00e9khov","Chekhov"],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q34453","sub_label":"Boris Yeltsin","sub_aliases":[],"obj_id":"Q7737","obj_label":"Russian"}
+{"sub_id":"Q312552","sub_label":"A\u015bvagho\u1e63a","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q1190757","sub_label":"Da\u1e47\u1e0din","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q335161","sub_label":"Bhart\u1e5bhari","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q457990","sub_label":"Dharmakirti","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q330521","sub_label":"Vyasa","sub_aliases":["Veda Vyasa","Veda Vy\u0101sa","Krishna Dvaip\u0101yana"],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q9422","sub_label":"Mahavira","sub_aliases":["Vardhamana","Nirgrantha","Maha-ativeer","Vir","Mahavir Swami"],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q196831","sub_label":"Bharata Muni","sub_aliases":["Barata Muni"],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q335371","sub_label":"Madhvacharya","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit"}
+{"sub_id":"Q42748602","sub_label":"Margaret Stewart","sub_aliases":["Margaret Stewart"],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q11030898","sub_label":"Donald MacIntyre","sub_aliases":["The Paisley Bard"],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q13194767","sub_label":"Mary MacPherson","sub_aliases":["M\u00e0iri Mh\u00f3r nan \u00d2ran","M\u00e0iri Nighean Ian Bhain"],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q20620889","sub_label":"Maighread nighean Lachlainn","sub_aliases":[],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q4768560","sub_label":"Anne Lorne Gillies","sub_aliases":[],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q16728617","sub_label":"Donald MacKillop","sub_aliases":[],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q13194501","sub_label":"Alasdair MacGriogair","sub_aliases":[],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q14918717","sub_label":"Niall Mor MacMuireadhaigh","sub_aliases":[],"obj_id":"Q9314","obj_label":"Scottish Gaelic"}
+{"sub_id":"Q192640","sub_label":"Dejan Stankovi\u0107","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q207399","sub_label":"Marko Panteli\u0107","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q483290","sub_label":"Boris Tadi\u0107","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q361024","sub_label":"Branko Ili\u0107","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q211451","sub_label":"Aleksandar Kolarov","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q1280278","sub_label":"Radoje Domanovi\u0107","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q223183","sub_label":"Peter II of Yugoslavia","sub_aliases":[],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q57670","sub_label":"Yingluck Shinawatra","sub_aliases":["Pu"],"obj_id":"Q9299","obj_label":"Serbian"}
+{"sub_id":"Q314093","sub_label":"Juraj Kucka","sub_aliases":[],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q17330556","sub_label":"Peter Pellegrini","sub_aliases":["Pellegrini"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q52430","sub_label":"Daniela Hantuchov\u00e1","sub_aliases":["Daniela Hantuchova"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q207403","sub_label":"R\u00f3bert Vittek","sub_aliases":["Robert Vittek"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q57606","sub_label":"Robert Fico","sub_aliases":[],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q59786","sub_label":"R\u00f3bert Mak","sub_aliases":["Robert Mak"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q344759","sub_label":"\u013dubom\u00edr Morav\u010d\u00edk","sub_aliases":["\u013dubomir Moravcik","Lubomir Moravcik"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q161082","sub_label":"Peter Pekar\u00edk","sub_aliases":["Peter Pekarik"],"obj_id":"Q9058","obj_label":"Slovak"}
+{"sub_id":"Q26309","sub_label":"Amir Kari\u0107","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q194443","sub_label":"Milan Ku\u010dan","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q213002","sub_label":"Samir Handanovi\u0107","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q10085","sub_label":"Tina Maze","sub_aliases":["Klementina Maze"],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q177511","sub_label":"Sre\u010dko Katanec","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q213032","sub_label":"Robert Koren","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q26276","sub_label":"Klemen Lavri\u010d","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q350345","sub_label":"Nejc Pe\u010dnik","sub_aliases":[],"obj_id":"Q9063","obj_label":"Slovene"}
+{"sub_id":"Q80871","sub_label":"Gabriela Mistral","sub_aliases":["Lucila Godoy Alcayaga","Lucila de Mar\u00eda del Perpetuo Socorro Godoy Alcayaga","Lucila de Maria del Perpetuo Socorro Godoy Alcayaga"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q40933","sub_label":"Eva Per\u00f3n","sub_aliases":["Evita","Eva Peron","Maria Eva Duarte de Peron","Maria Eva Duarte Peron","Mar\u00eda Eva Duarte de Per\u00f3n","Mar\u00eda Eva Duarte Per\u00f3n","Evita Per\u00f3n","Eva"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q165257","sub_label":"Lope de Vega","sub_aliases":["Phoenix of Wits","Prodigy of Nature","Lope F\u00e9lix de Vega Carpio"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q19581","sub_label":"Rafael Correa Delgado","sub_aliases":["Mashi Rafael","Rafael Vicente Correa Delgado"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q19943","sub_label":"Juan Carlos I","sub_aliases":["Juan Carlos","Juan Carlos Alfonso V\u00edctor Mar\u00eda de Borb\u00f3n y Borb\u00f3n-Dos Sicilias","Juan Carlos Alfonso Victor Maria de Borbon y Borbon-Dos Sicilias","His Majesty Juan Carlos I, King of Spain","Juan Carlos of Spain","King Juan Carlos","Juan Carlos Alfonso Victor Maria de Borb\u00f3n y de Borb\u00f3n, Rey de Espa\u00f1a","Juan Carlos I of Spain"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q11256","sub_label":"Fidel Castro","sub_aliases":["Fidel Alejandro Castro Ruz","Castro"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q615","sub_label":"Lionel Messi","sub_aliases":["Leo Messi","Lionel Andres Messi","Messi","Lionel Andr\u00e9s Messi Cuccittini","Lionel Andr\u00e9s Messi"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q10819","sub_label":"Mariano Rajoy","sub_aliases":["Mariano Rajoy Brey","Mariano Rajoy y Brey","Rajoy"],"obj_id":"Q1321","obj_label":"Spanish"}
+{"sub_id":"Q4696697","sub_label":"Aidan Hartley","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q6932973","sub_label":"Muhammed Seif Khatib","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q1395031","sub_label":"Hukwe Zawose","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q3089731","sub_label":"Rocha Chimera","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q21285312","sub_label":"Ali Kiba","sub_aliases":["Ali Kiba","Ally Saleh Kiba"],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q57488","sub_label":"Jakaya Mrisho Kikwete","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q18351507","sub_label":"Amandina Lihamba","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q1775216","sub_label":"Siti binti Saad","sub_aliases":[],"obj_id":"Q7838","obj_label":"Swahili"}
+{"sub_id":"Q134641","sub_label":"Erik Axel Karlfeldt","sub_aliases":[],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q192651","sub_label":"Allvar Gullstrand","sub_aliases":[],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q10560","sub_label":"Freddie Ljungberg","sub_aliases":["Fredrik Ljungberg","Karl Fredrik Ljungberg"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q53713","sub_label":"Olof Palme","sub_aliases":["Sven Olof Joachim Palme"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q45068","sub_label":"Carl XVI Gustaf of Sweden","sub_aliases":["Carl Gustav XVI","Carl XVI Gustav of Sweden","Carl XVI Gustav","Carl Gustaf of Sweden","Carl XVI Gustaf","King Carl XVI Gustaf"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q1267","sub_label":"Dag Hammarskj\u00f6ld","sub_aliases":["Dag Hjalmar Agne Carl Hammarskj\u00f6ld"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q52947","sub_label":"Gustav I of Sweden","sub_aliases":["Gustav Vasa","Gustav Eriksson","Gustavus Vasa","Gustavus I Vasa","Gustavus Ericssen","Gustavus I Ericssen"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q102071","sub_label":"Tove Jansson","sub_aliases":["Tove Marika Jansson","Tove M. Jansson"],"obj_id":"Q9027","obj_label":"Swedish"}
+{"sub_id":"Q4704454","sub_label":"Arturo R. Luz","sub_aliases":["Arturo Rogerio Luz","Arturo Rogerio Dimayuga Luz"],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q5125366","sub_label":"Claire de la Fuente","sub_aliases":["Claire dela Fuente","Clarita Crisostomo Dela Fuente-De Guzman","Clarita Crisostomo de la Fuente-De Guzman","Clarita Crisostomo de la Fuente","Clarita Crisostomo dela Fuente"],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q7367461","sub_label":"Rosauro Almario","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q12972035","sub_label":"Tony Ferrer","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q2520221","sub_label":"Anita Linda","sub_aliases":["Alice Lake"],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q3547747","sub_label":"Lualhati Bautista","sub_aliases":["Lualhati Torres Bautista"],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q7700974","sub_label":"Teo Antonio","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q4739395","sub_label":"Amalia Fuentes","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog"}
+{"sub_id":"Q2617392","sub_label":"Gulrukhsor Safieva","sub_aliases":[],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q43210860","sub_label":"Farida Mansurova","sub_aliases":["Farida Hamidovna Mansurova"],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q2092113","sub_label":"Abdumalik Bahori","sub_aliases":[],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q6410443","sub_label":"Sotim Ulugzoda","sub_aliases":["Satim Ulugzade"],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q835704","sub_label":"Latif Nazemi","sub_aliases":[],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q6932924","sub_label":"Muhammadjon Shakuri","sub_aliases":[],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q2605267","sub_label":"Mirzo Tursunzoda","sub_aliases":[],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q4071245","sub_label":"Muhammad Osimi","sub_aliases":["Muhamed Osimi","Muhamed Asimov"],"obj_id":"Q9260","obj_label":"Tajik"}
+{"sub_id":"Q330889","sub_label":"Silambarasan Rajendar","sub_aliases":["Simbu","STR","T. R. Silambarasan","Silambarasan Thesingu Rajendar"],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q448316","sub_label":"Alvars","sub_aliases":[],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q469886","sub_label":"Jayam Ravi","sub_aliases":["Mohan Ravi"],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q1380058","sub_label":"Kalki Krishnamurthy","sub_aliases":["Kalki","Ramaswamy Krishnamurthy"],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q333460","sub_label":"Ratan Tata","sub_aliases":["Ratan Naval Tata"],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q331155","sub_label":"Shruti Haasan","sub_aliases":[],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q7636937","sub_label":"Suman Ranganathan","sub_aliases":[],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q3498996","sub_label":"N. T. Rama Rao Jr.","sub_aliases":["Jr. NTR","NTR Jr.","Junior NTR","Junior N.T.R.","Junior N. T. R.","N.T.R.","Nandamoori Tarakaramarao Jr.","Nandamuri Tarakaramarao Jr.","Nandamuri Taraka Rama Rao"],"obj_id":"Q5885","obj_label":"Tamil"}
+{"sub_id":"Q3765029","sub_label":"Brahmanandam","sub_aliases":["Kanneganti Brahmanandam"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q7296834","sub_label":"Ravuri Bharadhwaja","sub_aliases":["Bharadwaja","R. Bharadwaja"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q3765059","sub_label":"M. M. Keeravani","sub_aliases":["Keeravani"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q5208551","sub_label":"Venkatesh Daggubati","sub_aliases":["Venkatesh","Venky","Daggubati Venkatesh"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q3429974","sub_label":"Ghantasala Venkateswara Rao","sub_aliases":["Ghantasala Venkateswara Rao","Ghantasala","Ghantasala Venkateswararao"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q7876965","sub_label":"Uday Kiran","sub_aliases":["Vajapeyajula Uday Kiran"],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q265902","sub_label":"Tirumalai Krishnamacharya","sub_aliases":[],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q7041296","sub_label":"Nitin","sub_aliases":[],"obj_id":"Q8097","obj_label":"Telugu"}
+{"sub_id":"Q164373","sub_label":"Thaksin Shinawatra","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q714042","sub_label":"Seni Pramoj","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q714934","sub_label":"Pridi Banomyong","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q13017264","sub_label":"Pornsak Songsaeng","sub_aliases":["Booonsao Prajantasen"],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q379827","sub_label":"Prem Tinsulanonda","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q298551","sub_label":"Tony Jaa","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q1613602","sub_label":"Noppawan Lertcheewakarn","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q539526","sub_label":"Luksika Kumkhum","sub_aliases":[],"obj_id":"Q9217","obj_label":"Thai"}
+{"sub_id":"Q2353150","sub_label":"Ralpacan","sub_aliases":["Tri Ralpachen","Tritsuk Detsen","khri gtsug lde btsan","ral pa can"],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q1225498","sub_label":"Dilgo Khyentse Tashi Peljor","sub_aliases":[],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q25255","sub_label":"'bras spungs khri pa","sub_aliases":["4th Dalai Lama"],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q1075736","sub_label":"Chokgyur Lingpa","sub_aliases":[],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q231582","sub_label":"Padmasambhava","sub_aliases":[],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q710175","sub_label":"Karmapa 01","sub_aliases":["Dusum Khyenpa"],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q1260120","sub_label":"Dromton Gyelwa Jungne","sub_aliases":["Brom ston"],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q25252","sub_label":"Ngawang Lobzang Gyatso","sub_aliases":["Great Fifth Dalai Lama","5th Dalai Lama"],"obj_id":"Q34271","obj_label":"Tibetan"}
+{"sub_id":"Q274302","sub_label":"Lina Kostenko","sub_aliases":["Lina Vasylivna Kostenko"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q463095","sub_label":"Volodymyr Lytvyn","sub_aliases":["Volodymyr Mykhailovych Lytvyn"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q333142","sub_label":"Mykola Shmatko","sub_aliases":["Nikolay Havrylovych Shmatko"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q379720","sub_label":"Serhiy Tihipko","sub_aliases":["Serhiy Leonidovych Tihipko"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q2096927","sub_label":"Sergei Loznitsa","sub_aliases":["Serhii Loznytsia","Serhii Volodymyrovych Losnytsia"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q2382842","sub_label":"Panteleimon Kulish","sub_aliases":["Panteleimon Oleksandrovych Kulish","Panteleymon Kulish","Panteleymon Aleksandrovich Kulish"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q19636859","sub_label":"Oleksandr Zinchenko","sub_aliases":["Oleksandr Volodymyrovych Zinchenko"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q435090","sub_label":"Pavlo Skoropadsky","sub_aliases":["Pavlo Skoropadskyi","Pavlo Petrovych Skoropadskyi"],"obj_id":"Q8798","obj_label":"Ukrainian"}
+{"sub_id":"Q155111","sub_label":"Iskander Mirza","sub_aliases":[],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q469875","sub_label":"Muhammad Ali Bogra","sub_aliases":["Muhammad Ali Bogra Khushki","Mohammed Ali Bogra"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q57373","sub_label":"Asif Ali Zardari","sub_aliases":["Asif Zardari","Zardari","Asif Ali"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q161399","sub_label":"Shahbaz Bhatti","sub_aliases":["Clement Shahbaz Bhatti"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q369907","sub_label":"Syed Abul Ala Maududi","sub_aliases":["Syed Abul Ala Maududi"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q334059","sub_label":"Farooq Leghari","sub_aliases":["Farooq Ahmad Khan Leghari"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q314774","sub_label":"Salmaan Taseer","sub_aliases":["Salman Taseer"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q134068","sub_label":"Nawaz Sharif","sub_aliases":["Sharif","Mian Sahib","Muhammad Nawaz Sharif born becember'1941","NS","Mian Nawaz Sharif","Mian Muhammad Nawaz Sharif"],"obj_id":"Q1617","obj_label":"Urdu"}
+{"sub_id":"Q317505","sub_label":"Cho\u02bblpon","sub_aliases":[],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q1951829","sub_label":"Muhammad Aminxo\u02bbja Mirzaxo\u02bbja o\u02bbg\u02bbli Muqimiy","sub_aliases":[],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q1952656","sub_label":"Munavvar Qori Abdurashidxon o\u02bbg\u02bbli","sub_aliases":["Abdurashidkhanov Munavvar qori","Munawwar Qari Abdurrashidkhan ogli"],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q7504855","sub_label":"Shukrullo","sub_aliases":[],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q317526","sub_label":"Abdulla Avloniy","sub_aliases":[],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q4056778","sub_label":"Agakhi","sub_aliases":[],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q236858","sub_label":"Akgul Amanmuradova","sub_aliases":["Akgul Charievna Amanmuradova"],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q6874724","sub_label":"Mirtemir","sub_aliases":["Mirtemir Tursunov"],"obj_id":"Q9264","obj_label":"Uzbek"}
+{"sub_id":"Q379775","sub_label":"Nguy\u1ec5n Hu\u1ec7","sub_aliases":["Nguy\u1ec5n Quang B\u00ecnh","Quang Trung"],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q379489","sub_label":"Phan Van Khai","sub_aliases":["Phan V\u0103n Kh\u1ea3i"],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q233969","sub_label":"Le Duc Tho","sub_aliases":[],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q317814","sub_label":"Tsui Hark","sub_aliases":[],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q57600","sub_label":"Nguyen Tan Dung","sub_aliases":["Nguy\u1ec5n T\u1ea5n D\u0169ng"],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q699241","sub_label":"Madame Nhu","sub_aliases":[],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q434419","sub_label":"Minh M\u1ea1ng","sub_aliases":["Mang Minh","Nguy\u1ec5n Ph\u00fac Ki\u1ec3u"],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q466001","sub_label":"Le Duan","sub_aliases":["L\u00ea Du\u1ea9n"],"obj_id":"Q9199","obj_label":"Vietnamese"}
+{"sub_id":"Q1848946","sub_label":"Albert Sleumer","sub_aliases":[],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q17061589","sub_label":"William Martin Ampt","sub_aliases":["William M. Ampt"],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q75806","sub_label":"Karl Emil Sch\u00e4fer","sub_aliases":[],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q114919","sub_label":"Martin Hell","sub_aliases":[],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q11267859","sub_label":"Sigmund Spielmann","sub_aliases":[],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q114915","sub_label":"Georg Sigl","sub_aliases":[],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q474547","sub_label":"Tiberius Cornelis Winkler","sub_aliases":["Tiberius Cornelius Winkler"],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q1386036","sub_label":"John Weinzweig","sub_aliases":["John Jacob Weinzweig"],"obj_id":"Q36986","obj_label":"Volap\u00fck"}
+{"sub_id":"Q581537","sub_label":"Saint Cadfan","sub_aliases":["Cadfan","Gideon","Saint Gideon","Cafan","Saint Cafan"],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q260772","sub_label":"Guto Bebb","sub_aliases":["Guto ap Owain Bebb"],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q547716","sub_label":"Iolo Morganwg","sub_aliases":["Edward Williams"],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q2011924","sub_label":"Cadfan ab Iago","sub_aliases":[],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q5006423","sub_label":"C. E. Wynn-Williams","sub_aliases":["Charles Eryl Wynn-Williams"],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q2670643","sub_label":"Cynan Dindaethwy","sub_aliases":["Cynan, King of Gwynedd"],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q357835","sub_label":"Taliesin","sub_aliases":[],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q888051","sub_label":"Brochfael ap Elisedd","sub_aliases":[],"obj_id":"Q9309","obj_label":"Welsh"}
+{"sub_id":"Q112161","sub_label":"Nathan Birnbaum","sub_aliases":["Anton Skart","Dr. N. Birner","Mathias Acher","Mathias Palme","Pantarhei","Theodor Schwarz"],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q2330547","sub_label":"Uri Maklev","sub_aliases":[],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q11723735","sub_label":"Chil Rajchman","sub_aliases":[],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q2918888","sub_label":"Charles Jaffe","sub_aliases":[],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q2082327","sub_label":"Eliezer Moses","sub_aliases":["Menachem Eliezer Moses"],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q667063","sub_label":"David Edelstadt","sub_aliases":[],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q814751","sub_label":"Menahem Mendel Beilis","sub_aliases":[],"obj_id":"Q8641","obj_label":"Yiddish"}
+{"sub_id":"Q113310","sub_label":"Itzik Manger","sub_aliases":["Itsik Manger"],"obj_id":"Q8641","obj_label":"Yiddish"}

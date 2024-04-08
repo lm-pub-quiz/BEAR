@@ -1,0 +1,585 @@
+{"sub_id":"Q458115","sub_label":"Nydeggbr\u00fccke","sub_aliases":["Nydeggbrucke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q2258722","sub_label":"Sch\u00f6nausteg","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q2265832","sub_label":"Seftausteg","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q65400234","sub_label":"Casino-Br\u00fccke","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1648439","sub_label":"railroad viaduct Koblenz-Felsenau","sub_aliases":["Eisenbahnviadukt Koblenz-Felsenau"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q2168152","sub_label":"red bridge","sub_aliases":["Rote Br\u00fccke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q685714","sub_label":"Auguetbr\u00fccke","sub_aliases":["Auguetbrucke","Hunzigenbrucke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1303398","sub_label":"Felsenau bridge","sub_aliases":["Felsenaubr\u00fccke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1158062","sub_label":"Dalmazi bridge","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1743111","sub_label":"Kirchenfeldbr\u00fccke","sub_aliases":["Kirchenfeldbrucke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q665373","sub_label":"Untertorbr\u00fccke","sub_aliases":["Untertorbrucke"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1688816","sub_label":"Neubr\u00fcgg","sub_aliases":["Neubr\u00fcgg (vgl. Bern\/BE)","Neubrugg"],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1728708","sub_label":"Kappelenbr\u00fccke","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1870402","sub_label":"Lorraine railway viaduct","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q1944096","sub_label":"Monbijoubr\u00fccke","sub_aliases":[],"obj_id":"Q1675","obj_label":"Aare"}
+{"sub_id":"Q7797803","sub_label":"Three Sisters","sub_aliases":["Three Sisters bridges","Three Sisters (Pittsburgh)","Three Sisters Pittsburgh"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q7453380","sub_label":"Sergeant Carl F. Curran II Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q6418394","sub_label":"Kittanning Citizens Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q5501120","sub_label":"Freeport Rail Bridge","sub_aliases":["Freeport Railroad Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q7351643","sub_label":"Roberto Clemente Bridge","sub_aliases":["Sixth Street Bridge","6th Street Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q5471105","sub_label":"Fort Duquesne Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q7279183","sub_label":"Rachel Carson Bridge","sub_aliases":["Ninth Street Bridge","9th Street Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q28373845","sub_label":"North Shore Connector tunnel","sub_aliases":["Allegheny River Tunnel"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q6389737","sub_label":"Kennerdell Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q5372661","sub_label":"Emlenton Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q7800914","sub_label":"Tidioute Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q4761451","sub_label":"Andy Warhol Bridge","sub_aliases":["Seventh Street Bridge","7th Street Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q4552241","sub_label":"David McCullough Bridge","sub_aliases":["16th Street Bridge","Sixteenth Street Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q7985354","sub_label":"West Hickory Bridge","sub_aliases":[],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q5538328","sub_label":"George D. Stuart Bridge","sub_aliases":["Tarentum Bridge","Tarentum-Valley Heights Bridge"],"obj_id":"Q686021","obj_label":"Allegheny River"}
+{"sub_id":"Q913665","sub_label":"Bridge of the Gods","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q5015633","sub_label":"Cable Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q19884168","sub_label":"Kinnaird Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q4879536","sub_label":"Beebe Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q6306250","sub_label":"Julia Butler Hansen Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q21549143","sub_label":"Richard Odabashian Bridge","sub_aliases":["Olds Station Bridge"],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q7101416","sub_label":"Oregon Trunk Rail Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q3397174","sub_label":"Vantage Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q6395509","sub_label":"Kettle Falls Bridges","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q56281970","sub_label":"Fairmont Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q5568943","sub_label":"Glenn L. Jackson Memorial Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q7728757","sub_label":"The Dalles Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q2494866","sub_label":"Interstate 182 Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q7881195","sub_label":"Umatilla Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q7354517","sub_label":"Rock Island Railroad Bridge","sub_aliases":[],"obj_id":"Q2251","obj_label":"Columbia River"}
+{"sub_id":"Q7298731","sub_label":"Raymond E. Baldwin Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q4996495","sub_label":"Bulkeley Bridge","sub_aliases":["Bulkeley Memorial Bridge","Hartford Bridge"],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q5031101","sub_label":"Canalside Rail Trail Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q1033194","sub_label":"French King Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q5171862","sub_label":"Cornish\u2013Windsor Covered Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q7890829","sub_label":"United States Navy Seabees Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q7431104","sub_label":"Schell Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q4918445","sub_label":"Bissell Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q20486964","sub_label":"Vilas Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q4748894","sub_label":"Warehouse Point railroad bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q7928524","sub_label":"Vietnam Memorial Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q5149627","sub_label":"Columbia Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q7634514","sub_label":"Suffield and Thompsonville Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q5562453","sub_label":"Gill\u2013Montague Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q5328516","sub_label":"East Haddam Bridge","sub_aliases":[],"obj_id":"Q379648","obj_label":"Connecticut River"}
+{"sub_id":"Q781659","sub_label":"Pet\u0151fi Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1077240","sub_label":"New Europe Bridge","sub_aliases":["Vidin\u2013Calafat Bridge","Calafat\u2013Vidin Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q3397334","sub_label":"Pupin Bridge","sub_aliases":["Zemun-Bor\u010da Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q435423","sub_label":"Star\u00fd most","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q777301","sub_label":"Megyeri Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q787108","sub_label":"R\u00e1k\u00f3czi Bridge","sub_aliases":["Rakoczi Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q393917","sub_label":"\u017de\u017eelj Bridge","sub_aliases":["\u017de\u017eeljev most","Zezelj Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q837291","sub_label":"Most SNP","sub_aliases":["Most Slovenskeho narodneho povstania","Nov\u00fd most","Most Slovensk\u00e9ho n\u00e1rodn\u00e9ho povstania","Bridge of the Slovak National Uprising","New Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1147288","sub_label":"Varadin Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q252452","sub_label":"\u00c1rp\u00e1d Bridge","sub_aliases":["Arpad Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1067603","sub_label":"Lanfranconi Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q543863","sub_label":"Pr\u00edstavn\u00fd most","sub_aliases":["Harbour Bridge","Most hrdinov Dukly","Dukla Heroes' Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1089516","sub_label":"M\u00e1ria Val\u00e9ria Bridge","sub_aliases":["Maria Valeria Bridge"],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q1286851","sub_label":"Pan\u010devo Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q5565306","sub_label":"Giurgeni \u2013 Vadu Oii Bridge","sub_aliases":[],"obj_id":"Q1653","obj_label":"Danube"}
+{"sub_id":"Q19581640","sub_label":"Point Pleasant-Byram Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q18148765","sub_label":"Callicoon Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q7898496","sub_label":"Upper Black Eddy \u2013 Milford Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q30004807","sub_label":"Kellams Bridge","sub_aliases":["Little Equinunk Bridge"],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q7338687","sub_label":"Riverton\u2013Belvidere Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q6966349","sub_label":"Narrowsburg\u2013Darbytown Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q3396470","sub_label":"Betsy Ross Bridge","sub_aliases":["Delair Bridge"],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q7986702","sub_label":"West Trenton Railroad Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q2740124","sub_label":"Commodore Barry Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q3396791","sub_label":"Walt Whitman Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q1183845","sub_label":"Delair Bridge","sub_aliases":["Delair Memorial Railroad Bridge"],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q7333091","sub_label":"Riegelsville Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q5019790","sub_label":"Calhoun Street Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q7877995","sub_label":"Uhlerstown\u2013Frenchtown Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q5330876","sub_label":"Easton\u2013Phillipsburg Toll Bridge","sub_aliases":[],"obj_id":"Q143762","obj_label":"Delaware River"}
+{"sub_id":"Q4304550","sub_label":"Evgenia Bosh Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4311401","sub_label":"Bridges in Kiev","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4069861","sub_label":"Arcual bridge in Zaporizhzhia","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4290838","sub_label":"Merefa-Kherson bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q2453110","sub_label":"Pivdennyi Bridge","sub_aliases":["Southern Bridge"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4362165","sub_label":"Parkovyi footbridge in Kyiv","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4067525","sub_label":"Antonivka Road Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q2642363","sub_label":"Paton Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4155098","sub_label":"New Darnytskyi Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q2475012","sub_label":"Kyiv Metro Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q1990053","sub_label":"Nicholas Chain Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q28669169","sub_label":"Amur Bridge, Dnipro","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4304739","sub_label":"Preobrazhenskyi bridges","sub_aliases":["Preobrazhenskoho bridges"],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q53635628","sub_label":"Kaidatsky Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q4243193","sub_label":"Kryukiv Bridge","sub_aliases":[],"obj_id":"Q40855","obj_label":"Dnieper River"}
+{"sub_id":"Q6091588","sub_label":"Puente del Ferrocarril","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q951109","sub_label":"Freixo Bridge","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q4679099","sub_label":"Ponte p\u00eansil D. Maria II","sub_aliases":["Dona Maria II Bridge"],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q20872368","sub_label":"Puente de los Poetas","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q6091421","sub_label":"Requejo Bridge","sub_aliases":["Pino's Bridge"],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q2892406","sub_label":"Puente Mayor de Toro","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q5816672","sub_label":"Ponte Ferrovi\u00e1ria de Ferradosa","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q7228153","sub_label":"Ponte de S\u00e3o Jo\u00e3o","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q54435210","sub_label":"D. Ant\u00f3nio Francisco dos Santos Bridge","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q10351418","sub_label":"Ponte das Barcas","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q1550899","sub_label":"Maria Pia Bridge","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q1785740","sub_label":"Arr\u00e1bida Bridge","sub_aliases":["Arrabida Bridge"],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q9064482","sub_label":"Infante Dom Henrique bridge","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q7228108","sub_label":"Ponte Almirante Sarmento Rodrigues","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q59521449","sub_label":"Bridge of Vadocondes ","sub_aliases":[],"obj_id":"Q14299","obj_label":"Douro"}
+{"sub_id":"Q1456957","sub_label":"Albertbr\u00fccke","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q104381856","sub_label":"Elbhochbr\u00fccke","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q1632977","sub_label":"Magdeburg vertical-lift bridge","sub_aliases":["Hubbr\u00fccke Magdeburg"],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q640980","sub_label":"Magdeburg Water Bridge","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q12034553","sub_label":"Kol\u00ednsk\u00e1 l\u00e1vka","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q1687943","sub_label":"Jerusalem bridge","sub_aliases":["Jerusalembr\u00fccke","Jerusalem bridges"],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q12024609","sub_label":"Jez Hu\u010d\u00e1k","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q567518","sub_label":"Loschwitz Bridge","sub_aliases":["Blue Wonder"],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q1795670","sub_label":"K\u00f6hlbrand crossing","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q5443775","sub_label":"Ferchland Grieben Ferry","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q1044277","sub_label":"Carola Bridge ","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q2448424","sub_label":"Lauenburg\u2013Hohnstorf ferry","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q97302890","sub_label":"Schlossbr\u00fccke Gr\u00f6ba","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q1325066","sub_label":"D\u00f6mitz Railway Bridge","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q10857969","sub_label":"Vodn\u00ed elektr\u00e1rna v Pod\u011bbradech","sub_aliases":[],"obj_id":"Q1644","obj_label":"Elbe"}
+{"sub_id":"Q7439919","sub_label":"Sea Island Connector","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q14629008","sub_label":"No. 2 Road Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q5278725","sub_label":"Dinsmore Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q528031","sub_label":"Port Mann Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q5013173","sub_label":"CNR Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q7270851","sub_label":"Queensborough Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q337830","sub_label":"George Massey Tunnel","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q85766183","sub_label":"Hell's Gate Airtram","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q1509055","sub_label":"Skybridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q7012410","sub_label":"New Westminster Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q710283","sub_label":"Arthur Laing Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q1056455","sub_label":"Golden Ears Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q7148677","sub_label":"Pattullo Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q5263357","sub_label":"Derwent Way Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q2008430","sub_label":"Oak Street Bridge","sub_aliases":[],"obj_id":"Q269710","obj_label":"Fraser River"}
+{"sub_id":"Q20669827","sub_label":"Passerelle du Passage d'Agen","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q2289662","sub_label":"Agen aqueduct","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q3397260","sub_label":"Pont de La Daurade","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q3396746","sub_label":"pont Saint-Pierre de Toulouse","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q19407190","sub_label":"Pont de Tonneins","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q22950090","sub_label":"Pont Eiffel","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q3396576","sub_label":"Pont Jacques-Chaban-Delmas","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q96030663","sub_label":"Pont de Carbonne","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q19407192","sub_label":"Simone Veil bridge","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q28445271","sub_label":"Pont dera Garona","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q1773424","sub_label":"Pont de pierre","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q15953089","sub_label":"Pont de Bourret","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q774600","sub_label":"Pont d'Aquitaine","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q22938263","sub_label":"Pont de Gourdan","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q1520861","sub_label":"pont des Catalans","sub_aliases":[],"obj_id":"Q5077","obj_label":"Garonne"}
+{"sub_id":"Q125753","sub_label":"Holland Tunnel","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7335567","sub_label":"Riparius Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7736750","sub_label":"The Glen Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7799342","sub_label":"Thurman Station Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q5145949","sub_label":"Collar City Bridge","sub_aliases":["Hoosick Street Bridge"],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q6413680","sub_label":"Kingston\u2013Rhinecliff Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q5160824","sub_label":"Congress Street Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q4722774","sub_label":"Alfred H. Smith Memorial Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7433086","sub_label":"Schuylerville Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7335546","sub_label":"Rip Van Winkle Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q125805","sub_label":"Lincoln Tunnel","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q125841","sub_label":"Tappan Zee Bridge","sub_aliases":["Governor Malcolm Wilson Tappan Zee Bridge","Malcolm Wilson Tappan Zee Bridge"],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q125821","sub_label":"George Washington Bridge","sub_aliases":["GW Bridge","Geo Washington Bridge","GWB"],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q5050632","sub_label":"Castleton Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q6659629","sub_label":"Livingston Avenue Bridge","sub_aliases":[],"obj_id":"Q3140","obj_label":"Hudson River"}
+{"sub_id":"Q7863026","sub_label":"U.S. 40 and 59 Bridges","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q6753912","sub_label":"Maple Hill Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7073996","sub_label":"Oakland Expressway Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q5967562","sub_label":"I-670 Viaduct","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q6056896","sub_label":"Interstate 435 Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7885911","sub_label":"Union Pacific Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q6511817","sub_label":"Lecompton Road Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7855886","sub_label":"Turner Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7423828","sub_label":"Sardou Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7988824","sub_label":"Westgate Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q4631706","sub_label":"23rd Street viaduct","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q6045763","sub_label":"Intercity Viaduct","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q14629160","sub_label":"Highway 2 Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q7824805","sub_label":"Topeka Boulevard Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q6322634","sub_label":"K-99 Wamego Bridge","sub_aliases":[],"obj_id":"Q1367638","obj_label":"Kansas River"}
+{"sub_id":"Q60560527","sub_label":"Marchbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q1427316","sub_label":"Hiroshimasteg","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q23786526","sub_label":"Obere Freiarchenbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q1571637","sub_label":"Hallesche-Tor Bridge","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q359162","sub_label":"Admiralbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q799756","sub_label":"Baerwaldbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q2239173","sub_label":"Schlesische Br\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q1957842","sub_label":"M\u00f6ckernbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q60444978","sub_label":"George-C.-Marshall-Br\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q545120","sub_label":"Anhalter Steg","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q105838422","sub_label":"Hobrechtbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q66459323","sub_label":"Kottbusser Br\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q2451777","sub_label":"Treptower Br\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q60445087","sub_label":"Mehringbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q55812264","sub_label":"Thielenbr\u00fccke","sub_aliases":[],"obj_id":"Q671428","obj_label":"Landwehr Canal"}
+{"sub_id":"Q7366936","sub_label":"Rory O'More Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q4767235","sub_label":"Anna Livia Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q1003535","sub_label":"Frank Sherwin Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q1766409","sub_label":"O'Connell Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q7984173","sub_label":"West-Link","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q987447","sub_label":"East-Link","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q3836726","sub_label":"Loopline Bridge","sub_aliases":["Loop Line Railway (Dublin)"],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q369401","sub_label":"Se\u00e1n O'Casey Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q6813204","sub_label":"Mellows Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q6083631","sub_label":"Islandbridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q5597713","sub_label":"Grattan Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q1034624","sub_label":"Ha'penny Bridge","sub_aliases":["Liffey Bridge"],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q5002758","sub_label":"Butt Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q304582","sub_label":"Talbot Memorial Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q945154","sub_label":"James Joyce Bridge","sub_aliases":[],"obj_id":"Q208009","obj_label":"Liffey"}
+{"sub_id":"Q96187563","sub_label":"Dammsteg","sub_aliases":[],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q2121988","sub_label":"Quaibr\u00fccke","sub_aliases":["Quaibruecke","Quai Br\u00fccke","Quaibrucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q1557779","sub_label":"Gwaggeli bridge","sub_aliases":["Gwaggelibrugg","Paul Fischer-Br\u00fccke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q1621701","sub_label":"Hochbr\u00fccke ","sub_aliases":[],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q36686487","sub_label":"railway bridge Turgi-Untersiggenthal","sub_aliases":["Eisenbahnbr\u00fccke Turgi\u2013Untersiggenthal","SFR Limmat bridge Turgi"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q27326206","sub_label":"Rudolf-Brun-Br\u00fccke ","sub_aliases":["Rudolf Brun Br\u00fccke","Rudolf-Brun-Bruecke","Rudolf Brun-Br\u00fccke","Rudolf-Brun-Brucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q96187561","sub_label":"Lettensteg","sub_aliases":[],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q96187560","sub_label":"Lettenwehrsteg ","sub_aliases":[],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q18729862","sub_label":"Bahnhofbr\u00fccke Z\u00fcrich","sub_aliases":["Bahnhofbrucke Zurich","Bahnhofbr\u00fccke","Bahnhofbruecke","Bahnhof Br\u00fccke","Bahnhofbrucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q1375301","sub_label":"Europabr\u00fccke ","sub_aliases":["Europabruecke","Europa Br\u00fccke","Europabrucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q1239179","sub_label":"Hardbr\u00fccke","sub_aliases":["Hardbruecke","Hard Br\u00fccke","Hardbrucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q1311558","sub_label":"Eisenbahnbr\u00fccke Wettingen\u2013Baden ","sub_aliases":[],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q18716357","sub_label":"M\u00fcnsterbr\u00fccke","sub_aliases":["Muensterbruecke","M\u00fcnster Br\u00fccke","Munsterbrucke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q27324054","sub_label":"M\u00fchlesteg","sub_aliases":["M\u00fchle Steg","Muehlesteg"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q27329829","sub_label":"Walche bridge","sub_aliases":["Walchebruecke","Walche Br\u00fccke","Walchebrucke","Walchebr\u00fccke"],"obj_id":"Q14338","obj_label":"Limmat"}
+{"sub_id":"Q860555","sub_label":"Pont de Chevir\u00e9","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q2856272","sub_label":"Digoin canal bridge","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3397665","sub_label":"Pont \u00c9ric-Tabarly","sub_aliases":["Pont Eric-Tabarly"],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3397170","sub_label":"Pont de Varades","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q99319","sub_label":"George V Bridge, Orl\u00e9ans","sub_aliases":["George V Bridge"],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3397420","sub_label":"Pont du Cadre Noir","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3396912","sub_label":"Pont de Champtoceaux","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q96033491","sub_label":"Pont Cessart","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q2846575","sub_label":"Briare aqueduct","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3396789","sub_label":"Pont Wilson ","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3397636","sub_label":"Pont suspendu d'Ancenis","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3397114","sub_label":"Pont de Saint-Florent-le-Vieil","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3396840","sub_label":"Pont d'Ingrandes","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q3556634","sub_label":"Nevers railway bridge","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q2254614","sub_label":"Pont transbordeur de Nantes","sub_aliases":[],"obj_id":"Q1469","obj_label":"Loire"}
+{"sub_id":"Q5317907","sub_label":"Roman bridge near Cuijk","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q2150116","sub_label":"Viaduc de Renory","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q2351704","sub_label":"Pont Kennedy","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q2687724","sub_label":"Hedelse spoorbrug","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q17347166","sub_label":"Passerelle La Belle Li\u00e9geoise","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q604785","sub_label":"Sint Servaasbrug","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q3396848","sub_label":"Pont d'Ougr\u00e9e","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q3396449","sub_label":"Pont Albert Ier","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q2303996","sub_label":"Pont Atlas, Li\u00e8ge","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q326377","sub_label":"Pont de Jambes, Namur","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q16368044","sub_label":"Pont de Fer","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q731936","sub_label":"Kennedybrug ","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q3396424","sub_label":"Pont du Val-Beno\u00eet","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q2997974","sub_label":"Wilhelminabrug","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q3368284","sub_label":"Passerelle Saucy","sub_aliases":[],"obj_id":"Q41986","obj_label":"Meuse"}
+{"sub_id":"Q579088","sub_label":"Huey P. Long Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q4532572","sub_label":"Hernando de Soto Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1438750","sub_label":"Short Line Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1937311","sub_label":"Minneapolis BNSF Rail Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1540442","sub_label":"Government Bridge","sub_aliases":["Arsenal Bridge"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q5604665","sub_label":"Greenville Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q2435597","sub_label":"Gramercy Bridge","sub_aliases":["Louisiana Highway 3213","Veterans Memorial Bridge"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q7085373","sub_label":"Old Vicksburg Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q27957926","sub_label":"Alton Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q880288","sub_label":"Black Hawk Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q3002486","sub_label":"Crescent City Connection","sub_aliases":["CCC","Greater New Orleans Bridge","GNO"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q3140476","sub_label":"Horace Wilkinson Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1738408","sub_label":"Savanna\u2013Sabula Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q592557","sub_label":"Chain of Rocks Bridge","sub_aliases":[],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q1292302","sub_label":"I-35W Saint Anthony Falls Bridge","sub_aliases":["35W Bridge","I-35W Bridge","Interstate 35W Bridge","Saint Anthony Falls Bridge"],"obj_id":"Q1497","obj_label":"Mississippi River"}
+{"sub_id":"Q3126864","sub_label":"Hannibal Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q6912621","sub_label":"Mormon Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q14629015","sub_label":"Paseo Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q4883919","sub_label":"Bellevue Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q5692215","sub_label":"Heart of America Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q4972416","sub_label":"Buck O'Neil Bridge","sub_aliases":["Broadway Bridge"],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q6175393","sub_label":"Jefferson City Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q6819326","sub_label":"Meridian Highway Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q4883757","sub_label":"Bellefontaine Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q5216612","sub_label":"Daniel Boone Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q6541873","sub_label":"Liberty Memorial Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q14629065","sub_label":"Blair Bridge ","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q2445385","sub_label":"Toston Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q7202546","sub_label":"Plattsmouth Bridge","sub_aliases":[],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q38251780","sub_label":"Fort Benton Bridge","sub_aliases":["Old Bridge"],"obj_id":"Q5419","obj_label":"Missouri River"}
+{"sub_id":"Q1375296","sub_label":"Europabr\u00fccke Koblenz","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q2291243","sub_label":"Skagerrak-Br\u00fccke","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q804831","sub_label":"Balduinbr\u00fccke","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1783647","sub_label":"Eisenbahnbr\u00fccke Konz-Karthaus","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1949076","sub_label":"Moselbr\u00fccke Ehrang","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1243307","sub_label":"Moselbr\u00fccke Bullay","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q825188","sub_label":"Hochmosel Bridge","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1949080","sub_label":"Moseleisenbahnbr\u00fccke in Koblenz","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q104905874","sub_label":"Pont Clemenceau","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1268750","sub_label":"G\u00fclser Eisenbahnbr\u00fccke in Koblenz","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q114101","sub_label":"Schengen motorway bridge","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q1311545","sub_label":"Rail transport bridge Trier-Pfalzel","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q26257928","sub_label":"Pont de Cattenom","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q14628927","sub_label":"Pont-canal de Flavigny","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q3114749","sub_label":"Pont des Morts","sub_aliases":[],"obj_id":"Q1667","obj_label":"Moselle"}
+{"sub_id":"Q591331","sub_label":"Novospassky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4065732","sub_label":"Andreyevsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4092754","sub_label":"Bolshoy Moskvoretsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q800135","sub_label":"Bagration Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4154771","sub_label":"Danilovsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4166835","sub_label":"Dorogomilovo Railway Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4296674","sub_label":"Mitino Metrobridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4403639","sub_label":"Saburovsky Rail Bridges","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4082732","sub_label":"Belarusian rail bridge in Moscow","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q2361244","sub_label":"Krymsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4347018","sub_label":"Patriarshy Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4304505","sub_label":"Bogdan Khmelnitsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q994397","sub_label":"Luzhniki Metro Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4444073","sub_label":"Stroginsky Bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q4056239","sub_label":"Avtozavodskiy bridge","sub_aliases":[],"obj_id":"Q175117","obj_label":"Moskva River"}
+{"sub_id":"Q11786015","sub_label":"Pomorski Bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q7852706","sub_label":"Tumski Bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q106962502","sub_label":"Barnovsk\u00fd most","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q18432428","sub_label":"Zamkowy Bridge in Racib\u00f3rz","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11785940","sub_label":"Mikolin most","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11785770","sub_label":"D\u0142ugi Bridge in Szczecin","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11785911","sub_label":"Bridge in Stany","sub_aliases":["Railway bridge in Stany","Bicycle bridge in Stany"],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q16913541","sub_label":"Border bridge in Star\u00fd Bohum\u00edn","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11785793","sub_label":"K\u0142odny bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q17059791","sub_label":"Anto\u0161ovick\u00e1 l\u00e1vka","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11785965","sub_label":"\u015aw.Klary Bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q11786013","sub_label":"M\u0142y\u0144skie Bridges","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q20827384","sub_label":"Uniwersytecki Bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q17058711","sub_label":"Bridge between Buk\u00f3w and Krzy\u017canowice","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q745733","sub_label":"Grunwaldzki Bridge","sub_aliases":[],"obj_id":"Q552","obj_label":"Oder"}
+{"sub_id":"Q6392162","sub_label":"Kentucky & Indiana Terminal Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q813469","sub_label":"Beaver Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q1935835","sub_label":"Milton-Madison Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6073308","sub_label":"Ironton\u2013Russell Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q14628986","sub_label":"Glover Cary Bridge","sub_aliases":["Owensboro Bridge"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5475935","sub_label":"Fourteenth Street Bridge","sub_aliases":["Ohio Falls Bridge","Pennsylvania Railroad Bridge","Conrail Railroad Bridge","Louisville and Indiana (L&I) Bridge"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q7434004","sub_label":"Sciotoville Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6824925","sub_label":"Metropolis Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6179056","sub_label":"Jennings Randolph Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q6074279","sub_label":"Irvin S. Cobb Bridge","sub_aliases":["Brookport Bridge"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q378152","sub_label":"East Huntington Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q153672","sub_label":"John A. Roebling Suspension Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5472110","sub_label":"Fort Steuben Bridge","sub_aliases":["Weirton-Steubenville Bridge"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q5150981","sub_label":"Combs\u2013Hehl Bridge","sub_aliases":["Coney Bridge"],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q22059035","sub_label":"Abraham Lincoln Bridge","sub_aliases":[],"obj_id":"Q4915","obj_label":"Ohio River"}
+{"sub_id":"Q1236965","sub_label":"Cathedral Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q874989","sub_label":"Duisburg-Hochfeld Railway Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q677754","sub_label":"Ludendorff Bridge","sub_aliases":["Bridge at Remagen"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q872835","sub_label":"Iffezheim Lock","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q996058","sub_label":"Br\u00fccke der Solidarit\u00e4t","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q316377","sub_label":"M\u00fclheim Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q685650","sub_label":"Holzbr\u00fccke Bad S\u00e4ckingen","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q328874","sub_label":"Kaiserbr\u00fccke","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q1786069","sub_label":"Kraftwerk Birsfelden","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q205682","sub_label":"Three Countries Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q449659","sub_label":"middle bridge","sub_aliases":["Mittlere Br\u00fccke","Mittlere Rheinbr\u00fccke"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q436158","sub_label":"Alte Rheinbr\u00fccke","sub_aliases":["Alte Rheinbrucke"],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q319850","sub_label":"Flehe Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q328946","sub_label":"Schierstein Bridge","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q2275296","sub_label":"Severinsbr\u00fccke","sub_aliases":[],"obj_id":"Q584","obj_label":"Rhine"}
+{"sub_id":"Q3556663","sub_label":"Viaduc de la jonction","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3397631","sub_label":"Bridge across the Rhone between Bex and Saint Maurice","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q284444","sub_label":"Pont Saint-B\u00e9n\u00e9zet","sub_aliases":["Pont Saint-Benezet","Avignon Bridge"],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3397476","sub_label":"Mont Blanc bridge","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3397281","sub_label":"Pont de la Machine","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3556585","sub_label":"Viaduc de Longeray","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3397363","sub_label":"Ponte des Bergues","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q22966811","sub_label":"Pont du Robinet","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q19951226","sub_label":"Fr\u00e9d\u00e9ric Mistral bridge","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q1602774","sub_label":"Pont de la Coulouvreni\u00e8re","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3396982","sub_label":"Pont de Gr\u00e9sin","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3368308","sub_label":"Passerelle de la Paix","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3396788","sub_label":"Pont Wilson","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3396806","sub_label":"Pont d'Aigues-Vertes","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q3396913","sub_label":"Pont de Chancy","sub_aliases":[],"obj_id":"Q602","obj_label":"Rh\u00f4ne"}
+{"sub_id":"Q1502874","sub_label":"Wandsworth Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1069141","sub_label":"Chelsea Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1324578","sub_label":"Southwark Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1436185","sub_label":"Hungerford Bridge and Golden Jubilee Bridges","sub_aliases":["Charing Cross Railway Bridge"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q278314","sub_label":"Cannon Street Railway Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q4922065","sub_label":"Marlow Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1142134","sub_label":"Vauxhall Bridge","sub_aliases":["Regent Bridge"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q371906","sub_label":"Kew Bridge","sub_aliases":["King Edward VII Bridge"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1573860","sub_label":"Hammersmith Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1074863","sub_label":"Chiswick Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q2462218","sub_label":"Twickenham Bridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1166794","sub_label":"Dartford Crossing","sub_aliases":["Dartford-Thurrock Crossing"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q475971","sub_label":"Putney Bridge","sub_aliases":["Putney Bridge (That Part In Wandsworth)"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q541166","sub_label":"Richmond Lock and Footbridge","sub_aliases":[],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q1130666","sub_label":"Lambeth Bridge","sub_aliases":["Lambeth Bridge And Attached Parapets, Light Standands, Associated Walls To Approaches And Obelisks","Lambeth Bridge And Attached Parapets, Light Standards, Associated Walls To Approaches And Obelisks"],"obj_id":"Q19686","obj_label":"River Thames"}
+{"sub_id":"Q13528034","sub_label":"Wilford Toll Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q13528033","sub_label":"Swarkestone Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q59709923","sub_label":"Mavesyn Ridware footbridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q7838367","sub_label":"Gainsborough Bridge","sub_aliases":["Trent Bridge, Gainsborough"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q14629154","sub_label":"Fledborough Viaduct","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q24993510","sub_label":"Ferry Bridge Burton","sub_aliases":["Ferry Bridge"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q5315241","sub_label":"Dunham Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q5619471","sub_label":"Gunthorpe Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q59817303","sub_label":"Sawley Aqueduct","sub_aliases":["Sawley pipe bridge"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q2270274","sub_label":"Lady Bay Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q5399651","sub_label":"Essex Bridge, Staffordshire","sub_aliases":["Essex Bridge, Great Haywood"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q26605945","sub_label":"Wolseley Bridge","sub_aliases":[],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q59781116","sub_label":"Sawley Railway Viaduct","sub_aliases":["Sawley River Trent Bridge"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q13528032","sub_label":"Keadby Bridge","sub_aliases":["King George V Bridge"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q60051939","sub_label":"A46 Nether Lock Viaduct","sub_aliases":["Nether Lock Viaduct"],"obj_id":"Q19714","obj_label":"River Trent"}
+{"sub_id":"Q12366995","sub_label":"Kingsgate Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q7927125","sub_label":"Victoria Viaduct","sub_aliases":["Victoria Bridge","Victoria Railway Bridge"],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q17536697","sub_label":"Stanhope Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q85792749","sub_label":"Penshaw Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q99870283","sub_label":"Maiden Castle bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q5093667","sub_label":"Chester New Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q99786395","sub_label":"Milburngate Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q99851779","sub_label":"Cocken Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q5086897","sub_label":"Chartershaugh Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q12061975","sub_label":"Monkwearmouth Bridge","sub_aliases":["Monkwearmouth Railway Bridge","Sunderland railway bridge"],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q7239370","sub_label":"Prebends Bridge","sub_aliases":["Prebend's Bridge"],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q5179889","sub_label":"Cox Green footbridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q99871325","sub_label":"Croxdale Road Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q99852182","sub_label":"Finchale Bridge","sub_aliases":[],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q7012379","sub_label":"Northern Spire Bridge","sub_aliases":["New Wear crossing","New Wear bridge"],"obj_id":"Q1433715","obj_label":"River Wear"}
+{"sub_id":"Q3396816","sub_label":"Pont d'Arciat","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396808","sub_label":"Pont d'Ainay","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396503","sub_label":"Pont Georges-Clemenceau","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396724","sub_label":"Pont Saint-Laurent","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q28573101","sub_label":"Pont ferroviaire de la Mulati\u00e8re","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3368319","sub_label":"Passerelle du Palais de Justice","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396601","sub_label":"Pont K\u0153nig","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396750","sub_label":"Schuman Bridge","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3368281","sub_label":"Passerelle Saint-Vincent","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3397796","sub_label":"Ponts de la Mulati\u00e8re","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q27094242","sub_label":"Pont Mar\u00e9chal Juin","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3556673","sub_label":"Viaduc de la Quarantaine ","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3368292","sub_label":"Pont suspendu de Tr\u00e9voux","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3368269","sub_label":"Passerelle Masaryk","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q3396532","sub_label":"pont Fran\u00e7ois-Mitterrand","sub_aliases":[],"obj_id":"Q187834","obj_label":"Sa\u00f4ne"}
+{"sub_id":"Q390418","sub_label":"Pont Alexandre III","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q291093","sub_label":"Pont Mirabeau","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1327827","sub_label":"Pont au Change","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1469250","sub_label":"Pont au Double","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q540781","sub_label":"Pont d'I\u00e9na","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1196669","sub_label":"Pont Amont","sub_aliases":["Upriver Bridge"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q2073282","sub_label":"Pont Aval","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q2073308","sub_label":"Pont de l'Archev\u00each\u00e9","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q290355","sub_label":"pont de Bir-Hakeim","sub_aliases":["pont de Passy"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q504710","sub_label":"Pont de Normandie","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1329141","sub_label":"Pont des Arts","sub_aliases":["pont des Arts"],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1196676","sub_label":"pont Charles-de-Gaulle","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q589000","sub_label":"Pont du Carrousel","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q1061959","sub_label":"pont Notre-Dame","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q963509","sub_label":"Pont Marie","sub_aliases":[],"obj_id":"Q1471","obj_label":"Seine"}
+{"sub_id":"Q11653415","sub_label":"Chosei Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11523139","sub_label":"Murayama Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q97456358","sub_label":"Ushigashimaohashi Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11502787","sub_label":"Niigata Minato Tunnel","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11459165","sub_label":"Ojiya Bridge","sub_aliases":["Ojiyaohashi","Ojiyaohashi Bridge\u200e"],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q6433124","sub_label":"Koshid\u014d bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11673996","sub_label":"Uonuma Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q108363324","sub_label":"Akasaka Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q106432883","sub_label":"Miyanaka Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11435556","sub_label":"Ote Bridge","sub_aliases":["Ote Ohashi","Ote Ohashi Bridge"],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q102282331","sub_label":"Kogai Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q4854329","sub_label":"Bandai Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11534619","sub_label":"Ryutoo bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q11395053","sub_label":"Kamuriki Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q100157079","sub_label":"Yutaki Bridge","sub_aliases":[],"obj_id":"Q734455","obj_label":"Shinano River"}
+{"sub_id":"Q701612","sub_label":"Jannowitz Bridge","sub_aliases":["Jannowitzbr\u00fccke"],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q161907","sub_label":"Weidendammer Bridge","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q836823","sub_label":"Monbij Bridge","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q830089","sub_label":"M\u00fchlendamm","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q592203","sub_label":"Crown Prince Bridge","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q32660512","sub_label":"Lessingbr\u00fccke","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q1555479","sub_label":"Gustav Heinemann Bridge","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q1823986","sub_label":"Liebknecht Bridge","sub_aliases":["Karl Liebknecht Bridge","Liebknechtbr\u00fccke","Karl-Liebknecht-Br\u00fccke"],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q37902175","sub_label":"Ringbahnbr\u00fccke Oberspree","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q1721743","sub_label":"Kaisersteg","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q2132660","sub_label":"Rathaus Bridge","sub_aliases":["Town Hall Bridge","Rathausbr\u00fccke"],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q2239520","sub_label":"Schleusenbr\u00fccke","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q695082","sub_label":"Oberbaum Bridge","sub_aliases":["Oberbaumbr\u00fccke"],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q1417842","sub_label":"Stubenrauch Bridge","sub_aliases":[],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q1652970","sub_label":"Luther Bridge","sub_aliases":["Lutherbr\u00fccke"],"obj_id":"Q1684","obj_label":"Spree"}
+{"sub_id":"Q581532","sub_label":"Puente de Alc\u00e1ntara, Toledo","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q5396166","sub_label":"Dona Am\u00e9lia Bridge","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q9064347","sub_label":"Abrantes Railway Bridge","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q84701417","sub_label":"Puente medieval, Au\u00f1\u00f3n","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q967119","sub_label":"Alcon\u00e9tar Bridge","sub_aliases":["Alconetar Bridge"],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q10351427","sub_label":"Santar\u00e9m bridge","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q721152","sub_label":"25 de Abril Bridge","sub_aliases":["Salazar bridge"],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q7228140","sub_label":"Ponte de Portas de R\u00f3d\u00e3o","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q41113794","sub_label":"Arzobispo's bridge","sub_aliases":["Arzobispo's bridge, El Puente del Arzobispo","El Puente del Arzobispo"],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q233737","sub_label":"Vasco da Gama Bridge","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q996197","sub_label":"Alc\u00e1ntara Bridge","sub_aliases":["Alcantara Bridge"],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q57417830","sub_label":"Puente Barcas, Aranjuez","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q6091363","sub_label":"Puente de Castilla-La Mancha","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q1518670","sub_label":"San Mart\u00edn bridge","sub_aliases":["Puente de San Mart\u00edn","San Martin bridge","Puente de San Martin"],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q2791045","sub_label":"Ponte Salgueiro Maia","sub_aliases":[],"obj_id":"Q14294","obj_label":"Tagus river"}
+{"sub_id":"Q66762541","sub_label":"Buschkrugbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q71439224","sub_label":"Wegedornbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q17483390","sub_label":"Friedensbr\u00fccke ","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q65929188","sub_label":"Emil-Schulz-Br\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q84355084","sub_label":"Techowbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q61769373","sub_label":"Teubertbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q2358073","sub_label":"Stubenrauchbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q17483325","sub_label":"motorway bridge Dreilinden","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q84535147","sub_label":"Komturbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q4063578","sub_label":"Altglienicker Br\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q72941133","sub_label":"Sieversbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q2052623","sub_label":"Parkbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q66736303","sub_label":"Britzer Br\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q105824379","sub_label":"New BAB 115 Teltowkanalbr\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q72374899","sub_label":"Wilhelm-Borgmann-Br\u00fccke","sub_aliases":[],"obj_id":"Q562206","obj_label":"Teltow Canal"}
+{"sub_id":"Q734903","sub_label":"Pons Cestius","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q586329","sub_label":"Ponte Sisto","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q693833","sub_label":"Pons Probi","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q640092","sub_label":"Pons Aemilius","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3192658","sub_label":"Ponte Giacomo Matteotti","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3908007","sub_label":"Ponte Palatino","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3908089","sub_label":"Ponte dell'Industria","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3907978","sub_label":"Ponte Giuseppe Mazzini","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3908102","sub_label":"Ponte della Magliana","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q2103704","sub_label":"Ponte Duca d'Aosta","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q1127325","sub_label":"Ponte Milvio","sub_aliases":["Milvian Bridge","Ponte Molle"],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3907980","sub_label":"Bridge Guglielmo Marconi","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q1810206","sub_label":"Ponte Regina Margherita","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q3908034","sub_label":"Ponte Testaccio","sub_aliases":[],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q607647","sub_label":"Pietro Nenni Bridge","sub_aliases":["Ponte Pietro Nenni"],"obj_id":"Q13712","obj_label":"Tiber"}
+{"sub_id":"Q18432426","sub_label":"Anny Jagiellonki Bridge","sub_aliases":["Southern Bridge","Po\u0142udniowy Bridge","Southern Bridge in Warsaw","Southern Bridge (Warsaw)","Southern Bridge, Warsaw"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q5529387","sub_label":"Gda\u0144ski Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q240138","sub_label":"Kotlarski Bridge in Krak\u00f3w","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q387127","sub_label":"\u015al\u0105sko-D\u0105browski Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q387805","sub_label":"\u015awi\u0119tokrzyski Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q882840","sub_label":"Tczew rail bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785929","sub_label":"Citadel Rail Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q6252211","sub_label":"John Paul II Bridge, Pu\u0142awy","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q317211","sub_label":"Kierbedzia Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q59120","sub_label":"Legions of Marshal J\u00f3zef Pi\u0142sudski Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q1609397","sub_label":"Siekierkowski Bridge","sub_aliases":["Siekierkowski Bridge in Warsaw","Siekierkowski Bridge, Warsaw"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785878","sub_label":"Sigismund Augustus Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785922","sub_label":"Motorway bridge near Grudziadz","sub_aliases":["MA-91"],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785882","sub_label":"General Stefan \"Grot\" Rowecki Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785962","sub_label":"\u015arednicowy Bridge","sub_aliases":[],"obj_id":"Q548","obj_label":"Vistula"}
+{"sub_id":"Q11785802","sub_label":"Legion Bridge","sub_aliases":["Most legi\u00ed"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q4267446","sub_label":"Bran\u00edk Bridge","sub_aliases":["Most inteligence","Branick\u00fd most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12038720","sub_label":"Most Barik\u00e1dn\u00edk\u016f","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q770940","sub_label":"\u017d\u010f\u00e1kov Bridge","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12039154","sub_label":"M\u00e1nes Bridge","sub_aliases":["M\u00e1nes\u016fv most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12059724","sub_label":"Troja Bridge","sub_aliases":["Trojsk\u00fd most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q10419743","sub_label":"\u0160tefanik Bridge","sub_aliases":["\u0160tef\u00e1nik\u016fv most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q11785872","sub_label":"Most Z\u00e1vodu m\u00edru","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12050322","sub_label":"Rudolfova l\u00e1vka","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q3566417","sub_label":"Svatopluk \u010cech Bridge","sub_aliases":["\u010cech\u016fv most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12038735","sub_label":"Franz Joseph Bridge","sub_aliases":["\u0160tefanik Bridge","Jan\u00e1\u010dek Bridge"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q4041206","sub_label":"Barrandov Bridge","sub_aliases":["Barrandovsk\u00fd most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q12040558","sub_label":"Negrelli Viaduct","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q897419","sub_label":"Judith bridge","sub_aliases":[],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q204871","sub_label":"Charles Bridge","sub_aliases":["Karl\u016fv most"],"obj_id":"Q131574","obj_label":"Vltava"}
+{"sub_id":"Q14594069","sub_label":"Bosideng Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q11447329","sub_label":"Ehuang Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q11124442","sub_label":"Erqi Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q3754193","sub_label":"Chonghai Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q568902","sub_label":"Sutong Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q14629184","sub_label":"Anqing Railway Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q5072119","sub_label":"Changshou Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q1247183","sub_label":"Wanxian Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q8060235","sub_label":"Yudong Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q15614498","sub_label":"Dingshan Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q3396908","sub_label":"Caiyuanba Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q1021816","sub_label":"Chongqi Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q14629163","sub_label":"Ma'anshan Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q1062588","sub_label":"Chaotianmen Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}
+{"sub_id":"Q7496018","sub_label":"Shibangou Bridge","sub_aliases":[],"obj_id":"Q5413","obj_label":"Yangtze"}

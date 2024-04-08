@@ -1,0 +1,584 @@
+{"sub_id":"Q556076","sub_label":"Fabrizio Giovanardi","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q173564","sub_label":"Alberto Massimino","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q1373877","sub_label":"Guy Moll","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q282641","sub_label":"Cesare Fiorio","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q515944","sub_label":"Goffredo Zehender","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q173349","sub_label":"Nanni Galli","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q79115","sub_label":"Rudolf Hruska","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q172970","sub_label":"Nicola Larini","sub_aliases":[],"obj_id":"Q26921","obj_label":"Alfa Romeo"}
+{"sub_id":"Q101417","sub_label":"Gerd Ruge","sub_aliases":[],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q272041","sub_label":"Stephen Twigg","sub_aliases":[],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q545569","sub_label":"Sergei Kovalev","sub_aliases":["Sergey Adamovich Kovalyov","Sergei Adamovich Kovalyov"],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q438397","sub_label":"Thomas Hammarberg","sub_aliases":["Thomas Viktor Asmund Hammarberg"],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q65165620","sub_label":"Jurema Werneck","sub_aliases":["Jurema Pinto Werneck"],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q1601813","sub_label":"Helen Bamber","sub_aliases":["Helen Rae Balmuth","Helen Rae Bamber"],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q6490131","sub_label":"Larry Cox","sub_aliases":[],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q53767416","sub_label":"Fadhila Chitour","sub_aliases":["Fadhila Bowmanel-Chitour"],"obj_id":"Q42970","obj_label":"Amnesty International"}
+{"sub_id":"Q64088","sub_label":"Michael Spindler","sub_aliases":["Michael H. Spindler","Mike Spindler"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q332591","sub_label":"Ronald Wayne","sub_aliases":["Ronald Gerald Wayne"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q672539","sub_label":"Bob Mansfield","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q3857943","sub_label":"Millard Drexler","sub_aliases":["Millard S. Drexler","Mickey S. Drexler","Mickey Drexler"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q1254581","sub_label":"Jean-Louis Gass\u00e9e","sub_aliases":["Jean-Louis Gassee"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q164750","sub_label":"Jony ive","sub_aliases":["Jony Ive","Sir Jonathan Paul Ive","Jonathan Paul Ive","Jony iPod"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q6181432","sub_label":"Jeremy Hammond","sub_aliases":["Anarchaos"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q13560780","sub_label":"Brit Morin","sub_aliases":["Brittany Morin"],"obj_id":"Q312","obj_label":"Apple Inc."}
+{"sub_id":"Q5488693","sub_label":"Frank Noel","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q18808980","sub_label":"Matthew Franjola","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q4907521","sub_label":"Bilal Hussein","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q28767344","sub_label":"Burhan \u00d6zbilici","sub_aliases":["Burhan Ozbilici"],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q79059219","sub_label":"Mstyslav Chernov","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q17626890","sub_label":"Huynh Thanh My","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q352870","sub_label":"Joe Rosenthal","sub_aliases":["Joseph John Rosenthal","Joe Rosenthal\/Times World Wide Photos"],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q76935","sub_label":"Horst Faas","sub_aliases":[],"obj_id":"Q40469","obj_label":"Associated Press"}
+{"sub_id":"Q312925","sub_label":"Georgi Markov","sub_aliases":["Georgi Ivanov Markov"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q2593718","sub_label":"Tony Robinson","sub_aliases":["Sir Anthony Robinson"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q374189","sub_label":"Alan Hansen","sub_aliases":["Alan David Hansen"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q58735","sub_label":"Lily Allen","sub_aliases":["Lily Rose Beatrice Cooper","Lily Beatrice Allen"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q561401","sub_label":"Spike Milligan","sub_aliases":["Terence Alan Patrick Se\u00e1n Milligan","Terence Alan Milligan","Terence Alan Patrick Sean Milligan"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q182408","sub_label":"Glenda Jackson","sub_aliases":["Glenda May Jackson"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q239774","sub_label":"Sue Barker","sub_aliases":["Susan Barker"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q55238","sub_label":"Ken Loach","sub_aliases":["Kenneth Loach","Kenneth Charles Loach"],"obj_id":"Q9531","obj_label":"BBC"}
+{"sub_id":"Q4236051","sub_label":"Laurence Kotlikoff","sub_aliases":["Laurence Jacob Kotlikoff","Laurence J. Kotlikoff"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q3350253","sub_label":"Jean Berko Gleason","sub_aliases":[],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q1356586","sub_label":"Roman Totenberg","sub_aliases":[],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q1132519","sub_label":"Jacques P\u00e9pin","sub_aliases":["Jacques Pepin"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q5253889","sub_label":"Delia Sherman","sub_aliases":["Cordelia Caroline Sherman"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q3116258","sub_label":"Greg Marinovich","sub_aliases":["Gregory Sebastian Marinovich"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q1144634","sub_label":"Ruggero Santilli","sub_aliases":["Ruggero Maria Santilli"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q7347179","sub_label":"Robert M. Schoch","sub_aliases":["Robert Milton Schoch"],"obj_id":"Q49110","obj_label":"Boston University"}
+{"sub_id":"Q6153171","sub_label":"Janet Backhouse","sub_aliases":["Janet Moira Backhouse"],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q42751823","sub_label":"Claire Breay","sub_aliases":["Mary Claire Breay"],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q55606688","sub_label":"Caroline Brazier ","sub_aliases":[],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q61473205","sub_label":"Liz Jolly","sub_aliases":["Elizabeth Jolly","Elizabeth Clare Jolly"],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q2886799","sub_label":"Basil Harrington Soulsby","sub_aliases":["Basil H. Soulsby","B. H. Soulsby","Soulsby"],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q3990235","sub_label":"Theodore Cressy Skeat","sub_aliases":[],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q7648534","sub_label":"Susan Whitfield","sub_aliases":[],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q768291","sub_label":"Henry Ellis","sub_aliases":["Sir Henry Ellis"],"obj_id":"Q23308","obj_label":"British Library"}
+{"sub_id":"Q1167357","sub_label":"Nicholas Reeves","sub_aliases":["Carl Nicholas Reeves"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q742371","sub_label":"Edmund Gosse","sub_aliases":["Sir Edmund William Gosse","Sir Edmund Gosse","Edmund William Gosse","E. G."],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q2562047","sub_label":"Robert Charles Wroughton","sub_aliases":["Wroughton","R. C. Wroughton"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q1352061","sub_label":"Nigel Barley","sub_aliases":["Nigel Frederick Barley"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q1375075","sub_label":"Frederick Smith","sub_aliases":["F.Sm.","F. Smith"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q494371","sub_label":"Arthur Gardiner Butler","sub_aliases":["Butler","Arthur G. Butler"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q542973","sub_label":"Arthur Smith Woodward","sub_aliases":["Woodward","Sir Arthur Smith Woodward"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q153408","sub_label":"Joseph Banks","sub_aliases":["Sir Joseph Banks, 1st Baronet","Sir Joseph Banks","Banks","Sir Joseph Banks, 1st and last Bt.","Rt. Hon. Sir Joseph Banks, 1st and last Bt.","Joseph, Sir Banks","J. Banks"],"obj_id":"Q6373","obj_label":"British Museum"}
+{"sub_id":"Q2839658","sub_label":"Alpheus Spring Packard","sub_aliases":["Packard","A. S. Packard","Alpheus Spring Packard, Jr.","Alpheus S. Packard","Packhard"],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q272852","sub_label":"Anne Fausto-Sterling","sub_aliases":[],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q2547701","sub_label":"James Peter Allen","sub_aliases":["James P. Allen"],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q2571880","sub_label":"Andries van Dam","sub_aliases":["Andy van Dam"],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q16196839","sub_label":"Mark Blyth","sub_aliases":["Mark McGann Blyth"],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q1509906","sub_label":"Gerald Guralnik","sub_aliases":[],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q955334","sub_label":"William Dalrymple","sub_aliases":["William Benedict Dalrymple","William Hamilton-Dalrymple"],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q15455952","sub_label":"Joseph P. LaSalle","sub_aliases":[],"obj_id":"Q49114","obj_label":"Brown University"}
+{"sub_id":"Q8009962","sub_label":"William Golden","sub_aliases":[],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q4757297","sub_label":"Andrew Heyward","sub_aliases":[],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q6531032","sub_label":"Les Moonves","sub_aliases":["Leslie Roy Moonves","Leslie Moonves"],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q23614226","sub_label":"Irene Beasley","sub_aliases":["Elizabeth Irene Beasley"],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q5339224","sub_label":"Edmund A. Chester","sub_aliases":[],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q23009982","sub_label":"Ralph Baruch","sub_aliases":[],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q5918936","sub_label":"Howard A. Chinn","sub_aliases":["Howard Allen Chinn"],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q55310141","sub_label":"James F. Sirmons","sub_aliases":["James Franklin Sirmons"],"obj_id":"Q43380","obj_label":"CBS"}
+{"sub_id":"Q6243129","sub_label":"John King","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q6175319","sub_label":"Jeff Zucker","sub_aliases":["Jeffrey Adam Zucker"],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q5048547","sub_label":"Casey Neistat","sub_aliases":["Casey Owen Neistat","CaseyNeistat"],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q26923187","sub_label":"Ana Navarro","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q492598","sub_label":"Kyung Lah","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q717655","sub_label":"Arwa Damon","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q7037531","sub_label":"Nima Elbagir","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q16466714","sub_label":"Ravi Agrawal","sub_aliases":[],"obj_id":"Q48340","obj_label":"CNN"}
+{"sub_id":"Q212979","sub_label":"Robert Gates","sub_aliases":["Robert Michael Gates","Robert M. Gates","Bob Gates"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q2626460","sub_label":"Lucian Truscott","sub_aliases":["Lucian King Truscott, Jr.","Lucian K. Truscott"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q28606502","sub_label":"Gina Haspel","sub_aliases":["Gina Cheri Haspel","Gina C. Haspel","Gina Cheri Walker","Gina Cheri Walker Haspel"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q504467","sub_label":"Luis Posada Carriles","sub_aliases":["Luis Clemente Faustino Posada Carriles","Posada Carriles","Luis Clemente Posada Carriles"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q984191","sub_label":"John O. Brennan","sub_aliases":["John Owen Brennan","John Brennan"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q973836","sub_label":"John A. McCone","sub_aliases":["John Alexander McCone"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q2555754","sub_label":"Valerie Plame","sub_aliases":["Valerie Elise Plame Wilson","Valerie Elise Plame"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q16006746","sub_label":"James B. Donovan","sub_aliases":["James Britt Donovan"],"obj_id":"Q37230","obj_label":"Central Intelligence Agency"}
+{"sub_id":"Q71015","sub_label":"Horst Ludwig St\u00f6rmer","sub_aliases":[],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q241248","sub_label":"Orhan Pamuk","sub_aliases":["Pamuk","Ferit Orhan Pamuk"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q196287","sub_label":"Mihajlo Pupin","sub_aliases":["Michael I. Pupin","Michael Pupin","Michael Idvorsky Pupin","Mihajlo Idvorski Pupin"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q271757","sub_label":"Andr\u00e9 Fr\u00e9d\u00e9ric Cournand","sub_aliases":["Andre Frederic Cournand"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q466320","sub_label":"Mira Nair","sub_aliases":[],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q228822","sub_label":"Ruth Benedict","sub_aliases":["Ruth Fulton Benedict","Ruth Fulton"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q16769592","sub_label":"Amal Clooney","sub_aliases":["Amal Ramzi Alamuddin","Amal Alamuddin","A. Alamuddin"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q190503","sub_label":"Arthur Leonard Schawlow","sub_aliases":["Arthur Schawlow"],"obj_id":"Q49088","obj_label":"Columbia University"}
+{"sub_id":"Q1085264","sub_label":"Sandra Bem","sub_aliases":["Sandra Lipsitz Bem","Sandra Ruth Lipsitz Bem","Sandra L. Bem"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q706034","sub_label":"James Ewing","sub_aliases":["James Stephen Ewing"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q2295303","sub_label":"Frank Fetter","sub_aliases":["Frank Albert Fetter"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q272638","sub_label":"Alison Lurie","sub_aliases":["Alison Stewart Lurie"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q380456","sub_label":"Edward B. Titchener","sub_aliases":["E. B. Titchener","Edward Bradford Titchener","Edward Titchener"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q15030","sub_label":"\u00c9va Tardos","sub_aliases":["Eva Tardos"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q152366","sub_label":"Liberty Hyde Bailey","sub_aliases":["L.H.Bailey","Liberty H. Bailey","L. H. Bailey"],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q450050","sub_label":"Wendy Wasserstein","sub_aliases":[],"obj_id":"Q49115","obj_label":"Cornell University"}
+{"sub_id":"Q86889","sub_label":"Jakob Werlin","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q97788","sub_label":"Andreas Renschler","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q1953518","sub_label":"Murat Aslano\u011flu","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q58758","sub_label":"Hanns Martin Schleyer","sub_aliases":["Hanns-Martin Schleyer","Schleyer"],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q1378278","sub_label":"Wilhelm Haspel","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q98626","sub_label":"Wilhelm Kissel","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q86582","sub_label":"J\u00fcrgen E. Schrempp","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q792170","sub_label":"Axel Harries","sub_aliases":[],"obj_id":"Q27530","obj_label":"Daimler AG"}
+{"sub_id":"Q292268","sub_label":"Kate Millett","sub_aliases":["Katherine Murray Millett"],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q126677","sub_label":"Mary Lou Williams","sub_aliases":["Mary Elfrieda Scruggs","Mary Elfreda Winn","Mary Lou Burley","Mary Leo Burley"],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q665919","sub_label":"Ted Kaufman","sub_aliases":["Edward Emmett Kaufman"],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q327726","sub_label":"Jean-Pierre Bekolo","sub_aliases":["Jean-Pierre Bekolo Obama"],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q3739981","sub_label":"Alexander Rosenberg","sub_aliases":[],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q332826","sub_label":"Knut Schmidt-Nielsen","sub_aliases":[],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q4731652","sub_label":"Allen Frances","sub_aliases":[],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q7151888","sub_label":"Paul L. Modrich","sub_aliases":["Paul Modrich","Paul Lawrence Modrich"],"obj_id":"Q168751","obj_label":"Duke University"}
+{"sub_id":"Q124236","sub_label":"Paul Scherrer","sub_aliases":["Paul Hermann Scherrer"],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q674393","sub_label":"Paul-Armand Challemel-Lacour","sub_aliases":[],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q5752340","sub_label":"Carme Pigem","sub_aliases":[],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q122272","sub_label":"Richard R. Ernst","sub_aliases":["Richard Robert Ernst","Ernst RR"],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q115944","sub_label":"Karl Moser","sub_aliases":["Carl Moser"],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q123301","sub_label":"Jakob Ackeret","sub_aliases":[],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q123786","sub_label":"Eduard Imhof","sub_aliases":[],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q3174960","sub_label":"Pierre de Meuron","sub_aliases":["Pierre DeMeuron","Pierre de Menron"],"obj_id":"Q11942","obj_label":"ETH Z\u00fcrich"}
+{"sub_id":"Q2629231","sub_label":"Dale Cooper","sub_aliases":["Agent Cooper","Special Agent Dale Cooper","Dale Bartholomew Cooper"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q2604250","sub_label":"Aloysius Pendergast","sub_aliases":["Aloysius Xingu Leng Pendergast","Aloysius X.L. Pendergast"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q7966372","sub_label":"Walter Walsh","sub_aliases":["Walter Rudolph Walsh"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q45410115","sub_label":"Peter Strzok","sub_aliases":["Peter Paul Strzok II","Peter Paul Strzok"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q523106","sub_label":"Katrina Leung","sub_aliases":[],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q5318147","sub_label":"Dwight E. Adams","sub_aliases":["Dwight E Adams"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q1109033","sub_label":"Jeffrey Spender","sub_aliases":[],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q778922","sub_label":"Mike Oxley","sub_aliases":["Michael Garver \"Mike\" Oxley","Michael Garver Oxley"],"obj_id":"Q8333","obj_label":"Federal Bureau of Investigation"}
+{"sub_id":"Q57586","sub_label":"Erich Priebke","sub_aliases":["Priebke"],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q61945","sub_label":"Franz Walter Stahlecker","sub_aliases":["Walter Stahlecker"],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q96826","sub_label":"Heinrich Fehlis","sub_aliases":[],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q508473","sub_label":"Maurice Sachs","sub_aliases":[],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q72113","sub_label":"Wilhelm Boger","sub_aliases":["Wilhelm Friedrich Boger"],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q68656","sub_label":"Walter Blume","sub_aliases":[],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q61000","sub_label":"Karl Eberhard Sch\u00f6ngarth","sub_aliases":[],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q64991","sub_label":"Gerhard Klopfer","sub_aliases":[],"obj_id":"Q43250","obj_label":"Gestapo"}
+{"sub_id":"Q73951","sub_label":"Heinz Riesenhuber","sub_aliases":["Heinz Friedrich Ruppert Riesenhuber"],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q109697","sub_label":"Sigurd Hofmann","sub_aliases":[],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q60412","sub_label":"Thomas Luckmann","sub_aliases":[],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q60570","sub_label":"Leo Frobenius","sub_aliases":["Leo Viktor Frobenius"],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q73609","sub_label":"Ludwig Rehn","sub_aliases":[],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q76702","sub_label":"Oswald von Nell-Breuning","sub_aliases":[],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q15299239","sub_label":"Jost Gippert","sub_aliases":[],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q152388","sub_label":"Theodor W. Adorno","sub_aliases":["Theodor Ludwig Wiesengrund","Theodor Wiesengrund Adorno","Theodor Wiesengrund-Adorno","Theodor Wiesengrund","Teodor V. Adorno","Theodore W. Adorno"],"obj_id":"Q50662","obj_label":"Goethe University Frankfurt"}
+{"sub_id":"Q890702","sub_label":"Matt Cutts","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q491536","sub_label":"Dennis Hwang","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q298341","sub_label":"Raymond Kurzweil","sub_aliases":["Ray Kurzweil","the ultimate thinking machine","Edison's rightful heir","RK","restless genius,alien"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q92885","sub_label":"Bram Moolenaar","sub_aliases":["Moolenaar"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q39224","sub_label":"Hoodie Allen","sub_aliases":["Steven Adam Markowitz","Andrew Alen"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q92930","sub_label":"Theodore Ts'o","sub_aliases":["Ts'o","Tytso","Theodore Tso","Theodore Y. Ts'o","Theodore Y. \"Ted\" Ts'o","Ted Ts'o","Theodore Yue Tak Ts'o"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q92956","sub_label":"Andrew Morton","sub_aliases":["Andrew Keith Paul Morton"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q517764","sub_label":"Rob Pike","sub_aliases":["Robert C. Pike"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q152513","sub_label":"Henry Wadsworth Longfellow","sub_aliases":["Henry W. Longfellow","H. W. Longfellow","00018405207 IPI","Longfellow"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q80323","sub_label":"William P. Murphy","sub_aliases":["William Parry Murphy"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q128633","sub_label":"William Lyon Mackenzie King","sub_aliases":["Mackenzie King"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q59112","sub_label":"Barbara W. Tuchman","sub_aliases":["Barbara Wertheim Tuchman","Barbara Wertheim"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q57588","sub_label":"Marcel Breuer","sub_aliases":["Marcel Lajos Breuer","Marcel L. Breuer"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q310131","sub_label":"Thomas Huckle Weller","sub_aliases":[],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q232364","sub_label":"Rem Koolhaas","sub_aliases":["Remment Lucas Koolhaas","Remment Koolhaas"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q192282","sub_label":"Joseph Murray","sub_aliases":["Joseph Edward Murray"],"obj_id":"Q13371","obj_label":"Harvard University"}
+{"sub_id":"Q512309","sub_label":"Howard Cedar","sub_aliases":["Chaim Cedar","Haim Cedar","Howard Chaim Cedar"],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q343881","sub_label":"David Flusser","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q215927","sub_label":"Yeshayahu Leibowitz","sub_aliases":["Jeschajahu Leibowitz"],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q350521","sub_label":"Jacob M. Landau","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q2561928","sub_label":"Yehoshafat Harkabi","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q324405","sub_label":"Moshe Zimmermann","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q400062","sub_label":"Aharon Razin","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q12411318","sub_label":"Ruth Kark","sub_aliases":[],"obj_id":"Q174158","obj_label":"Hebrew University of Jerusalem"}
+{"sub_id":"Q553254","sub_label":"Scott Walker","sub_aliases":["Scott Kevin Walker","Scott K. Walker"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q92953","sub_label":"Bob Bemer","sub_aliases":["Robert William Bemer","Robert W. Bemer","R. W. Bemer"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q7786750","sub_label":"Thom Tillis","sub_aliases":["Thom Roland Tillis","Thomas Roland Tillis","Thom R. Tillis","Thomas R. Tillis"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q1680807","sub_label":"James McNerney","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q2965097","sub_label":"Christian Boussus","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q1373431","sub_label":"Alan Shugart","sub_aliases":["Alan Field Shugart","Alan F. Shugart"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q556421","sub_label":"Gintaras Gru\u0161as","sub_aliases":[],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q333460","sub_label":"Ratan Tata","sub_aliases":["Ratan Naval Tata"],"obj_id":"Q37156","obj_label":"IBM"}
+{"sub_id":"Q2919015","sub_label":"Magdi Yacoub","sub_aliases":["Sir Magdi Habib Yacoub"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q922383","sub_label":"Robert Strutt, 4th Baron Rayleigh","sub_aliases":["Robert John Strutt","Lord Raleigh","Robert John Strutt, 4th Baron Rayleigh of Terling Place"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q323092","sub_label":"Per Bak","sub_aliases":[],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q520882","sub_label":"Alfred Fowler","sub_aliases":[],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q1063791","sub_label":"C. V. Boys","sub_aliases":["Charles Vernon Boys","Sir Charles Vernon Boys"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q1422504","sub_label":"Sir Peter Knight","sub_aliases":["Peter L. Knight","Peter Knight","Sir Peter Leonard Knight"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q334039","sub_label":"Simon Donald","sub_aliases":["Simon Kirwan Donaldson","Simon K. Donaldson","Sir Simon Kirwan Donaldson"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q1630150","sub_label":"John Nelder","sub_aliases":["John Ashworth Nelder"],"obj_id":"Q189022","obj_label":"Imperial College London"}
+{"sub_id":"Q926001","sub_label":"Victor A. McKusick","sub_aliases":["Victor Almon McKusick","McKusick, V. A.","V. A. McKusick"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q513121","sub_label":"John Lipsky","sub_aliases":["John Phillip Lipsky"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q1384803","sub_label":"Samuel T. Durrance","sub_aliases":["Samuel Thornton Durrance"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q458464","sub_label":"John Astin","sub_aliases":["John Allen Astin"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q1545025","sub_label":"Gregg L. Semenza","sub_aliases":["Gregg Leonard Semenza","Gregg L Semenza","G. L. Semenza","G L Semenza","G. Semenza","G Semenza","Semenza","Semenza G","Semenza G.","Semenza G. L.","Semenza GL","Gregg Semenza"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q1348277","sub_label":"John August Anderson","sub_aliases":[],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q451799","sub_label":"William F. Albright","sub_aliases":["William Foxwell Albright"],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q114496","sub_label":"Maurice Bloomfield","sub_aliases":[],"obj_id":"Q193727","obj_label":"Johns Hopkins University"}
+{"sub_id":"Q3167615","sub_label":"Jean-Marie Colombani","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q3186129","sub_label":"Josyane Savigneau","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q874846","sub_label":"Ren\u00e9 Courtin","sub_aliases":["Rene Courtin"],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q14468873","sub_label":"Daniel Vernet","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q180746","sub_label":"Erik Izraelewicz","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q643408","sub_label":"Bertrand Poirot-Delpech","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q2847760","sub_label":"Andr\u00e9 Fontaine","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q2899605","sub_label":"Bertrand Le Gendre","sub_aliases":[],"obj_id":"Q12461","obj_label":"Le Monde"}
+{"sub_id":"Q67520","sub_label":"Johann Friedrich Gronovius","sub_aliases":["Johannes Fredericus Gronovius","John Gronovius","Johannes Fredericus Gronovius (1611-1671)"],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q231642","sub_label":"Ingrid van Houten-Groeneveld","sub_aliases":[],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q2274198","sub_label":"Rudolf de Korte","sub_aliases":["Rudolf Willem de Korte"],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q273812","sub_label":"Jaap de Hoop Scheffer","sub_aliases":["J.G. de Hoop Scheffer","Jacob Gijsbert de Hoop Scheffer"],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q60725","sub_label":"Hermann Schlegel","sub_aliases":["Schlegel","H. Schlegel"],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q46151","sub_label":"Jacob Cats","sub_aliases":[],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q724270","sub_label":"Jan Frederik Gronovius","sub_aliases":["Gronov.","Johannes Fredericus Gronovius","Jan Frederik Gronovius","J. F. Gronovius","Johan Frederik Gronovius","Gronovius, Johannes Fredericus (1690-1760)","Gronovius, Johannes Fredericus","Johannes Fredericus Gronovius (1686-1762)"],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q501714","sub_label":"Sander Dekker","sub_aliases":[],"obj_id":"Q156598","obj_label":"Leiden University"}
+{"sub_id":"Q78906","sub_label":"Moritz Steinschneider","sub_aliases":[],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q9047","sub_label":"Gottfried Wilhelm Leibniz","sub_aliases":["Gottfried Wilhelm","Leibniz","Gottfried Wilhelm von Leibniz","Freiherr Gottfried Wilhelm von Leibniz","Gottfried Leibniz","Leibnitz"],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q213539","sub_label":"Hugo Riemann","sub_aliases":["Karl Wilhelm Julius Hugo Riemann"],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q697195","sub_label":"Julius Edgar Lilienfeld","sub_aliases":[],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q76743","sub_label":"Constantin von Tischendorf","sub_aliases":["Lobegott Friedrich Constantin Tischendorf"],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q67323","sub_label":"Jakob Thomasius","sub_aliases":[],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q57335","sub_label":"August Ferdinand M\u00f6bius","sub_aliases":["M\u00f6bius","Mobius"],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q61764","sub_label":"Karl Mollweide","sub_aliases":["Karl Brandan Mollweide"],"obj_id":"Q154804","obj_label":"Leipzig University"}
+{"sub_id":"Q325243","sub_label":"John Silva Meehan","sub_aliases":[],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q7934296","sub_label":"Virginia Haviland","sub_aliases":[],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q8037241","sub_label":"Worthington Chauncey Ford","sub_aliases":["Worthington C. Ford"],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q47190335","sub_label":"David C. Mearns","sub_aliases":["David Chambers Mearns"],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q709047","sub_label":"Patrick Magruder","sub_aliases":[],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q5542747","sub_label":"George N. Atiyeh","sub_aliases":[],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q284792","sub_label":"Ainsworth Rand Spofford","sub_aliases":["A. R. Spofford","Ainsworth R. Spofford","Ainsworth Spofford"],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q7350694","sub_label":"Robert W. Levering","sub_aliases":["Robert Woodrow Levering"],"obj_id":"Q131454","obj_label":"Library of Congress"}
+{"sub_id":"Q235843","sub_label":"James Meade","sub_aliases":["James Edward Meade"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q129006","sub_label":"Clement Attlee","sub_aliases":["Clement Richard Lord Attlee","Earl Attlee","Lord Attlee","Viscount Prestwood"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q6869403","sub_label":"Minouche Shafik","sub_aliases":["Nemat Shafik"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q504987","sub_label":"Richard Titmuss","sub_aliases":["Richard Morris Titmuss"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q211856","sub_label":"Philip Noel-Baker, Baron Noel-Baker","sub_aliases":["Philip Noel-Baker","Philip Baker","Baron Noel-Baker","Philip John Noel-Baker","Philip John Baker"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q1746323","sub_label":"Raymond Firth","sub_aliases":["Sir Raymond William Firth"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q898722","sub_label":"Paul Preston","sub_aliases":["Sir Paul Preston"],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q335153","sub_label":"Nicholas Kaldor","sub_aliases":[],"obj_id":"Q174570","obj_label":"London School of Economics and Political Science"}
+{"sub_id":"Q44898","sub_label":"Antonio Mar\u00eda Rouco Varela","sub_aliases":["Antonio Maria Rouco Varela"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q57249","sub_label":"Ferdinand Porsche","sub_aliases":["Ferdinand Anton Ernst Porsche"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q66578","sub_label":"Albert Oppel","sub_aliases":["Oppel","A. Oppel","Carl Albert Oppel"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q63044","sub_label":"Heinrich Brunn","sub_aliases":["Heinrich von Brunn"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q66650","sub_label":"Franz Babinger","sub_aliases":[],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q76512","sub_label":"Franz Xaver von Baader","sub_aliases":["Franz von Baader"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q63870","sub_label":"Ernst Stromer","sub_aliases":["Ernst Freiherr Stromer von Reichenbach"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q77121","sub_label":"Joseph Gerhard Zuccarini","sub_aliases":["Zucc.","Zuccarini","J. G. Zuccarini"],"obj_id":"Q55044","obj_label":"Ludwig Maximilian University of Munich"}
+{"sub_id":"Q928381","sub_label":"Carl Fredrik Fall\u00e9n","sub_aliases":["Fall\u00e9n","Carl Fredrik Fallen","Fallen","Carolo Frederico Fall\u00e9n"],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q2536262","sub_label":"Carl Gustaf Thomson","sub_aliases":["C.G.Thomson","Thomson"],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q365858","sub_label":"Knut Wicksell","sub_aliases":["Johan Gustaf Knut Wicksell"],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q526942","sub_label":"Pehr Victor Edman","sub_aliases":[],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q973338","sub_label":"Carl Henrik Boheman","sub_aliases":["Boheman","Carl Heinrich Boheman"],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q1274181","sub_label":"Karl Olivecrona","sub_aliases":[],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q949505","sub_label":"Knut Lundmark","sub_aliases":["Knut Emil Lundmark"],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q1376561","sub_label":"Albert Victor B\u00e4cklund","sub_aliases":[],"obj_id":"Q218506","obj_label":"Lund University"}
+{"sub_id":"Q4963866","sub_label":"Brian Gorman","sub_aliases":["Brian Scott Gorman"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q6778374","sub_label":"Marvin Hudson","sub_aliases":["Marvin Lee Hudson"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q7804466","sub_label":"Tim Welke","sub_aliases":["Timothy James Welke"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q3517015","sub_label":"Ted Barrett","sub_aliases":["Edward George Barrett"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q6777416","sub_label":"Marty Foster","sub_aliases":["Martin Robert Foster"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q4707541","sub_label":"Alan Porter","sub_aliases":[],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q5115621","sub_label":"Chuck Meriwether","sub_aliases":[],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q7435957","sub_label":"Scott Barry","sub_aliases":["Scott Adam Barry"],"obj_id":"Q1163715","obj_label":"Major League Baseball"}
+{"sub_id":"Q201506","sub_label":"Clifford Shull","sub_aliases":["Clifford Glenwood Shull"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q2076321","sub_label":"Max Tegmark","sub_aliases":["Tegmark","Max Shapiro","Max Erik Tegmark"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q454696","sub_label":"Amar Bose","sub_aliases":["Amar Gopal Bose"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q9049","sub_label":"Noam Chomsky","sub_aliases":["Avram Noam Chomsky","A. Noam Chomsky","Chomsky"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q92601","sub_label":"Nicholas Negroponte","sub_aliases":[],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q7273","sub_label":"Ellen Swallow Richards","sub_aliases":["Ellen Henrietta Swallow Richards","Ellen Henrietta Richards","Ellen Richards"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q347461","sub_label":"Joe Haldeman","sub_aliases":["Joe William Haldeman","Robert Graham"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q323316","sub_label":"Alan Guth","sub_aliases":["Alan Harvey Guth","Alan H. Guth"],"obj_id":"Q49108","obj_label":"Massachusetts Institute of Technology"}
+{"sub_id":"Q15447215","sub_label":"Peter Grant","sub_aliases":["Peter Raymond Grant","Peter R. Grant"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q128696","sub_label":"John Abbott","sub_aliases":["John Joseph Caldwell Abbott","Sir John Joseph Caldwell Abbott"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q2062463","sub_label":"Marina Goglidze-Mdivani","sub_aliases":["Marina Mdivani","Marina Viktorovna Mdivani"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q1702168","sub_label":"John William Dawson","sub_aliases":["Dawson","Sir J. W. Dawson","J. W. Dawson","J.W. Dawson","Sir John William Dawson"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q2940240","sub_label":"Carrie Derick","sub_aliases":["Carrie M. Derick","Carrie Matilda Derick","C. M. Derick"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q342964","sub_label":"Frederick Andermann","sub_aliases":["Frederik Andermann"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q2600504","sub_label":"Hugh MacLennan","sub_aliases":["John Hugh MacLennan"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q4397581","sub_label":"Tadeusz Romer","sub_aliases":["Tadeusz Ludwik Romer"],"obj_id":"Q201492","obj_label":"McGill University"}
+{"sub_id":"Q3017960","sub_label":"David Gerber","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q642196","sub_label":"William A. Horning","sub_aliases":["William Allen Horning"],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q1638070","sub_label":"Hunt Stromberg","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q263324","sub_label":"William Hanna","sub_aliases":["William Denby Hanna","William Denby \"Bill\" Hanna","Bill Hanna"],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q3758467","sub_label":"Gary Barber","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q506666","sub_label":"Sol C. Siegel","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q1811951","sub_label":"Lee Rich","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q2740528","sub_label":"Benjamin Melniker","sub_aliases":[],"obj_id":"Q179200","obj_label":"Metro-Goldwyn-Mayer"}
+{"sub_id":"Q16734485","sub_label":"Phil Spencer","sub_aliases":["P3","XboxP3"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q49819","sub_label":"Charles Simonyi","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q2434645","sub_label":"Vincent Connare","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q3500447","sub_label":"Mark Penn","sub_aliases":["Mark J. Penn"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q983111","sub_label":"Stephen Elop","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q92829","sub_label":"Mark Russinovich","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q92996","sub_label":"Herb Sutter","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q16240767","sub_label":"Caspar Bowden","sub_aliases":["Caspar Pemberton Scott Bowden"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q2911015","sub_label":"Joseph Bau","sub_aliases":["Yos\u0113f B\u00e2'u"],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q727529","sub_label":"Zvi Zamir","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q1328935","sub_label":"Eliyahu Ben-Elissar","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q1296472","sub_label":"Efraim Halevy","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q365810","sub_label":"Yossi Harel","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q540070","sub_label":"Reuven Shiloah","sub_aliases":["Zaslani"],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q88933","sub_label":"Zvi Aharoni","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q946803","sub_label":"Yitzhak Hofi","sub_aliases":[],"obj_id":"Q34216","obj_label":"Mossad"}
+{"sub_id":"Q233795","sub_label":"Shannon Lucid","sub_aliases":["Shannon Matilda Wells Lucid"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q348358","sub_label":"Jack Swigert","sub_aliases":["John Leonard \"Jack\" Swigert, Jr.'''"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q216726","sub_label":"Ed White","sub_aliases":["Edward Higgins White","Edward Higgins White II","Edward White"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q112284","sub_label":"Charles Duke","sub_aliases":["Charles Moss Duke, Jr."],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q158486","sub_label":"Eugene Cernan","sub_aliases":["Eugene Andrew Cernan","Gene Cernan","Eugene A. Cernan"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q312833","sub_label":"Gordon Cooper","sub_aliases":["Leroy Gordon \"Gordo\" Cooper, Jr.","Leroy Gordon Cooper"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q433608","sub_label":"Bruce McCandless II","sub_aliases":[],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q34091","sub_label":"Mae Jemison","sub_aliases":["Mae Carol Jemison","Mae C. Jemison"],"obj_id":"Q23548","obj_label":"National Aeronautics and Space Administration"}
+{"sub_id":"Q7428463","sub_label":"Savvas Constantinou","sub_aliases":["Savvas Konstantinou"],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q2479239","sub_label":"Nir Klinger","sub_aliases":[],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q4180608","sub_label":"Jozef Jankech","sub_aliases":[],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q10436997","sub_label":"Nedim Tuti\u0107","sub_aliases":[],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q2005566","sub_label":"Sima Milovanov","sub_aliases":[],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q10429495","sub_label":"Nikos Panayiotou","sub_aliases":["Nicos Panayiotou"],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q382123","sub_label":"Georgi Vasilev","sub_aliases":["Gocheto","Georgi Vasilev Ivanov"],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q2578006","sub_label":"Eugen Neagoe","sub_aliases":[],"obj_id":"Q714581","obj_label":"Nea Salamis Famagusta FC"}
+{"sub_id":"Q709764","sub_label":"Justin Yifu Lin","sub_aliases":["Lin Yifu","Lin Zhengyi"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q1826831","sub_label":"Li Zhensheng","sub_aliases":["Zhensheng Li"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q699144","sub_label":"Zhang Shizhao","sub_aliases":["Chang Shao-tseng"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q420247","sub_label":"Yu Dafu","sub_aliases":["Yu Wen","Dafu Yu"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q5613126","sub_label":"Gu Hongming","sub_aliases":["Ku Hung-ming","Amoy Ku","Gu Tangsheng","han bin du yi","gu xia men","hong ming","amoy ku","guo xue guan jun","li cheng","dong xi nan bei zhi ren","han bin du yi zhe","yong ren"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q378036","sub_label":"Li Dazhao","sub_aliases":[],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q511775","sub_label":"Li Shizeng","sub_aliases":["Li Yuying","Li Shiceng","Li Yu Ying"],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q334086","sub_label":"Lin Yutang","sub_aliases":[],"obj_id":"Q16952","obj_label":"Peking University"}
+{"sub_id":"Q206499","sub_label":"Val Logsdon Fitch","sub_aliases":["Val Fitch","Val L. Fitch"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q60891","sub_label":"Martin Schwarzschild","sub_aliases":["Martin Schwarzchild"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q357108","sub_label":"Jeffrey Eugenides","sub_aliases":["Jeffrey Kent Eugenides"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q239571","sub_label":"Elizabeth Dole","sub_aliases":["Mary Elizabeth Hanford \"Liddy\" Dole","Elizabeth Hanford Dole","Mary Elizabeth  Alexander"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q273159","sub_label":"Henry Norris Russell","sub_aliases":[],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q504473","sub_label":"Robert H. Dicke","sub_aliases":["Robert Henry Dicke"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q202138","sub_label":"Daniel C. Tsui","sub_aliases":["Daniel Chee Tsui"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q17431886","sub_label":"Ninoslav Marina","sub_aliases":["Nino","Nino Marina"],"obj_id":"Q21578","obj_label":"Princeton University"}
+{"sub_id":"Q166056","sub_label":"Cardinal Mazarin","sub_aliases":["Giulio Raimondo Mazzarino","Jules, Cardinal Mazarin","Giulio Mazarini","Julio Mazarine","Jules Mazarin","Cardinal Mazarin Jules","Giulio Mazzarini","Julio Mazarino","Cardinal Jules Mazarin"],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q1356201","sub_label":"Giuseppe Luigi Assemani","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q438273","sub_label":"Renzo De Felice","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q940942","sub_label":"Enrico Ferri","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q437543","sub_label":"Paolo Giovio","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q535810","sub_label":"Angelo de Gubernatis","sub_aliases":["Count Angelo de Gubernatis","Angelo De Gubernatis"],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q364278","sub_label":"Bartolomeo Eustachi","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q1911638","sub_label":"Maurizio Costanzo","sub_aliases":[],"obj_id":"Q209344","obj_label":"Sapienza University of Rome"}
+{"sub_id":"Q2024961","sub_label":"Bill Tanner","sub_aliases":[],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q2335880","sub_label":"George Smiley","sub_aliases":["Charles Dobbs"],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q1366247","sub_label":"Mansfield Smith-Cumming","sub_aliases":["Sir Mansfield George Smith-Cumming"],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q5273546","sub_label":"Dick White","sub_aliases":["Sir Dick Goldsmith White"],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q2717590","sub_label":"Alex Rider","sub_aliases":[],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q467822","sub_label":"Richard Henry Stevens","sub_aliases":[],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q2811920","sub_label":"Stewart Menzies","sub_aliases":["Sir Stewart Graham Menzies","Maj.-Gen. Sir Stewart Graham Menzies"],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q458178","sub_label":"Frank Foley","sub_aliases":[],"obj_id":"Q184560","obj_label":"Secret Intelligence Service"}
+{"sub_id":"Q34286","sub_label":"Alexander Graham Bell","sub_aliases":["Bell","Graham Bell","Alexander Bell"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q3322718","sub_label":"Montgomery C. Meigs","sub_aliases":["Montgomery Meigs","Montgomery Cunningham Meigs","M. C. Meigs"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q2149885","sub_label":"Richard James Burgess","sub_aliases":[],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q2679156","sub_label":"Mary J. Rathbun","sub_aliases":["Rathbun","Mary Jane Rathbun","Mary Rathbun"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q553918","sub_label":"Leland Ossian Howard","sub_aliases":["Howard","Cimex","L. O. Howard","Leland O. Howard"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q1922675","sub_label":"Albert Charles Smith","sub_aliases":["A.C.Sm.","Albert C. Smith","A. C. Smith"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q452950","sub_label":"Frank Hamilton Cushing","sub_aliases":[],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q3048655","sub_label":"Edward Palmer","sub_aliases":["Palmer"],"obj_id":"Q131626","obj_label":"Smithsonian Institution"}
+{"sub_id":"Q47216","sub_label":"Condoleezza Rice","sub_aliases":["Condoleezza Condi Rice","Condi Rice","Condoleezza \"Condi\" Rice"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q705525","sub_label":"Peter Thiel","sub_aliases":["Peter Andreas Thiel","Peter A. Thiel","Q705525"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q170676","sub_label":"Roger D. Kornberg","sub_aliases":["Roger David Kornberg"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q7143512","sub_label":"Pat Hanrahan","sub_aliases":["Patrick M. Hanrahan","Patrick Matthew Hanrahan","P. Hanrahan"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q93781","sub_label":"Paul Watzlawick","sub_aliases":[],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q35678","sub_label":"Benjamin Harrison","sub_aliases":["B. Harrison","President Harrison"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q349821","sub_label":"Heber Doust Curtis","sub_aliases":[],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q206405","sub_label":"Douglas Osheroff","sub_aliases":["Douglas Dean Osheroff"],"obj_id":"Q41506","obj_label":"Stanford University"}
+{"sub_id":"Q7914643","sub_label":"Vanessa Friedman","sub_aliases":["Vanessa Victoria Friedman"],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q51719913","sub_label":"Runa Sandvik","sub_aliases":["Runa A. Sandvik","Runa Agate Sandvik"],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q5361512","sub_label":"Elisabeth Luther Cary","sub_aliases":[],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q16445112","sub_label":"Alejandra Xanic von Bertrab","sub_aliases":[],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q5294865","sub_label":"Donald McNeil, Jr.","sub_aliases":["Donald Gerard McNeil, Jr.","Donald G. McNeil Jr."],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q3506164","sub_label":"Suzy Menkes","sub_aliases":["Suzy Peta Menkes"],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q933101","sub_label":"Allison Danzig","sub_aliases":[],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q13605899","sub_label":"Jodi Kantor","sub_aliases":[],"obj_id":"Q9684","obj_label":"The New York Times"}
+{"sub_id":"Q11459","sub_label":"Serena Williams","sub_aliases":["Serena Jameka Williams","Serena Jamika Williams"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q232458","sub_label":"Natalia Oreiro","sub_aliases":["Natalia Marisa Oreiro Iglesias","Oreiro","Naty Oreiro","Natalia Marisa Oreiro","Natalia Marisa Oreiro Iglesias Poggio Bouri\u00e9"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q44467","sub_label":"Orlando Bloom","sub_aliases":["Orlando Jonathan Bloom","Orlando Jonathan Blanchard Copeland Bloom"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q83287","sub_label":"Selena Gomez","sub_aliases":["Selena Marie Gomez"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q173585","sub_label":"Jessica Lange","sub_aliases":["Jessica Phyllis Lange"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q1835","sub_label":"Zinedine Zidane","sub_aliases":["Zinedine Yazid Zidane","Zin\u00e9dine Zidane","Zizou"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q37459","sub_label":"Nicole Kidman","sub_aliases":["Nicole Mary Kidman"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q28493","sub_label":"Ralph Fiennes","sub_aliases":["Ralph Nathaniel Twisleton Wykeham Fiennes","Ralph Nathaniel Twisleton-Wykeham-Fiennes"],"obj_id":"Q740308","obj_label":"UNICEF"}
+{"sub_id":"Q133308","sub_label":"Mohamed ElBaradei","sub_aliases":["Mohamed Mustafa ElBaradei"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q207432","sub_label":"Chandrika Kumaratunga","sub_aliases":["Chandrika Bandaranaike Kumaratunga"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q1259","sub_label":"Javier P\u00e9rez de Cu\u00e9llar","sub_aliases":["Javier Perez de Cuellar","Javier Felipe Ricardo P\u00e9rez de Cu\u00e9llar y de la Guerra"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q320","sub_label":"Michelle Bachelet","sub_aliases":["Ver\u00f3nica Michelle Bachelet Jeria","Veronica Michelle Bachelet Jeria"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q119798","sub_label":"Michael Douglas","sub_aliases":["Michael Kirk Douglas"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q12897","sub_label":"Pel\u00e9","sub_aliases":["Edson Arantes do Nascimento","Pele"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q133009","sub_label":"Gro Harlem Brundtland","sub_aliases":[],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q36740","sub_label":"Aung San Suu Kyi","sub_aliases":["aung hcan: cu. krany","Daw Aung San Suu Kyi","Daw Suu","Amay Suu","Dr. Suu Kyi","Ms. Suu Kyi","Miss Suu Kyi","The lady"],"obj_id":"Q1065","obj_label":"United Nations"}
+{"sub_id":"Q19726299","sub_label":"Maria Luiza Silveira de Carvalho","sub_aliases":["M.L.S.Carvalho"],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q16302365","sub_label":"Milene Maria da Silva","sub_aliases":["M.M.Silva"],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q7155187","sub_label":"Paulo Costa Lima","sub_aliases":[],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q10321679","sub_label":"Lu\u00eds Viana Filho","sub_aliases":[],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q65167291","sub_label":"Augusto Aras","sub_aliases":[],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q787666","sub_label":"Orlando Gomes","sub_aliases":[],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q9630051","sub_label":"Aroldo Cedraz","sub_aliases":["Aroldo Cedraz de Oliveira"],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q2546323","sub_label":"Walter Smetak","sub_aliases":["Anton Walter Smetak"],"obj_id":"Q159102","obj_label":"Universidade Federal da Bahia"}
+{"sub_id":"Q434280","sub_label":"Ana Mar\u00eda Shua","sub_aliases":["Ana Maria Shua"],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q3754443","sub_label":"Axel Kicillof","sub_aliases":[],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q1418232","sub_label":"Jos\u00e9 Pablo Feinmann","sub_aliases":["Jose Pablo Feinmann"],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q2642828","sub_label":"Alberto Fern\u00e1ndez","sub_aliases":["Alberto Fernandez"],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q20010897","sub_label":"Alicia Dickenstein","sub_aliases":[],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q5056433","sub_label":"Cecilia Grierson","sub_aliases":["Celil"],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q155525","sub_label":"C\u00e9sar Milstein","sub_aliases":[],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q237160","sub_label":"Bernardo Houssay","sub_aliases":["bernard","Bernardo Alberto Houssay","Bernard Houssay"],"obj_id":"Q194223","obj_label":"University of Buenos Aires"}
+{"sub_id":"Q155907","sub_label":"Sir George Stokes, 1st Baronet","sub_aliases":["George Gabriel Stokes","George Stokes","Sir George Gabriel Stokes","Sir George Gabriel Stokes, 1st Baronet","Sir George Stokes"],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q159297","sub_label":"John Constable","sub_aliases":["Dzhon Konstebl\u02b9","Dzhon Konstab\u016dl","R. A. John Constable","K\u02bbang-ss\u016d-t\u02bb\u00ea-pu-\u00earh","J. Constable R.A.","Constable","J. Constable","R.A. Constable","Jn. Constable","John Constable R. A.","John Constable R.A."],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q312975","sub_label":"William Hyde Wollaston","sub_aliases":[],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q83297","sub_label":"John Strutt, 3rd Baron Rayleigh","sub_aliases":["John Strutt, Lord Rayleigh","Lord Rayleigh","John William Strutt, 3rd Baron Rayleigh of Terling Place","John William Strutt, 3rd Baron Rayleigh"],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q193650","sub_label":"Alan Lloyd Hodgkin","sub_aliases":["Alan Hodgkin","A. L. Hodgkin","Sir Alan Lloyd Hodgkin"],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q151564","sub_label":"Frederick Sanger","sub_aliases":[],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q28054","sub_label":"Judi Dench","sub_aliases":["Dame Judi Dench","Judith Olivia Dench","Dame Judith Olivia Dench"],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q7487","sub_label":"Dorothy Hodgkin","sub_aliases":["Dorothy Mary Hodgkin","Dorothy Mary Crowfoot","Dorothy Crowfoot","Dorothy Crowfoot Hodgkin","Dorothy Mary Crowfoot Hodgkin"],"obj_id":"Q35794","obj_label":"University of Cambridge"}
+{"sub_id":"Q84386","sub_label":"Bruno Bettelheim","sub_aliases":[],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q542970","sub_label":"Thomas Gordon","sub_aliases":[],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q1064777","sub_label":"Charles Hartshorne","sub_aliases":[],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q1765863","sub_label":"William Hardy McNeill","sub_aliases":["William McNeill","William H. McNeill"],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q730969","sub_label":"Steven D. Levitt","sub_aliases":["Steven David Levitt","Steven D. Levitt","Steven Levitt"],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q506093","sub_label":"Norman L. Bowen","sub_aliases":["Bowen N L","Norman Levi Bowen"],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q148109","sub_label":"Subrahmanyan Chandrasekhar","sub_aliases":["Subramanyan Chandrasekhar","Subrahmanya Chandrasekhar","Chandrasekhar Subrahmanyan"],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q365982","sub_label":"James Henry Breasted","sub_aliases":["J. H. Breasted","H. J. Breasted"],"obj_id":"Q131252","obj_label":"University of Chicago"}
+{"sub_id":"Q310005","sub_label":"Hans Christian Gram","sub_aliases":["Hans Christian Joachim Gram"],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q703279","sub_label":"Johan Ernst Gunnerus","sub_aliases":["Gunnerus"],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q347272","sub_label":"Wilhelm Johannsen","sub_aliases":[],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q504352","sub_label":"Rasmus Bartholin","sub_aliases":[],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q316045","sub_label":"Georg Brandes","sub_aliases":["Georg Morris Cohen Brandes","Morris Cohen"],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q216324","sub_label":"Johannes Andreas Grib Fibiger","sub_aliases":["Johannes Fibiger"],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q537984","sub_label":"Caspar Bartholin the Younger","sub_aliases":[],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q310958","sub_label":"Rasmus Rask","sub_aliases":["Rasmus Christian Rask","Erasmus Rask","Erasmus Christian Rask","Rasmus Kristian Nielsen Rask","Rasmus Kristian Rask"],"obj_id":"Q186285","obj_label":"University of Copenhagen"}
+{"sub_id":"Q451727","sub_label":"Charles Bell","sub_aliases":["Sir Charles Bell","Sir Bell"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q318431","sub_label":"Ian Rankin","sub_aliases":["Jack Harvey (pseudonym)","Jack Harvey"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q968586","sub_label":"Alastair Sim","sub_aliases":[],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q134982","sub_label":"David Lloyd George","sub_aliases":["David Lloyd George, 1st Earl Lloyd-George of Dwyfor","George David Lloyd","George Lloyd","Earl Lloyd-George","Lord Lloyd-George"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q218254","sub_label":"Dugald Stewart","sub_aliases":[],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q460847","sub_label":"Mary F. Lyon","sub_aliases":["Mary Frances Lyon"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q918958","sub_label":"John Leslie","sub_aliases":["Sir John Leslie"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q1356328","sub_label":"James David Forbes","sub_aliases":["James Forbes"],"obj_id":"Q160302","obj_label":"University of Edinburgh"}
+{"sub_id":"Q212955","sub_label":"Albert John Mvumbi Luthuli","sub_aliases":["Albert John Mvumbi Lutuli","Albert John Lutuli","Albert Luthuli","Mvumbi Lutuli","Mvumbi Luthuli"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q711508","sub_label":"John Millar","sub_aliases":["John Millar of Glasgow"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q165792","sub_label":"Edmund Burke","sub_aliases":[],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q6253446","sub_label":"John Pringle Nichol","sub_aliases":[],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q5881202","sub_label":"Francis Jeffrey, Lord Jeffrey","sub_aliases":["Francis Jeffrey","Francis, Lord Jeffrey"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q191974","sub_label":"Raymond Poincar\u00e9","sub_aliases":["Raymond Nicolas Landry Poincar\u00e9"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q2250014","sub_label":"Gilbert Burnet","sub_aliases":["Rt. Rev. Gilbert Burnet","Gilbert Burnet, Bishop of Salisbury 1689-1716"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q181875","sub_label":"Robert Peel","sub_aliases":["Sir Robert Peel, 2nd Baronet","Sir Robert Peel","Peel Collection [2nd Bart.]","2nd Bart. Sir Robert Peel","Robert, Sir, 2nd Bart. Peel","Robert, 2nd Baronet Peel","Sir Robert Peel, 2nd Bt","Sir Robert Peel (1788-1850)"],"obj_id":"Q192775","obj_label":"University of Glasgow"}
+{"sub_id":"Q60938","sub_label":"Johann Christian Polycarp Erxleben","sub_aliases":["Erxleben"],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q62645","sub_label":"Woldemar Voigt","sub_aliases":[],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q123225","sub_label":"Albrecht von Haller","sub_aliases":["Albertus von Haller","Albert de Haller","Haller","Albrecht Haller","Albert von Haller"],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q61771","sub_label":"Emil Wiechert","sub_aliases":["Emil Johann Wiechert"],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q41585","sub_label":"David Hilbert","sub_aliases":[],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q215979","sub_label":"Johann Beckmann","sub_aliases":["Beckm.","J. Beckmann"],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q61318","sub_label":"August Ludwig von Schl\u00f6zer","sub_aliases":["August Ludwig Von Schlozer"],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q63182","sub_label":"Christian Gottlob Heyne","sub_aliases":[],"obj_id":"Q152838","obj_label":"University of G\u00f6ttingen"}
+{"sub_id":"Q471237","sub_label":"Juho Vennola","sub_aliases":["Juho Heikki Vennola","J. H. Vennola"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q327024","sub_label":"Fredrik Pacius","sub_aliases":["Friedrich Pacius"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q319444","sub_label":"Aimo Cajander","sub_aliases":["Cajander","Aimo Kaarlo Cajander"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q383591","sub_label":"Edwin Linkomies","sub_aliases":["Edwin Johannes Hildegard Linkomies"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q143205","sub_label":"Georg August Wallin","sub_aliases":[],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q496775","sub_label":"Anders Dahl","sub_aliases":["Dahl"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q1390614","sub_label":"Eero J\u00e4rnefelt","sub_aliases":["Eero Nikolai Jaernefelt","Eero Nikolai Jarnefelt","Eero kurunsaari","Eero. J\u00e4rnefelt","E. N. J\u00e4rnefelt","E. J\u00e4rnefelt"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q58121","sub_label":"Erkki Tuomioja","sub_aliases":["Erkki Sakari Tuomioja"],"obj_id":"Q28695","obj_label":"University of Helsinki"}
+{"sub_id":"Q710714","sub_label":"William Bolcom","sub_aliases":["William Elden Bolcom"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q904804","sub_label":"Moses Gomberg","sub_aliases":[],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q1554720","sub_label":"Gunnar Birkerts","sub_aliases":["Gunmar Birkerts","Gun\u0101rs Birkerts","Gunnar Gunivaldis Birkerts"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q506582","sub_label":"Ivan Kl\u00edma","sub_aliases":["Ivan Klima","Ivan Kauders"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q258228","sub_label":"Shirley Verrett","sub_aliases":[],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q312028","sub_label":"Eliel Saarinen","sub_aliases":["Gottlieb Eliel Saarinen","Eliel Gottlieb Saarinen"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q715701","sub_label":"William Le Baron Jenney","sub_aliases":["William LeBaron Jenney","William Le Baron Jenne"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q1360735","sub_label":"Henry Gleason","sub_aliases":["Gleason","Henry Allan Gleason","H. Gleason","H. A. Gleason"],"obj_id":"Q230492","obj_label":"University of Michigan"}
+{"sub_id":"Q8005867","sub_label":"William Brantley Aycock","sub_aliases":[],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q2831158","sub_label":"Albert Ernest Radford","sub_aliases":["Radford","Albert E. Radford","A. E. Radford"],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q2157996","sub_label":"Robert Lax","sub_aliases":[],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q7489374","sub_label":"Sharadchandra Shankar Shrikhande","sub_aliases":[],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q7648308","sub_label":"Susan R. Wolf","sub_aliases":["Susan Wolf","Susan Rose Wolf"],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q287357","sub_label":"Simon Blackburn","sub_aliases":[],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q323204","sub_label":"Wassily Hoeffding","sub_aliases":[],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q325840","sub_label":"Gerhard Lenski","sub_aliases":["Gerhard Emmanuel Lenski","Gerhard Emmanuel Lenski, Jr."],"obj_id":"Q192334","obj_label":"University of North Carolina at Chapel Hill"}
+{"sub_id":"Q11665","sub_label":"Jos\u00e9 Ramos-Horta","sub_aliases":["Jose Ramos-Horta"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q319351","sub_label":"Roger Bannister","sub_aliases":["Sir Roger Gilbert Bannister","Sir Roger Bannister","Roger Gilbert Bannister"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q299161","sub_label":"Javier Mar\u00edas","sub_aliases":["Javier Marias"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q170596","sub_label":"T. E. Lawrence","sub_aliases":["Thomas Edward Lawrence","Lawrence of Arabia","of Arabia Lawrence","John Hume Ross","T.E. Lawrence","Thomas Edward Shaw"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q311068","sub_label":"Wallace Shawn","sub_aliases":["Wallace Michael Shawn","Wally Shawn"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q41284","sub_label":"John Dalton","sub_aliases":["Jn.Dalton"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q311132","sub_label":"Desmond Morris","sub_aliases":["Desmond John Morris"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q243705","sub_label":"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury","sub_aliases":["Robert Gascoyne-Cecil","Robert Arthur Talbot Gascoyne-Cecil","Robert Arthur Talbot Gascoyne-Cecil, 3rd Marquess of Salisbury","Robert Arthur Talbot Gascoigne Cecil, Marquis of Salisbury"],"obj_id":"Q34433","obj_label":"University of Oxford"}
+{"sub_id":"Q594450","sub_label":"Uku Masing","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q561988","sub_label":"Ilmar Kullam","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q617694","sub_label":"Hanno Selg","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q3735865","sub_label":"Harri Moora","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q467482","sub_label":"Jaan Kaplinski","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q887277","sub_label":"J\u00fcri Uluots","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q3741282","sub_label":"Erast Parmasto","sub_aliases":["Parmasto"],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q461923","sub_label":"Veljo Tormis","sub_aliases":[],"obj_id":"Q204181","obj_label":"University of Tartu"}
+{"sub_id":"Q729955","sub_label":"Tomitar\u00f4 Makino","sub_aliases":["Tomitaro Makino","Makino Tomitar\u014d","Makino Tomitaro","Makino"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q374757","sub_label":"Bing Xin","sub_aliases":["Xie Wanying","Wanying Xie"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q441933","sub_label":"K\u014dtar\u014d Tanaka","sub_aliases":["Kotaro Tanaka","Koutarou Tanaka"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q317135","sub_label":"Arata Isozaki","sub_aliases":["ISO"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q60467","sub_label":"Hideo Itokawa","sub_aliases":[],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q351405","sub_label":"Yutaka Taniyama","sub_aliases":["Toyo Taniyama"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q476959","sub_label":"Teiji Takagi","sub_aliases":[],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q432728","sub_label":"Arthur Golden","sub_aliases":["Arthur Sulzberger Golden"],"obj_id":"Q7842","obj_label":"University of Tokyo"}
+{"sub_id":"Q888208","sub_label":"Bob Rae","sub_aliases":["Robert Keith Rae"],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q984369","sub_label":"Don Tapscott","sub_aliases":[],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q1354016","sub_label":"Sidney van den Bergh","sub_aliases":[],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q1386036","sub_label":"John Weinzweig","sub_aliases":["John Jacob Weinzweig"],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q545375","sub_label":"Robertson Davies","sub_aliases":["William Robertson Davies"],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q545644","sub_label":"Jean Vanier","sub_aliases":[],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q1981261","sub_label":"Paul Robert Magocsi","sub_aliases":[],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q450649","sub_label":"Aloysius Ambrozic","sub_aliases":["Aloysius Matthew Ambrozic"],"obj_id":"Q180865","obj_label":"University of Toronto"}
+{"sub_id":"Q61667","sub_label":"Friedrich von Huene","sub_aliases":["Von Huene","Huene","Hoyningen, gen. Huene, Friedrich Richard Frh. v.","F. von Huene","Friedrich Richard von Hoinigen"],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q63738","sub_label":"Gottlieb Conrad Christian Storr","sub_aliases":[],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q65183","sub_label":"Johann Gottlieb Friedrich von Bohnenberger","sub_aliases":["Johann Gottlieb Friedrich Bohnenberger"],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q66679","sub_label":"Walther M\u00fcller","sub_aliases":[],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q65811","sub_label":"Walter Max Zimmerman","sub_aliases":["W.Zimm.","Walter Max Zimmermann"],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q67945","sub_label":"Eberhard Nestle","sub_aliases":[],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q61638","sub_label":"Hans Speidel","sub_aliases":[],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q387291","sub_label":"Alberto Jori","sub_aliases":[],"obj_id":"Q153978","obj_label":"University of T\u00fcbingen"}
+{"sub_id":"Q9215","sub_label":"Sigmund Freud","sub_aliases":["Sigismund Schlomo Freud"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q692100","sub_label":"Alois Riegl","sub_aliases":["Alo\u00efs Riegl"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q101437","sub_label":"Pius II","sub_aliases":["Enea Silvio Bartolomeo Piccolomini","Pope Pius II","pape Pie II","Aeneas Silvius Piccolomini","Enea Silvio Piccolomini","papa Pio II","Pius II. Papst","Pius PP. II","Papa P\u00edo II","Eneas Silvius Piccolomini","Aeneas Sylvius Piccolominus","Silvio Piccolomini"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q78512","sub_label":"Hans Asperger","sub_aliases":["Asperger","Johann Friedrich Karl Asperger"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q154723","sub_label":"Viktor Frankl","sub_aliases":["Viktor E. Frankl","Viktor Emil Frankl"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q44274","sub_label":"J\u00f6rg Haider","sub_aliases":[],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q112261","sub_label":"Heinrich Johann Nepomuk von Crantz","sub_aliases":["Crantz"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q112173","sub_label":"Max Dvo\u0159\u00e1k","sub_aliases":["Max Dvorak"],"obj_id":"Q165980","obj_label":"University of Vienna"}
+{"sub_id":"Q1356799","sub_label":"Seth Neddermeyer","sub_aliases":["Seth Henry Neddermeyer"],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q7350247","sub_label":"Robert T. Paine","sub_aliases":["Robert Paine","Robert Treat Paine III"],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q265270","sub_label":"Joanna Russ","sub_aliases":[],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q712351","sub_label":"William H. Calvin","sub_aliases":[],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q109726","sub_label":"Edmond H. Fischer","sub_aliases":["Edmond Henri Fischer"],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q91438","sub_label":"Erika B\u00f6hm-Vitense","sub_aliases":[],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q470505","sub_label":"Victor Klee","sub_aliases":[],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q1144138","sub_label":"C\u01b0\u1eddng V\u0169","sub_aliases":[],"obj_id":"Q219563","obj_label":"University of Washington"}
+{"sub_id":"Q111983","sub_label":"Joseph Ludwig Raabe","sub_aliases":[],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q550973","sub_label":"Luzius R\u00fcedi","sub_aliases":["Luzius Rueedi"],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q124694","sub_label":"Ilma Rakusa","sub_aliases":[],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q124322","sub_label":"Jakob Jud","sub_aliases":[],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q1367032","sub_label":"Georges Poulet","sub_aliases":["Georges Thialet"],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q117322","sub_label":"Leonhard Ragaz","sub_aliases":[],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q115470","sub_label":"Walter Rudolf Hess","sub_aliases":[],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q22530","sub_label":"Auguste Forel","sub_aliases":["Forel","Auguste Henri Forel","Auguste-Henri Forel"],"obj_id":"Q206702","obj_label":"University of Zurich"}
+{"sub_id":"Q39658","sub_label":"Carl Peter Thunberg","sub_aliases":["Thunb.","Thunberg"],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q740096","sub_label":"Olof Rudbeck the Younger","sub_aliases":["Olof Rudbeck","Olof Rudbeck, Jr.","O.O.Rudbeck"],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q1043","sub_label":"Carl Linnaeus","sub_aliases":["Carl Nilsson Linn\u00e6us","Carl von Linn\u00e9","Carolus a Linn\u00e9","Carolus Linn\u00e6us","Linnaeus","Linn.","Linn\u00e6us","Carl Linn\u00e6us","Linn\u00e9","Carl von Linne","Carolus a Linne","Linne","Caroli Linn\u00e6i","Carolus Linnaeus","L.","Carl von Linnaeus","Carolo Linnaeo","Carolo Linn\u00e6o","Karl von Linn\u00e9"],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q533348","sub_label":"G\u00f6ran Wahlenberg","sub_aliases":["Georg (G\u00f6ran) Wahlenberg","Wahlenb."],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q53310","sub_label":"Nils Ed\u00e9n","sub_aliases":["Nils Eden"],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q27684","sub_label":"Peter Forssk\u00e5l","sub_aliases":["Forssk.","Forssk\u00e5l","Pehr Forssk\u00e5l","Peter Forsk\u00e5l"],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q53633","sub_label":"Ernst Trygger","sub_aliases":[],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q81130","sub_label":"Anders Celsius","sub_aliases":[],"obj_id":"Q185246","obj_label":"Uppsala University"}
+{"sub_id":"Q232109","sub_label":"Mary Astor","sub_aliases":["Lucile Langhanke","Lucile Vasconcellos Langhanke","Astor"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q182292","sub_label":"Paul Muni","sub_aliases":[],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q230126","sub_label":"Dorothy Malone","sub_aliases":["Dorothy Eloise Maloney"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q9960","sub_label":"Ronald Reagan","sub_aliases":["Ronald Wilson Reagan","Ronald W. Reagan","Ronald W Reagan","President Reagan","President Ronald Reagan","R. W. Reagan"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q93188","sub_label":"Errol Flynn","sub_aliases":["Errol Leslie Thomson Flynn"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q108510","sub_label":"James Garner","sub_aliases":["James Scott Bumgarner"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q95034","sub_label":"John Barrymore","sub_aliases":["John Sidney Blyth","Jack Barrymore"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q182229","sub_label":"George Arliss","sub_aliases":["George Augustus Andrews"],"obj_id":"Q126399","obj_label":"Warner Bros."}
+{"sub_id":"Q54807675","sub_label":"Christel Steigenberger","sub_aliases":["Kritzolina"],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q16201958","sub_label":"Hampton Catlin","sub_aliases":[],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q16876158","sub_label":"Ryan Merkley","sub_aliases":[],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q28469412","sub_label":"Subhashish Panigrahi","sub_aliases":["Subha","Subha Panigrahi","psubhashish"],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q6701196","sub_label":"Luis Villa","sub_aliases":[],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q56568367","sub_label":"Niklas Laxstr\u00f6m","sub_aliases":["Nikerabbit"],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q62172384","sub_label":"Valerie D\u00b4Costa","sub_aliases":[],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q14956410","sub_label":"Brion Vibber","sub_aliases":["Brion VIBBER"],"obj_id":"Q180","obj_label":"Wikimedia Foundation"}
+{"sub_id":"Q255463","sub_label":"Camille Paglia","sub_aliases":["Camille Anna Paglia"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q451660","sub_label":"Beatrice Tinsley","sub_aliases":["Beatrice Hill Tinsley","Beatrice Muriel Hill Tinsley","Tinsley, Beatrice Muriel","Beatrice Muriel Hill"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q78485","sub_label":"Anna Freud","sub_aliases":[],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q63670","sub_label":"Peter Gay","sub_aliases":["Peter Joachim Fr\u00f6hlich"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q1356390","sub_label":"William Graham Sumner","sub_aliases":["William Graham","William Grayham"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q83907","sub_label":"Robert A. Dahl","sub_aliases":["Robert Alan Dahl","Robert Dahl"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q153243","sub_label":"Josiah Willard Gibbs","sub_aliases":["J. Willard Gibbs","Josiah W. Gibbs","Gibbs"],"obj_id":"Q49112","obj_label":"Yale University"}
+{"sub_id":"Q153469","sub_label":"Krzysztof Penderecki","sub_aliases":["Krzysztof Eugeniusz Penderecki"],"obj_id":"Q49112","obj_label":"Yale University"}

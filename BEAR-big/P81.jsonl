@@ -1,0 +1,602 @@
+{"sub_id":"Q3363957","sub_label":"Gjerd\u00e5ker Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1801822","sub_label":"Stanghelle Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1801819","sub_label":"Bogegrend Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q5578278","sub_label":"Gol Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1801850","sub_label":"Evanger Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q4567675","sub_label":"Ustaoset Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q3364038","sub_label":"\u00d8yeflaten Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1783861","sub_label":"Trengereid Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q5530140","sub_label":"Geilo Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1785058","sub_label":"Vaksdal Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q800755","sub_label":"Finse Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1783876","sub_label":"Arna Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q1783002","sub_label":"Haugast\u00f8l Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q5643006","sub_label":"Hallingskeid Station","sub_aliases":[],"obj_id":"Q777060","obj_label":"Bergen Line"}
+{"sub_id":"Q2280048","sub_label":"Gare de L\u00e9zignan-Corbi\u00e8res","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2517604","sub_label":"Gare de Villenave-d'Ornon","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q3097969","sub_label":"Vias","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2204610","sub_label":"Gare de Castelnau-d'Estr\u00e9tefonds","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q3095745","sub_label":"Gare d'Escalquens","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2796494","sub_label":"Gare de Moissac","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q1976042","sub_label":"Gare de B\u00e8gles","sub_aliases":["Gare de Begles"],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q3095941","sub_label":"Gare de Beautiran","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2412880","sub_label":"Gare d'Arbanats","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2702368","sub_label":"Gare de La R\u00e9ole","sub_aliases":["Gare de La Reole"],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2380252","sub_label":"Gare de Barsac","sub_aliases":["Barsac"],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q687664","sub_label":"Gare de Gironde","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q2699649","sub_label":"Gare de Portets","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q3097645","sub_label":"Gare de Sainte-Bazeille","sub_aliases":[],"obj_id":"Q3239394","obj_label":"Bordeaux\u2013S\u00e8te railway"}
+{"sub_id":"Q3098124","sub_label":"Gare de la Grave-d'Ambar\u00e8s","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q2699417","sub_label":"Saint-Hilaire - Brizambourg","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3096447","sub_label":"Fontaines-d'Ozillac","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3097640","sub_label":"Sainte-Eulalie - Carbon-Blanc","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q62003812","sub_label":"Saint-Varent","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q2183486","sub_label":"Gare de Villeneuve-la-Comtesse","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3096149","sub_label":"Cavignac","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q251410","sub_label":"Saint-Mariens - Saint-Yzan","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3096524","sub_label":"Gare de Gauriaguet","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q2073351","sub_label":"Gare de Loulay","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3095889","sub_label":"Gare de Bailleau-le-Pin","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3096073","sub_label":"Gare de Brou","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q20050543","sub_label":"Gare du Douhet - \u00c9coyeux","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q3097255","sub_label":"Parthenay railway station","sub_aliases":[],"obj_id":"Q3239465","obj_label":"Chartres - Bordeaux line"}
+{"sub_id":"Q895380","sub_label":"Bow Church","sub_aliases":["Bow Church DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1971670","sub_label":"West India Quay","sub_aliases":["West India Quay DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q599724","sub_label":"Cyprus","sub_aliases":["Cyprus DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q2288582","sub_label":"Star Lane","sub_aliases":["Star Lane DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1191937","sub_label":"Deptford Bridge","sub_aliases":["Deptford Bridge DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1363912","sub_label":"Island Gardens","sub_aliases":["Island Gardens DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1742030","sub_label":"King George V","sub_aliases":["King George V DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1974942","sub_label":"All Saints","sub_aliases":["All Saints DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1806401","sub_label":"Prince Regent","sub_aliases":["Prince Regent DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1032811","sub_label":"Canary Wharf","sub_aliases":["Canary Wharf DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q1146606","sub_label":"Cutty Sark","sub_aliases":["Cutty Sark DLR","Cutty Sark  for Maritime Greenwich","Cutty Sark station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q168557","sub_label":"East India","sub_aliases":["East India DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q513260","sub_label":"Westferry","sub_aliases":["Westferry DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q677453","sub_label":"Langdon Park","sub_aliases":["Langdon Park DLR station"],"obj_id":"Q216360","obj_label":"Docklands Light Railway"}
+{"sub_id":"Q626465","sub_label":"Taehwagang Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234122","sub_label":"Sinhaeundae Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234570","sub_label":"Mohwa Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234577","sub_label":"Ipsil Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234465","sub_label":"Deokha Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234280","sub_label":"Gijang Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234112","sub_label":"Centum Station","sub_aliases":["Suyeong Station"],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1598277","sub_label":"Geojehaemaji Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234600","sub_label":"Nawon Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234580","sub_label":"Jukdong Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234259","sub_label":"Songjeong Station ","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234597","sub_label":"Dongbang Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234350","sub_label":"Ilgwang Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q1234559","sub_label":"Hyomun Station","sub_aliases":[],"obj_id":"Q11235800","obj_label":"Donghae Line"}
+{"sub_id":"Q652344","sub_label":"Lundamo Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q3096709","sub_label":"Kvitfjell Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q652333","sub_label":"Hovin Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q611313","sub_label":"Oppdal Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q5511486","sub_label":"F\u00e5berg Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q501232","sub_label":"Hjerkinn Station","sub_aliases":["YVH"],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q17194857","sub_label":"Losna Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q94523","sub_label":"Lillehammer Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q1778817","sub_label":"Moelv Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q501006","sub_label":"Kongsvoll Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q403207","sub_label":"Otta Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q11999843","sub_label":"Sel Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q723277","sub_label":"Skansen Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q251415","sub_label":"Tangen Station","sub_aliases":[],"obj_id":"Q1253001","obj_label":"Dovre Line"}
+{"sub_id":"Q5983705","sub_label":"Ibaraichi Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q3611249","sub_label":"Shiwaguchi Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q5750609","sub_label":"Hibayama Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q5986277","sub_label":"Ichioka Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q6455309","sub_label":"K\u014dtachi Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q6962441","sub_label":"Nanatsuka Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q6357755","sub_label":"Kami-Fukawa Station","sub_aliases":["Kamifukawa Station"],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q6373606","sub_label":"Karuga Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q7497022","sub_label":"Shimowachi Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q5321254","sub_label":"D\u014dgoyama Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q7876730","sub_label":"Uchina Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q3611166","sub_label":"Bingo-Sh\u014dbara Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q7095091","sub_label":"Onuka Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q4701274","sub_label":"Aki-Yaguchi Station","sub_aliases":[],"obj_id":"Q841404","obj_label":"Geibi Line"}
+{"sub_id":"Q3428017","sub_label":"Bleiken Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q28046985","sub_label":"Breiskallen Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q3428028","sub_label":"Gran Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q4121006","sub_label":"Nittedal Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q4121007","sub_label":"Movatn Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q3441070","sub_label":"Jaren Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q17194692","sub_label":"Hennung stasjon","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q3441283","sub_label":"Stryken Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q5239013","sub_label":"Grua Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q31080727","sub_label":"Kutjern Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q17501805","sub_label":"Nygard Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q4141743","sub_label":"Raufoss Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q17501967","sub_label":"Rundelen holdeplass","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q3443569","sub_label":"Hakadal Station","sub_aliases":[],"obj_id":"Q198769","obj_label":"Gj\u00f8vik Line"}
+{"sub_id":"Q6322342","sub_label":"J\u016bniko Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6966470","sub_label":"Narusawa Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q8081442","sub_label":"\u014cdose Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q7850261","sub_label":"Tsurudomari Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q11519398","sub_label":"Kizukuri Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q7977214","sub_label":"WeSPa-Tsubakiyama Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6944024","sub_label":"Mutsu-Iwasaki Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6374623","sub_label":"Kasose Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6960342","sub_label":"Nakata Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q7825785","sub_label":"Torigata Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6788107","sub_label":"Matsukami Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q6094184","sub_label":"Itayanagi Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q5753529","sub_label":"Higashi-Hachimori Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q7498243","sub_label":"Shirakamidaketozanguchi Station","sub_aliases":[],"obj_id":"Q872902","obj_label":"Gon\u014d Line"}
+{"sub_id":"Q4291571","sub_label":"Metallurg","sub_aliases":["Metallurg station","Metallurg railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4444171","sub_label":"Stroyka","sub_aliases":["Stroyka railway station","Stroyka station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4178806","sub_label":"Zheleznodorozhn\u0430y\u0430","sub_aliases":["Zheleznodorozhn\u0430y\u0430 station","Zheleznodorozhn\u0430y\u0430 railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4531095","sub_label":"Elektrostal","sub_aliases":["Elektrostal railway station","Elektrostal station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4168022","sub_label":"Drezna","sub_aliases":["Drezna station","Drezna railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4225829","sub_label":"Kovrigino","sub_aliases":["Kovrigino station","Kovrigino railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4531111","sub_label":"Elektrougli","sub_aliases":["Elektrougli railway station","Elektrougli station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4247376","sub_label":"Kupavna","sub_aliases":["Kupavna railway station","Kupavna station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4207841","sub_label":"Kazanskoye","sub_aliases":["Kazanskoye station","Kazanskoye railway station","Kazanskoe railway station","Kazanskoe station","Kazanskoe"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4249243","sub_label":"Kuskovo","sub_aliases":["Kuskovo station","Kuskovo railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4393767","sub_label":"Reutov","sub_aliases":["Reutovo railway station","Reutovo station","Reutovo","Reutov station","Reutov railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4417767","sub_label":"Serp i Molot","sub_aliases":["Serp i Molot railway station","Serp i Molot station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4406072","sub_label":"Saltykovskaya","sub_aliases":["Saltykovskaya station","Saltykovskaya railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4341791","sub_label":"Pavlovsky Posad","sub_aliases":["Pavlovsky Posad station","Pavlovsky Posad railway station","Pavlovo-Posad","Pavlovo-Posad station","Pavlovo-Posad railway station"],"obj_id":"Q4146162","obj_label":"Gorkovsky suburban direction of Moscow Railway"}
+{"sub_id":"Q4374432","sub_label":"Posyolok Kiyevsky","sub_aliases":["Posyolok Kiyevsky station","Posyolok Kiyevsky railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4268925","sub_label":"Lukino","sub_aliases":["Lukino station","Lukino railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4286028","sub_label":"Machikhino","sub_aliases":[],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q16670989","sub_label":"Lesnye Dary","sub_aliases":["Lesnye Dary station","Lesnye Dary railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4029505","sub_label":"192 km","sub_aliases":["191 km","192 km railway station","191 km railway station","192 km station","191 km station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4081291","sub_label":"Bekasovo-Sortirovochnoye","sub_aliases":[],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4366342","sub_label":"Povarovo II","sub_aliases":["Povarovo-2","Povarovo II station","Povarovo-2 station","Povarovo station","Povarovo railway station","Povarovo II railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4170543","sub_label":"Dulyovo","sub_aliases":["Dulyovo railway station","Dulyovo station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4280489","sub_label":"Manikhino II","sub_aliases":["Manikhino II station","Manikhino II railway station","Manikhino-2 railway station","Manikhino-2  station","Manikhino-2"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4407498","sub_label":"Sandarovo","sub_aliases":[],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4539490","sub_label":"Yastrebki","sub_aliases":["Yastrebki station","Yastrebki railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4030357","sub_label":"252 km","sub_aliases":[],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4029230","sub_label":"177 km","sub_aliases":["178 km","177 km station","178 km station","178 km railway station","177 km railway station"],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q4030353","sub_label":"250 km","sub_aliases":[],"obj_id":"Q1548805","obj_label":"Greater Ring of the Moscow Railway"}
+{"sub_id":"Q477082","sub_label":"Cheongdo Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q623671","sub_label":"Gakgye Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q341716","sub_label":"Gomo Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q341410","sub_label":"Waegwan Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q54291","sub_label":"Daegu Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q625284","sub_label":"Simcheon Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q292197","sub_label":"Iwon Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q341647","sub_label":"Jicheon station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q624883","sub_label":"Maepo Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q477098","sub_label":"Wondong Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q477084","sub_label":"Singeo Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q188827","sub_label":"Naepan Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q624589","sub_label":"Sangdong Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q341195","sub_label":"Apo Station","sub_aliases":[],"obj_id":"Q17200","obj_label":"Gyeongbu Line"}
+{"sub_id":"Q389035","sub_label":"Jinju Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1592014","sub_label":"Galchon Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332410","sub_label":"Jung-ri Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332753","sub_label":"Yangbo Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332788","sub_label":"Jinsang Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1333147","sub_label":"Wonchang Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1333473","sub_label":"Myeongbong Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332406","sub_label":"Dasolsa Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332399","sub_label":"Wansa Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332331","sub_label":"Jillye Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q626193","sub_label":"Changwon Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1332806","sub_label":"Goryak Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q624369","sub_label":"Iyang Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q1239952","sub_label":"Hallimjeong Station","sub_aliases":[],"obj_id":"Q483116","obj_label":"Gyeongjeon Line"}
+{"sub_id":"Q983287","sub_label":"Noan Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q818342","sub_label":"Heukseong-ri Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q818337","sub_label":"Gasuwon Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q983293","sub_label":"Gomagwon Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q2048569","sub_label":"Geungnakgang Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q818357","sub_label":"Buhwang Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q818352","sub_label":"Gaetaesa Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q983300","sub_label":"Mongtan Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q983296","sub_label":"Hampyeong Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q914627","sub_label":"Cheonwon Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q983303","sub_label":"Illo Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q983298","sub_label":"Muan Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q623739","sub_label":"Nonsan Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q626423","sub_label":"Gyeryong Station","sub_aliases":[],"obj_id":"Q53119","obj_label":"Honam Line"}
+{"sub_id":"Q773509","sub_label":"Hon-Nagashino Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q903011","sub_label":"Kinno Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q894882","sub_label":"Karakasa Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q985055","sub_label":"Dashina Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q894419","sub_label":"Ina-Kozawa Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q775018","sub_label":"Kamiichiba Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q776777","sub_label":"Aizuki Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q989168","sub_label":"Iijima Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q894868","sub_label":"Kadoshima Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q906058","sub_label":"Chiyo Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q774283","sub_label":"Kakidaira Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q775718","sub_label":"Ch\u016bbu-Tenry\u016b Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q985117","sub_label":"Kega Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q988745","sub_label":"Kamikatagiri Station","sub_aliases":[],"obj_id":"Q771305","obj_label":"Iida Line"}
+{"sub_id":"Q58946","sub_label":"Donong Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q58934","sub_label":"Guksu Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q484032","sub_label":"Wondeok Station","sub_aliases":["Wondok Station"],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q545473","sub_label":"Wonju Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q619998","sub_label":"Chiak Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q728725","sub_label":"Bibong Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q58930","sub_label":"Obin Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q58933","sub_label":"Asin Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q58948","sub_label":"Guri Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q728698","sub_label":"Danchon Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q58939","sub_label":"Yangsu Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q545380","sub_label":"Seowonju Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q49994","sub_label":"Mangu Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q482940","sub_label":"Yangwon Station","sub_aliases":[],"obj_id":"Q32713","obj_label":"Jungang Line"}
+{"sub_id":"Q865170","sub_label":"Mikawashima Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q2689418","sub_label":"Iwama Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q1952908","sub_label":"Tenn\u014ddai Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q1952873","sub_label":"Kameari Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q39929","sub_label":"Hitachi Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q5363133","sub_label":"Minami-Kashiwa Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q4783823","sub_label":"Arakawaoki Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q5363819","sub_label":"Ishioka Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q1952878","sub_label":"Kanamachi Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q5363166","sub_label":"Hatori Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q39951","sub_label":"\u014cmika Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q6100384","sub_label":"Iwaki-\u014cta Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q5654173","sub_label":"Haranomachi Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q5365268","sub_label":"Fujishiro Station","sub_aliases":[],"obj_id":"Q1369263","obj_label":"J\u014dban Line"}
+{"sub_id":"Q3661638","sub_label":"Takayasu Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q6379519","sub_label":"Kawai-Takaoka Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q4700236","sub_label":"Akameguchi Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q11609096","sub_label":"Mihata Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q5209097","sub_label":"Daifuku Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q7850085","sub_label":"Tsukiyama Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q6862256","sub_label":"Miminashi Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q6785665","sub_label":"Masuga Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q1928015","sub_label":"Shuntokumichi Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q4778841","sub_label":"Aoyamach\u014d Station","sub_aliases":["Aoyamacho Station"],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q7402788","sub_label":"Sakakibara-Onsenguchi Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q5965272","sub_label":"H\u014dzenji Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q4761545","sub_label":"And\u014d Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q6788248","sub_label":"Matsuzuka Station","sub_aliases":[],"obj_id":"Q1052545","obj_label":"Kintetsu Osaka Line"}
+{"sub_id":"Q551803","sub_label":"Portas do Mar Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202356","sub_label":"Borgal Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q551790","sub_label":"S\u00e3o Francisco halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202381","sub_label":"Fuseta-A halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202396","sub_label":"Monte Gordo halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202388","sub_label":"Luz halt, Luz de Tavira","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202332","sub_label":"Alvalede Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202394","sub_label":"Meia Praia","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q552194","sub_label":"Po\u00e7o Barreto halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202386","sub_label":"Livramento Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202382","sub_label":"Garganta Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202351","sub_label":"Benfarras Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202329","sub_label":"Almancil-Nexe Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q8202369","sub_label":"Concei\u00e7\u00e3o Halt","sub_aliases":[],"obj_id":"Q526416","obj_label":"Linha do Algarve"}
+{"sub_id":"Q945156","sub_label":"gare de Vif","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2215039","sub_label":"Gare de Lus-la-Croix-Haute","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2351956","sub_label":"Ch\u00e2bons railway station","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2783816","sub_label":"Gare d'Aix-en-Provence","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q3097749","sub_label":"Gare de Simiane","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2313377","sub_label":"Gare de Serres","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2557517","sub_label":"Gare de Pertuis","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2781996","sub_label":"Gare de La Verpilli\u00e8re","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q3098036","sub_label":"gare de Voiron","sub_aliases":["Voiron station"],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2362554","sub_label":"Gare de Virieu-sur-Bourbre","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2145513","sub_label":"Gare de Jarrie - Vizille","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q1821433","sub_label":"Gare de Moirans","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2548471","sub_label":"Gare de La Brillanne-Oraison","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q2041563","sub_label":"Gare de Meyrargues","sub_aliases":[],"obj_id":"Q3239666","obj_label":"Lyon-Perrache - Grenoble - Marseille-Saint-Charles line"}
+{"sub_id":"Q5842150","sub_label":"Estaci\u00f3n Osorno","sub_aliases":[],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5400033","sub_label":"Estaci\u00f3n Linares","sub_aliases":["Estacion Linares"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q54826232","sub_label":"Estaci\u00f3n 5 Pinos","sub_aliases":[],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5845383","sub_label":"Estaci\u00f3n Villa Alegre","sub_aliases":["Estacion Villa Alegre"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5843752","sub_label":"Estaci\u00f3n Millant\u00fa","sub_aliases":["Estacion Millantu"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5845083","sub_label":"Estaci\u00f3n Temuco","sub_aliases":["Estacion Temuco"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5766471","sub_label":"Estaci\u00f3n Chimbarongo","sub_aliases":["Estacion Chimbarongo"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5400020","sub_label":"Estaci\u00f3n Curic\u00f3","sub_aliases":["Estacion Curico"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5843678","sub_label":"Estaci\u00f3n Maule","sub_aliases":["Estacion Maule"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5400054","sub_label":"Estaci\u00f3n Rancagua","sub_aliases":["Estacion Rancagua"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5843392","sub_label":"Estaci\u00f3n Lo Espejo","sub_aliases":["Estacion Lo Espejo","Lo Espejo station"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q6092136","sub_label":"La Paloma railway station","sub_aliases":["Puerto Montt Railway station","La Paloma-Puerto Montt Railway station"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q5400023","sub_label":"Estaci\u00f3n Chill\u00e1n","sub_aliases":["Estacion Chillan"],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q3085334","sub_label":"Malleco Viaduct","sub_aliases":[],"obj_id":"Q51967449","obj_label":"L\u00ednea Central Sur"}
+{"sub_id":"Q4344076","sub_label":"Panki","sub_aliases":["Panki station","Panki railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4230693","sub_label":"Konev Bor","sub_aliases":["Konev Bor station","Konev Bor railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4460265","sub_label":"Tomilino","sub_aliases":["Tomilino station","Tomilino railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4480345","sub_label":"Fabrichnaya","sub_aliases":["Fabrichnaya station","Fabrichnaya railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4032064","sub_label":"63 km","sub_aliases":["63 km station","63 km railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4029339","sub_label":"187 km","sub_aliases":["187 km, Ryazanskoye dir, MZD","187 km station","187 km railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4500186","sub_label":"Khoroshyovo","sub_aliases":["Khoroshyovo station","Khoroshyovo railway station","Khoroshevo railway station","Khoroshevo station","Khoroshevo"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4303802","sub_label":"Moskvoretskaya","sub_aliases":["Moskvoretskaya station","Moskvoretskaya railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4426638","sub_label":"Sovkhoz","sub_aliases":["Platforms Sovkhoz","Sovkhoz station","Sovkhoz railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4199684","sub_label":"Ilyinskaya","sub_aliases":["Ilyinskaya station","Ilyinskaya railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4524582","sub_label":"Shifernaya","sub_aliases":["Shifernaya station","Shifernaya railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4387909","sub_label":"Raduga","sub_aliases":["Raduga station","Raduga railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4237874","sub_label":"Kraskovo","sub_aliases":["Kraskovo station","Kraskovo railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4031374","sub_label":"Yeseninskaya","sub_aliases":["42 km","Eseninskaya","Yeseninskaya station","Yeseninskaya railway station","42 km station","42 km railway station"],"obj_id":"Q4402675","obj_label":"Moscow - Ryazan line"}
+{"sub_id":"Q4427271","sub_label":"Sokolov Ruchey platform","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4291558","sub_label":"Metallostroy","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q1344454","sub_label":"Leningradsky railway station","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4497750","sub_label":"Khimki","sub_aliases":["Khimki station","Khimki railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4481344","sub_label":"Farforovskaya","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4183056","sub_label":"Zavidovo","sub_aliases":["Zavidovo station","Zavidovo railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4372772","sub_label":"Popovka","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4461426","sub_label":"Tosno-2 railway platform","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4338487","sub_label":"Ostankino","sub_aliases":["Ostankino station","Ostankino railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4330106","sub_label":"Obukhovo station","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4392170","sub_label":"Redkino","sub_aliases":["Redkino station","Redkino railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4429381","sub_label":"Sortirovochnaya platform","sub_aliases":[],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q4366341","sub_label":"Povarovka","sub_aliases":["Povarovka station","Povarovka railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q14927640","sub_label":"Tver","sub_aliases":["Tver station","Tver railway station"],"obj_id":"Q4178843","obj_label":"Moscow-Saint Petersburg Railway"}
+{"sub_id":"Q6416611","sub_label":"Kishiwada Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q8056171","sub_label":"Yoshiminosato Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q3022451","sub_label":"Suwanomori Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q7637134","sub_label":"Suminoe Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q11448024","sub_label":"Ky\u014dshi Station","sub_aliases":["Kyoshi Station"],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q6863257","sub_label":"Minato Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q7116438","sub_label":"Ozaki Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q7081723","sub_label":"Okadaura Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q7677086","sub_label":"Takaishi Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q7960872","sub_label":"Wakayamadaigakumae Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q5638841","sub_label":"Hagurazaki Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q11371769","sub_label":"Nishikinohama Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q5675723","sub_label":"Haruki Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q6788172","sub_label":"Matsunohama Station","sub_aliases":[],"obj_id":"Q59453","obj_label":"Nankai Main Line"}
+{"sub_id":"Q11628455","sub_label":"Nishikoba Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q5209103","sub_label":"Daigaku Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11560590","sub_label":"Seih\u014d-Koukou-Mae Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11479704","sub_label":"Hidariishi Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11593047","sub_label":"Fukushimaguchi Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11554904","sub_label":"Senpukuji Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11645042","sub_label":"Nonaka Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11444782","sub_label":"Meotoishi Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q7899732","sub_label":"Uranosaki Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11259923","sub_label":"Inotsuki Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q7450931","sub_label":"Senry\u016bgataki Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q11555571","sub_label":"Haze Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q7425052","sub_label":"Sasebo-Ch\u016b\u014d Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q8076247","sub_label":"Z\u014dshuku Station","sub_aliases":[],"obj_id":"Q7040371","obj_label":"Nishi-Ky\u016bsh\u016b Line"}
+{"sub_id":"Q6950031","sub_label":"M\u00e6re Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q11708670","sub_label":"Harran Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q9258173","sub_label":"Fauske Station","sub_aliases":["Fauske stasjon"],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q1781685","sub_label":"Bod\u00f8 Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q4569066","sub_label":"Sn\u00e5sa Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q9325875","sub_label":"R\u00f8kland Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q4570472","sub_label":"Skogn Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q13164218","sub_label":"Bjerka Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q16507985","sub_label":"Dunderland Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q6365025","sub_label":"Trofors Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q4570382","sub_label":"Ronglan Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q5750315","sub_label":"HiNT Station","sub_aliases":["R\u00f8stad Station"],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q11753068","sub_label":"Lassemoen Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q9368173","sub_label":"Valnesfjord Station","sub_aliases":[],"obj_id":"Q1634815","obj_label":"Nordland Line"}
+{"sub_id":"Q7011306","sub_label":"New Rochelle station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q7384948","sub_label":"Rye station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q5329061","sub_label":"East Norwalk station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q5222726","sub_label":"Darien station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q6751617","sub_label":"Mansfield station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q5602162","sub_label":"Green's Farms station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q7053191","sub_label":"Noroton Heights station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q6488797","sub_label":"Larchmont station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q7371370","sub_label":"Route 128 station","sub_aliases":["Route 128\/University Park"],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q6948914","sub_label":"Mystic station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q5430327","sub_label":"Fairfield Metro station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q7984375","sub_label":"West Baltimore station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q5604825","sub_label":"Greenwich station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q7570945","sub_label":"Southport station","sub_aliases":[],"obj_id":"Q678233","obj_label":"Northeast Corridor"}
+{"sub_id":"Q4418411","sub_label":"Shibusawa Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4497457","sub_label":"Higashi-Kitazawa Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q1107009","sub_label":"Aik\u014d-Ishida Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q1083866","sub_label":"Yoyogi-Hachiman Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4448445","sub_label":"Setagaya-Daita Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4534822","sub_label":"Yurigaoka Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4506211","sub_label":"Tsurumaki-Onsen Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q801204","sub_label":"Muk\u014dgaoka-Y\u016ben Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4251372","sub_label":"Ky\u014dd\u014d Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4506208","sub_label":"Tsurukawa Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q7818992","sub_label":"Tomizu Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4208752","sub_label":"Kaisei Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q4199128","sub_label":"Ikuta Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q1010020","sub_label":"Sang\u016bbashi Station","sub_aliases":[],"obj_id":"Q135176","obj_label":"Odaky\u016b Odawara Line"}
+{"sub_id":"Q3095863","sub_label":"Gare d'Uzerche","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2949969","sub_label":"Gare de Souillac","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2428202","sub_label":"Gare de Lamotte-Beuvron","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2186957","sub_label":"Gare de Masseret","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2842657","sub_label":"Gare de Salbris","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q3053389","sub_label":"Gare de La Porcherie","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2055777","sub_label":"Gare de Neuvy-Pailloux","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q521647","sub_label":"Gare de Sainte-Lizaigne","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q1821267","sub_label":"Gare de Montierchaume","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q1283201","sub_label":"Gare de Lalbenque - Fontanes","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2588907","sub_label":"Gare d'Ambazac","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2161232","sub_label":"Gare d'\u00c9guzon","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q961103","sub_label":"Gare de Bersac","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q1813754","sub_label":"Gare de Lothiers","sub_aliases":[],"obj_id":"Q3240094","obj_label":"Orl\u00e9ans\u2013Montauban railway"}
+{"sub_id":"Q2050826","sub_label":"Longueau station","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2358337","sub_label":"Gare de Corbie","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2286546","sub_label":"Gare de R\u0153ux","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2519189","sub_label":"Breteuil-Embranchement station","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q1808949","sub_label":"Gare de Daours","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q509289","sub_label":"Gare de Brebi\u00e8res-Sud","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2738092","sub_label":"Gare de M\u00e9ricourt - Rib\u00e9mont","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2260729","sub_label":"Gare de Pierrefitte - Stains","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q800617","sub_label":"Gare de Chantilly-Gouvieux","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2726542","sub_label":"Gare de La Faloise","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q536595","sub_label":"Gare de Corbehem","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2678290","sub_label":"Stade de France \u2013 Saint-Denis","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2580779","sub_label":"Gare d'Orry-la-Ville-Coye","sub_aliases":[],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q2731083","sub_label":"Gare de Saint-Just-en-Chauss\u00e9e","sub_aliases":["Gare de Saint-Just-en-Chaussee"],"obj_id":"Q240378","obj_label":"Paris\u2013Lille railway"}
+{"sub_id":"Q9353631","sub_label":"Soktang Onchon Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q714467","sub_label":"Kowon Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q11801718","sub_label":"Pyongsong Station","sub_aliases":["P'y\u014fngs\u014fng Station"],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16162158","sub_label":"Sinchang Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q11245928","sub_label":"Puraesan Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16176609","sub_label":"Yohaejin Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16159774","sub_label":"Sillyonpo Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q15279973","sub_label":"Sinyang Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q12624485","sub_label":"Hamhung Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16180379","sub_label":"Pompo Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q4381910","sub_label":"Sunchon Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q939491","sub_label":"Yodok Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16164023","sub_label":"Ungok Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q16220534","sub_label":"Orang Station","sub_aliases":[],"obj_id":"Q196027","obj_label":"Pyongra Line"}
+{"sub_id":"Q11427309","sub_label":"Horinai Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q7334120","sub_label":"Rikuch\u016b-Yamada Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11477058","sub_label":"Shimanokoshi Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11579393","sub_label":"Shiraikaigan Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q7102667","sub_label":"Orikasa Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11358278","sub_label":"Sanriku Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11634291","sub_label":"Toyomane Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q6961845","sub_label":"Namiita-Kaigan Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11607405","sub_label":"Ry\u014dri Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q5507049","sub_label":"Fudai Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11352273","sub_label":"Ichinowatari Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q55525754","sub_label":"Haraigawa Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q11646031","sub_label":"Noda-Tamagawa Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q55525813","sub_label":"Shin-Tar\u014d Station","sub_aliases":[],"obj_id":"Q62472974","obj_label":"Rias Line"}
+{"sub_id":"Q13434444","sub_label":"Langlete Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q94479","sub_label":"Ilseng Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q94457","sub_label":"Steinvik Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q17487691","sub_label":"Bj\u00f8rgen Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q81956","sub_label":"Koppang Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q12003096","sub_label":"Stensli Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q3097428","sub_label":"Rognes Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q3097882","sub_label":"Tolga Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q74255","sub_label":"Bellingmo Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q63803","sub_label":"Gl\u00e5mos Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q94942","sub_label":"L\u00f8ten Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q81958","sub_label":"Stai Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q94470","sub_label":"Rena Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q74265","sub_label":"Hanestad Station","sub_aliases":[],"obj_id":"Q1968118","obj_label":"R\u00f8ros Line"}
+{"sub_id":"Q69018","sub_label":"Cheolsan Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68672","sub_label":"Madeul Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68702","sub_label":"Hagye Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68804","sub_label":"Sagajeong Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q69046","sub_label":"Kkachiul Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68696","sub_label":"Junggye Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68957","sub_label":"Soongsil University Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68611","sub_label":"Jangam Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68981","sub_label":"Sindaebangsamgeori Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68817","sub_label":"Junggok Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q68853","sub_label":"Children's Grand Park Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q69002","sub_label":"Sinpung Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q69012","sub_label":"Namguro Station","sub_aliases":[],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q69027","sub_label":"Gwangmyeongsageori Station","sub_aliases":["Gwangmyeong Station"],"obj_id":"Q22910","obj_label":"Seoul Subway Line 7"}
+{"sub_id":"Q13386012","sub_label":"Tan Yong Mat","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021787","sub_label":"Khao Suan Thurian","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021784","sub_label":"Lak Chang","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021689","sub_label":"Cha-am Railway Station","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q6633314","sub_label":"Nakhon Pathom","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021732","sub_label":"Ban Phru Krachaeng","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021662","sub_label":"Khlong Chan Di","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q6633300","sub_label":"Taling Chan Junction","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13015615","sub_label":"Khlong Khut","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13021675","sub_label":"Khlong Prap","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13017027","sub_label":"Suan Son Pradiphat Railway Halt","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q16271185","sub_label":"Ban Khok Ma","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q16271162","sub_label":"Ban Ko Pring","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q13015641","sub_label":"Hua Mat","sub_aliases":[],"obj_id":"Q6585966","obj_label":"Southern Line"}
+{"sub_id":"Q11981942","sub_label":"Krekling Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q2753937","sub_label":"B\u00f8 Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q11990053","sub_label":"Mosby Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q31080708","sub_label":"Gausl\u00e5 stasjon","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q30945962","sub_label":"Vatnestr\u00f8m Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q19327940","sub_label":"Langemyr Terminal","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q2270756","sub_label":"Darbu Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q3331478","sub_label":"Moi Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q30945451","sub_label":"Svenseid Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q4577744","sub_label":"Skollenborg Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q3096623","sub_label":"Lunde Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q12012110","sub_label":"\u00d8ysteinstul Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q3181371","sub_label":"Veg\u00e5rshei Station","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q11993256","sub_label":"Oggevatn stasjon","sub_aliases":[],"obj_id":"Q1577458","obj_label":"S\u00f8rlandet Line"}
+{"sub_id":"Q11390457","sub_label":"Hatch\u014dmuta Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q11490439","sub_label":"Tokumasu Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q11550568","sub_label":"Enoura Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q5646811","sub_label":"Hanabatake Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q8067061","sub_label":"Zasshonokuma Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q10921193","sub_label":"Ajisaka Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q11555964","sub_label":"Tsuko Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q4803445","sub_label":"Asakuragaid\u014d Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q6884863","sub_label":"Mizuma Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q11631360","sub_label":"Shikenj\u014d-Mae Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q6937369","sub_label":"Murasaki Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q5097520","sub_label":"Chikushi Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q6374872","sub_label":"Kasugabaru Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q7498250","sub_label":"Shirakibaru Station","sub_aliases":[],"obj_id":"Q901075","obj_label":"Tenjin \u014cmuta Line"}
+{"sub_id":"Q946897","sub_label":"Nowy Tomy\u015bl","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2178235","sub_label":"Chro\u015bnica","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q11747949","sub_label":"Kramsk","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2769446","sub_label":"Krzewie","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2476803","sub_label":"Ko\u0142o","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2592771","sub_label":"Pal\u0119dzie","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q305379","sub_label":"Paczkowo","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2011390","sub_label":"Sp\u0142awie","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2866902","sub_label":"Kostrzyn Wielkopolski","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q53416","sub_label":"Pozna\u0144 Junikowo","sub_aliases":["Pozna\u0144 Junikowo railway station"],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2324181","sub_label":"Wojnowice Wielkopolskie","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q1971310","sub_label":"Konin Zach\u00f3d","sub_aliases":["Konin Zachod"],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q950233","sub_label":"Otoczna","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2091613","sub_label":"Cienin","sub_aliases":[],"obj_id":"Q803436","obj_label":"Warszawa Zachodnia-Kunowice railway"}
+{"sub_id":"Q2144050","sub_label":"Bytom Odrza\u0144ski","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2793481","sub_label":"Czerna Ma\u0142a","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2429018","sub_label":"Wo\u0142\u00f3w","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2005053","sub_label":"Witnica Choje\u0144ska","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q3979519","sub_label":"Drze\u0144sko","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q1852011","sub_label":"Orzeszk\u00f3w","sub_aliases":["Orzeszkow"],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2779110","sub_label":"Stary Kisielin","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2487456","sub_label":"Nietkowice","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2212282","sub_label":"Nowa S\u00f3l","sub_aliases":["Nowa Sol"],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2865221","sub_label":"Che\u0142mek Wo\u0142owski","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q9180851","sub_label":"Brzeg Dolny","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2228283","sub_label":"Kowal\u00f3w","sub_aliases":["Kowalow"],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2905151","sub_label":"B\u0119d\u00f3w","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q2071359","sub_label":"Niedoradz","sub_aliases":[],"obj_id":"Q803511","obj_label":"Wroc\u0142aw G\u0142\u00f3wny-Szczecin G\u0142\u00f3wny railway"}
+{"sub_id":"Q999402","sub_label":"Geochon Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q983388","sub_label":"Tong-ri Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q999460","sub_label":"Beopjeon Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q12419338","sub_label":"Bidong Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q999420","sub_label":"Bongseong Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q999483","sub_label":"Chunyang Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q999947","sub_label":"Buncheon Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q1000012","sub_label":"Suk-Po Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q983396","sub_label":"Mundan Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q999838","sub_label":"Hyeondong Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q1162827","sub_label":"Dogyeong-ri Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q1592038","sub_label":"Gyeongpodae Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q1597624","sub_label":"Bonghwa Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q983366","sub_label":"Dongbaeksan Station","sub_aliases":[],"obj_id":"Q497511","obj_label":"Yeongdong Line"}
+{"sub_id":"Q875845","sub_label":"Hashihama Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q872807","sub_label":"Ishizuchiyama Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q5115413","sub_label":"Sanuki-Fuch\u016b Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q899174","sub_label":"Horie Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q898981","sub_label":"Iyo-Yokota Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q874116","sub_label":"Marugame Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q1704863","sub_label":"K\u014dzai Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q899167","sub_label":"Shimonada Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q8011022","sub_label":"Kaiganji Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q899104","sub_label":"Ichitsubo Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q599042","sub_label":"Sekigawa Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q875869","sub_label":"Imabari Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q5366908","sub_label":"Tsushimanomiya Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q898952","sub_label":"Hataki Station","sub_aliases":[],"obj_id":"Q575016","obj_label":"Yosan Line"}
+{"sub_id":"Q211527","sub_label":"Kornsj\u00f8 Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1778948","sub_label":"Ljan Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1778011","sub_label":"Mysen Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1778999","sub_label":"Rygge Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1778930","sub_label":"Tomter station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777930","sub_label":"Kambo Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1778956","sub_label":"Kr\u00e5kstad Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777993","sub_label":"Skotbu Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777492","sub_label":"Heia Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777968","sub_label":"Oppeg\u00e5rd Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777743","sub_label":"Spydeberg Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777708","sub_label":"Solbr\u00e5tan Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777898","sub_label":"Fredrikstad Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q1777558","sub_label":"Moss Station","sub_aliases":[],"obj_id":"Q218805","obj_label":"\u00d8stfold Line"}
+{"sub_id":"Q2322982","sub_label":"Dzi\u0119czyn","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q3995664","sub_label":"Dzier\u017can\u00f3w Wielkopolski","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2699025","sub_label":"Lasocice","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2789380","sub_label":"Grodziec Ma\u0142y","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2069756","sub_label":"Ostr\u00f3w Wielkopolski Gorzyce","sub_aliases":["Ostrow Wielkopolski Gorzyce"],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q1865959","sub_label":"Karzec","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2383979","sub_label":"Gaworzyce","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2293116","sub_label":"Gorzupia","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q1995335","sub_label":"Opat\u00f3wek","sub_aliases":["Opatowek"],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q3275435","sub_label":"\u0141\u0105kociny","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q11757690","sub_label":"Lipinki \u0141u\u017cyckie","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q4289114","sub_label":"Zasieki","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q729516","sub_label":"Kalisz","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}
+{"sub_id":"Q2448140","sub_label":"Nielubia","sub_aliases":[],"obj_id":"Q11757154","obj_label":"\u0141\u00f3d\u017a Kaliska\u2013Tuplice railway"}

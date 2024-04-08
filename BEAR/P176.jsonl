@@ -1,0 +1,150 @@
+{"sub_id":"Q654114","sub_label":"Macintosh 512K","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q1636919","sub_label":"Macintosh Portable","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q24451476","sub_label":"Magic Keyboard","sub_aliases":["Apple Magic Keyboard","apple magic keyboard"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q621298","sub_label":"Magic Trackpad","sub_aliases":[],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q306207","sub_label":"iPod Mini","sub_aliases":["iPod mini"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q14091","sub_label":"iMac","sub_aliases":["Apple iMac"],"obj_id":"Q312","obj_label":"Apple Inc.","answer_idx":0}
+{"sub_id":"Q9542","sub_label":"Minas Geraes-class battleship","sub_aliases":[],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q1424289","sub_label":"SS Yongala","sub_aliases":[],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q9567","sub_label":"Almirante Latorre","sub_aliases":["HMS Canada"],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q2443961","sub_label":"Eidsvold-class coastal defence ship","sub_aliases":[],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q2029338","sub_label":"QF 18-pounder","sub_aliases":["Ordnance QF 18 pounder","18-pounder gun","Ordnance QF 18pdr Gun"],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q685067","sub_label":"Sea Slug","sub_aliases":[],"obj_id":"Q689159","obj_label":"Armstrong Whitworth","answer_idx":1}
+{"sub_id":"Q1578209","sub_label":"Peresvet-class battleship","sub_aliases":[],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q521029","sub_label":"Project 1144 Orlan","sub_aliases":["Orlan-class","Kirov-class battlecruiser"],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q29717","sub_label":"Gerzog Edinburgski","sub_aliases":[],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q2062306","sub_label":"Talwar-class frigate","sub_aliases":[],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q628031","sub_label":"Russian cruiser Gromoboi","sub_aliases":[],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q2986103","sub_label":"Soviet submarine S-363","sub_aliases":["U137","Whiskey on the rocks","S-363"],"obj_id":"Q530989","obj_label":"Baltic Shipyard","answer_idx":2}
+{"sub_id":"Q704128","sub_label":"SMS Derfflinger","sub_aliases":[],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q150857","sub_label":"Bismarck","sub_aliases":["German battleship Bismarck"],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q1657442","sub_label":"MEKO 200","sub_aliases":[],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q124664","sub_label":"Pamir","sub_aliases":[],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q884890","sub_label":"BV 155","sub_aliases":["Messerschmitt Me 155","Blohm & Voss BV 155","ME155","BV155"],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q884883","sub_label":"BV 141","sub_aliases":["Blohm & Voss BV 141"],"obj_id":"Q218715","obj_label":"Blohm + Voss","answer_idx":3}
+{"sub_id":"Q889408","sub_label":"C-40 Clipper","sub_aliases":["Boeing C-40 Clipper","Clipper"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q2558622","sub_label":"B & W Seaplane","sub_aliases":["B&W Seaplane","Boeing Model 1","Model 1","Boeing 1"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q890192","sub_label":"Model 40","sub_aliases":["Boeing 40","B40","Boeing Model 40"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q890185","sub_label":"EA-18G Growler","sub_aliases":["Boeing EA-18G","Growler","EA18G"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q132516","sub_label":"RC-135","sub_aliases":["Boeing RC-135","RC135","Boeing Model 739","Model 739","Boeing 739"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q177035","sub_label":"XB-15","sub_aliases":["Boeing XB-15","XB15","Boeing 294","Boeing Model 294","Model 294"],"obj_id":"Q66","obj_label":"Boeing","answer_idx":4}
+{"sub_id":"Q781084","sub_label":"Austin FX4","sub_aliases":[],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q1881472","sub_label":"MG XPower SV","sub_aliases":["MG X-power SV"],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q1881419","sub_label":"MG MGA","sub_aliases":[],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q796282","sub_label":"Austin Ambassador","sub_aliases":[],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q1881468","sub_label":"MG Midget","sub_aliases":[],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q772742","sub_label":"Morris Oxford","sub_aliases":[],"obj_id":"Q386065","obj_label":"British Motor Corporation","answer_idx":5}
+{"sub_id":"Q1519401","sub_label":"MSC Splendida","sub_aliases":[],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q1866407","sub_label":"MS Vision of the Seas","sub_aliases":[],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q1881854","sub_label":"MSC Magnifica","sub_aliases":["IMO 9387085"],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q1577076","sub_label":"SS Paris","sub_aliases":[],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q1670349","sub_label":"Norwegian Epic","sub_aliases":[],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q2714360","sub_label":"MS Empress","sub_aliases":["Nordic Empress","Empress of the Seas"],"obj_id":"Q765925","obj_label":"Chantiers de l'Atlantique","answer_idx":6}
+{"sub_id":"Q2541723","sub_label":"General Lee","sub_aliases":[],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q619002","sub_label":"M103 heavy tank","sub_aliases":[],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q521076","sub_label":"Saturn I","sub_aliases":[],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q7826788","sub_label":"TorqueFlite","sub_aliases":[],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q1473449","sub_label":"PGM-19 Jupiter","sub_aliases":[],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q2095648","sub_label":"Dodge Caravan","sub_aliases":["Made in canada"],"obj_id":"Q181114","obj_label":"Chrysler","answer_idx":7}
+{"sub_id":"Q5323375","sub_label":"EMC E1","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q631779","sub_label":"EMD G12","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q5323476","sub_label":"EMD SD90MAC","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q5323449","sub_label":"EMD GT46PAC","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q2688181","sub_label":"EMD SD45","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q1070122","sub_label":"EMD 645","sub_aliases":[],"obj_id":"Q568501","obj_label":"Electro-Motive Diesel","answer_idx":8}
+{"sub_id":"Q238461","sub_label":"FN 5.7\u00d728mm","sub_aliases":["5.7\u00d728mm","5.7 \u00d7 28mm","SS90","SS190","5,7 \u00d7 28"],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q4646472","sub_label":"9mm Browning Long","sub_aliases":["9 x 20mm SR","9 mm Browning Long","9 \u00d7 20mm Browning","9 x 20mm Browning"],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q2891306","sub_label":"FN FNAR","sub_aliases":[],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q1284442","sub_label":"FN Baby Browning","sub_aliases":[],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q4035471","sub_label":"FN M1905","sub_aliases":["FN Model 1906"],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q644344","sub_label":"FN Model 1903","sub_aliases":["FN M1903"],"obj_id":"Q747353","obj_label":"FN Herstal","answer_idx":9}
+{"sub_id":"Q930500","sub_label":"MS Zuiderdam","sub_aliases":[],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q742121","sub_label":"Italian aircraft carrier Giuseppe Garibaldi","sub_aliases":["C 551"],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q1136350","sub_label":"Costa Fascinosa","sub_aliases":[],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q548546","sub_label":"MS Eurodam","sub_aliases":["Eurodam","Odaeurm"],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q631681","sub_label":"Costa Pacifica","sub_aliases":[],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q20010359","sub_label":"MSC Seaside","sub_aliases":[],"obj_id":"Q1327429","obj_label":"Fincantieri","answer_idx":10}
+{"sub_id":"Q2716326","sub_label":"Little Joe II","sub_aliases":[],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q1347206","sub_label":"Expeditionary Mobile Base","sub_aliases":["Expeditionary Transfer Dock","Mobile Landing Platform"],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q473890","sub_label":"M3 Amphibious Rig","sub_aliases":[],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q1388613","sub_label":"FIM-43 Redeye","sub_aliases":["Redeye SAM","FIM43"],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q2003791","sub_label":"USS Albuquerque","sub_aliases":[],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q1069409","sub_label":"XM307 Advanced Crew Served Weapon","sub_aliases":[],"obj_id":"Q502940","obj_label":"General Dynamics","answer_idx":11}
+{"sub_id":"Q56166","sub_label":"Chevrolet Corvette","sub_aliases":["Chevrolet Corvette is a very powerful car"],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q420929","sub_label":"Saab 900","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q170296","sub_label":"M109","sub_aliases":["M109 howitzer","155 mm howitzer M109"],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q910928","sub_label":"Chevrolet Tahoe","sub_aliases":["Chevy Tahoe","Tahoe"],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q696537","sub_label":"M36 Gun Motor Carriage","sub_aliases":["90 mm Gun Motor Carriage M36","M36 tank destroyer","M36 Jackson"],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q1339720","sub_label":"Pontiac GTO","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors","answer_idx":12}
+{"sub_id":"Q1473287","sub_label":"RMS Atlantic","sub_aliases":[],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q2902230","sub_label":"Big Four","sub_aliases":[],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q757178","sub_label":"HMS Belfast","sub_aliases":["Belfast","HMS Belfast, C35"],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q2065060","sub_label":"Oceanic","sub_aliases":["RMMV Oceanic"],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q516401","sub_label":"HMCS Bonaventure","sub_aliases":["HMCS Bonaventure (CVL 22)","NCSM Bonaventure","NCSM Bonaventure (CVL 22)","CVL 22","Bonaventure","HMS Powerful","HMCS Bonaventure, CVL-22"],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q1032093","sub_label":"HMS Rawalpindi","sub_aliases":[],"obj_id":"Q848977","obj_label":"Harland and Wolff","answer_idx":13}
+{"sub_id":"Q699638","sub_label":"Panzerkampfwagen E-100","sub_aliases":["Panzer E-100","Development Tank 100","E100","E-100"],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q655135","sub_label":"Hs 129","sub_aliases":["Henschel Hs 129"],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q705444","sub_label":"Kanonenjagdpanzer","sub_aliases":["Jagdpanzer Kanone 90mm","tank destroyer, gun","Kanonenjagdpanzer 4\u20135","KanJPz","90 mm anti-tank gun KanJPz","JPK C-90"],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q2204927","sub_label":"South African Class 26 4-8-4","sub_aliases":[],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q9367913","sub_label":"VK 36.01 ","sub_aliases":["VK3601H"],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q39056349","sub_label":"Bangladesh Railway Class 2700","sub_aliases":[],"obj_id":"Q163580","obj_label":"Henschel & Sohn","answer_idx":14}
+{"sub_id":"Q27995423","sub_label":"Coffee Lake","sub_aliases":[],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q31888920","sub_label":"Ice Lake","sub_aliases":[],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q370855","sub_label":"Lynnfield","sub_aliases":[],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q610702","sub_label":"LGA 775","sub_aliases":["Socket 775","Socket T"],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q214314","sub_label":"Pentium","sub_aliases":["Intel Pentium","80586"],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q751327","sub_label":"Socket 478","sub_aliases":["Socket PGA478","mPGA478B"],"obj_id":"Q248","obj_label":"Intel","answer_idx":15}
+{"sub_id":"Q909728","sub_label":"AKS-74U","sub_aliases":[],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q4654496","sub_label":"ASh-12.7","sub_aliases":["ODEN"],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q1323550","sub_label":"PP-19 Bizon","sub_aliases":[],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q1278439","sub_label":"Saiga-12","sub_aliases":[],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q159509","sub_label":"SVD Dragunov","sub_aliases":["Dragunov","SVD","Dragunov Sniper Rifle 1963","SVD-63"],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q3267000","sub_label":"AK-105","sub_aliases":[],"obj_id":"Q7427495","obj_label":"Kalashnikov Concern","answer_idx":16}
+{"sub_id":"Q526759","sub_label":"X-44 MANTA","sub_aliases":["Lockheed Martin X-44 MANTA","X44 MANTA","MANTA","Multi-Axis No-Tail Aircraft"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q1431268","sub_label":"Long Range Anti-Ship Missile","sub_aliases":["LRASM"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q255648","sub_label":"X-33","sub_aliases":["Lockheed Martin X-33"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q431231","sub_label":"AC-130","sub_aliases":["AC130","Lockheed AC-130","AC-130 Spectre"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q1187536","sub_label":"C-130J Super Hercules","sub_aliases":["Lockheed C-130J","C130J Super Hercules","Super Hercules","Lockheed Martin Hercules C.5","Hercules C.5","Lockheed Martin C-130J","C-130J Super Hercules","C-130J Hercules","Lockheed Martin Super Hercules","Lockheed Martin C-130 Super Hercules","C130 Super Hercules","Lockheed Martin C-130J Super Hercules"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q183160","sub_label":"Mars Reconnaissance Orbiter","sub_aliases":["MRO"],"obj_id":"Q7240","obj_label":"Lockheed Martin","answer_idx":17}
+{"sub_id":"Q1754531","sub_label":"Norwegian Dawn","sub_aliases":[],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q19877077","sub_label":"MS Ovation of the Seas","sub_aliases":[],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q828458","sub_label":"MS Estonia","sub_aliases":["M\/S Estonia","Viking Sally","Silja Star","Wasa King","Estonia","MV Estonia"],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q1760407","sub_label":"Norwegian Star","sub_aliases":[],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q18128240","sub_label":"MS Quantum of the Seas","sub_aliases":[],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q2072116","sub_label":"MS Jewel of the Seas","sub_aliases":[],"obj_id":"Q705377","obj_label":"Meyer Werft","answer_idx":18}
+{"sub_id":"Q210349","sub_label":"Jeanne d'Arc","sub_aliases":["French cruiser Jeanne d'Arc"],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q2981505","sub_label":"French ship Mistral","sub_aliases":[],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q3013579","sub_label":"French ironclad Redoutable","sub_aliases":[],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q7119870","sub_label":"PNS Hangor","sub_aliases":[],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q65459647","sub_label":"Suffren","sub_aliases":["Q284"],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q461375","sub_label":"Charles de Gaulle","sub_aliases":["R91","CDG","Porte-avions Charles de Gaulle, R 91","Aircraft carrier Charles de Gaulle"],"obj_id":"Q1227511","obj_label":"Naval Group","answer_idx":19}
+{"sub_id":"Q1141369","sub_label":"USS Forrestal","sub_aliases":["USS Forrestal CV-59"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q83277623","sub_label":"Doris Miller","sub_aliases":["CVN-81","PCU Doris Miller","USS Doris Miller"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q653860","sub_label":"USS Dwight D. Eisenhower","sub_aliases":["CVN-69"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q463091","sub_label":"SS America ","sub_aliases":["USS West Point","SS Australis","SS Italis","SS Noga","SS Alferdoss","SS American Star","SS America"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q217132","sub_label":"USS George H.W. Bush","sub_aliases":["CVN-77"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q1587078","sub_label":"Virginia class cruiser","sub_aliases":["CGN-38 class"],"obj_id":"Q82610","obj_label":"Newport News Shipbuilding","answer_idx":20}
+{"sub_id":"Q657002","sub_label":"leichter Granatwerfer 36","sub_aliases":["5 cm Granatwerfer 36","5 cm leichter Granatwerfer 36","leGrW 36","LEGRW36","50 mm mortar leGrW 36","5 cm Light Mortar 36"],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q259089","sub_label":"7.5 cm Leichtgesch\u00fctz 40","sub_aliases":[],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q697896","sub_label":"10.5 cm FlaK 38","sub_aliases":["105mm Flak 38"],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q652468","sub_label":"MG 17","sub_aliases":["Maschinengewehr 17","MG17","Rheinmetall-Borsig MG 17"],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q699606","sub_label":"Karl-Ger\u00e4t","sub_aliases":["M\u00f6rser Karl","Karlger\u00e4t","Karl-Ger\u00e4t 040\/041"],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q2658024","sub_label":"BK 37","sub_aliases":["Bordkanone BK 3.7","BK 3.7"],"obj_id":"Q161544","obj_label":"Rheinmetall AG","answer_idx":21}
+{"sub_id":"Q247305","sub_label":"Mars 2","sub_aliases":["M-71 No. 171"],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q152500","sub_label":"Venera 1","sub_aliases":[],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q1681656","sub_label":"Science-Power Module-1","sub_aliases":["SPM-1","NEM-1","Science and Power Module"],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q16354696","sub_label":"EgyptSat 2","sub_aliases":[],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q211254","sub_label":"Soyuz 1","sub_aliases":[],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q80811","sub_label":"Sputnik 1","sub_aliases":["Object PS","PS-1","Satellite-1","Prosteyshiy Sputnik-1","Elementary Satellite 1","Prosteishiy Sputnik"],"obj_id":"Q763402","obj_label":"S.P. Korolev Rocket and Space Corporation Energia","answer_idx":22}
+{"sub_id":"Q5122795","sub_label":"Citra","sub_aliases":[],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q7072637","sub_label":"OK Soda","sub_aliases":[],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q6813153","sub_label":"Mello Yello","sub_aliases":[],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q3245008","sub_label":"Fresca","sub_aliases":[],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q5578860","sub_label":"Gold Spot","sub_aliases":[],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q1815345","sub_label":"Diet Coke","sub_aliases":["Coca-Cola Light","Diet Coca-Cola"],"obj_id":"Q3295867","obj_label":"The Coca-Cola Company","answer_idx":23}
+{"sub_id":"Q2599168","sub_label":"Valiant-class submarine","sub_aliases":[],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}
+{"sub_id":"Q763350","sub_label":"HMS Venturer","sub_aliases":["HMS Venturer, P68"],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}
+{"sub_id":"Q749790","sub_label":"HMS Seraph","sub_aliases":[],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}
+{"sub_id":"Q1422969","sub_label":"Light Tank Mk VI","sub_aliases":["Tank, Light, Mk VI","Light Tank Mark VI","Mark VI Light Tank","Mk VI Light Tank","Vickers Light Tank Mk VI","Vickers Mk VI","Vickers Mark VI"],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}
+{"sub_id":"Q583515","sub_label":"Bouncing bomb","sub_aliases":[],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}
+{"sub_id":"Q652058","sub_label":"Vijayanta","sub_aliases":["Vickers MBT"],"obj_id":"Q763052","obj_label":"Vickers-Armstrongs","answer_idx":24}

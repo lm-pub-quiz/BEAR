@@ -1,0 +1,600 @@
+{"sub_id":"Q1120695","sub_label":"Birkhall","sub_aliases":[],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q64597","sub_label":"Huntly Castle","sub_aliases":[],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q1141259","sub_label":"Pittodrie Stadium","sub_aliases":["Pittodrie"],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q1633601","sub_label":"Rhynie chert","sub_aliases":[],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q1012337","sub_label":"Pitmedden","sub_aliases":[],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q1788342","sub_label":"Robert Gordon University","sub_aliases":["RGU"],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q2969293","sub_label":"Fyvie Castle","sub_aliases":[],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q270532","sub_label":"University of Aberdeen","sub_aliases":["Aberdeen University"],"obj_id":"Q3290674","obj_label":"Aberdeenshire"}
+{"sub_id":"Q250117","sub_label":"Staffa","sub_aliases":[],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q511539","sub_label":"Colonsay","sub_aliases":["Isle of Colonsay"],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q111444","sub_label":"Isle of Mull","sub_aliases":["Mull","Mull, Scotland","Island of Mull"],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q194446","sub_label":"Canna","sub_aliases":["Isle of Canna","Canna, Scotland"],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q1011513","sub_label":"Ballachulish","sub_aliases":[],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q1020251","sub_label":"Dunoon","sub_aliases":[],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q1019330","sub_label":"Port Ellen","sub_aliases":[],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q1013614","sub_label":"Kinlochleven","sub_aliases":[],"obj_id":"Q652539","obj_label":"Argyll"}
+{"sub_id":"Q793207","sub_label":"River Ayr","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q2557007","sub_label":"River Nith","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q996516","sub_label":"Crosshouse","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q3997927","sub_label":"Patna","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q2096062","sub_label":"Turnberry","sub_aliases":["Trump Turnberry","Trump Turnberry Resort"],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q8992","sub_label":"Glasgow Prestwick Airport","sub_aliases":["Prestwick Airport","Glasgow-Prestwick Airport","PIK","EGPK","Glasgow Prestwick International Airport","Prestwick"],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q1013753","sub_label":"Skelmorlie","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q5211618","sub_label":"Dalrymple","sub_aliases":[],"obj_id":"Q793283","obj_label":"Ayrshire"}
+{"sub_id":"Q1017022","sub_label":"Aberchirder","sub_aliases":["Obar Chiardair","Foggieloan","Foggie"],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q1009777","sub_label":"Gardenstown","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q7337417","sub_label":"River Fiddich","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q1009907","sub_label":"Portgordon","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q3397469","sub_label":"Ben Avon","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q805853","sub_label":"Balvenie","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q1011778","sub_label":"Portknockie","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q1961219","sub_label":"Keith railway station","sub_aliases":[],"obj_id":"Q806432","obj_label":"Banffshire"}
+{"sub_id":"Q5142537","sub_label":"Coldingham Bay","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q4916256","sub_label":"Birgham","sub_aliases":["Birgin"],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q2557884","sub_label":"Fast Castle","sub_aliases":["Fast Castle,950m NNE of Dowlaw"],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q7316181","sub_label":"Reston","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q1284794","sub_label":"Edin's Hall Broch","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q920068","sub_label":"Duns Castle","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q5422634","sub_label":"Eye Water","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q6813083","sub_label":"Mellerstain House","sub_aliases":[],"obj_id":"Q786649","obj_label":"Berwickshire"}
+{"sub_id":"Q880441","sub_label":"Black Mountains","sub_aliases":["Black Mountains, Wales","Black Mountains, United Kingdom"],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q16548106","sub_label":"Treflys","sub_aliases":[],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q631340","sub_label":"Talgarth","sub_aliases":[],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q5623558","sub_label":"Gwernyfed","sub_aliases":[],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q13129643","sub_label":"Llangattock","sub_aliases":["Llangatwg"],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q16897396","sub_label":"The Vale of Grwyney","sub_aliases":["Vale of Grwyney"],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q6661614","sub_label":"Llanigon","sub_aliases":[],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q2469048","sub_label":"Brecon Cathedral","sub_aliases":["Cathedral Church Of St John The Baptist","Eglwys Gadeiriol Aberhonddu","Parish Church of St John the Evangelist","Priory Church of St. John the Evangelist","Brecon Priory"],"obj_id":"Q547052","obj_label":"Brecknockshire"}
+{"sub_id":"Q391948","sub_label":"Millport","sub_aliases":["Millport, Cumbrae"],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q1741235","sub_label":"Kilbrannan Sound","sub_aliases":["Kilbrennan Sound"],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q3398015","sub_label":"C\u00ecr Mh\u00f2r","sub_aliases":["Cir Mhor"],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q9288134","sub_label":"Little Cumbrae Castle","sub_aliases":[],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q1545344","sub_label":"Mount Stuart House","sub_aliases":[],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q3472354","sub_label":"Sannox","sub_aliases":[],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q699163","sub_label":"Arran distillery","sub_aliases":[],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q2855295","sub_label":"The Cumbraes","sub_aliases":[],"obj_id":"Q544009","obj_label":"Buteshire"}
+{"sub_id":"Q3400769","sub_label":"Capel Curig","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q1025821","sub_label":"Pwllheli","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q2684439","sub_label":"Trefriw","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q3399377","sub_label":"Clynnog Fawr","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q787395","sub_label":"Llanfairfechan","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q868968","sub_label":"River Conwy","sub_aliases":[],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q1541249","sub_label":"Ll\u0177n Peninsula","sub_aliases":["Lleyn Peninsula"],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q275128","sub_label":"Caernarfon Castle","sub_aliases":["Castell Caernarfon","Caernarvon Castle","Caernarfon Castle (Caernarfon, Wales) -- Photographs","Caernarfon Castle (Caernarfon, Wales) -- Poetry"],"obj_id":"Q731669","obj_label":"Caernarfonshire"}
+{"sub_id":"Q845140","sub_label":"Old Pulteney","sub_aliases":["Old Pulteney distillery"],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q679476","sub_label":"Scrabster","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q2968039","sub_label":"Ackergill Tower","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q2321098","sub_label":"Scotscalder railway station","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q5878693","sub_label":"Holborn Head","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q1739397","sub_label":"Dounreay","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q2344439","sub_label":"Ebenezer Place","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q7799428","sub_label":"Thurso Bay","sub_aliases":[],"obj_id":"Q864668","obj_label":"Caithness"}
+{"sub_id":"Q765642","sub_label":"Queens' College","sub_aliases":["Queens College","Queens' College, Cambridge","Queen's College"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q650068","sub_label":"Peterhouse","sub_aliases":["St. Peters, Cambridge","St. Peter's, Cambridge","St Peters, Cambridge","St Peter's, Cambridge","Peterhouse, Cambridge"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q579004","sub_label":"Ely Cathedral","sub_aliases":["The Cathedral Church of the Holy and Undivided Trinity of Ely"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q2152012","sub_label":"Sawston","sub_aliases":["Sawston, Cambridgeshire"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q714740","sub_label":"Churchill College","sub_aliases":["Churchill College, Cambridge"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q1247589","sub_label":"Newnham College","sub_aliases":["Newnham College, Cambridge","Merton Hall","Newnham Hall","Merton Hall School"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q863940","sub_label":"Gonville and Caius College","sub_aliases":["Caius College","Gonville Hall","Caius"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q540751","sub_label":"Anglia Ruskin University","sub_aliases":["Cambridge School of Art","Ruskin University","ARU"],"obj_id":"Q30612390","obj_label":"Cambridgeshire"}
+{"sub_id":"Q7162281","sub_label":"Penbryn","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q3395294","sub_label":"Cardigan Castle","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q656280","sub_label":"Wales Coast Path","sub_aliases":["Llwybr Arfordir Cymru"],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q6661551","sub_label":"Llangwyryfon","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q13129613","sub_label":"Llandysiliogogo","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q2454720","sub_label":"River Towy","sub_aliases":["River Tywi"],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q2487253","sub_label":"Tregaron","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q922270","sub_label":"Llanddewi Brefi","sub_aliases":[],"obj_id":"Q645155","obj_label":"Cardiganshire"}
+{"sub_id":"Q180209","sub_label":"Isles of Scilly","sub_aliases":["Scillonia","Scilly","Scilly Islands"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q984974","sub_label":"Bude","sub_aliases":[],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q943517","sub_label":"Newquay","sub_aliases":["Tewynblustri","Newquay, Cornwall"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q748777","sub_label":"Tintagel","sub_aliases":["Tintagel, Cornwall"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q889888","sub_label":"Bodmin","sub_aliases":["Bodmin, Cornwall","Bodmin CP","Bodmin civil parish"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q2041269","sub_label":"Torpoint","sub_aliases":["Torpoint, Cornwall"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q287590","sub_label":"Launceston","sub_aliases":["Launceston, Cornwall"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q1025790","sub_label":"Fowey","sub_aliases":["Fowey, Cornwall","Fowey CP","Fowey civil parish"],"obj_id":"Q23148","obj_label":"Cornwall"}
+{"sub_id":"Q918947","sub_label":"Newtownabbey","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q106187","sub_label":"Giant's Causeway","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q2223305","sub_label":"Toome","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q1570525","sub_label":"Carnlough","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q3351920","sub_label":"Belfast City Hall","sub_aliases":["City Hall Donegall Square Belfast","Belfast City Hall Donegall Square Belfast County Antrim Bt1 5gs"],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q805403","sub_label":"Ballyclare","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q990932","sub_label":"Broughshane","sub_aliases":[],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q1136111","sub_label":"Rathlin Island","sub_aliases":["Rathlin"],"obj_id":"Q189592","obj_label":"County Antrim"}
+{"sub_id":"Q1373331","sub_label":"Cladymore","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1249252","sub_label":"Hamiltonsbawn","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1424634","sub_label":"Killylea","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1815956","sub_label":"Mullaghbawn","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1501581","sub_label":"Markethill","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q2022153","sub_label":"Bessbrook","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1501452","sub_label":"Darkley","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q1569901","sub_label":"Derryhale","sub_aliases":[],"obj_id":"Q192761","obj_label":"County Armagh"}
+{"sub_id":"Q2942234","sub_label":"Cathedral of the Assumption of Blessed Virgin Mary","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q19883428","sub_label":"Altamont House","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q3516684","sub_label":"Teagasc","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q2085848","sub_label":"Kildavin","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q2485323","sub_label":"Mount Leinster","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q33164","sub_label":"Ducketts Grove","sub_aliases":["Duckett's Grove"],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q3776314","sub_label":"Old Leighlin","sub_aliases":[],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q33313","sub_label":"Brownshill Dolmen","sub_aliases":["Kernanstown Cromlech","Browneshill Dolmen"],"obj_id":"Q181882","obj_label":"County Carlow"}
+{"sub_id":"Q311566","sub_label":"Killeshandra","sub_aliases":["Killashandra"],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q252038","sub_label":"Ballyjamesduff","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q252060","sub_label":"Ballinagh","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q311501","sub_label":"Kilcogy","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q400284","sub_label":"Mountnugent","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q2781830","sub_label":"Aghavoher","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q2114237","sub_label":"Cootehill","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q2269536","sub_label":"Kingscourt","sub_aliases":[],"obj_id":"Q187402","obj_label":"County Cavan"}
+{"sub_id":"Q174802","sub_label":"Doolin","sub_aliases":["D\u00falainn","Dulainn"],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q1022254","sub_label":"Quin","sub_aliases":["Cuinche"],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q153645","sub_label":"Poulnabrone dolmen","sub_aliases":[],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q239477","sub_label":"Cliffs of Moher","sub_aliases":[],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q3895694","sub_label":"Burren National Park","sub_aliases":[],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q1005113","sub_label":"Lisdoonvarna","sub_aliases":[],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q2668587","sub_label":"Scarriff","sub_aliases":[],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q2012973","sub_label":"Furbo","sub_aliases":["Furbogh","Furbo, County Galway","Na Forbacha"],"obj_id":"Q181862","obj_label":"County Clare"}
+{"sub_id":"Q1756344","sub_label":"Carrigaline","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q2339141","sub_label":"Saint Fin Barre's Cathedral","sub_aliases":["St Finbarres Cathedral"],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q881739","sub_label":"Blarney Castle","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q1930746","sub_label":"Skibbereen","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q1635940","sub_label":"Passage West","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q287965","sub_label":"Kanturk","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q2038045","sub_label":"Whiddy Island","sub_aliases":[],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q659655","sub_label":"Millstreet","sub_aliases":["Millstreet, Ireland","Millstreet, County Cork, Ireland"],"obj_id":"Q162475","obj_label":"County Cork"}
+{"sub_id":"Q212489","sub_label":"Dunfanaghy","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q303076","sub_label":"Malin Head","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q1395459","sub_label":"Fanad","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q140033","sub_label":"Glenveagh National Park","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q915423","sub_label":"Moville","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q667646","sub_label":"Glenties","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q1432599","sub_label":"Inishowen","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q805401","sub_label":"Ballybofey","sub_aliases":[],"obj_id":"Q179424","obj_label":"County Donegal"}
+{"sub_id":"Q2670655","sub_label":"Stormont Castle","sub_aliases":[],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q639255","sub_label":"Ardglass","sub_aliases":["Ardglass, County Down"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q550163","sub_label":"Slieve Donard","sub_aliases":["Sliabh D\u00f3nairt"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q1478931","sub_label":"Mourne Mountains","sub_aliases":["the Mournes","Mountains of Mourne"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q2656965","sub_label":"Crossgar","sub_aliases":[],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q58094","sub_label":"Royal Hillsborough","sub_aliases":["Hillsborough, County Down"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q1024917","sub_label":"Downpatrick","sub_aliases":["Down, co. Down","Down, County Down"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q8987","sub_label":"George Best Belfast City Airport","sub_aliases":["Belfast City Airport","BHD","EGAC","Belfast City (George Best)"],"obj_id":"Q190684","obj_label":"County Down"}
+{"sub_id":"Q2321041","sub_label":"Donabate","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q1102232","sub_label":"Clondalkin","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q745989","sub_label":"D\u00fan Laoghaire","sub_aliases":["Dunleary","Kingstown","Dun Laoghaire","Kingstown, County Dublin","Kingstown, Ireland"],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q987748","sub_label":"Malahide","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q1190487","sub_label":"O'Connell Street","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q1432605","sub_label":"Saint Stephen's Green","sub_aliases":["St Stephen's Green","St. Stephen's Green"],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q804704","sub_label":"Balbriggan","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q990099","sub_label":"Tallaght","sub_aliases":[],"obj_id":"Q173500","obj_label":"County Dublin"}
+{"sub_id":"Q1200365","sub_label":"Derrygonnelly","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q4121977","sub_label":"Crom Castle","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q2400138","sub_label":"Lisbellaw","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q3876107","sub_label":"Bellanaleck","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q1324180","sub_label":"Lough Erne","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q3986252","sub_label":"Teemore","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q2969030","sub_label":"Castle Coole","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q7698854","sub_label":"Tempo","sub_aliases":[],"obj_id":"Q190678","obj_label":"County Fermanagh"}
+{"sub_id":"Q1102271","sub_label":"Clonfert","sub_aliases":[],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1719907","sub_label":"River Suck","sub_aliases":[],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q996691","sub_label":"Tuam","sub_aliases":[],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q2023356","sub_label":"Omey Island","sub_aliases":[],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1973811","sub_label":"Oughterard","sub_aliases":[],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1093773","sub_label":"Twelve Bens","sub_aliases":["Twelve Pins"],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1110219","sub_label":"Kilronan","sub_aliases":["Cill R\u00f3n\u00e1in"],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1265205","sub_label":"Dun Aengus","sub_aliases":["D\u00fan Aonghasa","Dun Aonghasa","Dunaengus"],"obj_id":"Q169923","obj_label":"County Galway"}
+{"sub_id":"Q1366878","sub_label":"MacGillycuddy's Reeks","sub_aliases":["Na Cruacha Dubha","The Black Stacks"],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q2474186","sub_label":"Waterville","sub_aliases":[],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q996487","sub_label":"Listowel","sub_aliases":["Lios Tuathail"],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q1117487","sub_label":"Inishtooskert","sub_aliases":[],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q2180847","sub_label":"Annascaul","sub_aliases":["Anascaul"],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q794125","sub_label":"Skellig Islands","sub_aliases":[],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q166232","sub_label":"Kenmare","sub_aliases":[],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q623382","sub_label":"Killarney","sub_aliases":[],"obj_id":"Q184469","obj_label":"County Kerry"}
+{"sub_id":"Q3308027","sub_label":"Robertstown","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q3776239","sub_label":"Clonbollogue","sub_aliases":["Clonbullogue"],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q4210476","sub_label":"Calverstown","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q522012","sub_label":"Monasterevin","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q2528850","sub_label":"Prosperous","sub_aliases":["Prosperous, County Kildare"],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q4076804","sub_label":"Ballitore","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q2269522","sub_label":"Kilcock","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q3776291","sub_label":"Carbury","sub_aliases":[],"obj_id":"Q173332","obj_label":"County Kildare"}
+{"sub_id":"Q4160459","sub_label":"Johnswell","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q2084252","sub_label":"Bennettsbridge","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q3971355","sub_label":"Waterford railway station","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q1687774","sub_label":"Jerpoint Abbey","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q1048506","sub_label":"River Nore","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q8564973","sub_label":"Foulksrath Castle","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q748903","sub_label":"St Canice's Cathedral","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q4483474","sub_label":"Fiddown","sub_aliases":[],"obj_id":"Q180231","obj_label":"County Kilkenny"}
+{"sub_id":"Q2083673","sub_label":"Ballyfin","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q2668310","sub_label":"Ballinakill","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q4220534","sub_label":"Killeigh","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q1989246","sub_label":"Portarlington","sub_aliases":["Portarlington, County Laois"],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q135311","sub_label":"Ballybrittas","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q2014190","sub_label":"Mountmellick","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q2358900","sub_label":"Killeshin","sub_aliases":[],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q2736041","sub_label":"Cullohill","sub_aliases":["Cullahill"],"obj_id":"Q55299","obj_label":"County Laois"}
+{"sub_id":"Q2334402","sub_label":"Buckode","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q2116697","sub_label":"Killarga","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q4328378","sub_label":"Newtowngore","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q1891064","sub_label":"Manorhamilton","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q2279663","sub_label":"Roosky","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q1026208","sub_label":"Dromahair","sub_aliases":["Dromahaire","Droim Dh\u00e1 Thiar"],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q2081777","sub_label":"Kinlough","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q600881","sub_label":"Glenfarne","sub_aliases":[],"obj_id":"Q107397","obj_label":"County Leitrim"}
+{"sub_id":"Q2702872","sub_label":"River Maigue","sub_aliases":[],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q306440","sub_label":"Abbeyfeale","sub_aliases":[],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q573460","sub_label":"Askeaton","sub_aliases":[],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q2672375","sub_label":"Athea","sub_aliases":[],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q2333034","sub_label":"Galtymore","sub_aliases":["Galteemore"],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q2670286","sub_label":"Croom","sub_aliases":["Croom, County Limerick"],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q987754","sub_label":"Newcastle West","sub_aliases":["Newcastle West, Ireland","Newcastle, County Limerick","Newcastle"],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q15119233","sub_label":"Caherconlish","sub_aliases":[],"obj_id":"Q178283","obj_label":"County Limerick"}
+{"sub_id":"Q306455","sub_label":"Abbeyshrule","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q4076773","sub_label":"Ballinalee","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q4452954","sub_label":"Taghshinny","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q26716055","sub_label":"Clawinch","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q3775950","sub_label":"Newtownforbes","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q2263270","sub_label":"Killoe","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q26718376","sub_label":"Aughnacliffe","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q4328374","sub_label":"Newtowncashel","sub_aliases":[],"obj_id":"Q186220","obj_label":"County Longford"}
+{"sub_id":"Q5050462","sub_label":"Castlebellingham","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q511843","sub_label":"Clogherhead","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q2446938","sub_label":"Townleyhall passage grave","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q502578","sub_label":"Cooley Distillery","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q984816","sub_label":"Collon","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q4168536","sub_label":"Dromiskin","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q1129702","sub_label":"Cooley Peninsula","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q4450501","sub_label":"Tullyallen","sub_aliases":[],"obj_id":"Q183539","obj_label":"County Louth"}
+{"sub_id":"Q631581","sub_label":"Achill Island","sub_aliases":[],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q164421","sub_label":"Connacht","sub_aliases":["Connaught"],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q1016316","sub_label":"Mulranny","sub_aliases":["Mallaranny"],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q1025558","sub_label":"Louisburgh","sub_aliases":[],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q2119881","sub_label":"Ballaghaderreen","sub_aliases":[],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q805409","sub_label":"Ballycroy National Park","sub_aliases":[],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q1100897","sub_label":"Clew Bay","sub_aliases":[],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q848921","sub_label":"Ireland West Airport Knock","sub_aliases":["Connaught Airport","NOC","EIKN"],"obj_id":"Q178626","obj_label":"County Mayo"}
+{"sub_id":"Q687578","sub_label":"Lia F\u00e1il","sub_aliases":["Lia Fail"],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q392074","sub_label":"Julianstown","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q543155","sub_label":"Hill of Tara","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q4167665","sub_label":"Drumconrath","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q1902456","sub_label":"Laytown","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q2081233","sub_label":"Kentstown","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q765703","sub_label":"Duleek","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q1012496","sub_label":"Trim","sub_aliases":[],"obj_id":"Q183544","obj_label":"County Meath"}
+{"sub_id":"Q878530","sub_label":"Ballybay","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q1002776","sub_label":"Carrickmacross","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q1102275","sub_label":"Clones","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q4066213","sub_label":"Annyalla","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q24196535","sub_label":"Muckno Lake","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q878498","sub_label":"Scotshouse","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q155861","sub_label":"Castle Leslie","sub_aliases":["Castle Leslie House"],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q7369899","sub_label":"Rossmore Castle","sub_aliases":[],"obj_id":"Q184760","obj_label":"County Monaghan"}
+{"sub_id":"Q927223","sub_label":"Clonmacnoise","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q2473138","sub_label":"Horseleap","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q3776275","sub_label":"Mountbolus","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q1016311","sub_label":"Edenderry","sub_aliases":["Ead\u00e1n Doire"],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q2315351","sub_label":"Geashill","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q4076751","sub_label":"Ballycumber","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q3777979","sub_label":"Clonygowan","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q2473717","sub_label":"Kilcormac","sub_aliases":[],"obj_id":"Q184445","obj_label":"County Offaly"}
+{"sub_id":"Q1980036","sub_label":"Knockvicar","sub_aliases":["Cnoc an Bhioc\u00e1ire","Cnoc an Bhiocaire"],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q608133","sub_label":"Lough Ree","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q4233428","sub_label":"Cornafulla","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q2440586","sub_label":"Tarmonbarry","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q2575174","sub_label":"Frenchpark","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q369911","sub_label":"Athlone","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q2134029","sub_label":"Athleague","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q6686198","sub_label":"Loughglinn","sub_aliases":[],"obj_id":"Q179437","obj_label":"County Roscommon"}
+{"sub_id":"Q944964","sub_label":"Killala Bay","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q2574779","sub_label":"Markree Observatory","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q282407","sub_label":"Strandhill","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q2091038","sub_label":"Kilglass","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q2059721","sub_label":"Mac Diarmada railway station","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q588364","sub_label":"Enniscrone","sub_aliases":["Inishcrone"],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q1025564","sub_label":"Dromore West","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q2668607","sub_label":"Cliffoney","sub_aliases":[],"obj_id":"Q179325","obj_label":"County Sligo"}
+{"sub_id":"Q1836439","sub_label":"Ormonde Castle","sub_aliases":["Carrick-on-Suir Castle"],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q383188","sub_label":"Thurles","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q2084365","sub_label":"Gortnahoe","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q2084236","sub_label":"Bansha","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q4220581","sub_label":"Kilsheelan","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q2421018","sub_label":"Semple Stadium","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q4278040","sub_label":"Mullinahone","sub_aliases":[],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q4465403","sub_label":"Toomyvara","sub_aliases":["Toomevara"],"obj_id":"Q184618","obj_label":"County Tipperary"}
+{"sub_id":"Q812903","sub_label":"Beaghmore","sub_aliases":["Beaghmore Stone Circles"],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q600408","sub_label":"Sperrins","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q2474197","sub_label":"River Mourne","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q4377219","sub_label":"Drumquin","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q10950325","sub_label":"Beragh","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q608356","sub_label":"Fivemiletown","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q4376930","sub_label":"Augher","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q6407606","sub_label":"Killeter","sub_aliases":[],"obj_id":"Q192229","obj_label":"County Tyrone"}
+{"sub_id":"Q4077410","sub_label":"Bunmahon","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q1013935","sub_label":"Dunmore East","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q3740288","sub_label":"Fauscoum","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q4111259","sub_label":"Villierstown","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q2368947","sub_label":"Lismore Castle","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q4220542","sub_label":"Kilmeadan","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q2321807","sub_label":"Lismore Cathedral","sub_aliases":["Lismore Cathedral, Ireland","St. Carthage's Cathedral","St. Carthage's Cathedral, Lismore"],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q507924","sub_label":"Tramore","sub_aliases":[],"obj_id":"Q184594","obj_label":"County Waterford"}
+{"sub_id":"Q14183","sub_label":"Irish Sign Language","sub_aliases":["Teanga Chomhartha\u00edochta na h\u00c9ireann","ISL","isg","Teanga Chomharthaiochta na hEireann"],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q1049648","sub_label":"Castlepollard","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q3968929","sub_label":"Athlone railway station","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q669303","sub_label":"Fore Priory of Sts Taurin and Fechin","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q68364","sub_label":"Kilbeggan","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q2488367","sub_label":"Collinstown","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q4391052","sub_label":"Raharney","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q55308","sub_label":"Mullingar","sub_aliases":[],"obj_id":"Q182633","obj_label":"County Westmeath"}
+{"sub_id":"Q4483293","sub_label":"Fethard-on-Sea","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q2364023","sub_label":"Duncannon","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q4154872","sub_label":"Duncormick","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q2084249","sub_label":"Courtown","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q3776990","sub_label":"Oulart","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q5897891","sub_label":"Hook Lighthouse","sub_aliases":["Hook Head Lighthouse","Hook Head"],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q5167451","sub_label":"Coolgreany","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q2281650","sub_label":"Rosslare Europort","sub_aliases":[],"obj_id":"Q184599","obj_label":"County Wexford"}
+{"sub_id":"Q691153","sub_label":"Glendalough","sub_aliases":["Glen of Two Lakes","Glendalough valley"],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q2639372","sub_label":"Mullaghcleevaun","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q2437185","sub_label":"Kilcoole","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q2091085","sub_label":"Carnew","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q938017","sub_label":"Greystones","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q2939135","sub_label":"Carlisle Grounds","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q514648","sub_label":"Lugnaquilla","sub_aliases":["Lugnaquillia","Lug"],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q25840","sub_label":"Powerscourt Estate","sub_aliases":[],"obj_id":"Q182591","obj_label":"County Wicklow"}
+{"sub_id":"Q2058238","sub_label":"Summer Isles","sub_aliases":[],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q2579696","sub_label":"Carnach","sub_aliases":[],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q816646","sub_label":"Ben Wyvis","sub_aliases":[],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q894894","sub_label":"Bottle Island","sub_aliases":["Eilean Druim"],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q531704","sub_label":"Tanera Beg","sub_aliases":["Tanera Beag"],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q7459806","sub_label":"Sg\u00f9rr M\u00f2r","sub_aliases":["Sgurr Mor"],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q3057913","sub_label":"Tanera M\u00f2r","sub_aliases":["Tanera Mor","Tanera More"],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q5050486","sub_label":"Castlecraig","sub_aliases":["Castle Craig","Craig Castle"],"obj_id":"Q1140824","obj_label":"Cromartyshire"}
+{"sub_id":"Q192896","sub_label":"Carlisle","sub_aliases":["Carlisle (parish)"],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q614836","sub_label":"Carlisle Castle","sub_aliases":[],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q640981","sub_label":"Maryport","sub_aliases":[],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q895484","sub_label":"Bowness-on-Solway","sub_aliases":["Bowness-on-Solway, Cumbria"],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q1020242","sub_label":"Thursby","sub_aliases":["Thursby, Cumbria"],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q514635","sub_label":"Wast Water","sub_aliases":[],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q241684","sub_label":"Cockermouth","sub_aliases":["Cockermouth, Cumbria"],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q1063567","sub_label":"Sellafield","sub_aliases":["Sellafield (United Kingdom)","Sellafield nuclear site"],"obj_id":"Q23360","obj_label":"Cumberland"}
+{"sub_id":"Q158822","sub_label":"Pontcysyllte Aqueduct","sub_aliases":["Traphont Pontcysyllte","Pontcysyllte Aqueduct and Canal"],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q6864241","sub_label":"Minera","sub_aliases":["Y Mwynglawdd"],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q3406313","sub_label":"Llansannan","sub_aliases":[],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q3107398","sub_label":"Llandegla","sub_aliases":["Llandegla-yn-I\u00e2l","Llandegla-yn-Ial"],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q3404936","sub_label":"Llanfair Talhaiarn","sub_aliases":[],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q203387","sub_label":"Betws-y-Coed","sub_aliases":[],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q13125322","sub_label":"Aberwheeler","sub_aliases":["Aberchwiler"],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q616452","sub_label":"Rhosllanerchrugog","sub_aliases":["Rhosllannerchrugog"],"obj_id":"Q5256625","obj_label":"Denbighshire"}
+{"sub_id":"Q216045","sub_label":"Lockerbie","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q15706482","sub_label":"Bentpath","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q45846","sub_label":"Annandale","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q6859516","sub_label":"Millhousebridge","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q1312413","sub_label":"Quintinshill rail disaster","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q1549065","sub_label":"Southern Uplands","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q4746795","sub_label":"Amisfield","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q1010114","sub_label":"Eastriggs","sub_aliases":[],"obj_id":"Q1247384","obj_label":"Dumfriesshire"}
+{"sub_id":"Q3396360","sub_label":"Leeswood","sub_aliases":["Coed-llai"],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q3401133","sub_label":"Bagillt","sub_aliases":[],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q5119934","sub_label":"Cilcain","sub_aliases":[],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q7440608","sub_label":"Sealand","sub_aliases":["Sealand, Flintshire"],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q6963824","sub_label":"Nannerch","sub_aliases":[],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q2752670","sub_label":"Penyffordd","sub_aliases":["Pen-y-ffordd"],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q5642527","sub_label":"Halkyn","sub_aliases":["Helygain"],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q2573736","sub_label":"Northop","sub_aliases":["Llaneurgain"],"obj_id":"Q684016","obj_label":"Flintshire"}
+{"sub_id":"Q2664179","sub_label":"Bargoed","sub_aliases":[],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q1537181","sub_label":"Tonypandy","sub_aliases":[],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q1244613","sub_label":"Llandaff","sub_aliases":["Llandaf"],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q2347528","sub_label":"Llantwit Major","sub_aliases":[],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q2030641","sub_label":"Pontardawe","sub_aliases":[],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q319369","sub_label":"Aberdare","sub_aliases":["Aberd\u00e2r","Aberdar"],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q1141148","sub_label":"Gower Peninsula","sub_aliases":["Gower"],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q1321874","sub_label":"National Museum Cardiff","sub_aliases":["National Museum of Wales","National Museum & Galllery Cardiff","Amgueddfa Genedlaethol Caerdydd","Museum of Cardiff","Museum Cardiff","Cardiff Museum"],"obj_id":"Q870815","obj_label":"Glamorgan"}
+{"sub_id":"Q1864413","sub_label":"Alconbury Weston","sub_aliases":["Alconbury Weston, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q2743526","sub_label":"Glatton","sub_aliases":["Glatton, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q598276","sub_label":"Farcet","sub_aliases":["Farcet, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q2502342","sub_label":"Sawtry","sub_aliases":["Sawtry, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q1926205","sub_label":"Warboys","sub_aliases":["Warboys, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q19722","sub_label":"River Nene","sub_aliases":[],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q776709","sub_label":"Little Gidding","sub_aliases":["Little Gidding, Cambridgeshire"],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q23112","sub_label":"Cambridgeshire","sub_aliases":["County of Cambridge","Cambs."],"obj_id":"Q67266168","obj_label":"Huntingdonshire"}
+{"sub_id":"Q339539","sub_label":"Vatersay","sub_aliases":["Bhatarsaigh"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q969065","sub_label":"Isle of Raasay","sub_aliases":["Raasay"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q1124736","sub_label":"Grampian Mountains","sub_aliases":["Grampians"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q166479","sub_label":"St Kilda","sub_aliases":["St. Kilda"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q123377","sub_label":"Hebrides","sub_aliases":["Western Islands"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q514481","sub_label":"Eigg","sub_aliases":["Isle of Eigg","Egg"],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q909073","sub_label":"Caledonian Canal","sub_aliases":[],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q755739","sub_label":"Benbecula","sub_aliases":[],"obj_id":"Q1247390","obj_label":"Inverness-shire"}
+{"sub_id":"Q967985","sub_label":"Fettercairn distillery","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q1145710","sub_label":"Fetteresso Castle","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q5181724","sub_label":"Craigmaroinn","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q1002177","sub_label":"Stonehaven","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q7827168","sub_label":"Torry","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q829215","sub_label":"Bervie Water","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q568713","sub_label":"Inverbervie","sub_aliases":[],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q746983","sub_label":"Dunnottar Castle","sub_aliases":["Dunfoithir","Le Castiel De Dunostre","Dunnottar Rock"],"obj_id":"Q376914","obj_label":"Kincardineshire"}
+{"sub_id":"Q6414085","sub_label":"Kinnesswood","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q5473935","sub_label":"Fothriff","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q108493677","sub_label":"Keltybridge","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q24643606","sub_label":"Gairney Water","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q7275151","sub_label":"RAF Balado Bridge","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q4849784","sub_label":"Balado","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q514388","sub_label":"Loch Leven Castle","sub_aliases":["Lochleven Castle"],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q5568587","sub_label":"Glenlomond","sub_aliases":[],"obj_id":"Q784746","obj_label":"Kinross-shire"}
+{"sub_id":"Q5568585","sub_label":"Glenlochar","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q1009969","sub_label":"Cargenbridge","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q6664990","sub_label":"Loch Neldricken","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q16024605","sub_label":"2014 World Mixed Doubles Curling Championship","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q7973561","sub_label":"Water of Ken","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q1272485","sub_label":"Lochinvar","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q607339","sub_label":"Threave Castle","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q3778560","sub_label":"New Galloway","sub_aliases":[],"obj_id":"Q17582096","obj_label":"Kirkcudbrightshire"}
+{"sub_id":"Q1859178","sub_label":"University of Strathclyde","sub_aliases":["Strathclyde University","Andersonian Institute","Anderson's College","Anderson's University","Glasgow and West of Scotland Technical College"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q610092","sub_label":"The OVO Hydro","sub_aliases":["The Hydro","SSE Hydro"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q800825","sub_label":"Glasgow Central station","sub_aliases":["Gordon Street, Central Station"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q1419068","sub_label":"Firhill Stadium","sub_aliases":[],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q1018723","sub_label":"Coatbridge","sub_aliases":[],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q1061094","sub_label":"Kelvingrove Art Gallery and Museum","sub_aliases":["Kelvingrove Art  Gallery & Museum","Kelvingrove Museum and Art Gallery","Kelvingrove Museum","Kelvingrove Art  Gallery","Kelvingrove Gallery","Kelvingrove Gallery  and Museum"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q5600557","sub_label":"Greater Glasgow","sub_aliases":["Metropolitan Glasgow","Clydeside","metropolitan City-Region of Glasgow","Glasgow and the Clyde Valley"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q680984","sub_label":"Bellshill","sub_aliases":["Bellshill, North Lanarkshire"],"obj_id":"Q530296","obj_label":"Lanarkshire"}
+{"sub_id":"Q1892770","sub_label":"North Wales","sub_aliases":["Gogledd Cymru","North of Wales","Northern Wales"],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q2311675","sub_label":"Corwen","sub_aliases":[],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q922365","sub_label":"Dyffryn Ardudwy","sub_aliases":[],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q672545","sub_label":"Barmouth","sub_aliases":["Abermaw"],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q3399931","sub_label":"Llanelltyd","sub_aliases":["Llanelltud"],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q7680325","sub_label":"Talsarnau","sub_aliases":[],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q3402457","sub_label":"Bryncrug","sub_aliases":["Bryn-crug"],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q3398853","sub_label":"Trawsfynydd","sub_aliases":[],"obj_id":"Q577711","obj_label":"Merionethshire"}
+{"sub_id":"Q62408","sub_label":"Palace of Westminster","sub_aliases":["Houses of Parliament","Westminster Palace","St. Stephen's"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q213322","sub_label":"Victoria and Albert Museum","sub_aliases":["V&A","Victoria & Albert Museum","Victoria And Albert Museum","V&A Museum","South Kensington Museum","v & a museum","va museum","V&A South Kensington","V and A South Kensington","Victoria & Albert Museum South Kensington","Victoria & Albert South Kensington","Victoria and Albert Museum South Kensington","Victoria and Albert South Kensington","The V&A"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q23311","sub_label":"City of London","sub_aliases":["the City","Square Mile","City and County of the City of London","City of London (unparished area)"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q205666","sub_label":"Hampton Court Palace","sub_aliases":["Hampton Court","Hampton Palace","Hampton Court Palace, London"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q173882","sub_label":"St Paul's Cathedral","sub_aliases":["Cathedral Church of St Paul the Apostle","St Paul's","Saint Paul's Cathedral","St. Paul's Cathedral","New St Paul's"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q41225","sub_label":"Big Ben","sub_aliases":[],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q171240","sub_label":"London Stock Exchange","sub_aliases":["LSE","London Stock Exchange, LSE","LSE APA"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q5933","sub_label":"Westminster Abbey","sub_aliases":["Collegiate Church of St Peter at Westminster"],"obj_id":"Q19186","obj_label":"Middlesex"}
+{"sub_id":"Q3304459","sub_label":"Abersychan","sub_aliases":[],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q3057926","sub_label":"Trellech","sub_aliases":["Tryleg"],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q1529978","sub_label":"Tredegar","sub_aliases":[],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q250115","sub_label":"Monnow Bridge","sub_aliases":["Monnow Bridge and Gateway","Monnow Bridge Gate, Monmouth"],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q1009261","sub_label":"Caerleon","sub_aliases":["Caerllion"],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q7228311","sub_label":"Pontllanfraith","sub_aliases":["Pontllan-fraith"],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q7359416","sub_label":"Rogiet","sub_aliases":[],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q6661794","sub_label":"Llantilio Crossenny","sub_aliases":["Llandeilo Gresynni"],"obj_id":"Q1245075","obj_label":"Monmouthshire"}
+{"sub_id":"Q2741834","sub_label":"Llanidloes","sub_aliases":[],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q3395924","sub_label":"Llansanffraid-ym-Mechain","sub_aliases":[],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q3309484","sub_label":"Berriew","sub_aliases":["Aberriw"],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q4667113","sub_label":"Aberhafesp","sub_aliases":["Aberhafesb"],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q13644930","sub_label":"Llandrinio","sub_aliases":[],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q1024911","sub_label":"Welshpool","sub_aliases":["Y Trallwng"],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q3403507","sub_label":"Llanbrynmair","sub_aliases":[],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q3402958","sub_label":"Carno","sub_aliases":[],"obj_id":"Q38825","obj_label":"Montgomeryshire"}
+{"sub_id":"Q2876000","sub_label":"RAF Kinloss","sub_aliases":["Kinloss Barracks","KW"],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q1887536","sub_label":"Forres railway station","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q2860166","sub_label":"Archiestown","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q1011728","sub_label":"Fochabers","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q805264","sub_label":"Ballindalloch","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q1010396","sub_label":"Grantown-on-Spey","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q1538148","sub_label":"Gordonstoun","sub_aliases":["Gordonstoun School"],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q2789683","sub_label":"Duffus Castle","sub_aliases":[],"obj_id":"Q1247435","obj_label":"Morayshire"}
+{"sub_id":"Q28406689","sub_label":"Nairn Castle","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q6959753","sub_label":"Nairn Academy","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q5192877","sub_label":"Culcharry","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q6959754","sub_label":"Nairn County F.C.","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q39505213","sub_label":"Balnuaran of Clava","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q1051919","sub_label":"Cawdor Castle","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q17571052","sub_label":"Boath House","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q1975432","sub_label":"Piperhill","sub_aliases":[],"obj_id":"Q1247441","obj_label":"Nairnshire"}
+{"sub_id":"Q1551897","sub_label":"Rousay","sub_aliases":[],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q1396255","sub_label":"Faray","sub_aliases":[],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q788269","sub_label":"Graemsay","sub_aliases":[],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q1478558","sub_label":"Stones  of Stenness","sub_aliases":["Standing Stones of Stenness"],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q2738637","sub_label":"Old Man of Hoy","sub_aliases":[],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q148749","sub_label":"Mainland","sub_aliases":["Pomona"],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q2449390","sub_label":"Lamb Holm","sub_aliases":["Lambholm"],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q928684","sub_label":"Burray","sub_aliases":[],"obj_id":"Q100166","obj_label":"Orkney Islands"}
+{"sub_id":"Q5336617","sub_label":"Eddleston Water","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q6817734","sub_label":"Menzion","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q7617796","sub_label":"Stobo Kirk","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q24639148","sub_label":"Pykestone Hill","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q2262955","sub_label":"Great Polish Map of Scotland","sub_aliases":["Barony Map","Mapa Scotland"],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q7334604","sub_label":"Talla Reservoir","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q7857467","sub_label":"Tweed Bridge","sub_aliases":["Peebles, Tweed Bridge"],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q5569361","sub_label":"Glentress Forest","sub_aliases":[],"obj_id":"Q1247417","obj_label":"Peeblesshire"}
+{"sub_id":"Q6661564","sub_label":"Llangunllo","sub_aliases":["Llangynllo"],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q4667057","sub_label":"Aberedw","sub_aliases":[],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q11017004","sub_label":"Newbridge-on-Wye","sub_aliases":["Bontnewydd ar Wy"],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q5566706","sub_label":"Glasbury","sub_aliases":["Y Clas-ar-Wy"],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q13130353","sub_label":"Nantmel","sub_aliases":[],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q7124909","sub_label":"Painscastle","sub_aliases":["Castell Paun"],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q13129609","sub_label":"Llanbister","sub_aliases":[],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q5137172","sub_label":"Clyro","sub_aliases":["Cleirwy"],"obj_id":"Q1244778","obj_label":"Radnorshire"}
+{"sub_id":"Q974134","sub_label":"Howwood","sub_aliases":["Howwood, Renfrewshire"],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q873762","sub_label":"Roman Catholic Diocese of Paisley","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q2086804","sub_label":"St Mirin's Cathedral","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q2246085","sub_label":"Scotstoun Stadium","sub_aliases":["Scotstoun Centre"],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q2598252","sub_label":"Barrhead","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q1016935","sub_label":"Giffnock","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q4769476","sub_label":"Anniesland","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q1011533","sub_label":"Kilmacolm","sub_aliases":[],"obj_id":"Q67545499","obj_label":"Renfrewshire"}
+{"sub_id":"Q1010212","sub_label":"Fortrose","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q2388485","sub_label":"Torridon","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q1140822","sub_label":"Cromarty Firth","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q3242938","sub_label":"Callanish Stones","sub_aliases":["Calanais Standing Stones","Callanish I"],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q893151","sub_label":"Dalmore distillery","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q1013733","sub_label":"Conon Bridge","sub_aliases":["Cononbridge"],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q157974","sub_label":"Glenmorangie","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q1011555","sub_label":"Muir of Ord","sub_aliases":[],"obj_id":"Q978599","obj_label":"Ross-shire"}
+{"sub_id":"Q246076","sub_label":"Abbotsford House","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q5065559","sub_label":"Cessford Castle","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q1011720","sub_label":"Newcastleton","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q7830026","sub_label":"Town Yetholm","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q1366790","sub_label":"River Teviot","sub_aliases":["Teviot Water","Teviot River"],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q1447338","sub_label":"Kelso Abbey","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q15229475","sub_label":"Jed Water","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q917255","sub_label":"Newtown St Boswells","sub_aliases":[],"obj_id":"Q664892","obj_label":"Roxburghshire"}
+{"sub_id":"Q8049581","sub_label":"Yarrowford","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q1644811","sub_label":"Torwoodlee Broch","sub_aliases":["Torwoodlee"],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q1746530","sub_label":"Southern Upland Way","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q5038783","sub_label":"Cardrona Forest","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q4950990","sub_label":"Bowhill House","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q8049573","sub_label":"Yarrow Water","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q994956","sub_label":"Ettrick Water","sub_aliases":["Ettrick"],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q2571859","sub_label":"Ettrickbridge","sub_aliases":[],"obj_id":"Q1247396","obj_label":"Selkirkshire"}
+{"sub_id":"Q1600805","sub_label":"Vaila","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q3141348","sub_label":"Housay","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q1641114","sub_label":"West Burra","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q782412","sub_label":"Sullom Voe","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q1674272","sub_label":"Isle of Noss","sub_aliases":["Noss","Noss NNR","Noss SSSI","Noss Site of Special Scientific Interest","Noss National Nature Reserve"],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q2278554","sub_label":"Muness Castle","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q1273310","sub_label":"Muckle Roe","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q1014090","sub_label":"Scalloway","sub_aliases":[],"obj_id":"Q47134","obj_label":"Shetland Islands"}
+{"sub_id":"Q1014515","sub_label":"Bonnybridge","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q47917","sub_label":"Inchfad","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q99327","sub_label":"Falkirk Wheel","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q16988858","sub_label":"The Kelpies","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q1907087","sub_label":"Torrance","sub_aliases":["Torrance, East Dunbartonshire"],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q1012324","sub_label":"Avonbridge","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q806814","sub_label":"Banknock","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q756268","sub_label":"Stirling Castle","sub_aliases":[],"obj_id":"Q1229763","obj_label":"Stirlingshire"}
+{"sub_id":"Q1014934","sub_label":"Burgess Hill","sub_aliases":["Burgess Hill, West Sussex"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q920646","sub_label":"Haywards Heath","sub_aliases":["Haywards Heath, West Sussex"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q810981","sub_label":"Battle Abbey","sub_aliases":["Benedictine abbey of St Martin, Battle","St Martin's Abbey, Battle","1066 Battle of Hastings, Abbey and Battlefield"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q1736182","sub_label":"Chichester Cathedral","sub_aliases":["Cathedral Church of the Holy Trinity"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q990112","sub_label":"Littlehampton","sub_aliases":["Littlehampton, West Sussex"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q1640242","sub_label":"Seaford","sub_aliases":["Seaford, East Sussex"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q1026871","sub_label":"Winchelsea","sub_aliases":["Winchelsea, East Sussex"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q431569","sub_label":"Eastbourne International","sub_aliases":["Aegon International"],"obj_id":"Q23346","obj_label":"Sussex"}
+{"sub_id":"Q911980","sub_label":"Loch Assynt","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q2731464","sub_label":"Suilven","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q946702","sub_label":"Dunrobin Castle","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q1246011","sub_label":"Dornoch Firth","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q37820","sub_label":"Eas a' Chual Aluinn","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q124932","sub_label":"Clynelish Distillery","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q1574348","sub_label":"Handa Island","sub_aliases":["Handa, Scotland","Handa"],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q1018558","sub_label":"Kinlochbervie","sub_aliases":[],"obj_id":"Q1061313","obj_label":"Sutherland"}
+{"sub_id":"Q697494","sub_label":"Arnside","sub_aliases":["Arnside, Cumbria"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q994575","sub_label":"Kendal","sub_aliases":[],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q1520387","sub_label":"Tebay","sub_aliases":["Tebay, Cumbria"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q2683420","sub_label":"Firbank","sub_aliases":["Firbank, Cumbria"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q1024028","sub_label":"King's Meaburn","sub_aliases":["Kings Meaburn","King's Meaburn, Cumbria"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q3242648","sub_label":"Natland","sub_aliases":["Natland, Cumbria"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q1573543","sub_label":"Kirkby Lonsdale","sub_aliases":[],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q895483","sub_label":"Bowness-on-Windermere","sub_aliases":["Bowness on Windermere"],"obj_id":"Q23326","obj_label":"Westmorland"}
+{"sub_id":"Q6407284","sub_label":"Killantringan Lighthouse","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q2445404","sub_label":"Whithorn Priory","sub_aliases":["Whithorn Priory, monastic settlement and priory"],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q2348561","sub_label":"Rhins of Galloway","sub_aliases":["Rinns of Galloway","The Rinns of Galloway","The Rhins of Galloway"],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q6723442","sub_label":"Machars","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q6902086","sub_label":"Monreith","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q1017187","sub_label":"Glenluce","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q1016985","sub_label":"Newton Stewart","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q6084068","sub_label":"Isle of Whithorn","sub_aliases":[],"obj_id":"Q550606","obj_label":"Wigtownshire"}
+{"sub_id":"Q58900","sub_label":"Doncaster","sub_aliases":[],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q408636","sub_label":"River Aire","sub_aliases":[],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q967165","sub_label":"University of York","sub_aliases":["York University","Ebor.","The University of York"],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q515022","sub_label":"River Tees","sub_aliases":[],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q852778","sub_label":"Whitby","sub_aliases":["Whitby, North Yorkshire"],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q990168","sub_label":"Keighley","sub_aliases":["Keighley, Bradford","Keighley, West Yorkshire"],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q897533","sub_label":"Bramall Lane","sub_aliases":[],"obj_id":"Q163","obj_label":"Yorkshire"}
+{"sub_id":"Q503424","sub_label":"University of Leeds","sub_aliases":["Leeds University"],"obj_id":"Q163","obj_label":"Yorkshire"}

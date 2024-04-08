@@ -1,0 +1,585 @@
+{"sub_id":"Q5206730","sub_label":"DXRR","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q5183537","sub_label":"Creative Programs","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q16836267","sub_label":"DXPS","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q3987033","sub_label":"The Filipino Channel","sub_aliases":["TFC"],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q5206410","sub_label":"DWAC-FM","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q5206580","sub_label":"DXAB","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q104721836","sub_label":"DYRV-AM","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q17125136","sub_label":"Yey!","sub_aliases":[],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q5120754","sub_label":"Cinema One","sub_aliases":["Cinema One Global"],"obj_id":"Q287617","obj_label":"ABS-CBN Corporation"}
+{"sub_id":"Q800449","sub_label":"Barcelona Estaci\u00f3 de Fran\u00e7a","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q800445","sub_label":"Arc de Triomf station","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q1054785","sub_label":"Cercan\u00edas Madrid","sub_aliases":["Cercanias Madrid"],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q801432","sub_label":"Estaci\u00f3n de Santa Justa","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q3097922","sub_label":"Val\u00e8ncia-Cabanyal station","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q2834432","sub_label":"Meridiana Tunnel","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q3781389","sub_label":"Lleida\u2013La Pobla Line","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q2536322","sub_label":"L'Hospitalet de Llobregat","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q810382","sub_label":"Basque Y","sub_aliases":[],"obj_id":"Q358752","obj_label":"Administrador de Infraestructuras Ferroviarias"}
+{"sub_id":"Q7371370","sub_label":"Route 128 station","sub_aliases":["Route 128\/University Park"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q5329282","sub_label":"East River Tunnels","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q16903157","sub_label":"Westchester Avenue station","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q4732272","sub_label":"Alliance","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q678233","sub_label":"Northeast Corridor","sub_aliases":["NEC"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q3095511","sub_label":"Oakland Coliseum station","sub_aliases":["Coliseum station","Coliseum\/Oakland Airport station"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q5368509","sub_label":"Elyria","sub_aliases":["Elyria station"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q4766212","sub_label":"Ann Arbor station","sub_aliases":[],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q3097429","sub_label":"Louise M. Slaughter Rochester Station","sub_aliases":["Rochester Amtrak station","Rochester railway station","Rochester Station"],"obj_id":"Q23239","obj_label":"Amtrak"}
+{"sub_id":"Q7378143","sub_label":"Rugby station","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q108866965","sub_label":"Fullerton Depot of Union Pacific Railroad","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q5599688","sub_label":"Great Northern Tunnel","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q5765783","sub_label":"Hinckley Subdivision","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q7587488","sub_label":"St. Charles Air Line","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q6380515","sub_label":"Inland Empire\u2013Orange County Line","sub_aliases":["IEOC"],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q6463291","sub_label":"La Junta Subdivision","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q5327020","sub_label":"Northstar Line","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q96377667","sub_label":"Fallbridge Subdivision","sub_aliases":[],"obj_id":"Q267122","obj_label":"BNSF Railway"}
+{"sub_id":"Q28380422","sub_label":"Babruysk","sub_aliases":["Babrujsk"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q28380430","sub_label":"Brest-Palyeski","sub_aliases":["Brest-Palieski"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q4160791","sub_label":"Dzyarzhynsk","sub_aliases":["Dziar\u017eynsk"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q2069627","sub_label":"Homyel\u2032-Pasazhyrski","sub_aliases":["Homie\u013a-Pasa\u017eyrski"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q4142906","sub_label":"Homyel\u2032-Tsotny","sub_aliases":["Homie\u013a-Cotny"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q2030933","sub_label":"Baranavichy-Palyeskiya","sub_aliases":["Baranavi\u010dy-Palieskija"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q14927685","sub_label":"Vasilyevichy","sub_aliases":["Vasilievi\u010dy"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q4337913","sub_label":"Asipovichy I","sub_aliases":["Asipovi\u010dy I"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q4442920","sub_label":"Stalichny","sub_aliases":["Stali\u010dny"],"obj_id":"Q76987","obj_label":"Belarusian Railway"}
+{"sub_id":"Q2913616","sub_label":"Burlington Northern Santa Fe Corporation","sub_aliases":[],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q5973793","sub_label":"ISCAR Metalworking","sub_aliases":[],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q7102378","sub_label":"Oriental Trading Company","sub_aliases":["Oriental Trading","OTC"],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q1390786","sub_label":"The Buffalo News","sub_aliases":["Buffalo News","The Buffalo Evening News","Buffalo Evening News"],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q2413332","sub_label":"The Pampered Chef","sub_aliases":["Pampered Chef"],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q4836822","sub_label":"BVD","sub_aliases":["B.V.D."],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q2045479","sub_label":"PacifiCorp","sub_aliases":["Pacific Power and Light Company"],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q7954357","sub_label":"WPLG","sub_aliases":[],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q7761169","sub_label":"The Roanoke Times","sub_aliases":["Roanoke Times"],"obj_id":"Q217583","obj_label":"Berkshire Hathaway"}
+{"sub_id":"Q571019","sub_label":"Konstanzer Stra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q689293","sub_label":"Bernauer Stra\u00dfe station","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q570943","sub_label":"Paulsternstra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q658302","sub_label":"Hallesches Tor","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q668563","sub_label":"Leinestra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q555939","sub_label":"Lindauer Allee","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q656441","sub_label":"Olympia-Stadion station","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q663308","sub_label":"Voltastra\u00dfe","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q660066","sub_label":"Stadtmitte station","sub_aliases":[],"obj_id":"Q99633","obj_label":"Berliner Verkehrsbetriebe"}
+{"sub_id":"Q4892296","sub_label":"Berkshire Subdivision","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q6659629","sub_label":"Livingston Avenue Bridge","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q5035538","sub_label":"Capital Crescent Trail","sub_aliases":["Capitol Crescent Trail"],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q7433089","sub_label":"Schuylkill Arsenal Railroad Bridge","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q8001553","sub_label":"Wildwood","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q7084438","sub_label":"Old Main Line Subdivision","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q1813806","sub_label":"Harrisburg Subdivision","sub_aliases":[],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q4916568","sub_label":"Birmingham","sub_aliases":["Birmingham station","Birmingham, Alabama"],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q22073168","sub_label":"Cowan Tunnel","sub_aliases":["Cumberland Mountain Tunnel"],"obj_id":"Q856783","obj_label":"CSX Transportation"}
+{"sub_id":"Q5009090","sub_label":"CBGA-FM","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q691631","sub_label":"ARTV","sub_aliases":["ICI ARTV"],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q1885896","sub_label":"Maison Radio-Canada","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q13630952","sub_label":"CBOF-FM","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q2931008","sub_label":"CBAFT-DT","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q2931024","sub_label":"CBFT-DT","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q892363","sub_label":"CBC Radio 3","sub_aliases":["CBC Radio Three"],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q2931040","sub_label":"CBOT-DT","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q5009043","sub_label":"CBC Sports","sub_aliases":[],"obj_id":"Q461761","obj_label":"Canadian Broadcasting Corporation"}
+{"sub_id":"Q16222997","sub_label":"SS York","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q7971383","sub_label":"Waseca Subdivision","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q3096134","sub_label":"Cartier railway station","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q3096358","sub_label":"Gare de Devon","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q7394249","sub_label":"SS Princess Marguerite","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q6869648","sub_label":"Minto","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q92451513","sub_label":"Muskego Yard","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q7974512","sub_label":"Watertown Subdivision","sub_aliases":["Watertown Sub"],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q16632515","sub_label":"Athletic Park ","sub_aliases":[],"obj_id":"Q46974","obj_label":"Canadian Pacific Railway"}
+{"sub_id":"Q1458074","sub_label":"Ocean Village","sub_aliases":[],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q1136377","sub_label":"Costa Serena","sub_aliases":[],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q1624735","sub_label":"Holland America Line","sub_aliases":["Holland America","Holland America Lines","Holland-America Line","Holland Amerika Line","Holland-Amerika Line","Holland-Amerika Lijn","Holland Amerika Lijn"],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q1128579","sub_label":"Seabourn Odyssey","sub_aliases":[],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q21540478","sub_label":"Majestic Princess","sub_aliases":["Sh\u00e8ngsh\u00ec G\u014dngzh\u01d4 H\u00e0o","\u76db\u4e16\u516c\u4e3b\u53f7"],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q3273219","sub_label":"MS Veendam","sub_aliases":[],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q777179","sub_label":"MV Aurora","sub_aliases":["Aurora"],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q3014295","sub_label":"Royal Princess","sub_aliases":[],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q1044080","sub_label":"IMO 9237357","sub_aliases":["Carnival Miracle"],"obj_id":"Q1044059","obj_label":"Carnival Corporation & plc"}
+{"sub_id":"Q3517348","sub_label":"Teletoon Retro","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q3326921","sub_label":"MovieTime","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q2931432","sub_label":"CHBC-DT","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q5012508","sub_label":"CKQB-FM","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q1424365","sub_label":"Mystery TV","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q2931647","sub_label":"CKND-DT","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q1267647","sub_label":"Dusk","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q5010753","sub_label":"CFOX-FM","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q5012149","sub_label":"CJOB","sub_aliases":[],"obj_id":"Q1135686","obj_label":"Corus Entertainment"}
+{"sub_id":"Q2054400","sub_label":"SS Parthia ","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q533218","sub_label":"IMO 5287902","sub_aliases":["Queen Elizabeth","Elizabeth","Seawise University"],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q1129773","sub_label":"SS Transylvania","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q638292","sub_label":"MS Golden Iris","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q2124384","sub_label":"RMS Ausonia","sub_aliases":["HMS Ausonia"],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q205588","sub_label":"RMS Britannia","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q7075969","sub_label":"Ocean Countess","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q1565521","sub_label":"RMS Caronia","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q1130868","sub_label":"RMS Umbria","sub_aliases":[],"obj_id":"Q730587","obj_label":"Cunard Line"}
+{"sub_id":"Q803292","sub_label":"Suceava\u2013Roman railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q12723295","sub_label":"Caransebe\u0219-Bou\u021bari-Subcetate railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q803207","sub_label":"Sf\u00e2ntu Gheorghe\u2013Siculeni\u2013Adjud railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q803136","sub_label":"R\u0103d\u0103u\u021bi\u2013Brodina railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q802158","sub_label":"Dej\u2013Jibou\u2013Zal\u0103u railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q802143","sub_label":"C\u00e2mpulung Moldovenesc\u2013Vatra Dornei railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q803212","sub_label":"Sibiu\u2013Avrig railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q18172841","sub_label":"Simeria\u2013Petro\u0219ani\u2013T\u00e2rgu Jiu\u2013Filia\u0219i railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q802470","sub_label":"Ilva Mic\u0103\u2013Floreni railway","sub_aliases":[],"obj_id":"Q795231","obj_label":"C\u0103ile Ferate Rom\u00e2ne"}
+{"sub_id":"Q3905843","sub_label":"Klampenborg Station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2624457","sub_label":"Sorgenfri station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q12329072","sub_label":"Niv\u00e5 Station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2162602","sub_label":"Helsing\u00f8r Station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q1963278","sub_label":"N\u00f8rrebro station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q1953807","sub_label":"J\u00e6gersborg station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q4596270","sub_label":"Aller\u00f8d station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q1825718","sub_label":"Snekkersten Station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q2350881","sub_label":"Frederikssund station","sub_aliases":[],"obj_id":"Q83824","obj_label":"DSB"}
+{"sub_id":"Q695244","sub_label":"Berlin Anhalter Bahnhof","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q681785","sub_label":"Berlin Zoologischer Garten railway station","sub_aliases":["S+U Zoologischer Garten"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q801228","sub_label":"M\u00fcnchen Ost station","sub_aliases":["M\u00fcnchen Ostbahnhof","Ostbahnhof","Munich East station"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q673721","sub_label":"Berlin Nordbahnhof","sub_aliases":["Berlin-Nordbahnhof"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q371816","sub_label":"Frankfurt Airport long-distance station","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q535612","sub_label":"Bremerhaven Hauptbahnhof","sub_aliases":["Bremerhaven Central Station"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q1188738","sub_label":"Railteam","sub_aliases":[],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q703916","sub_label":"Leipzig Hauptbahnhof","sub_aliases":["Leipzig Central Station","Leipzig Main station"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q1954","sub_label":"Cologne Central Station","sub_aliases":["K\u00f6ln Hauptbahnhof","K\u00f6ln Hbf"],"obj_id":"Q9322","obj_label":"Deutsche Bahn"}
+{"sub_id":"Q2242122","sub_label":"Fort Mosselstein","sub_aliases":["Dutch Castle"],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q7924503","sub_label":"Vianen","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q2539657","sub_label":"Vergulde Draeck","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q2841236","sub_label":"Hollandia","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q2093437","sub_label":"Arnhem","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q2783708","sub_label":"Zuytdorp","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q7366539","sub_label":"Rooswijk","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q30337464","sub_label":"Magdalena","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q48723810","sub_label":"Mauritius","sub_aliases":[],"obj_id":"Q159766","obj_label":"Dutch East India Company"}
+{"sub_id":"Q283800","sub_label":"King Arthur's Round Table","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1043847","sub_label":"Carn Euny","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1090235","sub_label":"Chysauster Ancient Village","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q2451071","sub_label":"Tregiffian Burial Chamber","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q427746","sub_label":"Nunney Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1232816","sub_label":"Maiden Castle","sub_aliases":["Maiden Castle, Dorchester"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q950970","sub_label":"Dover Castle","sub_aliases":[],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q1568148","sub_label":"Jewel Tower","sub_aliases":["The Jewel Tower"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q255574","sub_label":"Peveril Castle","sub_aliases":["Peveril Castle eleventh to fourteenth century tower keep castle","Castleton Castle","Peak Castle"],"obj_id":"Q936287","obj_label":"English Heritage"}
+{"sub_id":"Q2314407","sub_label":"The Indianapolis Star","sub_aliases":["Indianapolis Star","Indy Star","The Indianapolis Journal","Indianapolis Journal"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q4789787","sub_label":"Argus Leader","sub_aliases":["Sioux Falls Argus Leader","The Argus Leader","Argus-Leader","The Sioux Falls argus leader. Annual index"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q7763735","sub_label":"The Sheboygan Press","sub_aliases":["Sheboygan Press"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q6487485","sub_label":"Lansing State Journal","sub_aliases":[],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q10912356","sub_label":"Florida Today","sub_aliases":[],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q7305624","sub_label":"Redding Record Searchlight","sub_aliases":["Record Searchlight"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q5599170","sub_label":"Great Falls Tribune","sub_aliases":["Great Falls daily tribune"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q47260240","sub_label":"Oshkosh Northwestern","sub_aliases":["Daily Northwestern","The Northwestern"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q1265728","sub_label":"The Cincinnati Enquirer","sub_aliases":["Cincinnati Enquirer","enquirer.com","cincinnati.com"],"obj_id":"Q1345971","obj_label":"Gannett"}
+{"sub_id":"Q27415","sub_label":"Buick","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q1486081","sub_label":"GM Vietnam","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q29281","sub_label":"Holden","sub_aliases":["GM Holden Ltd (Holden)","Holden Ltd","General Motors-Holden's Ltd"],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q131885","sub_label":"Scripps-Booth","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q2345532","sub_label":"Lansing Grand River Assembly","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q732935","sub_label":"As\u00fcna","sub_aliases":[],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q29570","sub_label":"Chevrolet","sub_aliases":["Chevy","Chevrolet Division of General Motors Company y Nahuelito Gimenez"],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q28993","sub_label":"GMC","sub_aliases":["GMC Division of General Motors LLC"],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q519560","sub_label":"North American Aviation","sub_aliases":["NAA"],"obj_id":"Q81965","obj_label":"General Motors"}
+{"sub_id":"Q107165452","sub_label":"IES Juan de Garay","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q16545709","sub_label":"CIPFP Ausi\u00e0s March","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q943466","sub_label":"Palau de Castellfort","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q107098484","sub_label":"IES Ramon Llull, Valencia","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q107092267","sub_label":"IES Benim\u00e0met","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q6150536","sub_label":"Torre de la Calahorra","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q5903035","sub_label":"Hospital Universitari de la Ribera","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q9025903","sub_label":"Tram line 2 ","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q107086868","sub_label":"CEIP Sant Antoni de la Mar, Cullera","sub_aliases":[],"obj_id":"Q2477285","obj_label":"Generalitat Valenciana"}
+{"sub_id":"Q2503261","sub_label":"Vilapicina","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q8779791","sub_label":"Foneria","sub_aliases":["Foneria (Barcelona Metro)"],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q3753100","sub_label":"Cases dels Canonges","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q1936465","sub_label":"El Carmel","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q11926703","sub_label":"Catalan Institute of Finance","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q17615834","sub_label":"La Mag\u00f2ria station","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q8842458","sub_label":"Ecoparc station","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q2518479","sub_label":"Vall d'Hebron","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q2710794","sub_label":"Virrei Amat","sub_aliases":[],"obj_id":"Q8022","obj_label":"Generalitat of Catalonia"}
+{"sub_id":"Q48817537","sub_label":"Tenor","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q844992","sub_label":"Dodgeball","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q164203","sub_label":"VirusTotal","sub_aliases":["virustotal.com"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q79604","sub_label":"SketchUp","sub_aliases":["Trimble SketchUp"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q1816282","sub_label":"On2 Technologies","sub_aliases":["The Duck Corporation","TrueMotion S"],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q185179","sub_label":"Knol","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q2737647","sub_label":"Pyra Labs","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q5090112","sub_label":"Chelsea Market","sub_aliases":[],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q1575434","sub_label":"Metaweb","sub_aliases":["Metaweb Technologies, Inc."],"obj_id":"Q95","obj_label":"Google"}
+{"sub_id":"Q2003777","sub_label":"Canara Bank","sub_aliases":[],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q3220258","sub_label":"Antrix Corporation","sub_aliases":["Antrix"],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q502670","sub_label":"Chennai International Airport","sub_aliases":["Madras International Airport","Anna International Terminal","Kamraj Domestic Terminal","Meenambakkam Airport","MAA","VOMM","CHENNAI","Madras Airport"],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q3595747","sub_label":"Dena Bank","sub_aliases":[],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q3630918","sub_label":"Bharat Electronics","sub_aliases":["Bh\u0101rat ilek\u1e6drawnik"],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q1967805","sub_label":"NTPC Limited","sub_aliases":["National Thermal Power Corporation Limited","NTPC","NTPC Ltd","NTPC Ltd."],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q3595320","sub_label":"Teen Murti Bhavan","sub_aliases":[],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q278834","sub_label":"Bharat Sanchar Nigam Limited","sub_aliases":["BSNL"],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q2743499","sub_label":"Punjab National Bank","sub_aliases":["PNB"],"obj_id":"Q2767140","obj_label":"Government of India"}
+{"sub_id":"Q15835492","sub_label":"SS Moltke","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q323208","sub_label":"SS Albert Ballin","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q625319","sub_label":"SS Austria","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q7874115","sub_label":"USS Shoshone","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q323005","sub_label":"SS Deutschland","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q1795963","sub_label":"USS U. S. Grant","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q3200332","sub_label":"Kulmerland","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q6718146","sub_label":"MS Palatia","sub_aliases":[],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q682495","sub_label":"MS St. Louis","sub_aliases":["SS St. Louis"],"obj_id":"Q696056","obj_label":"Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft"}
+{"sub_id":"Q6653214","sub_label":"Litton Entertainment","sub_aliases":[],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q139103","sub_label":"San Francisco Chronicle","sub_aliases":["SFGate.com","sfchronicle.com","Chronicle","SF Chronicle"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q654606","sub_label":"Harper's Bazaar","sub_aliases":["Harper's Bazar"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q6842437","sub_label":"Midland Reporter-Telegram","sub_aliases":["Midland Reporter Telegram"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q606680","sub_label":"Cosmogirl","sub_aliases":[],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q2998331","sub_label":"Cosmopolitan Television","sub_aliases":["Cosmo","CosmoTV"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q7748499","sub_label":"The Los Angeles Herald-Express","sub_aliases":["Los Angeles Herald-Express","Los Angeles Evening Herald & Express","Los Angeles Evening Herald and Express","Los Angeles Evening Herald-Express","Los Angeles Evening Herald, Evening Express","Evening Herald","Evening Express","Los Angeles Evening Herald","Los Angeles Evening Express"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q5346160","sub_label":"Edwardsville Intelligencer","sub_aliases":["The Edwardsville Intelligencer"],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q7716160","sub_label":"The Beaumont Enterprise","sub_aliases":[],"obj_id":"Q1065024","obj_label":"Hearst Communications"}
+{"sub_id":"Q1105962","sub_label":"Kecskem\u00e9t Light Railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q1111159","sub_label":"Kisk\u0151r\u00f6s\u2013Kalocsa railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q23287275","sub_label":"H\u0171v\u00f6sv\u00f6lgy Station","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q3240165","sub_label":"Balatonfenyves Narrow Gauge Railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q514005","sub_label":"Domb\u00f3v\u00e1r\u2013B\u00e1tasz\u00e9k-line","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q764685","sub_label":"Budapest Southern Railway Terminal","sub_aliases":["Budapest-D\u00e9li Railway Terminal"],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q934633","sub_label":"Pusztaszabolcs\u2013Sz\u00e9kesfeh\u00e9rv\u00e1r railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q859243","sub_label":"Cegl\u00e9d\u2013Szeged railway","sub_aliases":[],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q1414728","sub_label":"Fi\u013eakovo\u2013Somosk\u0151\u00fajfalu railway","sub_aliases":["Hatvan\u2013Somosk\u0151\u00fajfalu vas\u00fatvonal"],"obj_id":"Q168082","obj_label":"Hungarian State Railways"}
+{"sub_id":"Q6364148","sub_label":"Kannur Railway Station","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q2012032","sub_label":"Godavari Arch Bridge","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q19457598","sub_label":"Chandanattop Halt","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q463735","sub_label":"Nilgiri Mountain Railway","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q387255","sub_label":"Jammu\u2013Baramulla line","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q3322605","sub_label":"Banaras Locomotive Works","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q3595157","sub_label":"South Central Railway zone","sub_aliases":["SCR"],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q3595265","sub_label":"Railtel Corporation of India","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q7171560","sub_label":"Kalka\u2013Shimla Railway","sub_aliases":[],"obj_id":"Q819425","obj_label":"Indian Railways"}
+{"sub_id":"Q738559","sub_label":"Moon Impact Probe","sub_aliases":["MIP"],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q19706","sub_label":"Aryabhata","sub_aliases":["Aryabhatta"],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q7798824","sub_label":"Thumba Equatorial Rocket Launching Station","sub_aliases":["TERLS"],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q60990709","sub_label":"Microsat-R","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q15694179","sub_label":"IRNSS-1C","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q298058","sub_label":"Astrosat","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q1493326","sub_label":"Megha-Tropiques","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q7692568","sub_label":"The Technology Experiment Satellite ","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q2633139","sub_label":"RISAT-1","sub_aliases":[],"obj_id":"Q229058","obj_label":"Indian Space Research Organisation"}
+{"sub_id":"Q142348","sub_label":"Le Parisien","sub_aliases":[],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q1330945","sub_label":"Champagne Krug","sub_aliases":[],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q966905","sub_label":"Loewe","sub_aliases":[],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q15950447","sub_label":"H\u00f4tel Heuz\u00e9 de Vologer","sub_aliases":["h\u00f4tel de Lambertye"],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q610350","sub_label":"Veuve Clicquot","sub_aliases":["Veuve Clicquot Ponsardin"],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q16621413","sub_label":"Villa Foscarini Rossi","sub_aliases":["Villa Foscarini Rossi a Stra"],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q691958","sub_label":"Hublot","sub_aliases":[],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q1137991","sub_label":"Thomas Pink","sub_aliases":[],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q1200698","sub_label":"Le Bon March\u00e9","sub_aliases":["Le Bon Marche"],"obj_id":"Q504998","obj_label":"LVMH"}
+{"sub_id":"Q4191799","sub_label":"Zieme\u013cbl\u0101zma Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q2660080","sub_label":"Riga Central Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q6112351","sub_label":"Sarkandaugava Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q5244309","sub_label":"Jelgava Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q11243981","sub_label":"Gulbene railway station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q2068319","sub_label":"Krustpils Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q4160874","sub_label":"Dzintari Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q2336005","sub_label":"Zasulauks Station","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q4071164","sub_label":"Asari Station, Latvia","sub_aliases":[],"obj_id":"Q327094","obj_label":"Latvian Railways"}
+{"sub_id":"Q3373081","sub_label":"PEPS","sub_aliases":["Pavillon de l'\u00c9ducation Physique et des Sports","Pavillon de l'Education Physique et des Sports"],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q3162378","sub_label":"Roger-Van den Hende botanical garden","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q64785355","sub_label":"pavillon G\u00e9rard-Bisaillon","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q63959098","sub_label":"Intersection","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q63967249","sub_label":"La puissance","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q3373027","sub_label":"pavillon Gene-H.-Kruger","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q63967380","sub_label":"Saint Matthieu, l'offre et la demande","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q2931481","sub_label":"CHYZ-FM","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q64032764","sub_label":"pavillon de M\u00e9decine dentaire","sub_aliases":[],"obj_id":"Q1067935","obj_label":"Laval University"}
+{"sub_id":"Q7116311","sub_label":"Oyster Bay","sub_aliases":["Oyster Bay station"],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q5599611","sub_label":"Great Neck","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q4049823","sub_label":"Southampton","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q7365732","sub_label":"Ronkonkoma Branch","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q5462925","sub_label":"Flushing \u2013 Main Street","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q4838506","sub_label":"Babylon Branch","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q6397893","sub_label":"Kew Gardens","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q11310077","sub_label":"Jamaica","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q5434607","sub_label":"Far Rockaway Branch","sub_aliases":[],"obj_id":"Q125943","obj_label":"Long Island Rail Road"}
+{"sub_id":"Q1669511","sub_label":"Diamond Hill station","sub_aliases":["DIH"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q989347","sub_label":"Tseung Kwan O line","sub_aliases":["TKL"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q15168","sub_label":"Sheung Wan station","sub_aliases":["SHW"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q6389697","sub_label":"Kennedy Town station","sub_aliases":["KET","Kennedy Town Station"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q8423586","sub_label":"Ho Man Tin station","sub_aliases":["HOM"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q839697","sub_label":"Tai Wo Hau station","sub_aliases":["TWH"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q989330","sub_label":"Disneyland Resort line","sub_aliases":[],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q838827","sub_label":"HKU station","sub_aliases":["Hong Kong University Station","HKU","HKU Station"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q996744","sub_label":"Tsim Sha Tsui Station","sub_aliases":["TST"],"obj_id":"Q1479375","obj_label":"MTR Corporation Limited"}
+{"sub_id":"Q3562475","sub_label":"Sullivan Square station","sub_aliases":["Sullivan station"],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q3736904","sub_label":"Ruggles station","sub_aliases":[],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q3021798","sub_label":"Government Center station","sub_aliases":["Scollay Square station"],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q172144","sub_label":"Ashmont\u2013Mattapan High-Speed Line","sub_aliases":["Mattapan Trolley"],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q4163500","sub_label":"Wood Island station","sub_aliases":["Day Square station","Wood Island Park station"],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q2913313","sub_label":"State station","sub_aliases":["State Street station"],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q54454","sub_label":"North Station","sub_aliases":[],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q3562508","sub_label":"Community College station","sub_aliases":[],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q4972390","sub_label":"Broadway station","sub_aliases":[],"obj_id":"Q171985","obj_label":"Massachusetts Bay Transportation Authority"}
+{"sub_id":"Q2499854","sub_label":"Office Online","sub_aliases":["Office Web Apps"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q40984","sub_label":"Skype","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q7480253","sub_label":"Tango Gameworks","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q189557","sub_label":"ZeniMax Media","sub_aliases":["ZeniMax Media Inc."],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q364","sub_label":"GitHub","sub_aliases":["GitHub Inc.","github.com","GitHub, Inc.","Logical Awesome LLC"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q64487188","sub_label":"Xbox Cloud Gaming","sub_aliases":["Project xCloud","Xbox Game streaming","Xbox Game Pass cloud gaming","xCloud"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q864889","sub_label":"OneDrive","sub_aliases":["Microsoft SkyDrive","Windows Live SkyDrive","Windows Live Folders","Windows Live Skydrive","SkyDrive","OneDrive.com","Microsoft OneDrive"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q4922077","sub_label":"The Coalition","sub_aliases":["Zipline Studios","Microsoft Game Studios Vancouver","Black Tusk Studios"],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q1062711","sub_label":"Games for Windows","sub_aliases":[],"obj_id":"Q2283","obj_label":"Microsoft"}
+{"sub_id":"Q7275353","sub_label":"RAF Greenham Common","sub_aliases":["Royal Air Force Station Greenham Common","Greenham Common Royal Air Force Base","Royal Air Force Greenham Common"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q1164127","sub_label":"RAF Coningsby","sub_aliases":["Royal Air Force Station Coningsby","Royal Air Force Coningsby","QCY","EGXC"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q3194324","sub_label":"RAF Valley","sub_aliases":[],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q7162913","sub_label":"Peninsula Barracks","sub_aliases":[],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q1164139","sub_label":"RAF Lossiemouth","sub_aliases":["LMO","EGQS"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q1754901","sub_label":"RAF Wittering","sub_aliases":["Royal Air Force Wittering"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q2876000","sub_label":"RAF Kinloss","sub_aliases":["Kinloss Barracks","KW"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q1420053","sub_label":"RAF Brize Norton","sub_aliases":["Royal Air Force station Brize Norton","Royal Air Force Brize Norton","BZZ","EGVN"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q7275217","sub_label":"RAF Cardington","sub_aliases":["Royal Air Force Cardington","Cardington Airfield"],"obj_id":"Q1143261","obj_label":"Ministry of Defence"}
+{"sub_id":"Q3211619","sub_label":"La Pie qui Chante","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q5331102","sub_label":"Easy Cheese","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q1545718","sub_label":"Nabisco","sub_aliases":["National Biscuit Company"],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q6913059","sub_label":"Moro","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q17108537","sub_label":"Nilla Wafers","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q215707","sub_label":"Toblerone","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q6413825","sub_label":"Kinh Do Corporation","sub_aliases":[],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q4272111","sub_label":"General Foods","sub_aliases":["General Foods Corporation"],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q6677525","sub_label":"Cadbury","sub_aliases":["Cadbury Schweppes","Cadbury Ltd."],"obj_id":"Q12857502","obj_label":"Mondel\u0113z International"}
+{"sub_id":"Q23673563","sub_label":"Khoroshevo","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q4513189","sub_label":"Lokomotiv","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q23673587","sub_label":"Verkhnie Kotly","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q21637184","sub_label":"Baltiyskaya","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q800977","sub_label":"Kalanchyovskaya","sub_aliases":["Moskva-Kalanchevskaya","Moscow-Kalanchyovskaya","Kalanchyovskaya station","Kalanchyovskaya railway station","Kalanchevskaya station","Kalanchevskaya railway station","Moskva-Kalanchevskaya station","Moskva-Kalanchyovskaya station"],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q23673584","sub_label":"Sokolinaya Gora","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q26857851","sub_label":"Shosse Entuziastov","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q26857931","sub_label":"Vladykino","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q23644362","sub_label":"Zorge","sub_aliases":[],"obj_id":"Q1765011","obj_label":"Moscow Railway"}
+{"sub_id":"Q883637","sub_label":"NBC Europe","sub_aliases":["Super Channel"],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q65064627","sub_label":"Universal Beijing Resort","sub_aliases":[],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q6935542","sub_label":"Universo","sub_aliases":["mun2","GEMS Television","NBC Universo","Mun2verizon"],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q462106","sub_label":"Das Vierte","sub_aliases":[],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q3046048","sub_label":"NBC Sports","sub_aliases":["NBCSports","nbcsports.com"],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q5151008","sub_label":"Comcast Network","sub_aliases":["The Comcast Network"],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q614539","sub_label":"Calle 13","sub_aliases":[],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q1337576","sub_label":"Universal Studios Hollywood","sub_aliases":[],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q2939795","sub_label":"Carnival Films","sub_aliases":["Carnival Film & Television"],"obj_id":"Q724759","obj_label":"NBCUniversal"}
+{"sub_id":"Q4840857","sub_label":"Badger Pass Ski Area","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1025105","sub_label":"Grant's Tomb","sub_aliases":["General Grant National Memorial"],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q5639456","sub_label":"Hains Point","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q5182624","sub_label":"Crater Lake Lodge","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q178114","sub_label":"Washington Monument","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q566356","sub_label":"Fort Stanwix","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q6252237","sub_label":"John Paul Jones Memorial","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1416812","sub_label":"Ford's Theatre","sub_aliases":["Ford's Theater"],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q5532097","sub_label":"General Philip Sheridan","sub_aliases":[],"obj_id":"Q308439","obj_label":"National Park Service"}
+{"sub_id":"Q1533452","sub_label":"Goat Fell","sub_aliases":["Goatfell"],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q1138741","sub_label":"Craigievar Castle","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q166479","sub_label":"St Kilda","sub_aliases":["St. Kilda"],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q1639552","sub_label":"Stac an Armin","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q2424554","sub_label":"Culross","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q924505","sub_label":"Brodick Castle","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q1049410","sub_label":"Castle Fraser","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q603956","sub_label":"Ben Lawers","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q2748806","sub_label":"Crathes Castle","sub_aliases":[],"obj_id":"Q599997","obj_label":"National Trust for Scotland"}
+{"sub_id":"Q1204628","sub_label":"Milo","sub_aliases":["Nestle Milo"],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q5307360","sub_label":"Dreyer's","sub_aliases":[],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q1154847","sub_label":"The Willy Wonka Candy Company","sub_aliases":["Nestl\u00e9 Candy Shop"],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q1529946","sub_label":"Panna","sub_aliases":["Acqua Panna"],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q27207017","sub_label":"Bear Brand","sub_aliases":["Nestle Bear Brand"],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q4115072","sub_label":"M\u00f6venpick Ice Cream","sub_aliases":[],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q1471021","sub_label":"Perrier","sub_aliases":[],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q7372265","sub_label":"Rowntree's Fruit Pastilles","sub_aliases":[],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q1900223","sub_label":"Rolo","sub_aliases":[],"obj_id":"Q160746","obj_label":"Nestl\u00e9"}
+{"sub_id":"Q800896","sub_label":"Harrow & Wealdstone station","sub_aliases":["Harrow & Wealdstone railway station","Harrow & Wealdstone Underground station","Harrow & Wealdstone tube station","Harrow and Wealdstone Station"],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q586470","sub_label":"Kyle of Lochalsh Line","sub_aliases":[],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q787651","sub_label":"West London Line","sub_aliases":[],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q800541","sub_label":"Blackhorse Road station","sub_aliases":["Blackhorse Road Underground station","Blackhorse Road tube station","Blackhorse Road railway station","Blackhorse Road"],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q801124","sub_label":"Liverpool Street station","sub_aliases":["Liverpool Street railway station","Bishopsgate station","London Liverpool Street","Liverpool Street Overground station"],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q801472","sub_label":"Stratford International station","sub_aliases":[],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q985210","sub_label":"London Victoria station","sub_aliases":["Victoria station","Victoria railway station","Victoria Railway Station The Former London, Chatham And Dover Railway Station Including Train Shed"],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q7633492","sub_label":"Sudbury & Harrow Road","sub_aliases":[],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q600367","sub_label":"Manchester Piccadilly station","sub_aliases":["Manchester London Road","Manchester Piccadilly"],"obj_id":"Q1501071","obj_label":"Network Rail"}
+{"sub_id":"Q7885326","sub_label":"Union","sub_aliases":["Union station"],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q4646685","sub_label":"9th Street-Congress Street","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q7244972","sub_label":"Princeton Junction station","sub_aliases":["Princeton Junction at West Windsor"],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q5599701","sub_label":"Great Notch","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q7974770","sub_label":"Watsessing Avenue","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q6550697","sub_label":"Lincoln Harbor","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q5430630","sub_label":"Fairmount Avenue","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q5399808","sub_label":"Essex Street","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q6824872","sub_label":"Metropark station","sub_aliases":[],"obj_id":"Q498553","obj_label":"New Jersey Transit"}
+{"sub_id":"Q689243","sub_label":"SS Kaiser Wilhelm der Grosse","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q2549923","sub_label":"USS Wabash","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q1547520","sub_label":"USS Aeolus","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q824748","sub_label":"SS K\u00f6nig Albert","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q1522875","sub_label":"SS Burdigala","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q2147537","sub_label":"USS Susquehanna","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q13431646","sub_label":"SS Huntsend","sub_aliases":["L\u00fctzow","HMT Huntsend"],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q703586","sub_label":"SS General von Steuben","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q15274115","sub_label":"SS Calabria ","sub_aliases":[],"obj_id":"Q652374","obj_label":"Norddeutscher Lloyd"}
+{"sub_id":"Q548259","sub_label":"Finlandsky Rail Terminal","sub_aliases":[],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4332034","sub_label":"Ozerki","sub_aliases":["Ozyornaya railway station"],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4322066","sub_label":"Novaya Derevnya","sub_aliases":[],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4243182","sub_label":"Kryukovo","sub_aliases":["Kryukovo station","Kryukovo railway station"],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4368228","sub_label":"Podrezkovo","sub_aliases":["Podrezkovo station","Podrezkovo railway station"],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4190328","sub_label":"Zelenogorsk","sub_aliases":[],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4123457","sub_label":"Volkovskaya","sub_aliases":[],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4353008","sub_label":"Pskov-Passenger","sub_aliases":[],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q4304484","sub_label":"Mosselmash","sub_aliases":["Mosselmash railway platform","Mosselmash station","Mosselmash railway station"],"obj_id":"Q1327441","obj_label":"Oktyabrskaya Railway"}
+{"sub_id":"Q1341849","sub_label":"R\u00e9publique","sub_aliases":["Republique"],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1417199","sub_label":"Madeleine","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1511406","sub_label":"Havre \u2013 Caumartin","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1494172","sub_label":"Gare de l'Est","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1368326","sub_label":"Esplanade de La D\u00e9fense","sub_aliases":["Esplanade de La Defense"],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q1344536","sub_label":"Porte Maillot","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q649160","sub_label":"Les Sablons","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q970075","sub_label":"Concorde","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q645400","sub_label":"Argentine","sub_aliases":[],"obj_id":"Q643290","obj_label":"RATP"}
+{"sub_id":"Q4277648","sub_label":"Malenkovskaya","sub_aliases":["Malenkovskaya railway station","Malenkovskaya station"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4127873","sub_label":"Federal Freight","sub_aliases":["Second Freight Company"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4514716","sub_label":"Cherusti","sub_aliases":["Cherusti station","Cherusti railway station"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4481674","sub_label":"Federal Passenger Company","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q30890335","sub_label":"Nizhny Novgorod City Rail","sub_aliases":["Nizhny Novgorod S-Train","Nizhny Novgorod Overground"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4411814","sub_label":"Murmansk\u2013Nikel Railway","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4178843","sub_label":"Moscow-Saint Petersburg Railway","sub_aliases":["Nikolaevskaya Railway"],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q4178831","sub_label":"Vesyegonsk Line","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q3093177","sub_label":"GEFCO","sub_aliases":[],"obj_id":"Q660770","obj_label":"Russian Railways"}
+{"sub_id":"Q738970","sub_label":"Nice-Ville railway station","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q801473","sub_label":"Gare de Strasbourg","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q2310209","sub_label":"Gare d'Hendaye","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q664399","sub_label":"Keolis","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q801170","sub_label":"Gare de Massy TGV","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q800609","sub_label":"Gare de Calais-Fr\u00e9thun","sub_aliases":["Gare de Calais-Frethun"],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q800424","sub_label":"A\u00e9roport Charles de Gaulle 2 TGV","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q745942","sub_label":"Gare de Paris-Nord","sub_aliases":["Paris-Nord","Gare du Nord"],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q586879","sub_label":"LGV Perpignan\u2013Figueres","sub_aliases":[],"obj_id":"Q13646","obj_label":"SNCF"}
+{"sub_id":"Q11479207","sub_label":"Kawagoe-Kubomachi Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q11523162","sub_label":"Murayama-chosuichi Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q11198291","sub_label":"Emio","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q10935479","sub_label":"\u014cnari Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q5367981","sub_label":"Koremasa Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q5754181","sub_label":"Higashiyamatoshi Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q843164","sub_label":"Nerima-Takanodai Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q5368205","sub_label":"Shiraitodai Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q8014496","sub_label":"Yasaka Station","sub_aliases":[],"obj_id":"Q83543","obj_label":"Seibu Railway"}
+{"sub_id":"Q278080","sub_label":"U-matic","sub_aliases":["Type E Helical Scan"],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q321259","sub_label":"Video CD","sub_aliases":["VCD","Compact Disc Digital Video","Video Compact Disc\uff1b VCD"],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q966852","sub_label":"Adelaide Productions","sub_aliases":[],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q5294","sub_label":"DVD","sub_aliases":["Digital Versatile Disc","Digital Video Disc","DVD discs"],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q5149791","sub_label":"Columbia Pictures Television","sub_aliases":["CPT Holdings Inc.","CPT"],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q770328","sub_label":"Aniplex","sub_aliases":["Aniplex Inc."],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q379770","sub_label":"AVCHD","sub_aliases":["Advanced Video Coding High Definition"],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q796924","sub_label":"Bravia","sub_aliases":[],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q830910","sub_label":"Betacam","sub_aliases":[],"obj_id":"Q41187","obj_label":"Sony"}
+{"sub_id":"Q6858580","sub_label":"Millbourne","sub_aliases":["Millbourne station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q7963710","sub_label":"Walnut\u2013Locust","sub_aliases":["Walnut\u2013Locust station","Walnut-Locust","Walnut-Locust station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q4641990","sub_label":"63rd Street","sub_aliases":["63rd Street station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q4638405","sub_label":"46th Street","sub_aliases":["46th Street station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q5055946","sub_label":"Cecil B. Moore","sub_aliases":["Cecil B. Moore station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q4637500","sub_label":"40th Street","sub_aliases":["40th Street station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q11704150","sub_label":"Susquehanna\u2013Dauphin","sub_aliases":["Susquehanna\u2013Dauphin station","Susquehanna-Dauphin station","Susquehanna-Dauphin"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q7548885","sub_label":"Snyder","sub_aliases":["Snyder station"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q4641998","sub_label":"63rd and Malvern Loop","sub_aliases":["63rd Street and Malvern Avenue Loop"],"obj_id":"Q2037863","obj_label":"Southeastern Pennsylvania Transportation Authority"}
+{"sub_id":"Q803443","sub_label":"Ziegelbr\u00fccke\u2013Linthal railway","sub_aliases":["Weesen\u2013Linthal railway","Glarnerlinie","Glarus line"],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q665859","sub_label":"Mittellandlinie","sub_aliases":["Olten\u2013Lausanne railway"],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q5845683","sub_label":"Amriswil station","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q15964194","sub_label":"Mannenbach-Salenstein  station","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q15964268","sub_label":"Steckborn Station","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q2585297","sub_label":"Wipkingen Tunnel","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q353948","sub_label":"Hauenstein railway line","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q1786044","sub_label":"Amsteg power station","sub_aliases":[],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q193002","sub_label":"Gotthard Base Tunnel","sub_aliases":["GBT","Gotthard-Basistunnel","Galleria di base del San Gottardo","Tunnel da basa dal Son Gottard"],"obj_id":"Q83835","obj_label":"Swiss Federal Railways"}
+{"sub_id":"Q684994","sub_label":"Super RTL","sub_aliases":["RTL Super"],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q64918019","sub_label":"Marvel Games","sub_aliases":[],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q1028714","sub_label":"Jiminy Cricket","sub_aliases":[],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q2703822","sub_label":"Skywalker Sound","sub_aliases":[],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q746676","sub_label":"Industrial Light & Magic","sub_aliases":["ILM"],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q953040","sub_label":"Searchlight Pictures","sub_aliases":[],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q3600483","sub_label":"ABC Family Worldwide","sub_aliases":["International Family Entertainment","Fox Family Worldwide"],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q6778202","sub_label":"Marvel Television","sub_aliases":[],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q390223","sub_label":"Club Penguin","sub_aliases":["CP"],"obj_id":"Q7414","obj_label":"The Walt Disney Company"}
+{"sub_id":"Q1041803","sub_label":"Dufferin","sub_aliases":["Dufferin station"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1040713","sub_label":"St. George","sub_aliases":["St. George station","St. George mobility hub"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1042111","sub_label":"Midland","sub_aliases":["Midland Station"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1041444","sub_label":"Sheppard\u2013Yonge","sub_aliases":["Sheppard-Yonge","Sheppard\u2013Yonge station","Sheppard-Yonge station","Sheppard\u2013Yonge mobility hub"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1041497","sub_label":"Glencairn","sub_aliases":["Glencairn Station"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1042459","sub_label":"McCowan","sub_aliases":["McCowan Station"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q964935","sub_label":"York Mills","sub_aliases":["York Mills station"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q1040650","sub_label":"Osgoode","sub_aliases":["Osgoode station","Osgoode mobility hub"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q54369","sub_label":"Line 1 Yonge\u2013University","sub_aliases":["Yonge-University-Spadina Line","Yonge-University Line","Line 1","Line One"],"obj_id":"Q17978","obj_label":"Toronto Transit Commission"}
+{"sub_id":"Q11920781","sub_label":"Bordeta","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q535545","sub_label":"Fontana","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2226449","sub_label":"Mundet","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2548194","sub_label":"Florida","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2021847","sub_label":"Hostafrancs","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q747555","sub_label":"Trinitat Nova","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q1850417","sub_label":"Montbau","sub_aliases":[],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q3824609","sub_label":"Parc Nou","sub_aliases":["Category:Parc Nou metro station"],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q2094288","sub_label":"Urgell","sub_aliases":["Urgell Metro Station"],"obj_id":"Q1778212","obj_label":"Transports Metropolitans de Barcelona"}
+{"sub_id":"Q4889570","sub_label":"Benliahmet Railway Staion","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q800974","sub_label":"Sirkeci Terminal","sub_aliases":["Istanbul Terminal","Istanbul Sirkeci Terminal"],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q4680650","sub_label":"Adapazar\u0131 Central Station","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q24088801","sub_label":"\u0130zmir\u2013Band\u0131rma\u2013Afyonkarahisar demiryolu","sub_aliases":["\u0130zmir\u2013Manisa\u2013Afyonkarahisar railway","Manisa\u2013Band\u0131rma railway"],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q800389","sub_label":"Ankara railway station","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q1242787","sub_label":"Samsunport","sub_aliases":["Port of Samsun","Samsun Port"],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q55074880","sub_label":"Gaziray","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q7521893","sub_label":"Ba\u015fkentray","sub_aliases":["Sincan\u2013Kaya\u015f suburban","Ankara suburban"],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q43398837","sub_label":"Tuzla station","sub_aliases":[],"obj_id":"Q499967","obj_label":"T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131"}
+{"sub_id":"Q1899311","sub_label":"Cornetto","sub_aliases":["Drumstick (ice cream)"],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q1989093","sub_label":"Brooke Bond","sub_aliases":[],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q2716255","sub_label":"Colman's","sub_aliases":["Colmans"],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q5976378","sub_label":"I Can't Believe It's Not Butter!","sub_aliases":[],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q7314518","sub_label":"Good Humor","sub_aliases":[],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q4035785","sub_label":"Calv\u00e9","sub_aliases":["Calve"],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q5135167","sub_label":"Close-Up","sub_aliases":[],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q185120","sub_label":"Vaseline","sub_aliases":[],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q1183694","sub_label":"Rexona","sub_aliases":["Shield"],"obj_id":"Q157062","obj_label":"Unilever"}
+{"sub_id":"Q11293754","sub_label":"Overland Route","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q85739715","sub_label":"Adams Subdivision","sub_aliases":["Adams Sub"],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q108324929","sub_label":"Nevada Subdivision","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q6419635","sub_label":"Klamath Falls station","sub_aliases":["Klamath Falls"],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q6709315","sub_label":"Lynndyl Subdivision","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q8025572","sub_label":"Winnemucca station","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q3097664","sub_label":"San Luis Obispo","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q7162746","sub_label":"Pengra Pass rail route","sub_aliases":[],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q5594703","sub_label":"Grand Junction","sub_aliases":["Grand Junction Station"],"obj_id":"Q725793","obj_label":"Union Pacific Railroad"}
+{"sub_id":"Q951774","sub_label":"The Ladd Company","sub_aliases":[],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q1156642","sub_label":"Warner Bros. Television Studios","sub_aliases":["Warner Bros. Television Division","Warner Bros. Television Productions","Warner Bros.-Seven Arts","Telewizja Warner Bros."],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q1255612","sub_label":"DramaFever","sub_aliases":["The 2012 DramaFever Awards","2017 DramaFever Awards"],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q2649438","sub_label":"Alloy Entertainment","sub_aliases":[],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q59244571","sub_label":"WarnerTV Comedy","sub_aliases":["TNT Comedy","glitz*","Warner TV Comedy","WarnerTV Comedy","TNT Glitz"],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q907357","sub_label":"Monolith Productions","sub_aliases":["Monolith Productions, Inc."],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q79202","sub_label":"New Line Cinema","sub_aliases":[],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q2107938","sub_label":"WB Games Boston","sub_aliases":["Turbine","Turbine, Inc."],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q622848","sub_label":"Castle Rock Entertainment","sub_aliases":[],"obj_id":"Q191715","obj_label":"WarnerMedia"}
+{"sub_id":"Q613302","sub_label":"JR Kobe Line","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1131666","sub_label":"Kizu Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q599974","sub_label":"Kosei Line","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1042954","sub_label":"Inae Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q3615865","sub_label":"Takada Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1136378","sub_label":"Kanazawa Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1042474","sub_label":"Yasu Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1042966","sub_label":"Seta Station","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1151659","sub_label":"Yamatoji Line","sub_aliases":[],"obj_id":"Q502125","obj_label":"West Japan Railway Company"}
+{"sub_id":"Q1033587","sub_label":"SS Canopic","sub_aliases":["Commonwealth"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1298146","sub_label":"SS Naronic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q3009228","sub_label":"SS Gallic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q6301671","sub_label":"SS Tropic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q918482","sub_label":"RMS Celtic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1131016","sub_label":"SS Megantic","sub_aliases":[],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1974925","sub_label":"RMS Majestic","sub_aliases":["SS Majestic","Majestic"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q7393992","sub_label":"SS Magnetic","sub_aliases":["Ryde"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q1968832","sub_label":"RMS Oceanic","sub_aliases":["Oceanic"],"obj_id":"Q320466","obj_label":"White Star Line"}
+{"sub_id":"Q64446888","sub_label":"Haller monument","sub_aliases":[],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q86747289","sub_label":"silver swan","sub_aliases":["Silberschwan"],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q82600565","sub_label":"flowing energies","sub_aliases":["Fliessende Energien"],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q72762691","sub_label":"shadow chimney","sub_aliases":["Schattenkamin"],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q63541371","sub_label":"chair and bed on carpet","sub_aliases":[],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q50419479","sub_label":"Lenbrunnen","sub_aliases":[],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q99223420","sub_label":"echo","sub_aliases":["Echo"],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q74856877","sub_label":"the rescue staircase","sub_aliases":["Die Rettungstreppe"],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q19362489","sub_label":"Haus Gerechtigkeitsgasse 81","sub_aliases":[],"obj_id":"Q11911","obj_label":"canton of Bern"}
+{"sub_id":"Q669665","sub_label":"Lower Inn Valley Railway","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q801606","sub_label":"Ottakring subway station","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q681581","sub_label":"Feldkirch\u2013Buchs railway","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q1014853","sub_label":"Burgenlandbahn","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q514441","sub_label":"Wien Meidling","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q259313","sub_label":"Semmering railway","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q1619775","sub_label":"Wien Nordwestbahnhof","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q698843","sub_label":"Attnang-Puchheim station","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}
+{"sub_id":"Q801311","sub_label":"Payerbach-Reichenau station","sub_aliases":[],"obj_id":"Q83822","obj_label":"\u00d6sterreichische Bundesbahnen"}

@@ -1,0 +1,150 @@
+{"sub_id":"Q8739","sub_label":"Archimedes","sub_aliases":["Archimedes of Syracuse"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q43423","sub_label":"Aesop","sub_aliases":["Aesopus","Esop","\u00c6sop","E\u017fope","\u00c6\u017fop"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q41980","sub_label":"Democritus","sub_aliases":["Democritos","Democritus of Abdera","Laughing Philosopher"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q43182","sub_label":"Eratosthenes","sub_aliases":["Eratosthenes of Cyrene"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q43216","sub_label":"Epicurus","sub_aliases":["Ep\u00edkouros","Epikouros"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q26825","sub_label":"Herodotos","sub_aliases":["Herodotus of Halicarnassus","Herodotus","Father of History"],"obj_id":"Q35497","obj_label":"Ancient Greek","answer_idx":0}
+{"sub_id":"Q208468","sub_label":"Taslima Nasrin","sub_aliases":["Taslima","Taslima Nasrin Sarkar"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q467083","sub_label":"Rokeya Sakhawat Hossain","sub_aliases":["Begum Rokeya","R. S. Hossein","Roquia Sakhawat Hussain"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q3020852","sub_label":"Debendranath Tagore","sub_aliases":["Devendranath Tagore"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q3344992","sub_label":"Syama Prasad Mukherjee","sub_aliases":["Syama Prasad Mookerjee"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q191375","sub_label":"Sheikh Mujibur Rahman","sub_aliases":["Bangabandhu","Sheikh Mujib"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q334818","sub_label":"Nazrul Islam","sub_aliases":["Nazrul","Dukhu Mia","Kazi Nazrul Islam"],"obj_id":"Q9610","obj_label":"Bengali","answer_idx":1}
+{"sub_id":"Q298027","sub_label":"Minna Canth","sub_aliases":["Ulrika Wilhelmina Johnsson","Ulrika Wilhelmina Canth","Ulrika Canth","Ulrika Wilhelmina (Minna) Johnsson","Ulrika Johnsson","Ulrika Wilhelmina (Minna) Canth"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q360079","sub_label":"Eino Leino","sub_aliases":["Armas Einar Leopold L\u00f6nnbohm","Einar L\u00f6nnbohm","Armas L\u00f6nnbohm"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q193111","sub_label":"Mika Waltari","sub_aliases":["Mika Toimi Waltari","Kristian Korppi","Leo Rainio","Leo Arne","M. Ritvala","Nauticus"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q233953","sub_label":"Sofi Oksanen","sub_aliases":["Sofi-Elina Oksanen"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q132723","sub_label":"Frans Eemil Sillanp\u00e4\u00e4","sub_aliases":["Frans Sillanp\u00e4\u00e4"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q211542","sub_label":"Arto Paasilinna","sub_aliases":["Arto Tapio Paasilinna"],"obj_id":"Q1412","obj_label":"Finnish","answer_idx":2}
+{"sub_id":"Q5879","sub_label":"Johann Wolfgang von Goethe","sub_aliases":["Johann Wolfgang Von Goethe","Goethe","goethe","johann wolfgang von goethe","joh. wolfg. von goethe","j. w. von goethe"],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q34787","sub_label":"Friedrich Engels","sub_aliases":["F. Engels","Frederik Engels","Friedrich Engles"],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q7294","sub_label":"Johannes Brahms","sub_aliases":["Brahms","G. W. Marks"],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q9235","sub_label":"Georg Wilhelm Friedrich Hegel","sub_aliases":["G. W. F. Hegel","Hegel"],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q9387","sub_label":"Max Weber","sub_aliases":["Maximilian Carl Emil Weber","Karl Emil Maximilian Weber","Max Vemper","Maks Veber","Makesi Weibo","Weibo","Maximilian Karl Emil Weber"],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q38193","sub_label":"Arthur Schopenhauer","sub_aliases":[],"obj_id":"Q188","obj_label":"German","answer_idx":3}
+{"sub_id":"Q2723574","sub_label":"Narsinh Mehta","sub_aliases":["Narsi Mehta","Narsi Bhagat","Narsinha Mehta","Narasimha Maheta"],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q6965469","sub_label":"Narayan Desai","sub_aliases":[],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q3633979","sub_label":"Govardhanram Tripathi","sub_aliases":["Govardhanram Madhavram Tripathi","G. M. Tripathi","Govardhanar\u0101ma M\u0101dhavar\u0101ma Trip\u0101\u1e6dh\u012b"],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q1226230","sub_label":"Umashankar Joshi","sub_aliases":["Vasuki","Shravan","Umashankar Jethalal Josh","Umashankar Jethalal Joshi"],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q2758776","sub_label":"Jhaverchand Meghani","sub_aliases":["alina imran master"],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q17338426","sub_label":"Sitanshu Yashaschandra","sub_aliases":["Sitanshu Mehta","Sitanshu Yashaschandra Mehta"],"obj_id":"Q5137","obj_label":"Gujarati","answer_idx":4}
+{"sub_id":"Q3522878","sub_label":"Suryakant Tripathi 'Nirala'","sub_aliases":["Nirala"],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q172634","sub_label":"Sumitranandan Pant","sub_aliases":["Sumitra Nandan Pant"],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q9575","sub_label":"Harivansh Rai Bachchan","sub_aliases":["Harivansh Rai Shrivastav","Bachchan"],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q3635837","sub_label":"Harishankar Parsai","sub_aliases":[],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q6739370","sub_label":"Makhanlal Chaturvedi","sub_aliases":["Pandit Makhanlal Chaturvedi"],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q7238560","sub_label":"Prasoon Joshi","sub_aliases":[],"obj_id":"Q1568","obj_label":"Hindi","answer_idx":5}
+{"sub_id":"Q211392","sub_label":"Endre Ady","sub_aliases":[],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q570810","sub_label":"Antal Szerb","sub_aliases":["A. H. Redcliff"],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q313359","sub_label":"Attila J\u00f3zsef","sub_aliases":["Attila Jozsef"],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q231948","sub_label":"Magda Szab\u00f3","sub_aliases":["Magda Szabo"],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q21600057","sub_label":"Vivien Keszthelyi","sub_aliases":[],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q36951","sub_label":"S\u00e1ndor M\u00e1rai","sub_aliases":["S\u00e1ndor K\u00e1roly Henrik Grosschmid","Sandor Marai","Sandor Karoly Henrik Grosschmid","Sandor M\u00e1rai","S\u00e1ndor M\u00e1rai"],"obj_id":"Q9067","obj_label":"Hungarian","answer_idx":6}
+{"sub_id":"Q762","sub_label":"Leonardo da Vinci","sub_aliases":[],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q83003","sub_label":"Antonio Gramsci","sub_aliases":["Antonio Francesco Gramsci"],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q680","sub_label":"Alessandro Volta","sub_aliases":["Alessandro Giuseppe Antonio Anastasio Volta"],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q7317","sub_label":"Giuseppe Verdi","sub_aliases":["Giuseppe Fortunino Francesco Verdi"],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q146183","sub_label":"John Bosco","sub_aliases":["Don Bosco","St. Juan Bosco","Ioannes Bosco","Giovanni Melchior Bosco","St. John Bosco","John Melchior Bosco"],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q177854","sub_label":"Lorenzo de' Medici","sub_aliases":["Lorenzo the Magnificent","Lorenzo de'Medici","il Magnifico Lorenzo de'Medici","Lorenzo il Magnifico","Lorenzo de Medici"],"obj_id":"Q652","obj_label":"Italian","answer_idx":7}
+{"sub_id":"Q5676","sub_label":"Matsuo Bash\u014d","sub_aliases":["Matsuo Basho","Bash\u014d","Bash\u00f4","Basho","Matsuo Bashou"],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q55400","sub_label":"Hayao Miyazaki","sub_aliases":["Miyazaki Hayao","Tsutomu Teruki"],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q160847","sub_label":"Hideki Tojo","sub_aliases":[],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q81731","sub_label":"Murasaki Shikibu","sub_aliases":["Lady Murasaki"],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q193344","sub_label":"Miyamoto Musashi","sub_aliases":["Shinmen Takez\u014d","Musashi Masana","Niten","Miyamoto Musashi Niten","Miyamoto Niten","Musashi","Takemura Musashi"],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q34479","sub_label":"Hirohito","sub_aliases":["Emperor Hirohito","Showa","Sh\u014dwa","Emperor Sh\u014dwa","Emperor Showa","Prince Michi"],"obj_id":"Q5287","obj_label":"Japanese","answer_idx":8}
+{"sub_id":"Q3536450","sub_label":"K. Shivaram Karanth","sub_aliases":["K. S. Karanth"],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q3351108","sub_label":"Kuvempu","sub_aliases":["Kuppali Venkatappa Puttappa","K. V. Puttappa"],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q6379310","sub_label":"Kavitha Lankesh","sub_aliases":[],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q3518406","sub_label":"Akka Mahadevi","sub_aliases":[],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q12434032","sub_label":"Devanur Mahadeva","sub_aliases":["Devanuru Mahadeva"],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q5246375","sub_label":"S. L. Bhyrappa","sub_aliases":["Santeshivara Lingannaiah Bhyrappa"],"obj_id":"Q33673","obj_label":"Kannada","answer_idx":9}
+{"sub_id":"Q1541","sub_label":"Cicero","sub_aliases":["Marcus Tullius Cicero","M. Tullii Ciceronis","M. Tullius Cicero"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q43922","sub_label":"Leo XIII","sub_aliases":["Vincenzo Gioacchino Raffaele Luigi Pecci","Leo PP. XIII","Gioacchino Vincenzo Pecci","Pope Leo XIII"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q1048","sub_label":"Julius Caesar","sub_aliases":["Caesar","Gaius Julius Caesar IV","Gaius Iulius Caesar","Imperator Gaius Julius Gaii filius Gaii nepos Caesar Patris Patriae","Divus Julius","Gaius Julius Caesar","Iulius Caesar","Divine Julius"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q1413","sub_label":"Nero","sub_aliases":["Emperor of Rome Nero","Nero Claudius Drusus Germanicus","Lucius Domitius Ahenobarbus","Nero Claudius Caesar Drusus Germanicus","Nero Claudius Drusus Germanicus Caesar","Nero Claudius Caesar Augustus Germanicus"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q42827","sub_label":"Gregory I","sub_aliases":["Pope Gregory I","Saint Gregory the Great","St. Gregory the Dialogist","Gregory","Gregory the Great","St Gregory","Saint Gregory","Pope St. Gregory I","Saint Gregory I","St Gregory I","St Gregory the Great","Pope Gregory the Great","St. Gregory the Great","Gregorius Anicius","Gregorius Magnus","Pope Saint Gregory I the Great","Pope Saint Gregory I","Saint Gregory the Dialogist","Saint Gregorius Magnus"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q2161","sub_label":"Tacitus","sub_aliases":["Publius Cornelius Tacitus","Gaius Cornelius Tacitus","P. Cornelius Tacitus","C. Cornelius Tacitus","Cornelius Tacitus"],"obj_id":"Q397","obj_label":"Latin","answer_idx":10}
+{"sub_id":"Q3520716","sub_label":"Ulloor S. Parameswara Iyer","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q2355413","sub_label":"Vallathol Narayana Menon","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q6551989","sub_label":"Kunchan Nambiar","sub_aliases":["Kalakkathu Kunchan Nambiar"],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q2506919","sub_label":"Thunchaththu Ezhuthachan","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q2979882","sub_label":"G. Sankara Kurup","sub_aliases":[],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q3595448","sub_label":"Balamani Amma","sub_aliases":["Bik","Nalapat Balamani Amma"],"obj_id":"Q36236","obj_label":"Malayalam","answer_idx":11}
+{"sub_id":"Q314394","sub_label":"Jyotirao Phule","sub_aliases":["Jyotiba Phule","Mahatma Jyotirao Phule","jotiba govindrao phule"],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q2982419","sub_label":"M. S. Golwalkar","sub_aliases":["Madhavrao Sadashivrao Golwalkar"],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q48645361","sub_label":"Savita Ambedkar","sub_aliases":["Maisaheb","Mai","Sharada Kabir","Savita Bhimrao Ambedkar","Dr. Savita Ambedkar"],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q3632609","sub_label":"Milind Gunaji","sub_aliases":[],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q55780","sub_label":"Samarth Ramdas","sub_aliases":[],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q3595577","sub_label":"Kusumagraj","sub_aliases":["Vishnu V\u0101man Shirw\u0101dkar"],"obj_id":"Q1571","obj_label":"Marathi","answer_idx":12}
+{"sub_id":"Q5320436","sub_label":"Sachidananda Routray","sub_aliases":["Sachi Rautara","Satchidananda Raut Roy"],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q3635724","sub_label":"Manoj Das","sub_aliases":[],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q3348637","sub_label":"Amar Singh","sub_aliases":["Amar Singh"],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q3595809","sub_label":"Sitakant Mahapatra","sub_aliases":[],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q3635656","sub_label":"Fakir Mohan Senapati","sub_aliases":[],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q5314070","sub_label":"Gopinath Mohanty","sub_aliases":[],"obj_id":"Q33810","obj_label":"Odia","answer_idx":13}
+{"sub_id":"Q6240","sub_label":"Hafez","sub_aliases":["Kh\u0101ja Shamsu D\u012bn Muhammad H\u0101fez-e Sh\u012br\u0101z\u012b","\u1e24\u0101fiz","Shamsoddin Mohammad Hafez-e Shirazi","\u1e24\u0101fe\u1e93","Mo\u1e25ammed Shams od-D\u012bn \u1e24afe\u1e93","\u1e24\u0101fi\u1e93","of Shiraz \u0160ams-al-Din Mo\u1e25ammad","\u1e24\u0101fi\u1e93 Sh\u012br\u0101z\u012b","Shams al-D\u012bn Mu\u1e25ammad Sh\u012br\u0101z\u012b","Shams-ud-Din Mohammed","Mo\u1e25ammed \u0160ams al-D\u012bn \u1e24afe\u1e93","Hafiz","Khafiz","Hafis","Haafiz","H\u00e4fiz"],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q741031","sub_label":"Khalilullah Khalili","sub_aliases":[],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q340046","sub_label":"Roya Hakakian","sub_aliases":[],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q400678","sub_label":"Ahmad Kasravi","sub_aliases":["Seyyed Ahmad Kasravi Tabrizi"],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q2041521","sub_label":"Gulbadan Begum","sub_aliases":[],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q803646","sub_label":"Bahram Bayzai","sub_aliases":["Bahram Beyzai"],"obj_id":"Q9168","obj_label":"Persian","answer_idx":14}
+{"sub_id":"Q41502","sub_label":"Henryk Sienkiewicz","sub_aliases":["Litwos","Henryk Adam Aleksander Pius Sienkiewicz"],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q376278","sub_label":"Julian Tuwim","sub_aliases":[],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q312101","sub_label":"Andrzej Sapkowski","sub_aliases":[],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q121180","sub_label":"W\u0142adys\u0142aw Reymont","sub_aliases":["Wladyslaw Reymont","W\u0142adys\u0142aw Stanis\u0142aw Reymont"],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q144439","sub_label":"Boles\u0142aw Prus","sub_aliases":["Aleksander G\u0142owacki","Boleslaw Prus"],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q254032","sub_label":"Olga Tokarczuk","sub_aliases":["Natasza Borodin","Olga Nawoja Tokarczuk"],"obj_id":"Q809","obj_label":"Polish","answer_idx":15}
+{"sub_id":"Q363927","sub_label":"Jos\u00e9 Eduardo Agualusa","sub_aliases":["Jose Eduardo Agualusa"],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q1152840","sub_label":"Jo\u00e3o Cabral de Melo Neto","sub_aliases":[],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q235992","sub_label":"Sophia de Mello Breyner Andresen","sub_aliases":[],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q455703","sub_label":"Jos\u00e9 de Alencar","sub_aliases":["Jose de Alencar","Erasmo","Jos\u00e9 Martini\u00e3o de Alencar"],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q316806","sub_label":"Almeida Garrett","sub_aliases":[],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q379745","sub_label":"Carlos Drummond de Andrade","sub_aliases":[],"obj_id":"Q5146","obj_label":"Portuguese","answer_idx":16}
+{"sub_id":"Q7646413","sub_label":"Surjit Paatar","sub_aliases":["Surjit Patar"],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q60803","sub_label":"Khwaja Ghulam Farid","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q3629539","sub_label":"Shiv Kumar Batalvi","sub_aliases":["Shiv Kumar"],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q4857023","sub_label":"Bano Qudsia","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q3351571","sub_label":"Bulleh Shah","sub_aliases":["Syed Abdullah Shah Qadri"],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q6814654","sub_label":"Mian Muhammad Bakhsh","sub_aliases":[],"obj_id":"Q58635","obj_label":"Punjabi","answer_idx":17}
+{"sub_id":"Q274334","sub_label":"Svetlana Aleksievich","sub_aliases":["Svetlana Alexandrovna Alexievich","Svetlana Aleksievi\u010d","Svyatlana Alyeksiyevich","Svyatlana Alyaksandrawna Alyeksiyevich"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q43718","sub_label":"Nikolai Gogol","sub_aliases":["Nikolay Vasil'yevich Gogol'","Nikola\u012d Vasil\u02b9evich Gogol\u02b9","N. V. Hohal\u02b9","Mykola Vasyl\u02b9ovych Hohol\u02b9","Gogol\u02b9","N. V. Gogol\u02b9","Nicholai V. Gogol","Nikolay Vasil'yevich Gogol","Nicolai Gogol","Nikolay Vasilyevich Gogol","Nikolaus Gogol","Nikolay Gogol'","N. Gogolis","Nicolaus Gogol","Nikolay Gogol","Nikolaj Gogolj","Nikolaj Gogol\u02b9","Miko\u0142aj Gogol","En Gogolli","Ko-kuo-li","Nicolas Gogol","Nikolai Vasil\u00b4evich Gogol\u00b4","N. V. Gogolj","Guogeli","Geguoli","Kuo-ko-li","Nikolai Vasil'evich Gogol","Nicolai Vasilievitch Gogol","Nikolai Vasilyevich Gogol"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q34474","sub_label":"Aleksandr Solzhenitsyn","sub_aliases":["Aleksandr Isayevich Solzhenitsyn","Alexander Solzhenitsyn"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q5685","sub_label":"Anton Chekhov","sub_aliases":["Anton Pavlovich Chekhov","Ant\u00f3n P\u00e1vlovi\u010d \u010c\u00e9hov","Ant\u00f3n P\u00e1vlovich Ch\u00e9khov","Chekhov"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q41223","sub_label":"Boris Pasternak","sub_aliases":["Boris Leonidovich Pasternak"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q131240","sub_label":"Anna Politkovskaya","sub_aliases":["Anna Mazepa","Anna Stepanovna Politkovskaya"],"obj_id":"Q7737","obj_label":"Russian","answer_idx":18}
+{"sub_id":"Q4120544","sub_label":"Madhav Shrihari Aney","sub_aliases":["M. S. Aney"],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q180967","sub_label":"Adi Shankara","sub_aliases":["Adi Sankarachaarya","Sankaracarya","Aryamba antharjanam","Sankara bhagavatp\u0101da","\u015aankara","Shankara","\u015aa\u1e45kar\u0101c\u0101rya","Sankara"],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q3630446","sub_label":"Bhoja","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q1771062","sub_label":"Gaudapada","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q312552","sub_label":"A\u015bvagho\u1e63a","sub_aliases":[],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q380234","sub_label":"V\u0101tsy\u0101yana","sub_aliases":["Vatsyayana"],"obj_id":"Q11059","obj_label":"Sanskrit","answer_idx":19}
+{"sub_id":"Q193346","sub_label":"Henning Mankell","sub_aliases":["Henning Georg Mankell"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q319849","sub_label":"Lukas Moodysson","sub_aliases":["Karl Fredrik Lukas Moodysson"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q214025","sub_label":"Princess Estelle, Duchess of \u00d6sterg\u00f6tland","sub_aliases":["Princess Estelle Silvia Ewa Mary, Duchess of \u00d6sterg\u00f6tland","Princess Estelle of Sweden, Duchess of \u00d6sterg\u00f6tland","Princess Estelle Silvia Ewa Mary of Sweden, Duchess of \u00d6sterg\u00f6tland","Estelle of Sweden","Estelle Silvia Ewa Mary of Sweden"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q42122","sub_label":"Tomas Transtr\u00f6mer","sub_aliases":["Tomas G\u00f6sta Transtr\u00f6mer","Tomas Transtr\u00f6mer"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q45068","sub_label":"Carl XVI Gustaf of Sweden","sub_aliases":["Carl Gustav XVI","Carl XVI Gustav of Sweden","Carl XVI Gustav","Carl Gustaf of Sweden","Carl XVI Gustaf","King Carl XVI Gustaf"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q44519","sub_label":"Selma Lagerl\u00f6f","sub_aliases":["Selma Ottilia Lovisa Lagerl\u00f6f"],"obj_id":"Q9027","obj_label":"Swedish","answer_idx":20}
+{"sub_id":"Q2752718","sub_label":"Francisco Soc Rodrigo","sub_aliases":["Rodrigo Francisco Soc"],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q1901144","sub_label":"N. V. M. Gonzalez","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q2661488","sub_label":"Lazaro Francisco","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q15452158","sub_label":"Peter Solis Nery","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q3547747","sub_label":"Lualhati Bautista","sub_aliases":["Lualhati Torres Bautista"],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q4904590","sub_label":"Bienvenido Lumbera","sub_aliases":[],"obj_id":"Q34057","obj_label":"Tagalog","answer_idx":21}
+{"sub_id":"Q3089507","sub_label":"Indra Soundar Rajan","sub_aliases":[],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q3163288","sub_label":"Jayakanthan","sub_aliases":["JK"],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q3534483","sub_label":"Bharathidasan","sub_aliases":["Bharathidasan","Bharatidasan"],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q492527","sub_label":"V. O. Chidambaram Pillai","sub_aliases":["Kappalottiya Tamizhan","Valliyappan Ulaganathan Chidambaram Pillai","Valliyappan Olaganathan Chidambaram Pillai"],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q737280","sub_label":"Periyar E. V. Ramasami","sub_aliases":["Periyar E. V. Ramasamy","Erode Venkata Ramasamy Naicker","Erode Venkatappa Ramasamy"],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q246260","sub_label":"Constanzo Beschi","sub_aliases":["Constantine Joseph Beschi"],"obj_id":"Q5885","obj_label":"Tamil","answer_idx":22}
+{"sub_id":"Q2075562","sub_label":"Gurazada Apparao","sub_aliases":["Gurazada Appa Rao","Gurajada Apparao","Gurajada Venkata Apparao"],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q3422639","sub_label":"Kancherla Gopanna","sub_aliases":["Bhakta Ramadasu","Bhadrachala Ramadasu","Kancharla Gopanna","Ramadasu"],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q7683304","sub_label":"Tanikella Bharani","sub_aliases":[],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q2044389","sub_label":"Tyagaraja","sub_aliases":["Tyagaraju","Thyagaraju","Thyagaraja","Kakarla Tyagabrahmam"],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q6361647","sub_label":"Kandukuri Veeresalingam","sub_aliases":[],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q121235","sub_label":"Krishnadevaraya","sub_aliases":["Srikrishna Devaraya","Sri Krishnadevarya","Krishnadevarya","Krishna Deva Raya","Krishnadeva Raya"],"obj_id":"Q8097","obj_label":"Telugu","answer_idx":23}
+{"sub_id":"Q6932517","sub_label":"Muhammad Ilyas Qadri","sub_aliases":["Bapa","Ilyas Qadri","Ameer Ahle Sunnat","Attar Qadri","Maulana Ilyas Qadri","Muhammad Ilyas Attar Qadri Razvi Ziaee"],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}
+{"sub_id":"Q61555","sub_label":"Qurratulain Hyder","sub_aliases":["Ainee Apa"],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}
+{"sub_id":"Q1508544","sub_label":"S. Ali Raza","sub_aliases":[],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}
+{"sub_id":"Q1066898","sub_label":"Altaf Hussain Hali","sub_aliases":["Alt\u0101f \u1e24usayn Hali","Mawlana Hali","Khwaja Altaf Hussain","K\u0332h\u0332v\u0101jah Alt\u0324\u0101f \u1e24usain \u1e24\u0101l\u012b"],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}
+{"sub_id":"Q107000","sub_label":"Mirza Ghalib","sub_aliases":["Ghalib","Mirza Asadullah Baig Khan"],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}
+{"sub_id":"Q24633880","sub_label":"Shamim Hanafi","sub_aliases":[],"obj_id":"Q1617","obj_label":"Urdu","answer_idx":24}

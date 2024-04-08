@@ -1,0 +1,150 @@
+{"sub_id":"Q109116","sub_label":"The Great Dictator","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q45602","sub_label":"Modern Times","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q374172","sub_label":"The Kid","sub_aliases":["Kid"],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q214723","sub_label":"The Gold Rush","sub_aliases":["Gold Rush"],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q584509","sub_label":"Limelight","sub_aliases":[],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q400101","sub_label":"A Countess from Hong Kong","sub_aliases":["Countess from Hong Kong"],"obj_id":"Q882","obj_label":"Charlie Chaplin","answer_idx":0}
+{"sub_id":"Q1077915","sub_label":"Sanshiro Sugata","sub_aliases":["Judo Saga"],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q678972","sub_label":"Stray Dog","sub_aliases":[],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q1341875","sub_label":"Drunken Angel","sub_aliases":[],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q20475","sub_label":"Yojimbo","sub_aliases":[],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q565231","sub_label":"Ran","sub_aliases":[],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q854990","sub_label":"Kagemusha","sub_aliases":["Shadow Warrior"],"obj_id":"Q8006","obj_label":"Akira Kurosawa","answer_idx":1}
+{"sub_id":"Q206124","sub_label":"Midnight in Paris","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q845057","sub_label":"Hannah and Her Sisters","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q212123","sub_label":"Vicky Cristina Barcelona","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q2907178","sub_label":"Blue Jasmine","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q733677","sub_label":"Match Point","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q20950014","sub_label":"Caf\u00e9 Society","sub_aliases":[],"obj_id":"Q25089","obj_label":"Woody Allen","answer_idx":2}
+{"sub_id":"Q239756","sub_label":"Wild Strawberries","sub_aliases":["Smultronst\u00e4llet"],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q165651","sub_label":"Fanny and Alexander","sub_aliases":["Fanny och Alexander","Fanny & Alexander"],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q830874","sub_label":"Cries and Whispers","sub_aliases":[],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q901217","sub_label":"Scenes from a Marriage","sub_aliases":[],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q587498","sub_label":"Through a Glass Darkly","sub_aliases":["Through a Glass, Darkly"],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q217189","sub_label":"The Seventh Seal","sub_aliases":["Seventh Seal"],"obj_id":"Q7546","obj_label":"Ingmar Bergman","answer_idx":3}
+{"sub_id":"Q622382","sub_label":"Aparajito","sub_aliases":[],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q639597","sub_label":"Charulata","sub_aliases":[],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q622284","sub_label":"The Apu Trilogy","sub_aliases":["Apu Trilogy"],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q622380","sub_label":"Pather Panchali","sub_aliases":[],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q22260787","sub_label":"Sonar Kella","sub_aliases":["The Golden Fortress","Shonar Kella"],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q622376","sub_label":"Apur Sansar","sub_aliases":["Apur Samsar","World of Apu","The World of Apu"],"obj_id":"Q8873","obj_label":"Satyajit Ray","answer_idx":4}
+{"sub_id":"Q155653","sub_label":"Spirited Away","sub_aliases":["Sen to Chihiro no Kamikakushi"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q498577","sub_label":"Castle in the Sky","sub_aliases":["Laputa","Tenk\u016b no shiro Laputa","laputa:Castle in the Sky"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q888131","sub_label":"The Wind Rises","sub_aliases":["Kaze Tachinu","Wind Rises"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q186572","sub_label":"Princess Mononoke","sub_aliases":["Mononoke-hime"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q39571","sub_label":"My Neighbor Totoro","sub_aliases":["Tonari no Totoro"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q236728","sub_label":"Ponyo on the Cliff by the Sea","sub_aliases":["Ponyo","Gake no ue no Ponyo"],"obj_id":"Q55400","obj_label":"Hayao Miyazaki","answer_idx":5}
+{"sub_id":"Q598109","sub_label":"Contempt","sub_aliases":["Le M\u00e9pris","Le Mepris"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q2478879","sub_label":"La Chinoise","sub_aliases":["Chinoise","The Chinese Girl"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q1211216","sub_label":"Bande \u00e0 part","sub_aliases":["Band of Outsiders","Bande a part"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q2625031","sub_label":"A Woman Is a Woman","sub_aliases":["Woman Is a Woman","Une femme est une femme","Death Is a Woman"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q195593","sub_label":"Masculin F\u00e9minin","sub_aliases":["Masculin f\u00e9minin","Masculin Feminin","Masculine-Feminine"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q542688","sub_label":"Alphaville","sub_aliases":["Alphaville: A Strange Adventure of Lemmy Caution","Alphaville, une \u00e9trange aventure de Lemmy Caution","The Strange Adventure of Lemmy Caution"],"obj_id":"Q53001","obj_label":"Jean-Luc Godard","answer_idx":6}
+{"sub_id":"Q329805","sub_label":"All About My Mother","sub_aliases":["Todo sobre mi madre"],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q478780","sub_label":"Talk to Her","sub_aliases":["Hable con ella"],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q209667","sub_label":"Volver","sub_aliases":[],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q643283","sub_label":"Women on the Verge of a Nervous Breakdown","sub_aliases":["Mujeres al borde de un ataque de nervios"],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q55609803","sub_label":"Pain and Glory","sub_aliases":["Pain & Glory","Dolor y gloria"],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q20026867","sub_label":"Julieta","sub_aliases":[],"obj_id":"Q55171","obj_label":"Pedro Almod\u00f3var","answer_idx":7}
+{"sub_id":"Q484675","sub_label":"L\u00e9on: The Professional","sub_aliases":["The Professional","L\u00e9on"],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q13435412","sub_label":"Brick Mansions","sub_aliases":[],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q380349","sub_label":"The Extraordinary Adventures of Ad\u00e8le Blanc-Sec","sub_aliases":["Ad\u00e8le: Rise of the Mummy","Extraordinary Adventures of Ad\u00e8le Blanc-Sec","Les Aventures extraordinaires d'Ad\u00e8le Blanc-Sec","The Extraordinary Adventures of Adele Blanc-Sec","Extraordinary Adventures of Adele Blanc-Sec"],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q743928","sub_label":"Nikita","sub_aliases":["La Femme Nikita"],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q865346","sub_label":"From Paris with Love","sub_aliases":[],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q20926273","sub_label":"Val\u00e9rian and the City of a Thousand Planets","sub_aliases":["Valerian and The City of A Thousand Planets","Valerian & The City of A Thousand Planets","Valerian and The City of 1000 Planets","Valerian and The City of One Thousand Planets","Valerian","Valerian and the City of a Thousand Planets 3D","Valerian and The City of 1000 Planets 3D","Valerian and The City of One Thousand Planets 3D"],"obj_id":"Q484779","obj_label":"Luc Besson","answer_idx":8}
+{"sub_id":"Q1677306","sub_label":"Sour Grapes","sub_aliases":[],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q7446852","sub_label":"Seinfeld","sub_aliases":[],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q7758715","sub_label":"The Puffy Shirt","sub_aliases":[],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q7756160","sub_label":"The Parking Garage","sub_aliases":[],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q7719707","sub_label":"The Boyfriend","sub_aliases":["The New Friend"],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q7749365","sub_label":"The Maestro","sub_aliases":[],"obj_id":"Q23728","obj_label":"Larry David","answer_idx":9}
+{"sub_id":"Q325662","sub_label":"Aguirre, the Wrath of God","sub_aliases":["Aguirre: The Wrath of God"],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q160259","sub_label":"Nosferatu the Vampyre","sub_aliases":["Nosferatu"],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q15407746","sub_label":"Queen of the Desert","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q180706","sub_label":"Rescue Dawn","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q1067409","sub_label":"Grizzly Man","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q698111","sub_label":"Fitzcarraldo","sub_aliases":[],"obj_id":"Q44131","obj_label":"Werner Herzog","answer_idx":10}
+{"sub_id":"Q920374","sub_label":"Ten","sub_aliases":["10"],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q2485167","sub_label":"Through the Olive Trees","sub_aliases":[],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q1059733","sub_label":"Like Someone in Love","sub_aliases":[],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q1198097","sub_label":"The Wind Will Carry Us","sub_aliases":["Wind Will Carry Us"],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q1214594","sub_label":"Certified Copy","sub_aliases":["Copie conforme"],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q794178","sub_label":"Taste of Cherry","sub_aliases":[],"obj_id":"Q55210","obj_label":"Abbas Kiarostami","answer_idx":11}
+{"sub_id":"Q1141252","sub_label":"Do the Right Thing","sub_aliases":["Jsbsiwoe"],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q2278739","sub_label":"School Daze","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q2277762","sub_label":"Bamboozled","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q2257944","sub_label":"She's Gotta Have It","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q1234074","sub_label":"Jungle Fever","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q508410","sub_label":"He Got Game","sub_aliases":[],"obj_id":"Q51566","obj_label":"Spike Lee","answer_idx":12}
+{"sub_id":"Q33101568","sub_label":"Human, Space, Time and Human","sub_aliases":["Time of Humans","The Time of Humans"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q485932","sub_label":"The Isle","sub_aliases":["\uc12c","Seom","Isle"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q494871","sub_label":"Spring, Summer, Fall, Winter... and Spring","sub_aliases":["Spring, Summer, Fall, Winter and Spring","\ubd04 \uc5ec\ub984 \uac00\uc744 \uaca8\uc6b8 \uadf8\ub9ac\uace0 \ubd04","Bom yeoreum gaeul gyeoul geurigo bom","Spring, Summer, Fall, Winter ... and Spring"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q483197","sub_label":"Piet\u00e0","sub_aliases":["Pieta","\ud53c\uc5d0\ud0c0"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q1577106","sub_label":"Wild Animals","sub_aliases":["\uc57c\uc0dd\ub3d9\ubb3c \ubcf4\ud638\uad6c\uc5ed","Yasaeng dongmul bohoguyeog"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q489818","sub_label":"3-Iron","sub_aliases":["\ube48\uc9d1","Bin-jip","Empty House"],"obj_id":"Q212990","obj_label":"Kim Ki-duk","answer_idx":13}
+{"sub_id":"Q1199628","sub_label":"Cl\u00e9o from 5 to 7","sub_aliases":["Cl\u00e9o de 5 \u00e0 7","Cleo From 5 to 7"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q2298257","sub_label":"Vagabond","sub_aliases":["Sans toit ni loi"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q1547511","sub_label":"One Hundred and One Nights","sub_aliases":["Les Cent et Une Nuits de Simon Cin\u00e9ma","Les Cent et Une Nuits de Simon Cinema","A Hundred and One Nights"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q2493884","sub_label":"The Gleaners and I","sub_aliases":["Gleaners and I","Les Glaneurs et la Glaneuse"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q1503132","sub_label":"La Pointe Courte","sub_aliases":["Pointe Courte","La Pointe courte"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q29406094","sub_label":"Faces Places","sub_aliases":["Visages, Villages"],"obj_id":"Q229990","obj_label":"Agn\u00e8s Varda","answer_idx":14}
+{"sub_id":"Q1305728","sub_label":"Somewhere in Time","sub_aliases":[],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q3210392","sub_label":"The Legend of Hell House","sub_aliases":["Legend of Hell House"],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q972001","sub_label":"The Incredible Shrinking Man","sub_aliases":["Incredible Shrinking Man"],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q573836","sub_label":"Button, Button","sub_aliases":[],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q2049168","sub_label":"House of Usher","sub_aliases":[],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q2793913","sub_label":"Nightmare at 20,000 Feet","sub_aliases":[],"obj_id":"Q325130","obj_label":"Richard Matheson","answer_idx":15}
+{"sub_id":"Q1817757","sub_label":"Leningrad Cowboys Go America","sub_aliases":[],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q28059224","sub_label":"The Other Side of Hope","sub_aliases":["Toivon tuolla puolen","Other Side of Hope"],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q7356034","sub_label":"Rocky VI","sub_aliases":[],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q1169861","sub_label":"The Match Factory Girl","sub_aliases":["Tulitikkutehtaan tytt\u00f6","Match Factory Girl"],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q944984","sub_label":"The Man Without a Past","sub_aliases":["Man Without a Past","Mies vailla menneisyytt\u00e4"],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q736498","sub_label":"Le Havre","sub_aliases":["Havre"],"obj_id":"Q276186","obj_label":"Aki Kaurism\u00e4ki","answer_idx":16}
+{"sub_id":"Q184591","sub_label":"10","sub_aliases":[],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q921042","sub_label":"Inspector Clouseau","sub_aliases":[],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q1755157","sub_label":"S.O.B.","sub_aliases":[],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q282372","sub_label":"City Heat","sub_aliases":[],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q1133395","sub_label":"The Pink Panther Strikes Again","sub_aliases":["Pink Panther Strikes Again"],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q3208185","sub_label":"Soldier in the Rain","sub_aliases":[],"obj_id":"Q56093","obj_label":"Blake Edwards","answer_idx":17}
+{"sub_id":"Q108946","sub_label":"A Few Good Men","sub_aliases":["Few Good Men"],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q18754959","sub_label":"Steve Jobs","sub_aliases":[],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q72397975","sub_label":"The Trial of the Chicago 7","sub_aliases":[],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q27888445","sub_label":"Molly's Game","sub_aliases":[],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q185888","sub_label":"The Social Network","sub_aliases":["Social Network"],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q273568","sub_label":"Charlie Wilson's War","sub_aliases":[],"obj_id":"Q299194","obj_label":"Aaron Sorkin","answer_idx":18}
+{"sub_id":"Q1779486","sub_label":"A Summer's Tale","sub_aliases":["Summer's Tale","Conte d'\u00e9t\u00e9"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q1193581","sub_label":"Boyfriends and Girlfriends","sub_aliases":["L'Ami de mon amie"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q1848742","sub_label":"Pauline at the Beach","sub_aliases":["Pauline \u00e0 la plage","Pauline a la plage"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q1094852","sub_label":"Claire's Knee","sub_aliases":["Le Genou de Claire"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q2000541","sub_label":"Full Moon in Paris","sub_aliases":["Les Nuits de la pleine lune"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q542527","sub_label":"My Night at Maud's","sub_aliases":["Ma nuit chez Maud"],"obj_id":"Q50764","obj_label":"\u00c9ric Rohmer","answer_idx":19}
+{"sub_id":"Q16538","sub_label":"South Park","sub_aliases":["SP"],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q174856","sub_label":"Make Love, Not Warcraft","sub_aliases":["'' Make Love, Not Warcraft ''"],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q743065","sub_label":"Ike's Wee Wee","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q287288","sub_label":"Best Friends Forever","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q691785","sub_label":"Orgazmo","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q860783","sub_label":"Chinpokomon","sub_aliases":[],"obj_id":"Q44414","obj_label":"Trey Parker","answer_idx":20}
+{"sub_id":"Q3536743","sub_label":"Thevar Magan","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q3572804","sub_label":"Vishwaroopam","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q5066084","sub_label":"Chachi 420","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q879204","sub_label":"Biwi No.1","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q3424207","sub_label":"Aalavandhan","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q760266","sub_label":"Hey Ram","sub_aliases":[],"obj_id":"Q381477","obj_label":"Kamal Haasan","answer_idx":21}
+{"sub_id":"Q257515","sub_label":"Plan 9 from Outer Space","sub_aliases":["Grave Robbers from Outer Space"],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q2052931","sub_label":"Necromania","sub_aliases":[],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q3053918","sub_label":"Orgy of the Dead","sub_aliases":[],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q1129503","sub_label":"Glen or Glenda","sub_aliases":["I Changed My Sex"],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q2476568","sub_label":"Night of the Ghouls","sub_aliases":[],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q1538318","sub_label":"I Woke Up Early The Day I Died","sub_aliases":[],"obj_id":"Q221843","obj_label":"Ed Wood","answer_idx":22}
+{"sub_id":"Q673738","sub_label":"The Draughtsman's Contract","sub_aliases":["Draughtsman's Contract"],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q1236153","sub_label":"Prospero's Books","sub_aliases":[],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q2297293","sub_label":"Drowning by Numbers","sub_aliases":[],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q661202","sub_label":"The Cook, the Thief, His Wife and Her Lover","sub_aliases":[],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q1211345","sub_label":"The Pillow Book","sub_aliases":["Pillow Book"],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q1170853","sub_label":"The Baby of M\u00e2con","sub_aliases":["Baby of M\u00e2con","The Baby of Macon","Baby of Macon"],"obj_id":"Q55282","obj_label":"Peter Greenaway","answer_idx":23}
+{"sub_id":"Q679746","sub_label":"The Goodbye Girl","sub_aliases":[],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}
+{"sub_id":"Q863335","sub_label":"Biloxi Blues","sub_aliases":[],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}
+{"sub_id":"Q1171692","sub_label":"California Suite","sub_aliases":[],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}
+{"sub_id":"Q1077690","sub_label":"The Odd Couple","sub_aliases":["Odd Couple"],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}
+{"sub_id":"Q288098","sub_label":"Murder by Death","sub_aliases":[],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}
+{"sub_id":"Q367610","sub_label":"Barefoot in the Park ","sub_aliases":["Barefoot in the Park"],"obj_id":"Q315808","obj_label":"Neil Simon","answer_idx":24}

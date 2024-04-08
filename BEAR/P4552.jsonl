@@ -1,0 +1,144 @@
+{"sub_id":"Q8524323","sub_label":"Giant Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q8526995","sub_label":"Hurricane Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q7548744","sub_label":"Snowy Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q4748134","sub_label":"Ampersand Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q5401250","sub_label":"Esther Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q3434515","sub_label":"Whiteface Mountain","sub_aliases":[],"obj_id":"Q357546","obj_label":"Adirondack Mountains","answer_idx":0}
+{"sub_id":"Q2417486","sub_label":"Monte Vettore","sub_aliases":[],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q1088265","sub_label":"Pollino","sub_aliases":[],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q217449","sub_label":"Val d'Orcia","sub_aliases":[],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q283034","sub_label":"Mugello","sub_aliases":[],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q755123","sub_label":"Phlegraean Fields","sub_aliases":["Campi Flegrei"],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q154372","sub_label":"Monte Cassino","sub_aliases":[],"obj_id":"Q1285","obj_label":"Apennine Mountains","answer_idx":1}
+{"sub_id":"Q142668","sub_label":"Shenandoah Valley","sub_aliases":[],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q2983435","sub_label":"colline de Qu\u00e9bec","sub_aliases":["Promontory of Quebec","promontoire de Qu\u00e9bec","colline de Quebec","escarpement de Qu\u00e9bec","promontoire de Quebec","escarpement de Quebec","plateau Qu\u00e9bec-Sainte-Foy","plateau Quebec-Sainte-Foy"],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q8519299","sub_label":"Mount Kineo","sub_aliases":[],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q3321861","sub_label":"Mont Ham","sub_aliases":[],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q654947","sub_label":"Allegheny Plateau","sub_aliases":[],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q4713376","sub_label":"Alcovy Mountain","sub_aliases":[],"obj_id":"Q93332","obj_label":"Appalachian Mountains","answer_idx":2}
+{"sub_id":"Q666668","sub_label":"Grimsel Pass","sub_aliases":[],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q66218","sub_label":"Kandersteg","sub_aliases":["Kandersteg BE"],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q665676","sub_label":"Jungfraujoch","sub_aliases":[],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q16525","sub_label":"M\u00f6nch","sub_aliases":["Monch"],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q64004","sub_label":"Grindelwald","sub_aliases":["Grindelwald BE"],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q16693","sub_label":"Niesen","sub_aliases":[],"obj_id":"Q327221","obj_label":"Bernese Alps","answer_idx":3}
+{"sub_id":"Q511951","sub_label":"Predeal","sub_aliases":["Prede\u00e1l"],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q4372154","sub_label":"Pip Ivan","sub_aliases":[],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q261418","sub_label":"Mizhhirya","sub_aliases":["Mizhhiria"],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q213296","sub_label":"Sinaia","sub_aliases":[],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q776842","sub_label":"Eastern Carpathians","sub_aliases":[],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q794973","sub_label":"B\u00e2lea Lake","sub_aliases":["Balea Lake"],"obj_id":"Q1288","obj_label":"Carpathian Mountains","answer_idx":4}
+{"sub_id":"Q2982127","sub_label":"Snoqualmie Pass","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q3323122","sub_label":"Wenatchee Mountains","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q658484","sub_label":"Broken Top","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q1367080","sub_label":"Little Tahoma Peak","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q3116138","sub_label":"Greenleaf Peak","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q3086162","sub_label":"North Cascades","sub_aliases":[],"obj_id":"Q4558","obj_label":"Cascade Range","answer_idx":5}
+{"sub_id":"Q7304273","sub_label":"Red Hill Fire Observation Station","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q4805812","sub_label":"Ashokan High Point","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q34816660","sub_label":"Utsayantha Mountain","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q5593091","sub_label":"Graham Mountain","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q7788531","sub_label":"Thomas Cole Mountain","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q7939097","sub_label":"Vly Mountain","sub_aliases":[],"obj_id":"Q630566","obj_label":"Catskill Mountains","answer_idx":6}
+{"sub_id":"Q837723","sub_label":"Magli\u0107","sub_aliases":[],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q394286","sub_label":"\u017dumberak","sub_aliases":["Gorjanci"],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q1370044","sub_label":"Lov\u0107en","sub_aliases":[],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q1757305","sub_label":"Orjen","sub_aliases":[],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q864456","sub_label":"Biokovo","sub_aliases":[],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q615771","sub_label":"Prokletije","sub_aliases":["Albanian Alps"],"obj_id":"Q189915","obj_label":"Dinaric Alps","answer_idx":7}
+{"sub_id":"Q445369","sub_label":"Pragser Wildsee","sub_aliases":["Lake Prags","Lago di Braies"],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q379948","sub_label":"San Pellegrino Pass","sub_aliases":[],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q203241","sub_label":"Marmolada","sub_aliases":["Marmolata","Marmol\u00e8da","Marmoleda"],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q433534","sub_label":"Alta Badia","sub_aliases":[],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q2523107","sub_label":"Cimon della Pala","sub_aliases":[],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q1193166","sub_label":"Pordoi Pass","sub_aliases":["Passo Pordoi"],"obj_id":"Q1283","obj_label":"Dolomites","answer_idx":8}
+{"sub_id":"Q6913284","sub_label":"Morosi's Mountain","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q455699","sub_label":"Amatola Mountains","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q476745","sub_label":"Champagne Castle","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q223649","sub_label":"Tugela Falls","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q3432135","sub_label":"Giant's Castle","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q7577689","sub_label":"Spion Kop ","sub_aliases":[],"obj_id":"Q183295","obj_label":"Drakensberg","answer_idx":9}
+{"sub_id":"Q6979322","sub_label":"St\u00f9c a' Chroin","sub_aliases":["Stuc a' Chroin"],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q948061","sub_label":"Schiehallion","sub_aliases":[],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q3395413","sub_label":"Ben Cruachan","sub_aliases":[],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q2895316","sub_label":"Ben Alder","sub_aliases":[],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q2395787","sub_label":"Aonach M\u00f2r","sub_aliases":["Nevis Range","Aonach Mor"],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q3397729","sub_label":"Ben Lui","sub_aliases":["Beinn Laoigh"],"obj_id":"Q1124736","obj_label":"Grampian Mountains","answer_idx":10}
+{"sub_id":"Q390226","sub_label":"Australian Alps","sub_aliases":[],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q1525634","sub_label":"Strzelecki Ranges","sub_aliases":[],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q755509","sub_label":"Atherton Tableland","sub_aliases":["Atherton Plateau"],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q8536317","sub_label":"Mount Terrible","sub_aliases":[],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q1159413","sub_label":"Dandenong Ranges","sub_aliases":[],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q6920189","sub_label":"Mount Cobbler","sub_aliases":[],"obj_id":"Q192583","obj_label":"Great Dividing Range","answer_idx":11}
+{"sub_id":"Q610055","sub_label":"Kodori Valley","sub_aliases":["Kodoris Kheoba"],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q207680","sub_label":"Mount Kazbek","sub_aliases":["Kazbek","Kazbegi"],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q603574","sub_label":"Bzyb Range","sub_aliases":[],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q1285832","sub_label":"Ushba","sub_aliases":[],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q768463","sub_label":"Tebulosmta","sub_aliases":[],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q2388278","sub_label":"Tetnuldi","sub_aliases":[],"obj_id":"Q486986","obj_label":"Greater Caucasus","answer_idx":12}
+{"sub_id":"Q1089225","sub_label":"Vr\u0161i\u010d Pass","sub_aliases":[],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q477193","sub_label":"Sella Nevea","sub_aliases":[],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q763420","sub_label":"Jalovec","sub_aliases":[],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q843444","sub_label":"Pokljuka","sub_aliases":["Pokljuka Plateau"],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q238644","sub_label":"Prisojnik","sub_aliases":["Prisank"],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q1890215","sub_label":"Mangart","sub_aliases":[],"obj_id":"Q119206","obj_label":"Julian Alps","answer_idx":13}
+{"sub_id":"Q1307926","sub_label":"Pic Saint-Loup","sub_aliases":[],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q1509963","sub_label":"Montagne Noire","sub_aliases":[],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q3437539","sub_label":"Rock of Solutr\u00e9","sub_aliases":["Rock of Solutre"],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q8439","sub_label":"Monts du Lyonnais","sub_aliases":[],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q1475954","sub_label":"Monts Dore","sub_aliases":[],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q2367178","sub_label":"Le Lioran","sub_aliases":[],"obj_id":"Q190695","obj_label":"Massif Central","answer_idx":14}
+{"sub_id":"Q688517","sub_label":"Verbier","sub_aliases":[],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q30446","sub_label":"Castor","sub_aliases":["Castor and Pollux peaks"],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q675446","sub_label":"Klein Matterhorn","sub_aliases":[],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q15120","sub_label":"Lyskamm","sub_aliases":[],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q69693","sub_label":"Saas-Fee","sub_aliases":["Saas Fee","Saas-Fee VS"],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q69436","sub_label":"Leukerbad","sub_aliases":["Leukerbad VS"],"obj_id":"Q1270","obj_label":"Pennine Alps","answer_idx":15}
+{"sub_id":"Q650836","sub_label":"Yellowstone volcano","sub_aliases":["Yellowstone Caldera","Yellowstone Supervolcano"],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q8040386","sub_label":"Wyoming Range","sub_aliases":[],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q586241","sub_label":"Teton Range","sub_aliases":["Grand Tetons","Tetons","Teton Mountain Range","Teton Mountains","Grand Teton Mountains"],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q6916494","sub_label":"Mosquito Range","sub_aliases":[],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q1353201","sub_label":"Canadian Rockies","sub_aliases":["Canadian Rocky Mountains","Rocheuses canadiennes"],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q331762","sub_label":"Absaroka Range","sub_aliases":["Sierra Shoshone","Snow Mountains","Snowy Mountains","Snowy Range","Yellowstone Mountains"],"obj_id":"Q5463","obj_label":"Rocky Mountains","answer_idx":16}
+{"sub_id":"Q2725470","sub_label":"Mount Steele","sub_aliases":[],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q1144559","sub_label":"Mount Alverstone","sub_aliases":["Boundary Peak 180"],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q116999","sub_label":"Bagley Icefield","sub_aliases":["Bagley Ice Valley"],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q1542456","sub_label":"Grand Pacific Glacier","sub_aliases":[],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q1722858","sub_label":"Alsek Ranges","sub_aliases":[],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q1153188","sub_label":"Mount Lucania","sub_aliases":[],"obj_id":"Q48719","obj_label":"Saint Elias Mountains","answer_idx":17}
+{"sub_id":"Q2100974","sub_label":"Dovrefjell","sub_aliases":["Dovrefeld"],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q596485","sub_label":"Sarektj\u00e5kk\u00e5","sub_aliases":[],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q917018","sub_label":"Briksdalsbreen","sub_aliases":["Briksdalsbreen Glacier"],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q419567","sub_label":"\u00c1hkk\u00e1","sub_aliases":["Ahkka"],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q746223","sub_label":"Preikestolen","sub_aliases":[],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q271149","sub_label":"\u00c5reskutan","sub_aliases":[],"obj_id":"Q186547","obj_label":"Scandinavian Mountains","answer_idx":18}
+{"sub_id":"Q37385","sub_label":"Horsetail Fall","sub_aliases":[],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q953984","sub_label":"Mammoth Mountain","sub_aliases":[],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q491677","sub_label":"Yosemite Falls","sub_aliases":[],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q156342","sub_label":"Plumas County","sub_aliases":["Plumas County, California"],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q4696448","sub_label":"Ahwahnee Hotel","sub_aliases":["Majestic Yosemite Hotel","The Majestic Yosemite Hotel"],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q1755031","sub_label":"Tenaya Lake","sub_aliases":[],"obj_id":"Q26777","obj_label":"Sierra Nevada","answer_idx":19}
+{"sub_id":"Q3098405","sub_label":"Garnedd Ugain","sub_aliases":["Crib y Ddysgl"],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q4789023","sub_label":"Arenig Fawr","sub_aliases":[],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q3405761","sub_label":"Llyn Idwal","sub_aliases":[],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q390452","sub_label":"Llyn Eigiau","sub_aliases":[],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q1798093","sub_label":"Snowdon Mountain Railway","sub_aliases":["The Snowdon Mountain Railway"],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q5360689","sub_label":"Elidir Fawr","sub_aliases":[],"obj_id":"Q867913","obj_label":"Snowdonia","answer_idx":20}
+{"sub_id":"Q1027049","sub_label":"Erkeshtam","sub_aliases":["Irkeshtam"],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q750190","sub_label":"Sulaiman-Too","sub_aliases":["Sulayman Mountain","Sulamain-Too"],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q784733","sub_label":"Kakshaal Too","sub_aliases":[],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q1073123","sub_label":"Chimgan","sub_aliases":["Chimgon"],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q2573236","sub_label":"Orlovka","sub_aliases":[],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q4534118","sub_label":"Engil'chek Glacier","sub_aliases":["Inylchek","Inylchek Glacier"],"obj_id":"Q5474","obj_label":"Tian Shan","answer_idx":21}
+{"sub_id":"Q3595688","sub_label":"Kodachadri","sub_aliases":[],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q1501836","sub_label":"Palni Hills","sub_aliases":["Palani Hills"],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q3519511","sub_label":"Anaimalai Hills","sub_aliases":["Aanaimalai Hills","\u0100naimalai hills"],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q6374022","sub_label":"Kasara ghat","sub_aliases":[],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q2724466","sub_label":"Ponmudi","sub_aliases":[],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q390831","sub_label":"Agastya Mala","sub_aliases":[],"obj_id":"Q4527","obj_label":"Western Ghats","answer_idx":22}
+{"sub_id":"Q5960978","sub_label":"Jashak salt dome","sub_aliases":["Kuh-e Namak"],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}
+{"sub_id":"Q7489301","sub_label":"Shapur Cave","sub_aliases":["Shapur cave"],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}
+{"sub_id":"Q3780244","sub_label":"Mount Behistun","sub_aliases":["Kuh-e Bisotun"],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}
+{"sub_id":"Q6375049","sub_label":"Katale Khor","sub_aliases":[],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}
+{"sub_id":"Q20830756","sub_label":"Halgurd","sub_aliases":[],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}
+{"sub_id":"Q4115453","sub_label":"Abidar","sub_aliases":["Kuh-e Abidar"],"obj_id":"Q167021","obj_label":"Zagros Mountains","answer_idx":23}

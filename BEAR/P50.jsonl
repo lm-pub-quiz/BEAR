@@ -1,0 +1,150 @@
+{"sub_id":"Q377710","sub_label":"Hercule Poirot's Christmas","sub_aliases":["Murder for Christmas"],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q741407","sub_label":"The Body in the Library","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q727861","sub_label":"The A.B.C. Murders","sub_aliases":["A.B.C. Murders","The ABC Murders","ABC Murders"],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q304493","sub_label":"Five Little Pigs","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q845889","sub_label":"Murder on the Orient Express","sub_aliases":["Murder in the Calais Coach"],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q588531","sub_label":"The Mirror Crack'd from Side to Side","sub_aliases":["The Mirror Crack'd"],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q872532","sub_label":"Vanka","sub_aliases":[],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q3233095","sub_label":"Gooseberries","sub_aliases":["Gooseberry"],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q3191735","sub_label":"Kashtanka","sub_aliases":[],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q3205563","sub_label":"The Student","sub_aliases":[],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q1112008","sub_label":"Platonov","sub_aliases":["Fatherlessness","A Play Without a Title","An Unfinished Piece for Mechanical Piano"],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q2418554","sub_label":"The Lady with the Dog","sub_aliases":[],"obj_id":"Q5685","obj_label":"Anton Chekhov","answer_idx":1}
+{"sub_id":"Q1054239","sub_label":"Corpus Aristotelicum","sub_aliases":["The Works of Aristotle"],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q3481632","sub_label":"On Dreams","sub_aliases":["De Insomniis"],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q1251340","sub_label":"Plato's unwritten doctrines","sub_aliases":["principle theory","esoteric doctrines of Plato","Plato's esoteric doctrines","unwritten doctrines of Plato","The Indefinite Dyad","Indefinite Dyad","The One","T\u00fcbingen School"],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q1180725","sub_label":"Parts of Animals","sub_aliases":["De partibus animalium"],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q485217","sub_label":"Prior Analytics","sub_aliases":[],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q500930","sub_label":"Organon","sub_aliases":[],"obj_id":"Q868","obj_label":"Aristotle","answer_idx":2}
+{"sub_id":"Q7757110","sub_label":"The Pilgrim's Regress","sub_aliases":[],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q4657189","sub_label":"A Grief Observed","sub_aliases":[],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q485093","sub_label":"The Lion, the Witch, and the Wardrobe","sub_aliases":["The Lion, the Witch and the Wardrobe","the first Narnia book","The Chronicles of Narnia, book 1","The Chronicles of Narnia, book 2 (late reissue)","LWW"],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q331669","sub_label":"The Silver Chair","sub_aliases":["the fourth Narnia book","The Chronicles of Narnia, book 4","The Chronicles of Narnia, book 6 (late reissue)"],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q392170","sub_label":"Perelandra","sub_aliases":["Voyage to Venus"],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q1218012","sub_label":"That Hideous Strength","sub_aliases":[],"obj_id":"Q9204","obj_label":"C. S. Lewis","answer_idx":3}
+{"sub_id":"Q883305","sub_label":"Bleak House","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q2700616","sub_label":"The Old Curiosity Shop","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q2237117","sub_label":"All the Year Round","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q2609480","sub_label":"Sketches by Boz","sub_aliases":["Sketches by \"Boz,\" Illustrative of Every-day Life and Every-day People"],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q1557935","sub_label":"Our Mutual Friend","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q219552","sub_label":"Great Expectations","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":4}
+{"sub_id":"Q878571","sub_label":"The Oval Portrait","sub_aliases":[],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q1711962","sub_label":"The Conqueror Worm","sub_aliases":[],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q733448","sub_label":"The Purloined Letter","sub_aliases":[],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q615383","sub_label":"The Narrative of Arthur Gordon Pym of Nantucket","sub_aliases":[],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q1195598","sub_label":"The Man of the Crowd","sub_aliases":["POE"],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q948786","sub_label":"Ligeia","sub_aliases":[],"obj_id":"Q16867","obj_label":"Edgar Allan Poe","answer_idx":5}
+{"sub_id":"Q3067537","sub_label":"Indian Camp","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q3775616","sub_label":"Big Two-Hearted River","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q26505","sub_label":"The Old Man and the Sea","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q2616425","sub_label":"The Garden of Eden","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q3363263","sub_label":"Hills Like White Elephants","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q1970223","sub_label":"Death in the Afternoon","sub_aliases":[],"obj_id":"Q23434","obj_label":"Ernest Hemingway","answer_idx":6}
+{"sub_id":"Q468834","sub_label":"The Burrow","sub_aliases":[],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q1660727","sub_label":"In the Penal Colony","sub_aliases":[],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q1706210","sub_label":"Josephine the Singer, or the Mouse Folk","sub_aliases":[],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q6533784","sub_label":"Letters to Milena","sub_aliases":[],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q48229","sub_label":"Amerika","sub_aliases":["Der Verschollene"],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q184222","sub_label":"The Metamorphosis","sub_aliases":["Metamorphosis"],"obj_id":"Q905","obj_label":"Franz Kafka","answer_idx":7}
+{"sub_id":"Q725409","sub_label":"Man and Superman","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q3509127","sub_label":"Candida","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q7756712","sub_label":"The Perfect Wagnerite","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q724688","sub_label":"Widowers' Houses","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q1218620","sub_label":"Saint Joan","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q2072045","sub_label":"The Devil's Disciple","sub_aliases":[],"obj_id":"Q19185","obj_label":"George Bernard Shaw","answer_idx":8}
+{"sub_id":"Q213019","sub_label":"The War of the Worlds","sub_aliases":["War of the Worlds"],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q2500351","sub_label":"Men Like Gods","sub_aliases":[],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q2066902","sub_label":"The Wheels of Chance","sub_aliases":[],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q2507552","sub_label":"The History of Mr Polly","sub_aliases":[],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q470","sub_label":"World Brain","sub_aliases":[],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q7722788","sub_label":"The Chronic Argonauts","sub_aliases":[],"obj_id":"Q42511","obj_label":"H. G. Wells","answer_idx":9}
+{"sub_id":"Q889349","sub_label":"The Tallow Candle","sub_aliases":[],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q3496170","sub_label":"The Story of a Mother","sub_aliases":[],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q11876","sub_label":"The Little Match Girl","sub_aliases":[],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q11872","sub_label":"The Steadfast Tin Soldier","sub_aliases":[],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q11883","sub_label":"The Wild Swans","sub_aliases":[],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q11870","sub_label":"Thumbelina","sub_aliases":["Little Thumbling"],"obj_id":"Q5673","obj_label":"Hans Christian Andersen","answer_idx":10}
+{"sub_id":"Q240617","sub_label":"P\u00e8re Goriot","sub_aliases":["Old Goriot","Le P\u00e8re Goriot"],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q50188","sub_label":"La Com\u00e9die humaine","sub_aliases":["La Comedie humaine"],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q1142149","sub_label":"La Peau de chagrin","sub_aliases":["The Skin of Sorrow","The Wild Ass's Skin"],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q2092894","sub_label":"Illusions perdues","sub_aliases":["Lost Illusions"],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q2631465","sub_label":"Les Chouans","sub_aliases":[],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q2543893","sub_label":"S\u00e9raph\u00eeta","sub_aliases":["Seraphita"],"obj_id":"Q9711","obj_label":"Honor\u00e9 de Balzac","answer_idx":11}
+{"sub_id":"Q23758","sub_label":"Three Laws of Robotics","sub_aliases":["The Three Laws","Three Laws","Asimov's Laws"],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q382862","sub_label":"Pebble in the Sky","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q1050014","sub_label":"Foundation and Earth","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q469862","sub_label":"The Naked Sun","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q932592","sub_label":"Foundation\u2019s Edge","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q913482","sub_label":"Robot series","sub_aliases":["Isaac Asimov's Robot Series","The Complete Robot"],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":12}
+{"sub_id":"Q208002","sub_label":"The Fellowship of the Ring","sub_aliases":[],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q15228","sub_label":"The Lord of the Rings","sub_aliases":["Lord of the Rings","TLotR","LotR"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q340515","sub_label":"Fall of Gondolin","sub_aliases":[],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q4355253","sub_label":"Beren and L\u00fathien","sub_aliases":["The Tale of Beren and Luthien"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q534991","sub_label":"The Father Christmas Letters","sub_aliases":["Letters from Father Christmas"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q471398","sub_label":"Farmer Giles of Ham","sub_aliases":[],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":13}
+{"sub_id":"Q1229968","sub_label":"West\u2013Eastern Diwan","sub_aliases":["West\u2013Eastern Diwan","West-Eastern Divan"],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q1298242","sub_label":"Egmont","sub_aliases":[],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q1195114","sub_label":"Der K\u00f6nig in Thule","sub_aliases":[],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q151883","sub_label":"The sorrows of young Werther","sub_aliases":["Sorrows of Werther"],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q1169913","sub_label":"The Green Snake and the Beautiful Lily","sub_aliases":[],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q2548168","sub_label":"Wanderer's Nightsong","sub_aliases":["Wandrers Nachtlied"],"obj_id":"Q5879","obj_label":"Johann Wolfgang von Goethe","answer_idx":14}
+{"sub_id":"Q1097462","sub_label":"The Garden of Forking Paths","sub_aliases":[],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q473","sub_label":"The Library of Babel","sub_aliases":[],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q5306779","sub_label":"Dreamtigers","sub_aliases":["El Hacedor","The Maker"],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q7740583","sub_label":"The House of Asterion","sub_aliases":[],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q3818182","sub_label":"The Approach to Al-Mu'tasim","sub_aliases":["El acercamiento a Almot\u00e1sim","The Conversation with the Man Called Al-Mu'tasim","El acercamiento a Almotasim"],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q5247280","sub_label":"Death and the Compass","sub_aliases":[],"obj_id":"Q909","obj_label":"Jorge Luis Borges","answer_idx":15}
+{"sub_id":"Q7548962","sub_label":"So, we'll go no more a roving","sub_aliases":[],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q7772878","sub_label":"The Vision of Judgment","sub_aliases":[],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q7492082","sub_label":"She Walks in Beauty","sub_aliases":[],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q2896845","sub_label":"Beppo","sub_aliases":[],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q1072741","sub_label":"Childe Harold's Pilgrimage","sub_aliases":[],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q15624494","sub_label":"Lachin y Gair","sub_aliases":["Dark Lochnagar","Loch na Garr"],"obj_id":"Q5679","obj_label":"Lord Byron","answer_idx":16}
+{"sub_id":"Q1474843","sub_label":"Menexenus","sub_aliases":[],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q1130762","sub_label":"Parmenides","sub_aliases":[],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q1347394","sub_label":"Cratylus","sub_aliases":[],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q1153509","sub_label":"First Alcibiades","sub_aliases":["Alcibiades"],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q471715","sub_label":"Sophist","sub_aliases":[],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q6499786","sub_label":"Euthydemus","sub_aliases":[],"obj_id":"Q859","obj_label":"Plato","answer_idx":17}
+{"sub_id":"Q7759357","sub_label":"The Rajah's Diamond","sub_aliases":["Latter Day Arabian Nights: The Rajah's Diamond"],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q2277829","sub_label":"Catriona","sub_aliases":[],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q2068990","sub_label":"Prince Otto","sub_aliases":[],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q4710832","sub_label":"Olalla","sub_aliases":[],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q2615930","sub_label":"The Master of Ballantrae","sub_aliases":[],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q2411893","sub_label":"The Body Snatcher","sub_aliases":[],"obj_id":"Q1512","obj_label":"Robert Louis Stevenson","answer_idx":18}
+{"sub_id":"Q6533841","sub_label":"Letting in the Jungle","sub_aliases":[],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q1101819","sub_label":"The Second Jungle Book","sub_aliases":[],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q3484772","sub_label":"Plain Tales from the Hills","sub_aliases":[],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q3120849","sub_label":"Gunga Din","sub_aliases":[],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q6343197","sub_label":"Kaa's Hunting","sub_aliases":["The Jungle Book\/Kaa's Hunting"],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q7715415","sub_label":"The Ballad of East and West","sub_aliases":[],"obj_id":"Q34743","obj_label":"Rudyard Kipling","answer_idx":19}
+{"sub_id":"Q742226","sub_label":"Pet Sematary","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q15222347","sub_label":"Mr. Mercedes","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q3657739","sub_label":"Doctor Sleep","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q623394","sub_label":"Carrie","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q471024","sub_label":"Different Seasons","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q469889","sub_label":"Cell","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":20}
+{"sub_id":"Q1785978","sub_label":"Microm\u00e9gas","sub_aliases":["Micromegas"],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q3058683","sub_label":"Essai sur les m\u0153urs et l'esprit des nations","sub_aliases":[],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q2551373","sub_label":"Letters on the English","sub_aliases":["Letters concerning the English Nation"],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q3204706","sub_label":"L'Orphelin de la Chine","sub_aliases":[],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q215894","sub_label":"Candide","sub_aliases":["All for the Best","The Optimist","Optimism"],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q3401061","sub_label":"Po\u00e8me sur le d\u00e9sastre de Lisbonne","sub_aliases":["Poeme sur le desastre de Lisbonne"],"obj_id":"Q9068","obj_label":"Voltaire","answer_idx":21}
+{"sub_id":"Q1642162","sub_label":"The Garden of Love","sub_aliases":[],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q4658939","sub_label":"A Poison Tree","sub_aliases":[],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q2661325","sub_label":"The Echoing Green","sub_aliases":[],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q4742808","sub_label":"America, a Prophecy","sub_aliases":["America: A Prophecy","America A Prophecy"],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q1887296","sub_label":"The Little Black Boy","sub_aliases":[],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q630530","sub_label":"Songs of Innocence and of Experience","sub_aliases":["Songs of Innocence and Experience"],"obj_id":"Q41513","obj_label":"William Blake","answer_idx":22}
+{"sub_id":"Q3313370","sub_label":"Requiem for a Nun","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q1544119","sub_label":"As I Lay Dying","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q135515","sub_label":"The Sound and the Fury","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q2181982","sub_label":"Absalom, Absalom!","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q1823273","sub_label":"Light in August","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q3223464","sub_label":"The Hamlet","sub_aliases":[],"obj_id":"Q38392","obj_label":"William Faulkner","answer_idx":23}
+{"sub_id":"Q16199061","sub_label":"All that glitters is not gold","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q2448770","sub_label":"The History of Cardenio","sub_aliases":["Cardenio"],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q649562","sub_label":"Richard II","sub_aliases":["King Richard II","The Tragedy of King Richard the Second","Tragedy of King Richard the Second","The Life and Death of Richard the Second","Life and Death of Richard the Second"],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q833645","sub_label":"First Folio","sub_aliases":["First Folio of Shakespeare","Shakespeare's First Folio","Mr. William Shakespeare's Comedies, Histories, & Tragedies"],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q1398793","sub_label":"The Rape of Lucrece","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q2749746","sub_label":"Love's Labour's Won","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}

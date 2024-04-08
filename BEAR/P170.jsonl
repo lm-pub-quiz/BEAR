@@ -1,0 +1,150 @@
+{"sub_id":"Q957248","sub_label":"Peril at End House","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q833012","sub_label":"Murder Is Easy","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q752439","sub_label":"Appointment with Death","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q1215982","sub_label":"The Moving Finger","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q193531","sub_label":"Miss Marple","sub_aliases":[],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q221110","sub_label":"Arthur Hastings","sub_aliases":["Captain Hastings"],"obj_id":"Q35064","obj_label":"Agatha Christie","answer_idx":0}
+{"sub_id":"Q5232561","sub_label":"David Copperfield","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q5400904","sub_label":"Estella","sub_aliases":["Estella Havisham","Estella Drummle"],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q3568268","sub_label":"Wilkins Micawber","sub_aliases":["Micawber"],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q263749","sub_label":"Rose Maylie","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q3991649","sub_label":"Tiny Tim","sub_aliases":[],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q1783187","sub_label":"Artful Dodger","sub_aliases":["The Artful Dodger"],"obj_id":"Q5686","obj_label":"Charles Dickens","answer_idx":1}
+{"sub_id":"Q2734892","sub_label":"Women in the Garden","sub_aliases":[],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q50772913","sub_label":"The Red Kerchief","sub_aliases":[],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q1167912","sub_label":"Le D\u00e9jeuner sur l'herbe","sub_aliases":[],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q1650049","sub_label":"Le Bassin Aux Nymph\u00e9as","sub_aliases":["Le Bassin Aux Nympheas"],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q4429116","sub_label":"The Magpie","sub_aliases":[],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q4931530","sub_label":"Boating on the River Epte","sub_aliases":[],"obj_id":"Q296","obj_label":"Claude Monet","answer_idx":2}
+{"sub_id":"Q3819135","sub_label":"The Inquisition Tribunal","sub_aliases":[],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q2735507","sub_label":"The Clothed Maja","sub_aliases":["La maja vestida"],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q920030","sub_label":"Charles IV of Spain and His Family","sub_aliases":["amoung us"],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q4809372","sub_label":"Los disparates","sub_aliases":["The Follies","Proverbios (En: Proverbs)","Sue\u00f1os (En: Dreams)"],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q1150997","sub_label":"Saturn Devouring His Son","sub_aliases":["Saturn Eating His Child","Saturn Eats His Children","Crono Devouring His Son","Saturn Devouring His Son (from The Black Paintings)"],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q152867","sub_label":"La maja desnuda","sub_aliases":["The nude maja","The Naked Maja"],"obj_id":"Q5432","obj_label":"Francisco de Goya","answer_idx":3}
+{"sub_id":"Q3476569","sub_label":"Scytale","sub_aliases":[],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q509741","sub_label":"Shaddam Corrino IV","sub_aliases":[],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q1051419","sub_label":"Vladimir Harkonnen","sub_aliases":[],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q940030","sub_label":"Arrakis","sub_aliases":["Rakis","Dune"],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q2583490","sub_label":"Liet-Kynes","sub_aliases":["Doctor Kynes"],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q937394","sub_label":"Thufir Hawat","sub_aliases":[],"obj_id":"Q7934","obj_label":"Frank Herbert","answer_idx":4}
+{"sub_id":"Q51746","sub_label":"Luke Skywalker","sub_aliases":[],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q51793","sub_label":"Jar Jar Binks","sub_aliases":[],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q148659","sub_label":"Indiana Jones","sub_aliases":["Indy","Henry Jones Junior","Junior","Doctor Jones","Jonesy","Dr. Henry Walton \"Indiana\" Jones, Jr."],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q51800","sub_label":"Wilhuff Tarkin","sub_aliases":["Grand Moff Tarkin"],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q51789","sub_label":"Padm\u00e9 Amidala","sub_aliases":["Padm\u00e9 Naberrie","Queen Amidala","Padme Amidala","Padme Naberrie","Senator Amidala"],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q19901","sub_label":"Millennium Falcon","sub_aliases":[],"obj_id":"Q38222","obj_label":"George Lucas","answer_idx":5}
+{"sub_id":"Q12900597","sub_label":"Joffrey Baratheon","sub_aliases":["Joffrey the Illborn","The Young Usurper"],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q12056060","sub_label":"Stannis Baratheon","sub_aliases":[],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q3624677","sub_label":"Arya Stark","sub_aliases":[],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q12902445","sub_label":"Tywin Lannister","sub_aliases":[],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q11703515","sub_label":"Samwell Tarly","sub_aliases":["Sam Tarly"],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q5959381","sub_label":"Khal Drogo","sub_aliases":["Drogo"],"obj_id":"Q181677","obj_label":"George R. R. Martin","answer_idx":6}
+{"sub_id":"Q16060269","sub_label":"Blessed Soul","sub_aliases":["Anima Beata"],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q5002064","sub_label":"Bust of Costanza Bonarelli","sub_aliases":["Bust of Costanza Piccolomini","Bust of Costanza Buonarelli"],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q5002073","sub_label":"Bust of Pope Paul V ","sub_aliases":[],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q3733361","sub_label":"Saint Ludovica Albertoni","sub_aliases":["Alteri Chapel"],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q1333433","sub_label":"Ecstasy of Saint Teresa","sub_aliases":["Ecstasy of St. Theresa","The Ecstasy of Saint Teresa","Ecstasy of Saint Theresa","The Ecstasy of Saint Theresa"],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q4945054","sub_label":"Sleeping Hermaphrodite","sub_aliases":["Borghese Hermaphroditus"],"obj_id":"Q160538","obj_label":"Gian Lorenzo Bernini","answer_idx":7}
+{"sub_id":"Q2349630","sub_label":"Galactic Empire","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q988862","sub_label":"Elijah Baley","sub_aliases":["Lije","Lije Baley"],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q3093480","sub_label":"Gaal Dornick","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q2488408","sub_label":"positronic brain","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q1073739","sub_label":"Susan Calvin","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q1093762","sub_label":"Terminus","sub_aliases":[],"obj_id":"Q34981","obj_label":"Isaac Asimov","answer_idx":8}
+{"sub_id":"Q173998","sub_label":"Ron Weasley","sub_aliases":["Ronald Weasley","Ronald Bilius Weasley","Ronald Bilius \"Ron\" Weasley"],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q712548","sub_label":"Albus Dumbledore","sub_aliases":["Dumbledore","Professor Albus Dumbledore","Albus Percival Wulfric Brian Dumbledore"],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q174009","sub_label":"Hermione Granger","sub_aliases":["Hermione Jean Granger"],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q1251049","sub_label":"Fred and George Weasley","sub_aliases":["Weasley twins"],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q187923","sub_label":"Ginny Weasley","sub_aliases":["Ginny Potter","Ginevra Weasley","Ginevra Molly Weasley"],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q715312","sub_label":"Nymphadora Tonks","sub_aliases":[],"obj_id":"Q34660","obj_label":"J. K. Rowling","answer_idx":9}
+{"sub_id":"Q180322","sub_label":"Aragorn","sub_aliases":["Aragorn II, son of Arathorn","Strider"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q177499","sub_label":"Gandalf","sub_aliases":["Gandalf the Grey","Gandalf the White","Ol\u00f3rin","Mithrandir","Olorin","The White Rider","Inc\u00e1nus","Thark\u00fbn","Grey Pilgrim"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q213480","sub_label":"Legolas","sub_aliases":["Legolas Greenleaf","Greenleaf"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q206818","sub_label":"Gimli","sub_aliases":["Gimli son of Gl\u00f3in","Gimli son of Gloin"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q79734","sub_label":"Middle-earth","sub_aliases":["Middle Earth","Endor","Hither Lands","Great Lands","Middle-Earth"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q74359","sub_label":"Hobbit","sub_aliases":["halflings","periannath"],"obj_id":"Q892","obj_label":"J.\u00a0R.\u00a0R. Tolkien","answer_idx":10}
+{"sub_id":"Q3208312","sub_label":"The Distribution of the Eagle Standards","sub_aliases":[],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q972295","sub_label":"Leonidas at Thermopylae","sub_aliases":[],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q2533791","sub_label":"The Lictors Bring to Brutus the Bodies of His Sons","sub_aliases":[],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q3208369","sub_label":"Andromache Mourning Hector","sub_aliases":[],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q2619037","sub_label":"Portrait of Madame R\u00e9camier","sub_aliases":["Portrait of Madame Recamier"],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q3387593","sub_label":"Unfinished Portrait of General Bonaparte","sub_aliases":[],"obj_id":"Q83155","obj_label":"Jacques-Louis David","answer_idx":11}
+{"sub_id":"Q941416","sub_label":"Jupiter and Thetis","sub_aliases":[],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q18222055","sub_label":"Jos\u00e9phine-\u00c9l\u00e9onore-Marie-Pauline de Galard de Brassac de B\u00e9arn , Princesse de Broglie","sub_aliases":[],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q17189258","sub_label":"Comtesse d'Haussonville","sub_aliases":["Portrait of Comtesse d'Haussonville"],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q16020875","sub_label":"The Ambassadors of Agamemnon in the tent of Achilles","sub_aliases":[],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q3080509","sub_label":"The Valpin\u00e7on Bather","sub_aliases":["The Bather"],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q2985455","sub_label":"Portrait of Monsieur Bertin","sub_aliases":[],"obj_id":"Q23380","obj_label":"Jean Auguste Dominique Ingres","answer_idx":12}
+{"sub_id":"Q965866","sub_label":"Word ladder","sub_aliases":[],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q864751","sub_label":"The Hatter","sub_aliases":["The Mad Hatter","Mad Hatter","Hatter","Hatta"],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q10357223","sub_label":"White Queen","sub_aliases":["The White Queen"],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q950895","sub_label":"Dormouse","sub_aliases":[],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q3346639","sub_label":"nyctography","sub_aliases":["typhlography","typhlograph","nyctograph","nyctogram","typhlogram"],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q3640014","sub_label":"Bill the Lizard","sub_aliases":[],"obj_id":"Q38082","obj_label":"Lewis Carroll","answer_idx":13}
+{"sub_id":"Q558508","sub_label":"Al Neri","sub_aliases":["Albert Neri"],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q1342302","sub_label":"Salvatore Tessio","sub_aliases":["Sal Tessio","Sally Tessio"],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q1358761","sub_label":"Peter Clemenza","sub_aliases":["Clemenza","Pete Clemenza"],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q519957","sub_label":"Carlo Rizzi","sub_aliases":[],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q2284305","sub_label":"Moe Greene","sub_aliases":["Morris Greene"],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q931582","sub_label":"Fredo Corleone","sub_aliases":["Frederico Corleone","Freddy Corleone","Freddie Corleone","Fred Corleone"],"obj_id":"Q182870","obj_label":"Mario Puzo","answer_idx":14}
+{"sub_id":"Q7810","sub_label":"Homer Simpson","sub_aliases":["Homer Jay Simpson","Homer J. Simpson","Max Power"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q1503373","sub_label":"Principal Skinner","sub_aliases":["Seymour Skinner","Armin Tamzarian","Principal Seymour Skinner","W. Seymour Skinner"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q1514450","sub_label":"Milhouse Van Houten","sub_aliases":["Milhouse Mussolini Van Houten"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q7834","sub_label":"Maggie Simpson","sub_aliases":["Margaret \"Maggie\" Simpson"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q5480","sub_label":"Bart Simpson","sub_aliases":["El Barto"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q646166","sub_label":"Moe Szyslak","sub_aliases":["Morris \"Moe\" Szyslak","Morris Szyslak"],"obj_id":"Q43994","obj_label":"Matt Groening","answer_idx":15}
+{"sub_id":"Q5442919","sub_label":"Femme aux Bras Crois\u00e9s","sub_aliases":["Femme aux Bras Croises"],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q5433371","sub_label":"Family of Saltimbanques","sub_aliases":[],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q453775","sub_label":"Fernande Olivier","sub_aliases":["Fernande Bellevall\u00e9e","Am\u00e9lie Lang","Fernande Bellevallee","Amelie Lang"],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q3228112","sub_label":"The Old Guitarist","sub_aliases":[],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q7232312","sub_label":"Portrait of Suzanne Bloch","sub_aliases":[],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q910199","sub_label":"Les Demoiselles d'Avignon","sub_aliases":["The Young Ladies of Avignon","Les Demoiselles d\u2019Avignon"],"obj_id":"Q5593","obj_label":"Pablo Picasso","answer_idx":16}
+{"sub_id":"Q1211651","sub_label":"The Blinding of Samson","sub_aliases":[],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q3381192","sub_label":"Philosopher in Meditation","sub_aliases":["Interior with Tobit and Anna"],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q325267","sub_label":"Moses Smashing the Tablets of the Law","sub_aliases":[],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q766782","sub_label":"The Jewish Bride","sub_aliases":["Joodse Bruidje","Het Joodse Bruidje"],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q1170480","sub_label":"Syndics of the Drapers' Guild","sub_aliases":["The Wardens of the Amsterdam Drapers\u2019 Guild, Known as \u2018The Syndics\u2019","De Staalmeesters","The Sampling Officials","Sampling Officials of the Drapers' Guild","The Syndics of the Amsterdam Drapers' Guild 1662","The\u00a0Staalmeesters","Syndics of the Drapers\u2019 Guild\u00a0(The\u00a0Staalmeesters)","Syndics of the Drapers\u2019 Guild","Staalmeesters"],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q2252345","sub_label":"The anatomy lesson of Dr. Joan Deyman","sub_aliases":[],"obj_id":"Q5598","obj_label":"Rembrandt","answer_idx":17}
+{"sub_id":"Q1151384","sub_label":"The Son of Man","sub_aliases":["Le fils de l'homme","El hijo del hombre"],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q7731980","sub_label":"The Empty Mask","sub_aliases":[],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q19883989","sub_label":"False Mirror","sub_aliases":["Le Faux Miroir (The False Mirror)","The False Mirror","Le Faux Miroir"],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q1061035","sub_label":"The Treachery of Images","sub_aliases":["This is Not a Pipe","Ceci n'est pas une pipe","The Wind and the Song"],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q1923232","sub_label":"The Castle of the Pyrenees","sub_aliases":[],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q2022606","sub_label":"Not to be Reproduced","sub_aliases":["La Reproduction interdite"],"obj_id":"Q7836","obj_label":"Ren\u00e9 Magritte","answer_idx":18}
+{"sub_id":"Q2990594","sub_label":"Lobster Telephone","sub_aliases":[],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q4423965","sub_label":"The Elephants","sub_aliases":["Project for \"As you like it\""],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q133839","sub_label":"The Burning Giraffe","sub_aliases":[],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q94845","sub_label":"The Temptation of St. Anthony","sub_aliases":[],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q2663568","sub_label":"The Face of War","sub_aliases":["Le visage de la guerre"],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q611945","sub_label":"The Swallow's Tail","sub_aliases":["The Swallow's Tail \u2014 Series on Catastrophes","Swallow\u2019s Tail and Cellos. The Catastrophes Series"],"obj_id":"Q5577","obj_label":"Salvador Dal\u00ed","answer_idx":19}
+{"sub_id":"Q1982051","sub_label":"Kang the Conqueror","sub_aliases":["Nathaniel Richards","Blue Man","Victor Timely","Blue Totem","Scarlet Centurion","Rama-Tut","King of Kings","Master of Men","Lord of the Seven Suns"],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q5350072","sub_label":"Jean Grey","sub_aliases":["Marvel Girl","Jean Elaine Grises Summers","Jean Elaine Gray","Fenix","Jean Grey-Summers","Dark Fenix"],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q945817","sub_label":"Gwen Stacy","sub_aliases":["Gwendolyn Maxine \"Gwen\" Stacy","Gwendolyne Maxine Stacy","arriba las Chivas"],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q770064","sub_label":"Warren Worthington III","sub_aliases":["Angel","Archangel","Warren Kenneth Worthington III","Dark Angel","Avenging Angel"],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q544290","sub_label":"Edwin Jarvis","sub_aliases":[],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q2296291","sub_label":"Vulture","sub_aliases":["Adrian Toomes"],"obj_id":"Q181900","obj_label":"Stan Lee","answer_idx":20}
+{"sub_id":"Q625770","sub_label":"The Langoliers","sub_aliases":["Langoliers","Stephen King's 'The Langoliers'"],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q3036003","sub_label":"Father Callahan","sub_aliases":["Don Callahan","Donald Callahan"],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q383222","sub_label":"Kingdom Hospital","sub_aliases":["Stephen King's Kingdom Hospital"],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q1752538","sub_label":"The Stand","sub_aliases":["Stand"],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q1100632","sub_label":"Jerusalem's Lot","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q383876","sub_label":"Derry","sub_aliases":[],"obj_id":"Q39829","obj_label":"Stephen King","answer_idx":21}
+{"sub_id":"Q1238886","sub_label":"A Man with a Quilted Sleeve","sub_aliases":["Ariosto"],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q4013804","sub_label":"Violante","sub_aliases":[],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q2528145","sub_label":"Allegory of Prudence","sub_aliases":[],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q3632485","sub_label":"The Bacchanal of the Andrians","sub_aliases":["The Andrians","Bacchanal of the Andrians"],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q23922","sub_label":"Woman with a Mirror","sub_aliases":["Woman at her toilet"],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q7920648","sub_label":"Venus with a Mirror","sub_aliases":[],"obj_id":"Q47551","obj_label":"Titian","answer_idx":22}
+{"sub_id":"Q500554","sub_label":"At Eternity's Gate","sub_aliases":["Sorrowing Old Man"],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q45585","sub_label":"The Starry Night","sub_aliases":["Starry Night"],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q948894","sub_label":"La Mousm\u00e9","sub_aliases":["La Mousme"],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q2278818","sub_label":"Agostina Segatori Sitting in the Caf\u00e9 du Tambourin","sub_aliases":["Agostina Segatori Sitting in the Cafe du Tambourin"],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q22329831","sub_label":"Self-portrait without beard","sub_aliases":[],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q634122","sub_label":"Wheatfield with Crows","sub_aliases":[],"obj_id":"Q5582","obj_label":"Vincent van Gogh","answer_idx":23}
+{"sub_id":"Q1650633","sub_label":"Yorick","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q3140503","sub_label":"Horatio","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q2736774","sub_label":"Queen Mab","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q2568064","sub_label":"Fortinbras","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q806945","sub_label":"Banquo","sub_aliases":[],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
+{"sub_id":"Q2447542","sub_label":"Prince Hamlet","sub_aliases":["Hamlet"],"obj_id":"Q692","obj_label":"William Shakespeare","answer_idx":24}
