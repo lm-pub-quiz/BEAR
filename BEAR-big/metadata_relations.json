@@ -295,9 +295,9 @@
     },
     "P185": {
         "templates": [
-            "[X] was a doctoral student of [Y].",
-            "[Y] was the doctoral advisor of [X].",
-            "[X] pursued a doctoral degree under [Y]."
+            "[Y] was a doctoral student of [X].",
+            "[X] was the doctoral advisor of [Y].",
+            "[Y] pursued a doctoral degree under [X]."
         ]
     },
     "P190": {
