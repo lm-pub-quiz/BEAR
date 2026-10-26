@@ -1,0 +1,171 @@
+
+name: Release BEAR datasets
+
+on:
+  push:
+    branches:
+      - "release"
+      - "release/**"
+    paths:
+      - "dataset-version.json"
+      - "BEAR/**"
+      - "BEAR-big/**"
+      - ".github/workflows/release-datasets.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Read and validate dataset version
+        id: version
+        shell: bash
+        run: |
+          VERSION=$(python -c '
+          import json
+          with open("dataset-version.json", encoding="utf-8") as f:
+              print(json.load(f)["dataset_version"])
+          ')
+
+          if [[ ! "$VERSION" =~ ^(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$ ]]; then
+            echo "Invalid dataset version: $VERSION"
+            exit 1
+          fi
+
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "tag=v$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Check release tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: v${{ steps.version.outputs.version }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG already exists."
+            echo "Bump dataset-version.json before releasing again."
+            exit 1
+          fi
+
+          if git rev-parse -q --verify "refs/tags/$TAG" >/dev/null; then
+            echo "Git tag $TAG already exists."
+            exit 1
+          fi
+
+      - name: Create dataset ZIP assets
+        env:
+          VERSION: ${{ steps.version.outputs.version }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import zipfile
+          from pathlib import Path
+
+          version = __import__("os").environ["VERSION"]
+          dist = Path("dist")
+          dist.mkdir(exist_ok=True)
+
+          # Each top-level directory is a dataset variant:
+          # BEAR/English, BEAR/German, BEAR-big/English, etc.
+          variants = [
+              path for path in Path(".").iterdir()
+              if path.is_dir()
+              and path.name in {"BEAR", "BEAR-big"}
+          ]
+
+          if not variants:
+              raise SystemExit(
+                  "No dataset variants found. Expected BEAR/ and/or BEAR-big/."
+              )
+
+          used_assets = set()
+          dataset_count = 0
+
+          for variant in sorted(variants):
+              for language_dir in sorted(variant.iterdir()):
+                  if not language_dir.is_dir():
+                      continue
+
+                  language = language_dir.name.lower()
+                  language = re.sub(r"[^a-z0-9]+", "-", language).strip("-")
+
+                  if not language:
+                      raise ValueError(
+                          f"Invalid language directory: {language_dir}"
+                      )
+
+                  variant_name = variant.name.lower()
+                  suffix = "-big" if variant_name == "bear-big" else ""
+
+                  asset_name = f"bear-{language}{suffix}.zip"
+
+                  if asset_name in used_assets:
+                      raise ValueError(
+                          f"Duplicate asset name: {asset_name}"
+                      )
+                  used_assets.add(asset_name)
+
+                  dataset_name = f"bear{suffix}"
+
+                  metadata = {
+                      "dataset_name": dataset_name,
+                      "dataset_version": version,
+                      "dataset_language": language,
+                  }
+
+                  zip_path = dist / asset_name
+
+                  with zipfile.ZipFile(
+                      zip_path, "w", zipfile.ZIP_DEFLATED
+                  ) as archive:
+                      # Include dataset files, but replace any existing
+                      # metadata.json with generated metadata.
+                      for file_path in sorted(language_dir.rglob("*")):
+                          if not file_path.is_file():
+                              continue
+                          if file_path.name == "metadata.json":
+                              continue
+
+                          archive.write(
+                              file_path,
+                              file_path.relative_to(language_dir),
+                          )
+
+                      archive.writestr(
+                          "metadata.json",
+                          json.dumps(
+                              metadata,
+                              indent=4,
+                              ensure_ascii=False,
+                          ) + "\n",
+                      )
+
+                  print(f"Created {zip_path} (version {version})")
+                  dataset_count += 1
+
+          if dataset_count == 0:
+              raise SystemExit("No language datasets found.")
+          PY
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.version.outputs.tag }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          gh release create "$TAG" \
+            dist/*.zip \
+            --title "BEAR datasets $TAG" \
+            --notes "BEAR dataset release, version $VERSION." \
+            --target "$GITHUB_SHA"
