@@ -7,7 +7,7 @@ on:
       - "release"
       - "release/**"
     paths:
-      - "dataset-version.json"
+      - "dataset_version.json"
       - "BEAR/**"
       - "BEAR-big/**"
       - ".github/workflows/release-datasets.yml"
@@ -33,7 +33,7 @@ jobs:
         run: |
           VERSION=$(python -c '
           import json
-          with open("dataset-version.json", encoding="utf-8") as f:
+          with open("dataset_version.json", encoding="utf-8") as f:
               print(json.load(f)["dataset_version"])
           ')
 
@@ -52,7 +52,7 @@ jobs:
         run: |
           if gh release view "$TAG" >/dev/null 2>&1; then
             echo "Release $TAG already exists."
-            echo "Bump dataset-version.json before releasing again."
+            echo "Bump dataset_version.json before releasing again."
             exit 1
           fi
 
