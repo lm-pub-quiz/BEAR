@@ -164,7 +164,7 @@
         "templates": [
             "The native language of [X] is [Y].",
             "[X] speaks [Y] natively.",
-            "The native language of [X] is [Y]."
+            "[Y] is the native language of [X]"
         ]
     },
     "P105": {
