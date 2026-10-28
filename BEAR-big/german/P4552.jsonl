@@ -1,0 +1,582 @@
+{"sub_id": "Q8524323", "sub_label": "Giant Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q8526995", "sub_label": "Hurricane Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q7548744", "sub_label": "Snowy Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q7402132", "sub_label": "Saint Regis Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q7198898", "sub_label": "Pitchoff Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q4748134", "sub_label": "Ampersand Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q5401250", "sub_label": "Esther Mountain", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q3434515", "sub_label": "Wei\u00dfer Berg", "sub_aliases": [], "obj_id": "Q357546", "obj_label": "Adirondack Mountains", "obj_aliases": "Adirondacks"}
+{"sub_id": "Q2177556", "sub_label": "Ruth-Gletscher", "sub_aliases": "Ruth Glacier", "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q14680159", "sub_label": "Mount Pendleton", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q1502747", "sub_label": "Mentasta Mountains", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q14680189", "sub_label": "Peters Dome", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q8537913", "sub_label": "Mount Dall", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q16994629", "sub_label": "Gulkana-Gletscher", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q11830787", "sub_label": "Tokositna-Gletscher", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q14680154", "sub_label": "Mount Koven", "sub_aliases": [], "obj_id": "Q156684", "obj_label": "Alaskakette", "obj_aliases": "Alaska-Range"}
+{"sub_id": "Q4858177", "sub_label": "Baraghan", "sub_aliases": [], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q1364168", "sub_label": "Sabalan", "sub_aliases": ["Savalan", "K\u016bh-e Heram D\u0101gh\u012b"], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q5777145", "sub_label": "Khuzankola", "sub_aliases": [], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q5956537", "sub_label": "Mehran", "sub_aliases": ["Mehran, Alborz"], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q5790201", "sub_label": "Khurvin", "sub_aliases": [], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q4706020", "sub_label": "Alamut", "sub_aliases": ["Citadel of Alamut", "Alamut"], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q2885209", "sub_label": "Latyan Dam", "sub_aliases": [], "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q1516096", "sub_label": "Totsch\u0101l", "sub_aliases": "Tochal", "obj_id": "Q484725", "obj_label": "Elburs-Gebirge", "obj_aliases": "Elbursgebirge"}
+{"sub_id": "Q3323112", "sub_label": "Tschichatschow-Kamm", "sub_aliases": [], "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q4074606", "sub_label": "Bobyrgan Mountain", "sub_aliases": [], "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q2994323", "sub_label": "Mongun-Tajga", "sub_aliases": ["Mungun-Tayga"], "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q632335", "sub_label": "Dsungarische Pforte", "sub_aliases": ["Alataw Mountain Pass"], "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q820200", "sub_label": "Bergschorien", "sub_aliases": "Schoria-Bergland", "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q2956490", "sub_label": "Schapschal-Kamm", "sub_aliases": "Schapschalski chrebet", "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q4408888", "sub_label": "Sarymsaqty", "sub_aliases": "Sar\u0131msaqt\u0131", "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q1827481", "sub_label": "Tschuja-Steppe", "sub_aliases": "Tschujasteppe", "obj_id": "Q5955", "obj_label": "Altai", "obj_aliases": "Altai-Gebirge"}
+{"sub_id": "Q2417486", "sub_label": "Monte Vettore", "sub_aliases": [], "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q2631149", "sub_label": "Monte Velino", "sub_aliases": [], "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q1088265", "sub_label": "Pollino", "sub_aliases": [], "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q217449", "sub_label": "Val d\u2019Orcia", "sub_aliases": "Val d'Orcia", "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q283034", "sub_label": "Mugello", "sub_aliases": [], "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q755123", "sub_label": "Phlegr\u00e4ische Felder", "sub_aliases": "Campi Flegrei", "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q154372", "sub_label": "Montecassino (Berg)", "sub_aliases": [], "obj_id": "Q1285", "obj_label": "Apennin", "obj_aliases": "Apenninen"}
+{"sub_id": "Q142668", "sub_label": "Shenandoahtal", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q2983435", "sub_label": "Colline de Qu\u00e9bec", "sub_aliases": ["Promontory of Quebec", "promontoire de Qu\u00e9bec", "colline de Quebec", "escarpement de Qu\u00e9bec", "promontoire de Quebec", "escarpement de Quebec", "plateau Qu\u00e9bec-Sainte-Foy", "plateau Quebec-Sainte-Foy"], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q8519299", "sub_label": "Mount Kineo", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q3321861", "sub_label": "Mont Ham", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q654947", "sub_label": "Allegheny Plateau", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q6903047", "sub_label": "Mont Chapman", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q7107658", "sub_label": "Osterhout Mountain", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q4713376", "sub_label": "Alcovy Mountain", "sub_aliases": [], "obj_id": "Q93332", "obj_label": "Appalachen"}
+{"sub_id": "Q2199504", "sub_label": "Plana Mountain", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q38100", "sub_label": "Karlovsko Praskalo", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q6439432", "sub_label": "Krushuna Falls", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q4881654", "sub_label": "Beklemeto Pass", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q11786693", "sub_label": "Murgash Peak", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q7937100", "sub_label": "Witinjapass", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q894699", "sub_label": "Botewgradpass", "sub_aliases": "Arabakonak-Attentat", "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q7178926", "sub_label": "Petrohan Pass", "sub_aliases": [], "obj_id": "Q170427", "obj_label": "Balkangebirge", "obj_aliases": "Stara Planina"}
+{"sub_id": "Q990851", "sub_label": "Brotjacklriegel", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q884249", "sub_label": "Haidel", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q1257412", "sub_label": "Dreiburgensee", "sub_aliases": "Rothauer See", "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q1310425", "sub_label": "Ein\u00f6driegel", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q1353058", "sub_label": "Siebensteinkopf", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q833090", "sub_label": "Plattenhausenriegel", "sub_aliases": ["Blatn\u00fd vrch"], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q260073", "sub_label": "Gro\u00dfer Arber", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q896982", "sub_label": "Lusen", "sub_aliases": [], "obj_id": "Q4207", "obj_label": "Bayerischer Wald", "obj_aliases": "Bayerische Wald"}
+{"sub_id": "Q666668", "sub_label": "Grimselpass", "sub_aliases": "Grimsel", "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q66218", "sub_label": "Kandersteg", "sub_aliases": "Kandersteg BE", "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q70321", "sub_label": "Riederalp", "sub_aliases": ["Riederalp VS"], "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q665676", "sub_label": "Jungfraujoch", "sub_aliases": "Top of Europe", "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q16541", "sub_label": "Nesthorn", "sub_aliases": [], "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q16525", "sub_label": "M\u00f6nch", "sub_aliases": ["Monch"], "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q64004", "sub_label": "Grindelwald", "sub_aliases": "Grindelwald BE", "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q16693", "sub_label": "Niesen", "sub_aliases": [], "obj_id": "Q327221", "obj_label": "Berner Alpen"}
+{"sub_id": "Q660943", "sub_label": "Piz Chalchagn", "sub_aliases": [], "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q4353322", "sub_label": "Piz da la Margna", "sub_aliases": [], "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q668321", "sub_label": "Pizzo Badile", "sub_aliases": "Piz Badile", "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q16630", "sub_label": "Piz Varuna", "sub_aliases": "Pizzo Verona", "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q676703", "sub_label": "Tschiervagletscher", "sub_aliases": "Vadret da Tschierva", "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q7199882", "sub_label": "Piz Rosatsch", "sub_aliases": [], "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q16549", "sub_label": "Piz Surlej", "sub_aliases": [], "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q668570", "sub_label": "Crast\u2019 Ag\u00fczza", "sub_aliases": "Crast' Ag\u00fczza", "obj_id": "Q427415", "obj_label": "Berninagruppe"}
+{"sub_id": "Q826805", "sub_label": "Bernstein (Nordschwarzwald)", "sub_aliases": [], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q2599906", "sub_label": "Yberg", "sub_aliases": ["Iberg"], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q515385", "sub_label": "Belchen", "sub_aliases": [], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q700097", "sub_label": "Titisee", "sub_aliases": [], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q14531851", "sub_label": "Zeller Blauen", "sub_aliases": "Hochblauen", "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q1412192", "sub_label": "Seebuck", "sub_aliases": [], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q885310", "sub_label": "Brandenkopf", "sub_aliases": [], "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q880395", "sub_label": "Hohe M\u00f6hr", "sub_aliases": "Sender Hohe M\u00f6hr", "obj_id": "Q4204", "obj_label": "Schwarzwald"}
+{"sub_id": "Q842924", "sub_label": "Brasstown Bald", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q5168070", "sub_label": "Coosa Bald", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q5194936", "sub_label": "Currahee Mountain", "sub_aliases": "Currahee", "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q37429", "sub_label": "Walker Falls", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q37519", "sub_label": "Bridal Veil Falls", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q7811968", "sub_label": "Toccoa River", "sub_aliases": ["Toccoa/Ocoee River", "Ocoee River"], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q7278818", "sub_label": "Rabun Bald", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q5179818", "sub_label": "Cowrock Mountain", "sub_aliases": [], "obj_id": "Q166755", "obj_label": "Blue Ridge Mountains"}
+{"sub_id": "Q11706971", "sub_label": "B\u0159ezn\u00edk", "sub_aliases": "St. Guntherberg", "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q327749", "sub_label": "\u017delezn\u00e1 Ruda", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q23819469", "sub_label": "Javorn\u00e1", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q11216298", "sub_label": "Bob\u00edk", "sub_aliases": "Schreiner", "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q23807790", "sub_label": "Vysok\u00fd h\u0159bet", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q23824287", "sub_label": "V\u011btrn\u00fd", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q16765434", "sub_label": "\u0160pi\u0107\u00e1k", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q1456734", "sub_label": "Panc\u00ed\u0159", "sub_aliases": [], "obj_id": "Q157290", "obj_label": "B\u00f6hmerwald", "obj_aliases": "\u0160umava"}
+{"sub_id": "Q13126329", "sub_label": "Bryn y Fedwen", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q7162102", "sub_label": "Pen Pumlumon Arwystli", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q5043756", "sub_label": "Carn Gafallt", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q3378303", "sub_label": "Bache Hill", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q20594745", "sub_label": "Foel Fadian", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q13125709", "sub_label": "Banc Llechwedd-mawr", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q7259792", "sub_label": "Pumlumon Fach", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q20601896", "sub_label": "Newydd Fynyddog", "sub_aliases": [], "obj_id": "Q1028218", "obj_label": "Cambrian Mountains"}
+{"sub_id": "Q392154", "sub_label": "Kicking Horse Pass", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q2403376", "sub_label": "Hector Glacier", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q2981957", "sub_label": "Howse Pass", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q2981956", "sub_label": "Athabasca Pass", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q770819", "sub_label": "Saskatchewan-Gletscher", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q2961868", "sub_label": "Winston Churchill Range", "sub_aliases": ["Winston Churchill Range"], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q429971", "sub_label": "Crowfoot-Gletscher", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q1481093", "sub_label": "Rocky Mountain Trench", "sub_aliases": [], "obj_id": "Q1353201", "obj_label": "Kanadische Rocky Mountains"}
+{"sub_id": "Q6980922", "sub_label": "Sierra del Escudo de Cabu\u00e9rniga", "sub_aliases": ["Sierra del Escudo de Cabuerniga"], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q38396659", "sub_label": "Los Machucos", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q8558801", "sub_label": "Puerto de San Isidro", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q2883582", "sub_label": "Puerto de Alisas", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q2748808", "sub_label": "Castro Valnera", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q5507202", "sub_label": "Fuentes Carrionas", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q5847260", "sub_label": "Pico Jano", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q8558762", "sub_label": "Puerto de Tarna", "sub_aliases": [], "obj_id": "Q208076", "obj_label": "Kantabrisches Gebirge", "obj_aliases": "Cordillera Cantabrica"}
+{"sub_id": "Q511951", "sub_label": "Predeal", "sub_aliases": ["Prede\u00e1l"], "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q4372154", "sub_label": "Pip Iwan Maramure\u0219", "sub_aliases": [], "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q261418", "sub_label": "Mischhirja", "sub_aliases": ["Mizhhiria"], "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q213296", "sub_label": "Sinaia", "sub_aliases": [], "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q1050027", "sub_label": "Serednij Werezkyj-Pass", "sub_aliases": "Werezkyj-Pass", "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q776842", "sub_label": "Ostkarpaten", "sub_aliases": [], "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q1187710", "sub_label": "Jablunyzkyj-Pass", "sub_aliases": "Tatarenpass", "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q794973", "sub_label": "B\u00e2lea-See", "sub_aliases": "Lacul B\u00e2lea", "obj_id": "Q1288", "obj_label": "Karpaten", "obj_aliases": "Karpathen"}
+{"sub_id": "Q2982127", "sub_label": "Snoqualmie Pass", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q3323122", "sub_label": "Wenatchee Mountains", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q658484", "sub_label": "Broken Top", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q767515", "sub_label": "Dome Peak", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q37288", "sub_label": "Van Trump Falls", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q1367080", "sub_label": "Little Tahoma", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q3116138", "sub_label": "Greenleaf Peak", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q3086162", "sub_label": "N\u00f6rdliche Kaskadenkette", "sub_aliases": [], "obj_id": "Q4558", "obj_label": "Kaskadenkette", "obj_aliases": "Kaskadengebirge"}
+{"sub_id": "Q5451209", "sub_label": "Fir Mountain", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q7304273", "sub_label": "Red Hill Fire Observation Station", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q4852530", "sub_label": "Balsam Cap", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q4805812", "sub_label": "Ashokan High Point", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q34816660", "sub_label": "Utsayantha Mountain", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q5593091", "sub_label": "Graham Mountain", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q7788531", "sub_label": "Thomas Cole Mountain", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q7939097", "sub_label": "Vly Mountain", "sub_aliases": [], "obj_id": "Q630566", "obj_label": "Catskills", "obj_aliases": "Kaatserskill"}
+{"sub_id": "Q49081205", "sub_label": "Taku Towers", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q49074442", "sub_label": "Slanting Peak", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q1285418", "sub_label": "Pacific Ranges", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q4816935", "sub_label": "Atlin Mountain", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q4750906", "sub_label": "Anahim-Vulkang\u00fcrtel", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q49052229", "sub_label": "Mount Carmack", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q895152", "sub_label": "Boundary Ranges", "sub_aliases": "Boundary Range", "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q3197589", "sub_label": "Kitimat Ranges", "sub_aliases": [], "obj_id": "Q920070", "obj_label": "Coast Mountains"}
+{"sub_id": "Q25241166", "sub_label": "San Juan", "sub_aliases": ["Ancos Punta"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q19872385", "sub_label": "Andavite", "sub_aliases": "Chopiraju", "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q829688", "sub_label": "Alpamayo", "sub_aliases": ["Shuyturaju"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q1849060", "sub_label": "Ishinca", "sub_aliases": ["Nevado Ishinca"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q20085415", "sub_label": "Kunkush Punta", "sub_aliases": ["Cuncushpunta"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q587242", "sub_label": "Caraz", "sub_aliases": ["Car\u00e1s"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q1118982", "sub_label": "Chinchey", "sub_aliases": ["Rurichinchay"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q3875091", "sub_label": "Santa Cruz", "sub_aliases": ["Pucaraju", "Pukaraju", "Pico de Huaylas"], "obj_id": "Q804330", "obj_label": "Cordillera Blanca", "obj_aliases": "Wei\u00dfe Kordillere"}
+{"sub_id": "Q1108944", "sub_label": "Colle delle Finestre", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q3644542", "sub_label": "Bric Ghinivert", "sub_aliases": "Eimin\u00e0l", "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q25583507", "sub_label": "Colle dell\u2019Assietta", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q2289005", "sub_label": "Monte Granero", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q3751792", "sub_label": "Monte Tre Denti", "sub_aliases": ["Tre Denti di Cantalupa"], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q28869979", "sub_label": "Punta Tempesta", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q3423247", "sub_label": "Refuge du Mont Thabor", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q3682779", "sub_label": "Colle della Croce", "sub_aliases": [], "obj_id": "Q1251", "obj_label": "Cottische Alpen", "obj_aliases": "Kottische Alpen"}
+{"sub_id": "Q20093478", "sub_label": "Stavri Kaya", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q30888564", "sub_label": "Shaitan-Merdven", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q2470386", "sub_label": "Aju-Dag", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q2629660", "sub_label": "Tschatyr-Dag", "sub_aliases": ["Khrebet Chatyrdag-Yayla"], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q12109793", "sub_label": "Krepostnaya mountain", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q3848980", "sub_label": "Paragilmen mountain", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q12116271", "sub_label": "Kush-kaya", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q12108602", "sub_label": "Karaul-Oba", "sub_aliases": [], "obj_id": "Q748282", "obj_label": "Krimgebirge", "obj_aliases": "Taurisches Gebirge"}
+{"sub_id": "Q837723", "sub_label": "Magli\u0107", "sub_aliases": [], "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q394286", "sub_label": "\u017dumberak-Gebirge", "sub_aliases": "Zumberak Hochland", "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q1370044", "sub_label": "Lov\u0107en", "sub_aliases": "Lov\u010den", "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q1757305", "sub_label": "Orjen", "sub_aliases": [], "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q1785716", "sub_label": "Rumija", "sub_aliases": [], "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q864456", "sub_label": "Biokovo-Gebirge", "sub_aliases": "Biokovo", "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q163177", "sub_label": "Majevica", "sub_aliases": [], "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q615771", "sub_label": "Albanische Alpen", "sub_aliases": "Prokletije", "obj_id": "Q189915", "obj_label": "Dinarisches Gebirge", "obj_aliases": "Dinarisches Deckensystem"}
+{"sub_id": "Q445369", "sub_label": "Pragser Wildsee", "sub_aliases": "Lago di Braies", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q379948", "sub_label": "Passo San Pellegrino", "sub_aliases": "San Pellegrinopass", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q1092027", "sub_label": "Cima di Vezzana", "sub_aliases": "Vezzana", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q203241", "sub_label": "Marmolata", "sub_aliases": "Marmol\u00e8da", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q433534", "sub_label": "Alta Badia", "sub_aliases": "Hochabteital", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q2523107", "sub_label": "Cimon della Pala", "sub_aliases": [], "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q1193166", "sub_label": "Pordoijoch", "sub_aliases": "Pordoipass", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q634939", "sub_label": "Passo Rolle", "sub_aliases": "Rollepass", "obj_id": "Q1283", "obj_label": "Dolomiten"}
+{"sub_id": "Q6913284", "sub_label": "Mount Moorosi", "sub_aliases": [], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q455699", "sub_label": "Amathole-Berge", "sub_aliases": "Amatole-Berge", "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q528960", "sub_label": "Winterberge", "sub_aliases": ["Winterberge"], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q476745", "sub_label": "Champagne Castle", "sub_aliases": [], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q223649", "sub_label": "Tugela Falls", "sub_aliases": [], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q31593119", "sub_label": "Ngwenya (Berg)", "sub_aliases": [], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q3432135", "sub_label": "Giant\u2019s Castle", "sub_aliases": [], "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q7577689", "sub_label": "Spion Kop", "sub_aliases": "Spioenkop", "obj_id": "Q183295", "obj_label": "Drakensberge", "obj_aliases": "UKhahlamba"}
+{"sub_id": "Q628095", "sub_label": "N\u00fcrburg", "sub_aliases": "Nurburg", "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q315110", "sub_label": "Hohe Acht", "sub_aliases": [], "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q31333132", "sub_label": "Kopn\u00fcck", "sub_aliases": [], "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q2160644", "sub_label": "Rockeskyller Kopf", "sub_aliases": [], "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q15811638", "sub_label": "Genfbach", "sub_aliases": [], "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q402861", "sub_label": "Ahrgebirge", "sub_aliases": "Ahreifel", "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q1360982", "sub_label": "Ernstberg", "sub_aliases": "Erresberg", "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q2342048", "sub_label": "Steling", "sub_aliases": ["Steling-Berg"], "obj_id": "Q152356", "obj_label": "Eifel", "obj_aliases": "D45"}
+{"sub_id": "Q1796723", "sub_label": "K\u00f6sseine", "sub_aliases": "K\u00f6sseineturm", "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q1015992", "sub_label": "Burgstein (Fichtelgebirge)", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q856221", "sub_label": "Bibersberg", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q819929", "sub_label": "Bergkopf", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q1261994", "sub_label": "H\u00f6llpass", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q1110555", "sub_label": "Katharinenberg bei Wunsiedel", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q1796369", "sub_label": "K\u00f6nigsheide (Fichtelgebirge)", "sub_aliases": "Hohberg (Fichtelgebirge)", "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q744254", "sub_label": "Epprechtstein", "sub_aliases": [], "obj_id": "Q157728", "obj_label": "Fichtelgebirge", "obj_aliases": "Smr\u010diny"}
+{"sub_id": "Q6979322", "sub_label": "St\u00f9c a\u2019 Chroin", "sub_aliases": ["Stuc a' Chroin"], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q948061", "sub_label": "Schiehallion", "sub_aliases": [], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q3395413", "sub_label": "Ben Cruachan", "sub_aliases": [], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q2895316", "sub_label": "Ben Alder", "sub_aliases": [], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q3397414", "sub_label": "Sg\u00f2r Gaoith", "sub_aliases": ["Sgor Gaoith"], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q4881346", "sub_label": "Beinn Udlamain", "sub_aliases": [], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q2395787", "sub_label": "Aonach M\u00f2r", "sub_aliases": ["Nevis Range", "Aonach Mor"], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q3397729", "sub_label": "Ben Lui", "sub_aliases": ["Beinn Laoigh"], "obj_id": "Q1124736", "obj_label": "Grampian Mountains", "obj_aliases": "Grampians"}
+{"sub_id": "Q390226", "sub_label": "Australische Alpen", "sub_aliases": "Victorian Alps", "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q1525634", "sub_label": "Strzelecki-Gebirge", "sub_aliases": [], "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q6922748", "sub_label": "Mount Pieter Botte", "sub_aliases": [], "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q6924541", "sub_label": "Mount Wellington", "sub_aliases": ["Mount Wellington, Victoria"], "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q755509", "sub_label": "Atherton Tablelands", "sub_aliases": "Atherton Tableland", "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q8536317", "sub_label": "Mount Terrible", "sub_aliases": [], "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q1159413", "sub_label": "Dandenongs", "sub_aliases": "Dandenong Ranges", "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q6920189", "sub_label": "Mount Cobbler", "sub_aliases": [], "obj_id": "Q192583", "obj_label": "Great Dividing Range", "obj_aliases": "Australisches Bergland"}
+{"sub_id": "Q610055", "sub_label": "Kodori-Tal", "sub_aliases": ["Kodoris Kheoba"], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q207680", "sub_label": "Kasbek", "sub_aliases": "Kazbek", "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q3652687", "sub_label": "Bogosski-Gebirge", "sub_aliases": "Bogosski chrebet", "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q603574", "sub_label": "Bsipi-Gebirge", "sub_aliases": [], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q1285832", "sub_label": "Uschba", "sub_aliases": [], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q2474500", "sub_label": "Ratscha-Gebirge", "sub_aliases": [], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q768463", "sub_label": "Tebulosmta", "sub_aliases": [], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q2388278", "sub_label": "Tetnuldi", "sub_aliases": [], "obj_id": "Q486986", "obj_label": "Gro\u00dfer Kaukasus"}
+{"sub_id": "Q226726", "sub_label": "Zorge", "sub_aliases": [], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q522992", "sub_label": "Braunlage", "sub_aliases": [], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q1624130", "sub_label": "Hohnekamm", "sub_aliases": "Leistenklippe", "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q1652062", "sub_label": "H\u00fcbichenstein", "sub_aliases": [], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q1703710", "sub_label": "Jordansh\u00f6he", "sub_aliases": [], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q878533", "sub_label": "Bruchberg", "sub_aliases": "Bruchbarrig", "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q2230367", "sub_label": "Schalke", "sub_aliases": [], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q445057", "sub_label": "Oder", "sub_aliases": ["Oder (Rhume)"], "obj_id": "Q4186", "obj_label": "Harz", "obj_aliases": "Silva Hercynia"}
+{"sub_id": "Q1072105", "sub_label": "Lomnick\u00fd \u0161t\u00edt", "sub_aliases": "Lomnitzer Spitze", "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q722948", "sub_label": "Kotlov\u00fd \u0161t\u00edt", "sub_aliases": [], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q392489", "sub_label": "\u0160trbsk\u00e9 pleso", "sub_aliases": "Tschirmer See", "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q747142", "sub_label": "Chata pod Rysmi", "sub_aliases": [], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q766813", "sub_label": "Gerlachovsk\u00e1 ve\u017ea", "sub_aliases": [], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q843100", "sub_label": "T\u00e9ryho chata", "sub_aliases": [], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q770572", "sub_label": "Schlagendorfer Spitze", "sub_aliases": [], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q720919", "sub_label": "Baranie rohy", "sub_aliases": ["Baranie rohy"], "obj_id": "Q690323", "obj_label": "Hohe Tatra", "obj_aliases": "Tatry Wysokie"}
+{"sub_id": "Q5472", "sub_label": "Hindukusch", "sub_aliases": ["P\u0101riy\u0101tra Parvata", "Paropamisadae", "Hindukush"], "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q82019", "sub_label": "Kangchendz\u00f6nga", "sub_aliases": "Kangchendzonga", "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q159621", "sub_label": "Annapurna Himal", "sub_aliases": "Annapurna I", "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q1145646", "sub_label": "Himal Chuli", "sub_aliases": [], "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q924257", "sub_label": "Mahalangur Himal", "sub_aliases": "Mah\u0101lang\u016br Him\u0101l", "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q324765", "sub_label": "Jongsong Ri", "sub_aliases": "Jongsong Peak", "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q213262", "sub_label": "Nanda Devi", "sub_aliases": [], "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q1551402", "sub_label": "Langtang Lirung", "sub_aliases": "L\u0101\u1e45t\u0101\u1e45 Liru\u1e45", "obj_id": "Q5451", "obj_label": "Himalaya", "obj_aliases": "Himalaja"}
+{"sub_id": "Q1194223", "sub_label": "Salangpass", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q19631181", "sub_label": "Kohe Mondi", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q3309981", "sub_label": "Chaprot Pass", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q207132", "sub_label": "Tirich Mir", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q7461260", "sub_label": "Shah Dhar", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q6704400", "sub_label": "Lunkho e Dosare", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q2005166", "sub_label": "Alexandria am Kaukasus", "sub_aliases": "Alexandria am Hindukusch", "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q7877301", "sub_label": "Udren Zom", "sub_aliases": [], "obj_id": "Q5472", "obj_label": "Hindukusch"}
+{"sub_id": "Q1535521", "sub_label": "Memurubu", "sub_aliases": [], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q203942", "sub_label": "Galdh\u00f8piggen", "sub_aliases": "Galdh\u00f6ppigen", "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q6516035", "sub_label": "Veobreahesten", "sub_aliases": ["Veobrehesten"], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q3352510", "sub_label": "Storjuvtinden", "sub_aliases": ["Storgjuvtinden"], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q3040475", "sub_label": "Store Memurutinden", "sub_aliases": ["Memurutinden"], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q3442972", "sub_label": "Tverrbytthornet", "sub_aliases": [], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q3443115", "sub_label": "Semeltinden", "sub_aliases": [], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q2739918", "sub_label": "Skarstind", "sub_aliases": [], "obj_id": "Q588281", "obj_label": "Jotunheimen"}
+{"sub_id": "Q1089225", "sub_label": "Werschitzpass", "sub_aliases": "Werschetzpass", "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q477193", "sub_label": "Neveasattel", "sub_aliases": "Sella Nevea", "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q763420", "sub_label": "Jalovec", "sub_aliases": [], "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q1431659", "sub_label": "Me\u017eakla", "sub_aliases": "Mezakla", "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q223253", "sub_label": "Luigi-Pellarini-H\u00fctte", "sub_aliases": [], "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q843444", "sub_label": "Pokljuka", "sub_aliases": ["Pokljuka Plateau"], "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q238644", "sub_label": "Prisojnik", "sub_aliases": "Prisank", "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q1890215", "sub_label": "Mangart", "sub_aliases": [], "obj_id": "Q119206", "obj_label": "Julische Alpen"}
+{"sub_id": "Q1124225", "sub_label": "Concordiaplatz", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1567905", "sub_label": "Hispar-Gletscher", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1125851", "sub_label": "Rimo Muztagh", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1582651", "sub_label": "Masherbrum-Berge", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q572323", "sub_label": "Panmah Muztagh", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1495157", "sub_label": "Gasherbrum V", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q7928958", "sub_label": "Vignegletscher", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1674377", "sub_label": "Saser Muztagh", "sub_aliases": [], "obj_id": "Q5469", "obj_label": "Karakorum"}
+{"sub_id": "Q1784930", "sub_label": "Kosiak", "sub_aliases": "Gei\u00dfberg", "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q15809539", "sub_label": "Ferlacher Spitze", "sub_aliases": [], "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q12797917", "sub_label": "Ol\u0161eva", "sub_aliases": "Olschewa", "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q177047", "sub_label": "Petzen", "sub_aliases": [], "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q1419571", "sub_label": "Schaidasattel", "sub_aliases": [], "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q753243", "sub_label": "Begunj\u0161\u010dica", "sub_aliases": [], "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q21875003", "sub_label": "Selenitza", "sub_aliases": ["Zelenica"], "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q21875036", "sub_label": "Hahnkogel", "sub_aliases": "Petelinjek", "obj_id": "Q198007", "obj_label": "Karawanken", "obj_aliases": "Karawankenvorberge"}
+{"sub_id": "Q2110569", "sub_label": "Prinz-Heinrich-Baude", "sub_aliases": "Prinz Heinrichbaude", "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q12038896", "sub_label": "Mrtv\u00fd vrch", "sub_aliases": "Todtenw\u00fcrgberg", "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q147816", "sub_label": "Harrachov", "sub_aliases": [], "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q1325307", "sub_label": "Elbfall", "sub_aliases": "Elbefall", "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q5201559", "sub_label": "Schwarze Koppe", "sub_aliases": "Svorov\u00e1 hora", "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q3488142", "sub_label": "Gro\u00dfe Sturmhaube", "sub_aliases": [], "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q132423", "sub_label": "Wiesenbaude", "sub_aliases": [], "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q339506", "sub_label": "\u010cern\u00fd D\u016fl", "sub_aliases": "Cerny Dul", "obj_id": "Q214644", "obj_label": "Riesengebirge", "obj_aliases": "Krkonose"}
+{"sub_id": "Q672366", "sub_label": "Piz Blas", "sub_aliases": [], "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q70328", "sub_label": "Bosco/Gurin", "sub_aliases": "Bosco-Vallemaggia", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q691668", "sub_label": "Pizzo Centrale", "sub_aliases": "Piz Centrale", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q277414", "sub_label": "Cardada", "sub_aliases": [], "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q25233", "sub_label": "Gotthardpass", "sub_aliases": "St. Gotthardpass", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q666004", "sub_label": "Lukmanierpass", "sub_aliases": "Lukmanierpass (\u0160v\u00fdcarsko : pr\u016fsmyk)", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q378887", "sub_label": "Adula-Alpen", "sub_aliases": "Adula-Gebirge", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q471166", "sub_label": "Simplonpass", "sub_aliases": "Simplon-Pass", "obj_id": "Q1274", "obj_label": "Lepontinische Alpen"}
+{"sub_id": "Q3566075", "sub_label": "Star\u00fd hrad", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q50693370", "sub_label": "K\u00fd\u010dery", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q13538906", "sub_label": "Sedlo Priehyb", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q8042902", "sub_label": "Kr\u00ed\u017eava", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q20902949", "sub_label": "K\u013eak (n\u00e1rodn\u00e1 pr\u00edrodn\u00e1 rezerv\u00e1cia)", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q2006608", "sub_label": "Vr\u00e1tna-Tal", "sub_aliases": "Vratna-Tal", "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q12775928", "sub_label": "Bublen", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q15054215", "sub_label": "Koniarky", "sub_aliases": [], "obj_id": "Q523671", "obj_label": "Mal\u00e1 Fatra"}
+{"sub_id": "Q570864", "sub_label": "Hundsheimer Berge", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q12769824", "sub_label": "Kr\u0161lenica", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q20860699", "sub_label": "Limba\u0161sk\u00e1 vyviera\u010dka", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q20860878", "sub_label": "Orlie skaly", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q901776", "sub_label": "Braunsberg", "sub_aliases": "Braunsberg (Anh\u00f6he im Bezirk Bruck an der Leitha)", "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q20860506", "sub_label": "Chr\u00edb", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q1796511", "sub_label": "K\u00f6nigswarte", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q20861122", "sub_label": "Strmina", "sub_aliases": [], "obj_id": "Q426712", "obj_label": "Kleine Karpaten", "obj_aliases": "Mal\u00e9 Karpaty"}
+{"sub_id": "Q1200161", "sub_label": "Dere\u0161e", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q20860872", "sub_label": "Ohni\u0161te", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q11829536", "sub_label": "Hiade\u013esk\u00e9 sedlo", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q12778433", "sub_label": "Ve\u013ek\u00fd G\u00e1pe\u013e", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q20051156", "sub_label": "\u00datulna \u010eurkov\u00e1", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q3500756", "sub_label": "Brankov Wasserfall", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q11800826", "sub_label": "Ostr\u00e9", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q12776784", "sub_label": "Stredn\u00e1 ho\u013ea", "sub_aliases": [], "obj_id": "Q558893", "obj_label": "Niedere Tatra", "obj_aliases": "N\u00edzke Tatry"}
+{"sub_id": "Q1307926", "sub_label": "Pic Saint-Loup", "sub_aliases": [], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q1997150", "sub_label": "Meygal", "sub_aliases": [], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q1509963", "sub_label": "Montagne Noire", "sub_aliases": "Montagne-Noire-Zone", "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q3323140", "sub_label": "Monts de Ch\u00e2lus", "sub_aliases": [], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q3437539", "sub_label": "Rock of Solutr\u00e9", "sub_aliases": ["Rock of Solutre"], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q8439", "sub_label": "Monts du Lyonnais", "sub_aliases": [], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q1475954", "sub_label": "Monts Dore", "sub_aliases": [], "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q2367178", "sub_label": "Le Lioran", "sub_aliases": "Super Lioran", "obj_id": "Q190695", "obj_label": "Zentralmassiv"}
+{"sub_id": "Q464552", "sub_label": "Melibokus", "sub_aliases": "Melibocus", "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q16832868", "sub_label": "Lindenstein", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q896713", "sub_label": "Katzenbuckel", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q30670486", "sub_label": "Gotthardsberg (Odenwald)", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q1742307", "sub_label": "Kinzert", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q787700", "sub_label": "Krehberg", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q2541916", "sub_label": "Waldskopf", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q1604892", "sub_label": "Hemsberg", "sub_aliases": [], "obj_id": "Q8359", "obj_label": "Odenwald"}
+{"sub_id": "Q1569913", "sub_label": "Keilberg", "sub_aliases": "Kl\u00ednovec", "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q1720762", "sub_label": "Kahleberg", "sub_aliases": [], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q880766", "sub_label": "Geisingberg", "sub_aliases": [], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q12040271", "sub_label": "Seifener Berg", "sub_aliases": [], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q1686686", "sub_label": "Jelen\u00ed hora", "sub_aliases": ["Jeleni hora"], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q677841", "sub_label": "Blatensk\u00fd vrch", "sub_aliases": [], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q820215", "sub_label": "Buchschachtelberg", "sub_aliases": ["Buchschachtel-Berg"], "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q2512505", "sub_label": "Velk\u00fd \u0160pi\u010d\u00e1k", "sub_aliases": "Velk\u00fd Spi\u010d\u00e1k", "obj_id": "Q4198", "obj_label": "Erzgebirge", "obj_aliases": "D16"}
+{"sub_id": "Q688517", "sub_label": "Verbier", "sub_aliases": [], "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q30446", "sub_label": "Castor", "sub_aliases": ["Castor and Pollux peaks"], "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q16650", "sub_label": "Lagginhorn", "sub_aliases": [], "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q668348", "sub_label": "Fletschhorn", "sub_aliases": [], "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q675446", "sub_label": "Klein Matterhorn", "sub_aliases": "Matterhorn glacier paradise", "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q15120", "sub_label": "Liskamm", "sub_aliases": "Lyskamm", "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q69693", "sub_label": "Saas-Fee", "sub_aliases": "Saas-Fee VS", "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q69436", "sub_label": "Leukerbad", "sub_aliases": "Lo\u00e8che-les-Bains", "obj_id": "Q1270", "obj_label": "Walliser Alpen"}
+{"sub_id": "Q7812850", "sub_label": "Todorka", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q12287310", "sub_label": "Momina Klisura", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q12282495", "sub_label": "Kamenitsa Peak", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q11693847", "sub_label": "Demyanitsa hut", "sub_aliases": ["Hut in Bulgaria"], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q12293800", "sub_label": "Sinanitsa", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q3493445", "sub_label": "Koncheto", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q4857146", "sub_label": "Banski Suhodol", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q12293675", "sub_label": "Sivria", "sub_aliases": [], "obj_id": "Q726158", "obj_label": "Pirin", "obj_aliases": "Piringebirge"}
+{"sub_id": "Q7845364", "sub_label": "Trome\u0111a", "sub_aliases": "Tromedja", "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q6737388", "sub_label": "Maja e That\u00eb", "sub_aliases": [], "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q3656398", "sub_label": "Hajla e Vranocit", "sub_aliases": [], "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q7369089", "sub_label": "Maja e Rosit", "sub_aliases": "\u0420\u043e\u0441\u043d\u0438 \u0412\u0440\u0445", "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q3656391", "sub_label": "\u017duti kamen", "sub_aliases": ["Guri i Kuq"], "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q1166159", "sub_label": "Rugova-Schlucht", "sub_aliases": [], "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q22012321", "sub_label": "Maja e Cukalit", "sub_aliases": [], "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q498895", "sub_label": "Kola\u0161in", "sub_aliases": "ME-09", "obj_id": "Q615771", "obj_label": "Albanische Alpen", "obj_aliases": "Prokletije"}
+{"sub_id": "Q1257544", "sub_label": "Dreienberg", "sub_aliases": [], "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q1548594", "sub_label": "Gro\u00dfer Auersberg", "sub_aliases": [], "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q2168717", "sub_label": "Rother Kuppe", "sub_aliases": [], "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q1594081", "sub_label": "Heidelstein", "sub_aliases": "Schwabenhimmel", "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q1331914", "sub_label": "Ellenbogen", "sub_aliases": "Ellenbogen (Rh\u00f6n)", "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q1302739", "sub_label": "Eierhauckberg", "sub_aliases": "Eierhauck", "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q1908375", "sub_label": "Mathesberg", "sub_aliases": [], "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q832618", "sub_label": "Gro\u00dfe Haube", "sub_aliases": "Mottener Haube", "obj_id": "Q148988", "obj_label": "Rh\u00f6n"}
+{"sub_id": "Q6920143", "sub_label": "Mount Chown", "sub_aliases": [], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q650836", "sub_label": "Yellowstone", "sub_aliases": "Yellowstone Caldera", "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q8040386", "sub_label": "Wyoming Range", "sub_aliases": [], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q586241", "sub_label": "Teton Range", "sub_aliases": ["Grand Tetons", "Tetons", "Teton Mountain Range", "Teton Mountains", "Grand Teton Mountains"], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q7575025", "sub_label": "Specimen Ridge", "sub_aliases": [], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q6916494", "sub_label": "Mosquito Range", "sub_aliases": [], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q1353201", "sub_label": "Kanadische Rocky Mountains", "sub_aliases": ["Canadian Rocky Mountains", "Rocheuses canadiennes"], "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q331762", "sub_label": "Absaroka Range", "sub_aliases": "Absaroka-Bergkette", "obj_id": "Q5463", "obj_label": "Rocky Mountains", "obj_aliases": "Rockies"}
+{"sub_id": "Q2725470", "sub_label": "Mount Steele", "sub_aliases": [], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q1144559", "sub_label": "Mount Alverstone", "sub_aliases": "Boundary Peak 180", "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q116999", "sub_label": "Bagley Icefield", "sub_aliases": ["Bagley Ice Valley"], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q4955184", "sub_label": "Brady-Gletscher", "sub_aliases": [], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q1542456", "sub_label": "Grand-Pacific-Gletscher", "sub_aliases": "Grand Pacific Glacier", "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q1722858", "sub_label": "Alsek Ranges", "sub_aliases": [], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q1153188", "sub_label": "Mount Lucania", "sub_aliases": [], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q8530242", "sub_label": "Mount Queen Mary", "sub_aliases": [], "obj_id": "Q48719", "obj_label": "Eliaskette", "obj_aliases": "St. Elias Mountains"}
+{"sub_id": "Q2100974", "sub_label": "Dovrefjell", "sub_aliases": ["Dovrefeld"], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q596485", "sub_label": "Sarektj\u00e5kk\u00e5", "sub_aliases": [], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q1510626", "sub_label": "Sylan", "sub_aliases": [], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q917018", "sub_label": "Briksdalsbreen", "sub_aliases": ["Briksdalsbreen Glacier"], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q2487508", "sub_label": "Tromsdalstinden", "sub_aliases": [], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q419567", "sub_label": "Akka (Berg)", "sub_aliases": "Ahkka", "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q746223", "sub_label": "Preikestolen", "sub_aliases": [], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q271149", "sub_label": "\u00c5reskutan", "sub_aliases": [], "obj_id": "Q186547", "obj_label": "Skandinavisches Gebirge", "obj_aliases": "Skanden"}
+{"sub_id": "Q37385", "sub_label": "Horsetail Fall", "sub_aliases": [], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q5052248", "sub_label": "Cathedral Lakes", "sub_aliases": [], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q953984", "sub_label": "Mammoth Mountain", "sub_aliases": [], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q3299659", "sub_label": "Matterhorn Peak (Kalifornien)", "sub_aliases": [], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q491677", "sub_label": "Yosemite Falls", "sub_aliases": "Yosemite Fall", "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q156342", "sub_label": "Plumas County", "sub_aliases": ["Plumas County, California"], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q4696448", "sub_label": "Ahwahnee Hotel", "sub_aliases": ["Majestic Yosemite Hotel", "The Majestic Yosemite Hotel"], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q1755031", "sub_label": "Tenaya Lake", "sub_aliases": [], "obj_id": "Q26777", "obj_label": "Sierra Nevada"}
+{"sub_id": "Q8344272", "sub_label": "Cerro de Valdemart\u00edn", "sub_aliases": [], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q6022710", "sub_label": "Montes Carpetanos", "sub_aliases": [], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q6464031", "sub_label": "La Mujer Muerta", "sub_aliases": [], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q547949", "sub_label": "Puerto de Navacerrada", "sub_aliases": [], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q1478880", "sub_label": "Pe\u00f1alara", "sub_aliases": "Penalara", "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q2095610", "sub_label": "Bola del Mundo", "sub_aliases": ["alto de las Guarramillas"], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q1412468", "sub_label": "La Maliciosa", "sub_aliases": [], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q55489", "sub_label": "La Pedriza", "sub_aliases": ["Pedriza massif"], "obj_id": "Q53711", "obj_label": "Sierra de Guadarrama"}
+{"sub_id": "Q13468852", "sub_label": "Sierra Mart\u00e9s", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q6896098", "sub_label": "Moles de Xert", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q3054063", "sub_label": "Montes Universales", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q7511673", "sub_label": "Sierra de Utiel", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q7511670", "sub_label": "Sierra de Santa Cruz, Aragon", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q3752138", "sub_label": "Picos de Urbi\u00f3n", "sub_aliases": ["Picos de Urbion"], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q55824", "sub_label": "Serra Calderona", "sub_aliases": "Sierra Calderona", "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q3500432", "sub_label": "Sierra de Javalambre", "sub_aliases": [], "obj_id": "Q201496", "obj_label": "Iberisches Gebirge"}
+{"sub_id": "Q3098405", "sub_label": "Carnedd Ugain", "sub_aliases": ["Crib y Ddysgl"], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q4789023", "sub_label": "Arenig Fawr", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q3405761", "sub_label": "Llyn Idwal", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q390452", "sub_label": "Eigiau und Coedty", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q1798093", "sub_label": "Snowdon Mountain Railway", "sub_aliases": ["The Snowdon Mountain Railway"], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q5360689", "sub_label": "Elidir Fawr", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q7320822", "sub_label": "Rhobell Fawr", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q5242595", "sub_label": "Nant Clogwyn y Geifr", "sub_aliases": [], "obj_id": "Q867913", "obj_label": "Snowdonia", "obj_aliases": "Eryri"}
+{"sub_id": "Q8533518", "sub_label": "Mount Rolleston", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q6920530", "sub_label": "Mount Earnslaw", "sub_aliases": "Pikirakatahi", "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q6922579", "sub_label": "Mount Ollivier", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q1950452", "sub_label": "Mount Elie de Beaumont", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q1569113", "sub_label": "Mount Haast", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q1822139", "sub_label": "Lewis Pass", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q3866899", "sub_label": "Mueller Glacier", "sub_aliases": [], "obj_id": "Q206650", "obj_label": "Neuseel\u00e4ndische Alpen", "obj_aliases": "S\u00fcdliche Alpen"}
+{"sub_id": "Q1432946", "sub_label": "Landeshuter Kamm", "sub_aliases": "Rudawy Janowickie", "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q981028", "sub_label": "Broumovsk\u00e9 st\u011bny", "sub_aliases": ["Broumovsk\u00e9 St\u011bny"], "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q11714538", "sub_label": "Jivina", "sub_aliases": [], "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q15978", "sub_label": "Niederes Gesenke", "sub_aliases": "N\u00edzk\u00fd Jesen\u00edk", "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q1258779", "sub_label": "Rabengebirge", "sub_aliases": ["G\u00f3ry Krucze", "Gory Krucze", "Vran\u00ed Hory"], "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q1345416", "sub_label": "Isergebirge", "sub_aliases": "Jizersk\u00e9 hory", "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q148998", "sub_label": "Je\u0161t\u011bd", "sub_aliases": "Jested", "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q11748390", "sub_label": "Krowiarki", "sub_aliases": [], "obj_id": "Q152131", "obj_label": "Sudeten"}
+{"sub_id": "Q1537277", "sub_label": "Heiligenkopf", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q870272", "sub_label": "Fuchseck", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q594960", "sub_label": "Raichberg", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q1551267", "sub_label": "Gr\u00e4belesberg", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q167378", "sub_label": "Plettenberg", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q3012", "sub_label": "Ulm", "sub_aliases": "Ulm/Donau", "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q1257811", "sub_label": "Dreif\u00fcrstenstein", "sub_aliases": "Sage vom Dreif\u00fcrstenstein", "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q464548", "sub_label": "Bussen", "sub_aliases": [], "obj_id": "Q159589", "obj_label": "Schw\u00e4bische Alb", "obj_aliases": "Schw\u00e4bischer Jura"}
+{"sub_id": "Q9325609", "sub_label": "Rovienkov\u00e1 ve\u017ea", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q9198932", "sub_label": "Czerwony Wierch", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q9372947", "sub_label": "Wielki Kopieniec", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q11694078", "sub_label": "Diabliniec", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q11829796", "sub_label": "Sedlo pod Osobitou", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q3116470", "sub_label": "Osttatra", "sub_aliases": "V\u00fdchodn\u00e9 Tatry", "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q3067240", "sub_label": "Gro\u00dfer Polnischer See", "sub_aliases": [], "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q9264716", "sub_label": "Furkaska", "sub_aliases": "Ve\u013ek\u00e1 Furkaska", "obj_id": "Q194263", "obj_label": "Tatra", "obj_aliases": "Tatras"}
+{"sub_id": "Q442204", "sub_label": "Altk\u00f6nig", "sub_aliases": [], "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q2592394", "sub_label": "Wolfsk\u00fcppel", "sub_aliases": [], "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q1411730", "sub_label": "Kuhbett", "sub_aliases": [], "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q1255159", "sub_label": "H\u00fchnerk\u00fcppel", "sub_aliases": [], "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q1746613", "sub_label": "Kleiner Feldberg", "sub_aliases": "Funkmast Kleiner Feldberg", "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q758314", "sub_label": "Atzelberg", "sub_aliases": "Atzelbergturm", "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q1410523", "sub_label": "Gro\u00dfer Lindenkopf", "sub_aliases": [], "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q2351887", "sub_label": "Stoppelberg", "sub_aliases": "Sender Stoppelberg", "obj_id": "Q158884", "obj_label": "Taunus"}
+{"sub_id": "Q1524426", "sub_label": "Gro\u00dfer Ehberg", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q896168", "sub_label": "Grotenburg", "sub_aliases": "Teutberg", "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q30597288", "sub_label": "Allhornberg", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q1548168", "sub_label": "Gro\u00dfe Egge", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q851441", "sub_label": "Beutling (Wellingholzhausen)", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q1776509", "sub_label": "Klotenberg", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q2342437", "sub_label": "Stemberg (Berg)", "sub_aliases": "Stemmberg", "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q2331999", "sub_label": "Stapelager Berg", "sub_aliases": [], "obj_id": "Q109773", "obj_label": "Teutoburger Wald", "obj_aliases": "Teutoburg"}
+{"sub_id": "Q1647211", "sub_label": "Milmesberg", "sub_aliases": [], "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q2247357", "sub_label": "Schneekopf", "sub_aliases": "Goldlauterberg", "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q1741016", "sub_label": "Kienberg (Landkreis Gotha)", "sub_aliases": [], "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q31529575", "sub_label": "Neuh\u00e4user H\u00fcgel", "sub_aliases": [], "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q896523", "sub_label": "Gro\u00dfer Beerberg", "sub_aliases": "Grosser Beerberg", "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q489215", "sub_label": "Oberhof", "sub_aliases": [], "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q2176639", "sub_label": "Ruppberg", "sub_aliases": "Rupp-Berg", "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q2122971", "sub_label": "Queste", "sub_aliases": [], "obj_id": "Q4210", "obj_label": "Th\u00fcringer Wald"}
+{"sub_id": "Q1027049", "sub_label": "Irkeschtam", "sub_aliases": "Irkeshtam", "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q750190", "sub_label": "Suleiman-Too", "sub_aliases": ["Sulayman Mountain", "Sulamain-Too"], "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q1738171", "sub_label": "Terskej-Alatau", "sub_aliases": [], "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q784733", "sub_label": "Kokschaal-Tau", "sub_aliases": "Kakschaaltoo", "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q1073123", "sub_label": "Chimgon", "sub_aliases": "Tschimgan", "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q4160589", "sub_label": "Dschumgaltoo", "sub_aliases": ["Khrebet Dzhumgoltau"], "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q2573236", "sub_label": "Orlowka (Gebiet Tsch\u00fci)", "sub_aliases": [], "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q4534118", "sub_label": "Inyltschek-Gletscher", "sub_aliases": "Inylchek", "obj_id": "Q5474", "obj_label": "Tienshan", "obj_aliases": "Tienschan"}
+{"sub_id": "Q791644", "sub_label": "Beardmore-Gletscher", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q6764361", "sub_label": "Mariner-Gletscher", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q2281892", "sub_label": "Taylor-Gletscher", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q473357", "sub_label": "Royal Society Range", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q1572103", "sub_label": "Wright Valley", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q1407591", "sub_label": "Ferrar-Gletscher", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q1278489", "sub_label": "Ebbe-Gletscher", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q6924534", "sub_label": "Mount Weir", "sub_aliases": [], "obj_id": "Q319671", "obj_label": "Transantarktisches Gebirge"}
+{"sub_id": "Q2072493", "sub_label": "Uraltau", "sub_aliases": [], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q1142817", "sub_label": "Narodnaja", "sub_aliases": "Naroda", "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q3327218", "sub_label": "Mratkino", "sub_aliases": [], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q1413298", "sub_label": "H\u00f6hle von Ignatjewka", "sub_aliases": "H\u00f6hle von Ignatiewka", "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q4203140", "sub_label": "Irendyk", "sub_aliases": [], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q2670029", "sub_label": "Ilmengebirge", "sub_aliases": ["Ilmensky Mountains"], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q1514176", "sub_label": "Jamantau", "sub_aliases": ["Mount Yamantaw", "Gora Yamantau"], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q2155757", "sub_label": "Man Pupu Nyor", "sub_aliases": [], "obj_id": "Q35600", "obj_label": "Ural", "obj_aliases": "Uralgebirge"}
+{"sub_id": "Q2485743", "sub_label": "Kastelberg", "sub_aliases": [], "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q931768", "sub_label": "Lac de Kruth-Wildenstein", "sub_aliases": "Wildensteinsee", "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q1624140", "sub_label": "Hohneck", "sub_aliases": "Le Hohneck", "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q1574024", "sub_label": "Storkenkopf", "sub_aliases": ["Le Storkenkopf"], "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q3442970", "sub_label": "Rothenbachkopf", "sub_aliases": [], "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q1799604", "sub_label": "Lac Noir (Vogesen)", "sub_aliases": [], "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q325716", "sub_label": "Hartmannswillerkopf", "sub_aliases": "Vieil Armand", "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q1414641", "sub_label": "Lac de Longemer", "sub_aliases": [], "obj_id": "Q187843", "obj_label": "Vogesen"}
+{"sub_id": "Q3595688", "sub_label": "Kodachadri", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q1501836", "sub_label": "Palani-Berge", "sub_aliases": ["Palani Hills"], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q3519511", "sub_label": "\u0100runachala", "sub_aliases": ["Aanaimalai Hills", "\u0100naimalai hills"], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q4853961", "sub_label": "Banasura Hill", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q6374022", "sub_label": "Thal Ghat", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q2724466", "sub_label": "Ponmudi", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q4830523", "sub_label": "Sonsogor", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q390831", "sub_label": "Agastya Malai", "sub_aliases": [], "obj_id": "Q4527", "obj_label": "Westghats"}
+{"sub_id": "Q21080497", "sub_label": "Mount Atashkadeh", "sub_aliases": ["Atashkadeh", "Atashkadeh Mountain"], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q254103", "sub_label": "Quri Qaleh Cave", "sub_aliases": ["Quri Qale Cave", "Quri Qal'eh Cave"], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q5960978", "sub_label": "Kuh-e-Namak", "sub_aliases": "kvah namak", "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q7489301", "sub_label": "Shapur Cave", "sub_aliases": ["Shapur cave"], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q3780244", "sub_label": "Mount Behistun", "sub_aliases": ["Kuh-e Bisotun"], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q6375049", "sub_label": "Katale Khor", "sub_aliases": [], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q20830756", "sub_label": "Halgurd", "sub_aliases": [], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q4115453", "sub_label": "Abidar", "sub_aliases": ["Kuh-e Abidar"], "obj_id": "Q167021", "obj_label": "Z\u0101gros-Gebirge", "obj_aliases": "Zagrosgebirge"}
+{"sub_id": "Q635889", "sub_label": "Mutmalspitze", "sub_aliases": [], "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q875906", "sub_label": "Saykogel", "sub_aliases": "Seikogel", "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q663563", "sub_label": "Firmisanschneide", "sub_aliases": [], "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q871959", "sub_label": "Vordere \u00d6lgrubenspitze", "sub_aliases": "Vordere \u00d6lgrubenspitzen", "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q662863", "sub_label": "\u00d6stliche Marzellspitze", "sub_aliases": [], "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q664235", "sub_label": "Spiegelkogel", "sub_aliases": [], "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q668706", "sub_label": "Rettenbachferner", "sub_aliases": "Rettenbachgletscher", "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q875420", "sub_label": "Eiskastenspitze", "sub_aliases": ["Eiskasten Spitze"], "obj_id": "Q307518", "obj_label": "\u00d6tztaler Alpen", "obj_aliases": "Alpi Venoste"}
+{"sub_id": "Q6350001", "sub_label": "Kallabak", "sub_aliases": "Kallabaku", "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q3299614", "sub_label": "Big Ja\u017eina\u010dko Lake", "sub_aliases": [], "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q6593727", "sub_label": "\u0160trba\u010dko Lake", "sub_aliases": [], "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q7353565", "sub_label": "Upper Defsko Lake", "sub_aliases": [], "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q7542972", "sub_label": "Small Vraca", "sub_aliases": [], "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q911677", "sub_label": "Brezovica", "sub_aliases": "Brezovic\u00eb", "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q944830", "sub_label": "Gjallica", "sub_aliases": [], "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}
+{"sub_id": "Q1140631", "sub_label": "Crn vrv (Berg)", "sub_aliases": "Maja e Zez\u00eb", "obj_id": "Q391195", "obj_label": "\u0160ar Planina", "obj_aliases": "Sharr"}

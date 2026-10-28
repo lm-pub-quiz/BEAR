@@ -1,0 +1,150 @@
+{"sub_id": "Q201465", "sub_label": "Al-Muqtadir", "sub_aliases": "Abu l-Fadl Dschafar ibn al-Mutadid al-Muqtadir", "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q61056", "sub_label": "al-Ma\u02bem\u016bn", "sub_aliases": "Abu l-Abbas Abdallah al-Ma'mun ibn Harun ar-Raschid", "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q293454", "sub_label": "Al-Musta'sim bi-'llah", "sub_aliases": "Al-Mustasim", "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q293482", "sub_label": "Al-Mahdi", "sub_aliases": ["Muhammad ibn Mansur al-Mahdi"], "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q284585", "sub_label": "Al-W\u0101thiq", "sub_aliases": "Al-Wathiq", "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q12536", "sub_label": "Abbasiden-Kalifat", "sub_aliases": "\u02bfAbb\u0101siden", "obj_id": "Q4437641", "obj_label": "Abbasiden", "answer_idx": 0}
+{"sub_id": "Q8532", "sub_label": "K\u00fcl\u00fcq Khan", "sub_aliases": "Yuan Wuzong", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q8655", "sub_label": "Toqa Timur", "sub_aliases": "Yuan Wenzong", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q1036575", "sub_label": "Dschingkim", "sub_aliases": "Chin-gis", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q7521", "sub_label": "M\u00f6ngke Khan", "sub_aliases": "M\u00f6nch chaan", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q7523", "sub_label": "Kublai Khan", "sub_aliases": "Chubilai", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q8666", "sub_label": "Toghan Timur", "sub_aliases": "Yuan Shundi", "obj_id": "Q1059073", "obj_label": "Borjigin", "answer_idx": 1}
+{"sub_id": "Q3044", "sub_label": "Karl der Gro\u00dfe", "sub_aliases": "Karls des Gro\u00dfen", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q215204", "sub_label": "Ludwig II.", "sub_aliases": "Ludwig von Italien", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q150712", "sub_label": "Karl III.", "sub_aliases": "Karl III der Dicke", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q299645", "sub_label": "Pippin", "sub_aliases": "Pippin von Italien", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q81212", "sub_label": "Pippin der J\u00fcngere", "sub_aliases": "P\u00e9pin le Bref", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q43974", "sub_label": "Ludwig der Fromme", "sub_aliases": "Louis le Pieux", "obj_id": "Q133602", "obj_label": "Karolinger", "answer_idx": 2}
+{"sub_id": "Q736829", "sub_label": "Debsirindra", "sub_aliases": ["Queen Debsirindra of Siam"], "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q173204", "sub_label": "Prinz Bira", "sub_aliases": "Prinz Birabongse Bhanutej Bhanubhandhu", "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q467857", "sub_label": "Savang Vadhana", "sub_aliases": "Somdet Phra Sri Savarindira Boromma Rajadevi", "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q161389", "sub_label": "Vajiravudh", "sub_aliases": "Rama VI.", "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q449433", "sub_label": "Srinagarindra", "sub_aliases": "Somdet Ya", "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q158861", "sub_label": "Chulalongkorn", "sub_aliases": "Tschulalongkorn", "obj_id": "Q691928", "obj_label": "Chakri-Dynastie", "answer_idx": 3, "obj_aliases": "Chakkri-Dynastie"}
+{"sub_id": "Q487543", "sub_label": "Tschagatai Khan", "sub_aliases": "Tschagatai Chan", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q380393", "sub_label": "Orda Khan", "sub_aliases": "Orda", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q448095", "sub_label": "M\u00f6ngke Timur", "sub_aliases": "M\u00f6ngke Timur Khan", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q186581", "sub_label": "Jochi Khan", "sub_aliases": "Dschudschin", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q322100", "sub_label": "Ablai", "sub_aliases": "Abilmansur", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q175138", "sub_label": "Batu Khan", "sub_aliases": "Batu der Pr\u00e4chtige", "obj_id": "Q3100718", "obj_label": "Dschingisiden", "answer_idx": 4, "obj_aliases": "Tschingisiden"}
+{"sub_id": "Q298216", "sub_label": "Taytu Betul", "sub_aliases": ["Taitu"], "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q262589", "sub_label": "Theodor II.", "sub_aliases": "Tewodros", "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q470528", "sub_label": "Amha Selassie I.", "sub_aliases": "Asfa Wossen", "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q888003", "sub_label": "Yekuno Amlak", "sub_aliases": "Tasfa Jesus", "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q2564998", "sub_label": "Makonnen Wolde Mikael", "sub_aliases": [], "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q148524", "sub_label": "Zauditu", "sub_aliases": "Judith Zawditu", "obj_id": "Q256187", "obj_label": "Salomonische Dynastie", "answer_idx": 5}
+{"sub_id": "Q40930", "sub_label": "Nofretete", "sub_aliases": "Nafteta", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q157899", "sub_label": "Thutmosis III.", "sub_aliases": "Thutmosis III. Mencheperre", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q153344", "sub_label": "Meritaton", "sub_aliases": "Merit-Aton", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q7222", "sub_label": "Ahmose I.", "sub_aliases": "Tethm\u00f4sis", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q158003", "sub_label": "Semenchkare", "sub_aliases": "Semench-ka-Re", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q230863", "sub_label": "Anchesenamun", "sub_aliases": "Anchesenpaton", "obj_id": "Q146055", "obj_label": "18. Dynastie", "answer_idx": 6, "obj_aliases": "Achtzehnte Dynastie"}
+{"sub_id": "Q151209", "sub_label": "Anna von \u00d6sterreich", "sub_aliases": "Anna Maria von Habsburg", "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q307815", "sub_label": "Margarethe von Parma", "sub_aliases": "Margarete von Parma", "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q157107", "sub_label": "Juan de Austria", "sub_aliases": "Juan d'Austria", "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q150611", "sub_label": "Ferdinand I.", "sub_aliases": ["Emperador del Sacro Imperio Romano Germ\u00e1nico Fernando I", "empereur germanique Ferdinand I", "Kaiser Ferdinand I. Heiliges R\u00f6misches Reich", "Holy Roman Emperor Ferdinand I", "imperatore del Sacro romano impero Ferdinand I", "Emperor of Germany Ferdinand I", "Emperador del Sacro Imperio Romano Germanico Fernando I", "Ferdinand I"], "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q76956", "sub_label": "Rudolf I.", "sub_aliases": "Rudolph I., Graf von Habsburg", "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q157098", "sub_label": "Philipp I.", "sub_aliases": "Felipe I de Austria el Hermoso", "obj_id": "Q65968", "obj_label": "Habsburg", "answer_idx": 7, "obj_aliases": "Haus \u00d6sterreich"}
+{"sub_id": "Q58600", "sub_label": "Friedrich III.", "sub_aliases": "K\u00f6nig Friedrich III. von Preu\u00dfen", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q155822", "sub_label": "Sophie Dorothea Ulrike Alice von Preu\u00dfen", "sub_aliases": "Sophie von Griechenland und D\u00e4nemark", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q40647", "sub_label": "Albrecht Friedrich", "sub_aliases": "Albrecht Friedrich von Preu\u00dfen", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q233990", "sub_label": "Irene von Hessen-Darmstadt", "sub_aliases": "Irene von Hessen und bei Rhein", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q33550", "sub_label": "Friedrich II. von Preu\u00dfen", "sub_aliases": "Friedrich II. von Preussen", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q57180", "sub_label": "Friedrich Wilhelm IV.", "sub_aliases": "Friedrich Wilhelm IV. von Preu\u00dfen", "obj_id": "Q83969", "obj_label": "Hohenzollern", "answer_idx": 8, "obj_aliases": "Hohenzoller"}
+{"sub_id": "Q232144", "sub_label": "Eleonore Plantagenet", "sub_aliases": "Ali\u00e9nor Plantagen\u00eat", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q150872", "sub_label": "Matilda", "sub_aliases": "Mathilde Maud", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q242322", "sub_label": "Johanna von England", "sub_aliases": "Johanna Plantagenet, Prinzessin von England", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q42305", "sub_label": "Richard L\u00f6wenherz", "sub_aliases": "Richard Ier C\u0153ur de Lion", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q234156", "sub_label": "Joan of Kent", "sub_aliases": "Fair Maid of Kent", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q235238", "sub_label": "Heinrich der J\u00fcngere", "sub_aliases": "Hendrik de Jongere", "obj_id": "Q106151", "obj_label": "Haus Plantagenet", "answer_idx": 9, "obj_aliases": "Plantagen\u00eat"}
+{"sub_id": "Q79972", "sub_label": "Jakob I.", "sub_aliases": "Jakob VI.", "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q1100898", "sub_label": "Walter Stewart, 6. High Steward of Scotland", "sub_aliases": "Sir Walter Stewart", "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q236930", "sub_label": "Maria Henrietta Stuart", "sub_aliases": "Mary Henrietta Oranien-Nassau", "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q2978907", "sub_label": "Clementina Walkinshaw", "sub_aliases": "Clementine Walkinshaw", "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q665161", "sub_label": "Robert Stewart, 1. Duke of Albany", "sub_aliases": [], "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q82631", "sub_label": "Henry Frederick Stuart, Prince of Wales", "sub_aliases": "Henry Frederick, Prince of Wales", "obj_id": "Q179840", "obj_label": "Haus Stuart", "answer_idx": 10, "obj_aliases": "Stuarts"}
+{"sub_id": "Q297278", "sub_label": "Johann II.", "sub_aliases": "Juan II.", "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q381871", "sub_label": "Johann von Arag\u00f3n und Kastilien", "sub_aliases": "Johann von Aragon und Kastilien", "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q171136", "sub_label": "Johanna von Kastilien", "sub_aliases": "Johanna die Wahnsinnige", "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q162819", "sub_label": "Katharina von Aragon", "sub_aliases": "Katharina von Aragonien", "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q3940051", "sub_label": "Rodrigo of Aragon", "sub_aliases": ["Rodrigo Borgia de Arag\u00f3n"], "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q310918", "sub_label": "Heinrich IV.", "sub_aliases": "Enrique IV.", "obj_id": "Q269876", "obj_label": "Haus Trast\u00e1mara", "answer_idx": 11, "obj_aliases": "Haus Trastamara"}
+{"sub_id": "Q705176", "sub_label": "Jean de Valois, comte d\u2019Angoul\u00eame", "sub_aliases": "Jean le Bon", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q151120", "sub_label": "Karl der K\u00fchne", "sub_aliases": "le Hardi", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q236220", "sub_label": "Jeanne de Valois", "sub_aliases": "Johanna von Frankreich", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q298892", "sub_label": "Philipp II. der K\u00fchne", "sub_aliases": "Philipp der K\u00fchne", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q169992", "sub_label": "Johann II.", "sub_aliases": "Johann der Gute", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q170586", "sub_label": "Philipp VI.", "sub_aliases": "Philippe de Valois", "obj_id": "Q182135", "obj_label": "Haus Valois", "answer_idx": 12, "obj_aliases": "Dynastie Valois"}
+{"sub_id": "Q130005", "sub_label": "Eduard der Bekenner", "sub_aliases": "Edward der Bekenner", "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q191203", "sub_label": "Eadwig", "sub_aliases": "Edwy", "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q192920", "sub_label": "Eduard der M\u00e4rtyrer", "sub_aliases": "Eadweard II.", "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q183499", "sub_label": "\u00c6thelred", "sub_aliases": "\u00c6thelred der Unfertige", "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q272326", "sub_label": "\u00c6thelwulf", "sub_aliases": "Ethelwulf von Wessex", "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q170017", "sub_label": "\u00c6thelstan", "sub_aliases": ["\u00c6thelstan", "\u00c6thelstan, King of England", "King \u00c6thelstan", "King Athelstan", "Athelstan"], "obj_id": "Q511482", "obj_label": "Haus Wessex", "answer_idx": 13}
+{"sub_id": "Q61489", "sub_label": "Auguste Reu\u00df zu Ebersdorf", "sub_aliases": "Gr\u00e4fin Auguste Caroline Sophie, Prinzessin Reu\u00df zu Ebersdorf", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q69980", "sub_label": "Sibylle von J\u00fclich-Kleve-Berg", "sub_aliases": "Sibylle von Cleve", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q58067", "sub_label": "Victoire von Sachsen-Coburg-Saalfeld", "sub_aliases": "Herzogin von Kent Victoire von Sachsen-Coburg-Saalfeld", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q169512", "sub_label": "Maria Amalia von Sachsen", "sub_aliases": "Maria Amalia Christina Franziska Xaveria Flora Walburga Sachsen", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q276578", "sub_label": "Georg I von Sachsen", "sub_aliases": "Georg von Sachsen", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q76723", "sub_label": "Moritz von Sachsen", "sub_aliases": "Moritz von Sachsen (1696-1750)", "obj_id": "Q152909", "obj_label": "Haus Wettin", "answer_idx": 14, "obj_aliases": "Wettiner"}
+{"sub_id": "Q313752", "sub_label": "Michael of Kent", "sub_aliases": "Prinz Michael von Kent", "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q1040807", "sub_label": "Sarah Chatto", "sub_aliases": "Sarah Frances Elizabeth Armstrong-Jones", "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q3304418", "sub_label": "Meghan, Herzogin zu Sussex", "sub_aliases": "Duchess Difficult", "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q590227", "sub_label": "Eduard VIII.", "sub_aliases": ["Edward Albert Christian George Andrew Patrick David", "Edward Albert Christian George Andrew Patrick David Windsor", "Edward Windsor", "Duke of Windsor", "Edward, Duke of Windsor", "Edward VIII Edward VIII of the United Kingdom", "Edward VIII Edward VIII, King of the United Kingdom", "Edward, Prince of Wales", "Prince Edward", "Prince Edward, Duke of Windsor", "David Windsor"], "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q151754", "sub_label": "Anne, Princess Royal", "sub_aliases": "Anne Elizabeth Alice Mountbatten-Windsor", "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q2063224", "sub_label": "Timothy Laurence", "sub_aliases": ["Sir Timothy James Hamilton Laurence", "Tim Laurence", "Vice Admiral Timothy James Hamilton Laurence", "Commander Timothy James Hamilton Laurence"], "obj_id": "Q81589", "obj_label": "Haus Windsor", "answer_idx": 15}
+{"sub_id": "Q44039", "sub_label": "Ludwig II.", "sub_aliases": "Otto Friedrich Wilhelm von Bayern", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q44961", "sub_label": "Karl Theodor", "sub_aliases": "Karl Philipp Theodor", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q44319", "sub_label": "Maximilian I. Joseph", "sub_aliases": "Max I.", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q57653", "sub_label": "Sophie Friederike von Bayern", "sub_aliases": "Sophie von \u00d6sterreich", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q57224", "sub_label": "Sophie von der Pfalz", "sub_aliases": "Sophie von Hannover", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q57195", "sub_label": "Friedrich V.", "sub_aliases": "Zimn\u00ed kr\u00e1l", "obj_id": "Q131621", "obj_label": "Wittelsbach", "answer_idx": 16, "obj_aliases": "Wittelsbacher"}
+{"sub_id": "Q9977", "sub_label": "Xuande", "sub_aliases": ["Zhang Di", "Emperor Xuande of Ming", "Muweituqi", "Xuanzong", "Xiantianchongdaoyingmingshenshengqinwenzhaowukuanrenchunxiaozhanghuangdi", "Xuan Zong", "Xuande", "Zhangdi", "Hs\u00fcan-te, Emperor of China", "Emperor Xuanzong of Ming", "Zhu Zhanji"], "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q9965", "sub_label": "Yongle", "sub_aliases": "Sing4zou2", "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q10066", "sub_label": "Tianqi", "sub_aliases": "Zhu Youjiao", "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q9983", "sub_label": "Zhengtong", "sub_aliases": "Ming Yingzong", "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q10011", "sub_label": "Jiajing", "sub_aliases": ["Qintianl\u00fcdaoyingyishengshenxuanwenguangwuhongrendaxiaosuhuangdi", "Jiajing", "Shi Zong", "Zhu Houcong", "Su Di", "Ming Shizong", "Emperor Shizong of Ming"], "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q10069", "sub_label": "Chongzhen", "sub_aliases": "Zhu Youjian", "obj_id": "Q5185064", "obj_label": "House of Zhu", "answer_idx": 17}
+{"sub_id": "Q314802", "sub_label": "Tenji", "sub_aliases": "Tenchi", "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q157052", "sub_label": "Taish\u014d", "sub_aliases": "Taishou", "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q298057", "sub_label": "Suiko", "sub_aliases": ["Empress Suiko", "Suiko-tenn\u014d"], "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q314850", "sub_label": "Suinin", "sub_aliases": ["Suinin-tenn\u014d", "Emperor Suinin"], "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q87610", "sub_label": "Michiko", "sub_aliases": ["K\u014dg\u014d Michiko", "Sh\u014dda Michiko", "Empress Michiko", "Michiko Sh\u014dda", "Michiko, Crown Princess of Japan", "Crown Princess Michiko of Japan", "Michiko, Empress Emerita", "Empress Emerita Michiko", "J\u014dk\u014dg\u014d Michiko", "Mitchy", "K\u014dtaishi Akihito Shinn\u014d-hi Michiko Denka", "K\u014dg\u014d Heika", "J\u014dk\u014dg\u014d Heika"], "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q311174", "sub_label": "Fumihito von Akishino", "sub_aliases": "Prinz Fumihito von Akishino", "obj_id": "Q909452", "obj_label": "Japanisches Kaiserhaus", "answer_idx": 18, "obj_aliases": "Tenn\u014dke"}
+{"sub_id": "Q233461", "sub_label": "Theuderich I.", "sub_aliases": [], "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q309924", "sub_label": "Faramund", "sub_aliases": "Pharamund", "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q193869", "sub_label": "Childerich I.", "sub_aliases": "Childerich von Tournai", "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q212852", "sub_label": "Childebert I.", "sub_aliases": ["Childebert I."], "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q28984", "sub_label": "Chlothar I.", "sub_aliases": "Chlotachar", "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q82339", "sub_label": "Chlodwig I.", "sub_aliases": "Chlodovechus", "obj_id": "Q59488", "obj_label": "Merowinger", "answer_idx": 19, "obj_aliases": "Merowingerzeit"}
+{"sub_id": "Q18206295", "sub_label": "Halime Hatun", "sub_aliases": "Halime Sultan", "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q4809153", "sub_label": "\u015eehzade Cihangir", "sub_aliases": [], "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q61127", "sub_label": "K\u00f6sem Mahpeyker", "sub_aliases": "Mahpeyker", "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q255809", "sub_label": "Roxelane", "sub_aliases": "Ruziac", "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q134817", "sub_label": "Abd\u00fclhamid II.", "sub_aliases": "Abd\u00fclhamit II.", "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q174798", "sub_label": "Mustafa I.", "sub_aliases": [], "obj_id": "Q193383", "obj_label": "Osmanische Dynastie", "answer_idx": 20, "obj_aliases": "Osman (Dynastie)"}
+{"sub_id": "Q53455", "sub_label": "Kasimir I.", "sub_aliases": "Kazimierz I. Karol Odnowiciel", "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q53436", "sub_label": "Boles\u0142aw I.", "sub_aliases": "Boles\u0142aw I. Chrobry", "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q53441", "sub_label": "Boles\u0142aw III. Schiefmund", "sub_aliases": "Boleslaw III. Schiefmund Boles\u0142aw III. Krzywousty", "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q318799", "sub_label": "Siemowit", "sub_aliases": "Siemowit, ksi\u0105\u017c\u0119 Polan", "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q53457", "sub_label": "Kasimir III.", "sub_aliases": "Kazimierz III. Wielki", "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q53435", "sub_label": "Mieszko I.", "sub_aliases": [], "obj_id": "Q201615", "obj_label": "Piasten", "answer_idx": 21, "obj_aliases": "Piastendynastie"}
+{"sub_id": "Q526000", "sub_label": "Ptolemaeus", "sub_aliases": "Ptolem\u00e4us", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q39957", "sub_label": "Ptolemaios V.", "sub_aliases": "Ptolem\u00e4us V.", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q168261", "sub_label": "Ptolemaios I.", "sub_aliases": "Ptolem\u00e4us I.", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q635", "sub_label": "Kleopatra VII.", "sub_aliases": "Kleopatra Philopator", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q39576", "sub_label": "Ptolemaios II.", "sub_aliases": "Ptolemaios II. Philadelphos", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q39589", "sub_label": "Ptolemaios XV.", "sub_aliases": "Ptolemaios XV. Caesar", "obj_id": "Q131976", "obj_label": "Ptolem\u00e4er", "answer_idx": 22, "obj_aliases": "Ptolemaier"}
+{"sub_id": "Q186321", "sub_label": "Fjodor I.", "sub_aliases": "Feodor I.", "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q188995", "sub_label": "Dmitri Donskoi", "sub_aliases": "Dmitri Iwanowitsch Donskoi", "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q188943", "sub_label": "Jaroslaw der Weise", "sub_aliases": "Jaroslaw Mudry", "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q7996", "sub_label": "Iwan IV.", "sub_aliases": "Iwan IV. Wassiljewitsch", "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q203501", "sub_label": "Igor", "sub_aliases": [], "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q41514", "sub_label": "Mstislaw I.", "sub_aliases": "Mstislaw I. Wladimirowitsch", "obj_id": "Q210398", "obj_label": "Rurikiden", "answer_idx": 23, "obj_aliases": "Ruriks Haus"}
+{"sub_id": "Q797848", "sub_label": "Babur", "sub_aliases": "Zahir ad-Din Muhammad Babur", "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}
+{"sub_id": "Q7244169", "sub_label": "Murad Mirza of Hindustan", "sub_aliases": ["Murad Mirza"], "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}
+{"sub_id": "Q83653", "sub_label": "Dschahangir", "sub_aliases": "Dschah\u0101ngir", "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}
+{"sub_id": "Q8597", "sub_label": "Akbar", "sub_aliases": "Sch\u0101h Akbar", "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}
+{"sub_id": "Q7380456", "sub_label": "Ruqaiya Sultan Begum", "sub_aliases": [], "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}
+{"sub_id": "Q231693", "sub_label": "Mumtaz Mahal", "sub_aliases": "Arjumand Banu Begum", "obj_id": "Q20737645", "obj_label": "Timuriden", "answer_idx": 24, "obj_aliases": "Timuriden-Dynastie"}

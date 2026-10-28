@@ -1,0 +1,592 @@
+{"sub_id": "Q957248", "sub_label": "Das Haus an der D\u00fcne", "sub_aliases": [], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q833012", "sub_label": "Das Sterben in Wychwood", "sub_aliases": [], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q752439", "sub_label": "Der Tod wartet", "sub_aliases": "Rendezvous mit einer Leiche", "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q1215982", "sub_label": "Die Schattenhand", "sub_aliases": [], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q1044713", "sub_label": "Der Todeswirbel", "sub_aliases": ["There is a Tide"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q193531", "sub_label": "Miss Marple", "sub_aliases": "Jane Marple", "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q221110", "sub_label": "Arthur Hastings", "sub_aliases": ["Captain Hastings"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q731626", "sub_label": "Vorhang", "sub_aliases": ["Curtain: Poirot's Last Case"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q699388", "sub_label": "Feldhase", "sub_aliases": "Ein junger Feldhase", "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q2428778", "sub_label": "Selbstportr\u00e4t mit einer Distel", "sub_aliases": "Selbstbildnis", "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q829270", "sub_label": "Die vier Apostel", "sub_aliases": [], "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q571122", "sub_label": "Paumgartner-Altar", "sub_aliases": "Paumgartner Altar", "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q3944478", "sub_label": "Die Heilige Familie mit den drei Hasen", "sub_aliases": ["The Holy Family with Three Hares"], "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q3937568", "sub_label": "Hieronymus Holzschuher", "sub_aliases": "Hieronymus Holzschuher (1469-1529) mit Deckel (557E)", "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q3377374", "sub_label": "Kleine Passion", "sub_aliases": [], "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q3976746", "sub_label": "Selbstmord der Lucretia", "sub_aliases": [], "obj_id": "Q5580", "obj_label": "Albrecht D\u00fcrer", "obj_aliases": "Albrecht D\u00fcrer der J\u00fcngere"}
+{"sub_id": "Q5089330", "sub_label": "Albert de Morcerf", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2721795", "sub_label": "Baron Danglars", "sub_aliases": ["Danglars"], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2833551", "sub_label": "Helo\u00efse de Villefort", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2764500", "sub_label": "Gaspard Caderousse", "sub_aliases": ["Caderousse"], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q16557145", "sub_label": "Hayd\u00e9e", "sub_aliases": ["Haidee"], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2392421", "sub_label": "Constance Bonacieux", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2373832", "sub_label": "Comte de Rochefort", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q5175544", "sub_label": "Noirtier de Villefort", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q3235227", "sub_label": "Regatta in Molesey", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q3226360", "sub_label": "Rast am Flu\u00dfufer", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q87114462", "sub_label": "Moret Church", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q18763348", "sub_label": "La Place du Chenil \u00e0 Marly, effet de neige", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q19820361", "sub_label": "Kastanienallee in La Celle-Saint-Claude", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q2838937", "sub_label": "Pappelallee in der Umgebung von Moret", "sub_aliases": ["All\u00e9e de peupliers aux environs de Moret-sur-Loing", "Allee de peupliers aux environs de Moret-sur-Loing"], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q3875097", "sub_label": "Schnee in Louveciennes", "sub_aliases": ["Snow at Louveciennes", "La neige a Louveciennes"], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q21716233", "sub_label": "Windy Day at Veneux", "sub_aliases": [], "obj_id": "Q175130", "obj_label": "Alfred Sisley", "obj_aliases": "Alfred Arthur Sisley"}
+{"sub_id": "Q3745385", "sub_label": "Russisches M\u00e4dchen", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3665754", "sub_label": "Chakoska", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3937476", "sub_label": "Portrait von Blaise Cendrars", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3877556", "sub_label": "Liegender Akt", "sub_aliases": "Liegender Akt", "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3794239", "sub_label": "The Young Apprentice", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3937477", "sub_label": "Portrait of Frank Burty Haviland", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3937646", "sub_label": "Paul Guillaume", "sub_aliases": [], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3937599", "sub_label": "Madame Hanka Zborowska", "sub_aliases": ["Portrait of Lunia Czechowska"], "obj_id": "Q120993", "obj_label": "Amedeo Modigliani"}
+{"sub_id": "Q3937482", "sub_label": "Karl I mit M. de St. Antoine", "sub_aliases": ["Charles I with M. de St Antoine"], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q3937446", "sub_label": "Portr\u00e4t der Familie Lomellini", "sub_aliases": ["Portrait of the Lomellini Family"], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q61272133", "sub_label": "Portr\u00e4t der Theresia Shirley", "sub_aliases": ["Teresia Khan, Lady Shirley (1579/80-1668)"], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q2201493", "sub_label": "Altarpiece of Montfoort", "sub_aliases": [], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q3937775", "sub_label": "Equestrian portrait of Francisco de Moncada", "sub_aliases": [], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q18419520", "sub_label": "Diana and a Nymph Surprised by a Satyr", "sub_aliases": [], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q88854788", "sub_label": "Saint Rosalie speaks for the city of Palermo", "sub_aliases": [], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q16038543", "sub_label": "Mystische Verlobung des Seligen Hermann Joseph mit Maria", "sub_aliases": [], "obj_id": "Q150679", "obj_label": "Anthonis van Dyck"}
+{"sub_id": "Q24531358", "sub_label": "The Shade", "sub_aliases": ["The Shadow"], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q24943473", "sub_label": "Torso of Ad\u00e8le", "sub_aliases": ["Torso of Adele"], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q25339893", "sub_label": "Cybele (Rodin)", "sub_aliases": [], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q25415057", "sub_label": "The Sirens", "sub_aliases": [], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q3205458", "sub_label": "Der ewige Fr\u00fchling", "sub_aliases": ["Eternal Spring"], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q24541972", "sub_label": "Triumphant Youth", "sub_aliases": [], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q24570116", "sub_label": "Standing Female Faun", "sub_aliases": [], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q24943578", "sub_label": "The Kneeling Man", "sub_aliases": [], "obj_id": "Q30755", "obj_label": "Auguste Rodin"}
+{"sub_id": "Q9396823", "sub_label": "Saint John of God", "sub_aliases": [], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q9248340", "sub_label": "Das Christuskind verteilt Brot an die Pilger", "sub_aliases": [], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q11684158", "sub_label": "Abraham Receiving the Three Angels", "sub_aliases": [], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q9396888", "sub_label": "Der heilige Rodrigo", "sub_aliases": [], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q5826757", "sub_label": "The Patrician's Dream", "sub_aliases": ["Dedication of Saint Mary of the Snows"], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q16627776", "sub_label": "Heilige Familie mit dem V\u00f6gelchen", "sub_aliases": [], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q2456003", "sub_label": "The Immaculate Conception of Los Venerables", "sub_aliases": ["The Immaculate Conception of Soult", "Immaculada de Soult"], "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q3633626", "sub_label": "Pastetenesser", "sub_aliases": "Kuchenesser", "obj_id": "Q192062", "obj_label": "Bartolom\u00e9 Esteban Murillo", "obj_aliases": "Esteban Murillo"}
+{"sub_id": "Q21552822", "sub_label": "Ploughed Fields", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q19905366", "sub_label": "Steamboats in the Port of Rouen", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q462688", "sub_label": "Die G\u00e4rten der Tuilerien an einem Fr\u00fchlingsmorgen", "sub_aliases": ["The Tuileries Gardens, Morning, Spring, Sunlight"], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q18668586", "sub_label": "Apfelernte in Eragny", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q19906270", "sub_label": "Hafen Boieldieu in Rouen am Morgen bei tr\u00fcben Wetter", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q17491336", "sub_label": "Dorfeingang von Voisins", "sub_aliases": ["Entr\u00e9e du village de Voisins"], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q7740671", "sub_label": "Das Haus der tauben Frau", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q19912054", "sub_label": "'Gh\u00e2taignier' Apples and Glazed Earthenware on a Table", "sub_aliases": [], "obj_id": "Q134741", "obj_label": "Camille Pissarro"}
+{"sub_id": "Q24213", "sub_label": "Rabenbaum", "sub_aliases": "Kr\u00e4henhorst auf R\u00fcgen", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q4346085", "sub_label": "Segelschiff", "sub_aliases": "Segelschiff im Nebel", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q1214313", "sub_label": "Lebensstufen", "sub_aliases": "Strandszene in Wiek", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q17325449", "sub_label": "Neubrandenburg", "sub_aliases": "Neubrandenburg im Morgennebel", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q15971584", "sub_label": "Frau vor untergehender Sonne", "sub_aliases": ["Woman at Dawn"], "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q17493547", "sub_label": "Grabmale alter Helden", "sub_aliases": "Grab des Arminius", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q1587929", "sub_label": "Morgen im Riesengebirge", "sub_aliases": "Gegend im Morgennebel mit einem Kruzifix", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q3822640", "sub_label": "Das Gro\u00dfe Gehege", "sub_aliases": "Das Gro\u00dfe Gehege bei Dresden", "obj_id": "Q104884", "obj_label": "Caspar David Friedrich"}
+{"sub_id": "Q5232561", "sub_label": "David Copperfield", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q5400904", "sub_label": "Estella", "sub_aliases": ["Estella Havisham", "Estella Drummle"], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q3568268", "sub_label": "Wilkins Micawber", "sub_aliases": ["Micawber"], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q6220913", "sub_label": "John Barsad", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q263749", "sub_label": "Rose Maylie", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q3991649", "sub_label": "Tiny Tim", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q1783187", "sub_label": "Jack Dawkins", "sub_aliases": ["The Artful Dodger"], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q5084282", "sub_label": "Charley Bates", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q2734892", "sub_label": "Frauen im Garten", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q50772913", "sub_label": "Madame Monet mit roter Kapuze", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q1167912", "sub_label": "Das Fr\u00fchst\u00fcck im Gr\u00fcnen", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q1650049", "sub_label": "Le Bassin aux Nymph\u00e9as", "sub_aliases": ["Le Bassin Aux Nympheas"], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q4429116", "sub_label": "Die Elster", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q50697763", "sub_label": "Windmill and Boats near Zaandam", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q4931530", "sub_label": "Boating on the River Epte", "sub_aliases": [], "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q3212522", "sub_label": "La Rue Montorgueil", "sub_aliases": "Blick in eine bunt beflaggte von vielen Menschen bev\u00f6lkerte Stra\u00dfe, von einem oberen Stockwerk aus gesehen", "obj_id": "Q296", "obj_label": "Claude Monet"}
+{"sub_id": "Q4936154", "sub_label": "Bocca Baciata", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q6470337", "sub_label": "Lady Lilith", "sub_aliases": ["Body's Beauty"], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q19897951", "sub_label": "Der Tagtraum", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q2425901", "sub_label": "Ecce Ancilla Domini", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q27062079", "sub_label": "Regina Cordium", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q29346625", "sub_label": "Ligeia Siren", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q11742261", "sub_label": "The Bower Meadow", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q4660495", "sub_label": "A Vision of Fiammetta", "sub_aliases": [], "obj_id": "Q186748", "obj_label": "Dante Gabriel Rossetti"}
+{"sub_id": "Q3138273", "sub_label": "Portr\u00e4t des Infanten Baltasar Carlos mit einem Zwerg", "sub_aliases": ["El pr\u00edncipe Baltasar Carlos con un enano (Vel\u00e1zquez)"], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q729194", "sub_label": "Sebasti\u00e1n de Morra", "sub_aliases": ["Sebasti\u00e1n de Morra", "Portrait of Sebastian de Morra", "Sebastian de Morra"], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q390713", "sub_label": "Hofnarr mit Buch auf den Knien", "sub_aliases": ["The Jester Don Diego de Acedo"], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q3212193", "sub_label": "Portr\u00e4t der Mariana de Austria", "sub_aliases": [], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q3207931", "sub_label": "N\u00e4hende Frau", "sub_aliases": [], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q1090371", "sub_label": "Portr\u00e4t des Philipp IV.", "sub_aliases": [], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q984058", "sub_label": "Die Spinnerinnen", "sub_aliases": "Die Sage der Arachne", "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q1113846", "sub_label": "Temptation of St. Thomas", "sub_aliases": [], "obj_id": "Q297", "obj_label": "Diego Vel\u00e1zquez"}
+{"sub_id": "Q3825796", "sub_label": "Reliquiar des heiligen Rossore", "sub_aliases": [], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q3698261", "sub_label": "Kreuz in Santa Croce", "sub_aliases": [], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q735293", "sub_label": "Der heilige Georg befreit die Prinzessin", "sub_aliases": ["St George Freeing the Princess", "St. George Freeing the Princess"], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q3698242", "sub_label": "Kreuz der Basilika des hl. Antonius", "sub_aliases": [], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q2356619", "sub_label": "Pazzi Madonna", "sub_aliases": [], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q3739202", "sub_label": "Kobold mit Fl\u00fcgeln", "sub_aliases": [], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q959370", "sub_label": "Himmelfahrt Christi mit Schl\u00fcssel\u00fcbergabe an Petrus", "sub_aliases": ["The Ascension with Christ giving the Keys to St Peter", "The Ascension with Christ giving the Keys to St. Peter"], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q3842400", "sub_label": "Hildburgh Madonna", "sub_aliases": ["Virgin and Child with Angels"], "obj_id": "Q37562", "obj_label": "Donatello"}
+{"sub_id": "Q1016012", "sub_label": "Portr\u00e4t des Grafen Lepic und seine T\u00f6chter", "sub_aliases": "Ludovic Lepic und seine T\u00f6chter", "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3220733", "sub_label": "Im Konzertcaf\u00e9 \u00bbLes Ambassadeurs\u00ab", "sub_aliases": ["Le Cafe-concert aux ambassadeurs"], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3819661", "sub_label": "L'Orchestre de l'Op\u00e9ra", "sub_aliases": [], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3937505", "sub_label": "portr\u00e4t des Diego Martelli", "sub_aliases": [], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3663927", "sub_label": "Jockeys vor der Trib\u00fcne", "sub_aliases": ["Le Defile"], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3660766", "sub_label": "Le champ de courses. Jockeys amateurs pr\u00e8s d'une voiture", "sub_aliases": [], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q3837030", "sub_label": "Lorenzo Pagans und Auguste de Gas", "sub_aliases": ["El joako con K"], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q17510059", "sub_label": "Nach dem Bade sich abtrocknende Frau", "sub_aliases": [], "obj_id": "Q46373", "obj_label": "Edgar Degas"}
+{"sub_id": "Q18208623", "sub_label": "Angst", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q18890726", "sub_label": "Roter Wilder Wein", "sub_aliases": "Roter Wein, Der rote Wein", "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q3793021", "sub_label": "Kiss by the Window", "sub_aliases": ["The Kiss"], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q3432673", "sub_label": "Pubert\u00e4t", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q1683743", "sub_label": "Vampir", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q18890529", "sub_label": "G\u00e4hnendes M\u00e4dchen", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q18890231", "sub_label": "Inger in Black and Violet", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q18889825", "sub_label": "Evening Atmosphere at Sea", "sub_aliases": [], "obj_id": "Q41406", "obj_label": "Edvard Munch"}
+{"sub_id": "Q6106760", "sub_label": "Portr\u00e4t von Jorge Manuel Theotoc\u00f3puli, Sohn des K\u00fcnstlers", "sub_aliases": ["Portrait of Jorge Manuel Theotocopuli"], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q2842448", "sub_label": "Portr\u00e4t des Dr. Francisco de Pisa", "sub_aliases": [], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q3929380", "sub_label": "Knabe, der eine Kerze entz\u00fcndet", "sub_aliases": ["Sopl\u00f3n", "Soplon"], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q9073350", "sub_label": "Bernhardin von Siena", "sub_aliases": [], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q5949742", "sub_label": "Martyrium des Heiligen Mauritius", "sub_aliases": [], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q6106772", "sub_label": "Portr\u00e4t eines \u00e4lteren Edelmannes", "sub_aliases": [], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q5823248", "sub_label": "Christus der Erl\u00f6ser", "sub_aliases": [], "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q1220013", "sub_label": "Die \u00d6ffnung des f\u00fcnften Siegels", "sub_aliases": "Die Vision des heiligen Johannes", "obj_id": "Q301", "obj_label": "El Greco", "obj_aliases": "Dom\u00ednikos Theotok\u00f3poulos"}
+{"sub_id": "Q19923938", "sub_label": "Exercices militaires des marocains", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q29353383", "sub_label": "Combat of the Giaour and the Pasha", "sub_aliases": ["Combat of the Giaour and Hassan"], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q17176897", "sub_label": "Cromwell at Windsor Castle", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q3206493", "sub_label": "Battle of Nancy (1477)", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q3208817", "sub_label": "Die Braut von Abydos", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q23912", "sub_label": "Junger Tiger spielt mit seiner Mutter", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q3181999", "sub_label": "Griechenland auf den Ruinen von Mesolongi", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q26706754", "sub_label": "Portr\u00e4t des Baron Schwiter", "sub_aliases": [], "obj_id": "Q33477", "obj_label": "Eug\u00e8ne Delacroix", "obj_aliases": "Ferdinand-Victor-Eug\u00e8ne Delacroix"}
+{"sub_id": "Q2088930", "sub_label": "Milchm\u00e4dchen von Bordeaux", "sub_aliases": [], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q3819135", "sub_label": "Tribunal der Inquisition", "sub_aliases": [], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q2735507", "sub_label": "Die Bekleidete Maja", "sub_aliases": ["La maja vestida"], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q920030", "sub_label": "Die Familie Karls IV.", "sub_aliases": ["amoung us"], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q4809372", "sub_label": "Los disparates", "sub_aliases": ["The Follies", "Proverbios (En: Proverbs)", "Sue\u00f1os (En: Dreams)"], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q3035829", "sub_label": "Portr\u00e4t des Don Manuel", "sub_aliases": ["Manuel Osorio Manrique de Zu\u00f1iga", "Red Boy"], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q1150997", "sub_label": "Saturn verschlingt seinen Sohn", "sub_aliases": "Saturn verschlingt eines seiner Kinder", "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q152867", "sub_label": "Die nackte Maja", "sub_aliases": ["The nude maja", "The Naked Maja"], "obj_id": "Q5432", "obj_label": "Francisco de Goya", "obj_aliases": "Francisco Jos\u00e9 de Goya y Lucientes"}
+{"sub_id": "Q955352", "sub_label": "Miles Teg", "sub_aliases": [], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q3476569", "sub_label": "Scytale", "sub_aliases": [], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q509741", "sub_label": "Shaddam Corrino", "sub_aliases": [], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q1051419", "sub_label": "Wladimir Harkonnen", "sub_aliases": "Vladimir Harkonnen", "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q940030", "sub_label": "Arrakis", "sub_aliases": "Dune", "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q902161", "sub_label": "Fish Speakers", "sub_aliases": [], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q2583490", "sub_label": "Liet-Kynes", "sub_aliases": ["Doctor Kynes"], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q937394", "sub_label": "Thufir Hawat", "sub_aliases": [], "obj_id": "Q7934", "obj_label": "Frank Herbert", "obj_aliases": "Frank Patrick Herbert"}
+{"sub_id": "Q51746", "sub_label": "Luke Skywalker", "sub_aliases": [], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q51793", "sub_label": "Jar Jar Binks", "sub_aliases": [], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q148659", "sub_label": "Indiana Jones", "sub_aliases": "Indy Jones", "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q257155", "sub_label": "Naboo", "sub_aliases": [], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q1133061", "sub_label": "Klonkriege", "sub_aliases": ["The Clone War"], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q51800", "sub_label": "Wilhuff Tarkin", "sub_aliases": ["Grand Moff Tarkin"], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q51789", "sub_label": "Padm\u00e9 Amidala", "sub_aliases": ["Padm\u00e9 Naberrie", "Queen Amidala", "Padme Amidala", "Padme Naberrie", "Senator Amidala"], "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q19901", "sub_label": "Millennium Falcon", "sub_aliases": "Rasender Falke", "obj_id": "Q38222", "obj_label": "George Lucas"}
+{"sub_id": "Q12900597", "sub_label": "Joffrey Baratheon", "sub_aliases": ["Joffrey the Illborn", "The Young Usurper"], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q12056060", "sub_label": "Stannis Baratheon", "sub_aliases": [], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q3624677", "sub_label": "Arya Stark", "sub_aliases": [], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q37945333", "sub_label": "Nachtk\u00f6nig", "sub_aliases": ["Night's King", "The Night King"], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q12902445", "sub_label": "Tywin Lannister", "sub_aliases": [], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q11703515", "sub_label": "Samwell Tarly", "sub_aliases": ["Sam Tarly"], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q5800500", "sub_label": "Davos Seaworth", "sub_aliases": ["Onion knight", "Davos of Flea Bottom", "The Onion Knight"], "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q5959381", "sub_label": "Khal Drogo", "sub_aliases": "Drogo", "obj_id": "Q181677", "obj_label": "George R. R. Martin"}
+{"sub_id": "Q3793239", "sub_label": "Der Kanal von Gravelines", "sub_aliases": [], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3823444", "sub_label": "Parade de cirque", "sub_aliases": ["The Parade", "The Parade (Circus Sideshow)"], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3859806", "sub_label": "Poseuse assise, de profil", "sub_aliases": ["Poseuse de profil"], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3882034", "sub_label": "Landscape with Puvis de Chavannes' Poor Fisherman", "sub_aliases": [], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3965263", "sub_label": "Wald in Pontaubert", "sub_aliases": ["Sous-bois \u00e0 Pontaubert", "Sous-bois a Pontaubert"], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3899880", "sub_label": "Banlieue", "sub_aliases": ["The Suburb"], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3617404", "sub_label": "Hafen in Honfleur", "sub_aliases": [], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q3713940", "sub_label": "Morgenspaziergang (Die Seine bei Courbevoie)", "sub_aliases": [], "obj_id": "Q34013", "obj_label": "Georges Seurat", "obj_aliases": "Georges-Pierre Seurat"}
+{"sub_id": "Q16060269", "sub_label": "Anima Beata", "sub_aliases": ["Anima Beata"], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q5002064", "sub_label": "B\u00fcste von Costanza Bonarelli", "sub_aliases": "Buste von Constanza Bonarelli", "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q5002073", "sub_label": "B\u00fcste Pauls V.", "sub_aliases": [], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q3733361", "sub_label": "Selige Ludovica Albertoni", "sub_aliases": ["Alteri Chapel"], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q3647650", "sub_label": "B\u00fcste von Kardinal Richelieu", "sub_aliases": [], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q1333433", "sub_label": "Verz\u00fcckung der heiligen Theresa", "sub_aliases": ["Ecstasy of St. Theresa", "The Ecstasy of Saint Teresa", "Ecstasy of Saint Theresa", "The Ecstasy of Saint Theresa"], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q4945054", "sub_label": "Schlafende Hermaphrodite", "sub_aliases": ["Borghese Hermaphroditus"], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q4762350", "sub_label": "Engel mit der Dornenkrone", "sub_aliases": [], "obj_id": "Q160538", "obj_label": "Gian Lorenzo Bernini", "obj_aliases": "Giovanni Lorenzo Bernini"}
+{"sub_id": "Q3937289", "sub_label": "Joachim bei den Hirten", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q8987167", "sub_label": "Kategorie:Fresken in der Capella Scrovegni", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q3828008", "sub_label": "Fu\u00dfwaschung", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q3539575", "sub_label": "Stefaneschi Triptychon", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q2016193", "sub_label": "Ognissanti-Madonna", "sub_aliases": "Maest\u00e0 aus Ognissanti", "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q3797739", "sub_label": "Begegnung an der Goldenen Pforte", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q962065", "sub_label": "Bardi Kapelle", "sub_aliases": [], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q1197593", "sub_label": "Joachims Traum", "sub_aliases": ["Annunciation to Joachim"], "obj_id": "Q7814", "obj_label": "Giotto di Bondone", "obj_aliases": "Giotto"}
+{"sub_id": "Q3256843", "sub_label": "Litzlberg am Attersee", "sub_aliases": [], "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q28001663", "sub_label": "Fritza Riedler", "sub_aliases": "Portr\u00e4t Fritza Riedler", "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q684689", "sub_label": "Beethovenfries", "sub_aliases": "Beethovenfries: \"Die Sehnsucht nach dem Gl\u00fcck\" (nach Richard Wagners Interpretation der IX. Sinfonie von Ludwig van Beethoven)", "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q354396", "sub_label": "Adele Bloch-Bauer I", "sub_aliases": "Goldene Adele", "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q3829156", "sub_label": "Die drei Lebensalter einer Frau", "sub_aliases": "Die drei Lebensalter der Frau", "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q84628758", "sub_label": "Wasserschlangen II (Freundinnen)", "sub_aliases": [], "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q17635088", "sub_label": "Baby", "sub_aliases": [], "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q19259111", "sub_label": "Altitalienische Kunst", "sub_aliases": [], "obj_id": "Q34661", "obj_label": "Gustav Klimt"}
+{"sub_id": "Q2914912", "sub_label": "Die Steinklopfer", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q3642171", "sub_label": "Die Begegnung, oder Bonjour, Monsieur Courbet!", "sub_aliases": "\"Bonjour, Monsieur Courbet\"", "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q23199068", "sub_label": "The Happy Lovers", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q48651005", "sub_label": "Selbstportr\u00e4t mit schwarzem Hund", "sub_aliases": ["Selfportrait with black dog"], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q10467459", "sub_label": "Woman with White Stockings (La Femme aux bas blancs)", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q20087546", "sub_label": "Meeresk\u00fcste bei Palavas", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q18578022", "sub_label": "Proudhon and His Children", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q20540009", "sub_label": "The Quarry", "sub_aliases": [], "obj_id": "Q34618", "obj_label": "Gustave Courbet"}
+{"sub_id": "Q61678241", "sub_label": "Das rosafarbene Atelier", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q2902188", "sub_label": "The Green Stripe", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q1437492", "sub_label": "Frau mit Hut", "sub_aliases": ["Femme au chapeau", "La femme au chapeau"], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q6507336", "sub_label": "Le Mur Rose", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q3651370", "sub_label": "La Blouse roumaine", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q10320046", "sub_label": "Dishes and Fruit", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q27974912", "sub_label": "Painter\u2019s Family", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q4921163", "sub_label": "Black Leaf on Green Background", "sub_aliases": [], "obj_id": "Q5589", "obj_label": "Henri Matisse", "obj_aliases": "Henri \u00c9mile Beno\u00eet Matisse"}
+{"sub_id": "Q2389534", "sub_label": "Eremiten-Triptychon", "sub_aliases": "Eremitentriptychon", "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2276130", "sub_label": "Epiphanius-Altar", "sub_aliases": [], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2390211", "sub_label": "Kreuzigung mit Stifter", "sub_aliases": [], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2875363", "sub_label": "The holy Jacob and the magician Hermogenes", "sub_aliases": [], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2390197", "sub_label": "Johannes auf Patmos", "sub_aliases": [], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q1851182", "sub_label": "Two Male Heads", "sub_aliases": ["Two Figures Wearing Mitres (fragment)"], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q1968805", "sub_label": "Der Baummensch", "sub_aliases": [], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2392689", "sub_label": "Group of Ten Spectators", "sub_aliases": ["Ten Spectators"], "obj_id": "Q130531", "obj_label": "Hieronymus Bosch", "obj_aliases": "Jeroen Bosch"}
+{"sub_id": "Q2884775", "sub_label": "Baron d'Aldrigger", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q1610690", "sub_label": "Rastignac", "sub_aliases": ["Eugene de Rastignac"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q3275274", "sub_label": "Madame Firmiani", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2260387", "sub_label": "Godefroid de Beaudenord", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2398300", "sub_label": "Lucien Chardon", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q3074326", "sub_label": "Florine", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q3303240", "sub_label": "Ma\u00eetre Cruchot", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q3010068", "sub_label": "C\u00e9lestin Crevel", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q13381307", "sub_label": "Festsitzung des Staatsrates am 7. Mai 1901, dem hundertsten Jahrestag seit seiner Gr\u00fcndung", "sub_aliases": [], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q11791202", "sub_label": "Unerwartet", "sub_aliases": [], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q4337604", "sub_label": "Herbstblumenstrauss", "sub_aliases": ["Vera Ilyinichna Repina, the Artist's Daughter"], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q47455254", "sub_label": "Portrait of Lev Tolstoy", "sub_aliases": [], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q56071378", "sub_label": "Alexander III. empf\u00e4ngt eine Delegation von Landvogten", "sub_aliases": [], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q175628", "sub_label": "Die Wolgatreidler", "sub_aliases": "Wolgatreidler, eine Furt durchschreitend", "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q478271", "sub_label": "Die Saporoger Kosaken schreiben dem t\u00fcrkischen Sultan einen Brief", "sub_aliases": "Die Saporosher Kosaken schreiben einen Brief an den t\u00fcrkischen Sultan", "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q18407183", "sub_label": "Duell", "sub_aliases": [], "obj_id": "Q172911", "obj_label": "Ilja Jefimowitsch Repin"}
+{"sub_id": "Q2349630", "sub_label": "Galaktisches Imperium", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q3807065", "sub_label": "Janov Pelorat", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q988862", "sub_label": "Elijah Baley", "sub_aliases": "Lije Baley", "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q3093480", "sub_label": "Gaal Dornick", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q1240116", "sub_label": "Preem Palver", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q2488408", "sub_label": "Positronik", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q1073739", "sub_label": "Susan Calvin", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q1093762", "sub_label": "Terminus", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q173998", "sub_label": "Ron Weasley", "sub_aliases": "Won-Won", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q712548", "sub_label": "Albus Dumbledore", "sub_aliases": "Professor Dumbledore", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q174009", "sub_label": "Hermine Granger", "sub_aliases": ["Hermione Jean Granger"], "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q716534", "sub_label": "Familie Weasley", "sub_aliases": "Weasleys", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q1251049", "sub_label": "Fred und George Weasley", "sub_aliases": "Weasley-Zwillinge", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q717594", "sub_label": "James Potter", "sub_aliases": [], "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q187923", "sub_label": "Ginny Weasley", "sub_aliases": "Ginny Potter", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q715312", "sub_label": "Nymphadora Tonks", "sub_aliases": "Tonks", "obj_id": "Q34660", "obj_label": "Joanne K. Rowling", "obj_aliases": "JKR"}
+{"sub_id": "Q1652056", "sub_label": "Sonnenaufgang mit Seeungeheuern", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q4009608", "sub_label": "Venedig, vom Canale della Giudecca aus gesehen", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q26706280", "sub_label": "The Evening Star", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q2339059", "sub_label": "Rain, Steam and Speed \u2013 The Great Western Railway", "sub_aliases": ["Rain, Steam and Speed", "Rain, Steam and Speed: The Great Western Railway"], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q7733769", "sub_label": "Die f\u00fcnfte Plage von \u00c4gypten (Die Pest)", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q22330064", "sub_label": "Port Ruysdael", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q21973952", "sub_label": "Liber studiorum", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q15149679", "sub_label": "Abendlandschaft, wahrscheinlich der Kanal von Chichester", "sub_aliases": [], "obj_id": "Q159758", "obj_label": "William Turner", "obj_aliases": "Joseph Mallord William Turner"}
+{"sub_id": "Q180322", "sub_label": "Aragorn", "sub_aliases": "Streicher", "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q177499", "sub_label": "Gandalf", "sub_aliases": ["Gandalf the Grey", "Gandalf the White", "Ol\u00f3rin", "Mithrandir", "Olorin", "The White Rider", "Inc\u00e1nus", "Thark\u00fbn", "Grey Pilgrim"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q46285", "sub_label": "Thorin Eichenschild", "sub_aliases": ["Thorin Oakenshield"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q213480", "sub_label": "Legolas", "sub_aliases": "Gr\u00fcnblatt", "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q206818", "sub_label": "Gimli", "sub_aliases": ["Gimli son of Gl\u00f3in", "Gimli son of Gloin"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q79734", "sub_label": "Mittelerde", "sub_aliases": ["Middle Earth", "Endor", "Hither Lands", "Great Lands", "Middle-Earth"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q74359", "sub_label": "Hobbit", "sub_aliases": "Periannath", "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q26098", "sub_label": "Einsamer Berg", "sub_aliases": "Erebor", "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q3208312", "sub_label": "The Distribution of the Eagle Standards", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q972295", "sub_label": "Leonidas an den Thermopylen", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q2533791", "sub_label": "Die Liktoren bringen Brutus die Leichen seiner S\u00f6hne", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q3208369", "sub_label": "Andromache Mourning Hector", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q3213522", "sub_label": "Vestalin", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q2619037", "sub_label": "Portr\u00e4t Madame R\u00e9camier", "sub_aliases": ["Portrait of Madame Recamier"], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q3387593", "sub_label": "Unfinished Portrait of General Bonaparte", "sub_aliases": [], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q2749266", "sub_label": "Portr\u00e4t von Stanis\u0142aw Kostka Potocki zu Pferde.", "sub_aliases": ["Equestrian portrait of Stanis\u0142aw Kostka Potocki"], "obj_id": "Q83155", "obj_label": "Jacques-Louis David", "obj_aliases": "Jacques Louis David"}
+{"sub_id": "Q941416", "sub_label": "Jupiter und Thetis", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q18222055", "sub_label": "\u00c9l\u00e9onore\u2011Marie\u2011Pauline de Galard de Brassac de B\u00e9arn (1825\u20131860), Princesse de Broglie", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q4862984", "sub_label": "Baronne de Rothschild", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q17189258", "sub_label": "Comtesse d'Haussonville", "sub_aliases": ["Portrait of Comtesse d'Haussonville"], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q15918248", "sub_label": "The Vow of Louis XIII", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q16020875", "sub_label": "The Ambassadors of Agamemnon in the tent of Achilles", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q3080509", "sub_label": "Die Badende von Valpen\u00e7on", "sub_aliases": "Badende Valpin\u00e7on", "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q2985455", "sub_label": "Portr\u00e4t Monsieur Bertin", "sub_aliases": [], "obj_id": "Q23380", "obj_label": "Jean-Auguste-Dominique Ingres", "obj_aliases": "Jean-Dominique Ingres"}
+{"sub_id": "Q7920022", "sub_label": "Venedig, Piazetta", "sub_aliases": [], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q18177752", "sub_label": "Rome. - Colis\u00e9e, vu a travers les arcades de la Basilique de Constantin", "sub_aliases": [], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q18177652", "sub_label": "Gypsy Girl with Mandolin.", "sub_aliases": [], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q15710334", "sub_label": "Trinit\u00e0 dei Monti", "sub_aliases": ["La Trinit\u00e9-des-Monts"], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q18689628", "sub_label": "Erinnerung an Italien", "sub_aliases": [], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q15709546", "sub_label": "Engelsburg mit Tiber", "sub_aliases": [], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q18177782", "sub_label": "Bretoninnen am Brunnen", "sub_aliases": ["Breton Women at the Fountain, Batz"], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q18177774", "sub_label": "The Woman with a Pearl", "sub_aliases": ["Woman with a Pearl"], "obj_id": "Q148475", "obj_label": "Jean-Baptiste Camille Corot", "obj_aliases": "Jean-Baptiste-Camille Corot"}
+{"sub_id": "Q21711958", "sub_label": "Catalan Peasant with a Guitar", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q1781689", "sub_label": "Stillleben mit altem Schuh", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q2600804", "sub_label": "Her Majesty the Queen", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q1997425", "sub_label": "Nord-Sud (Mir\u00f3)", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q1885116", "sub_label": "Mai 1968 (Mir\u00f3)", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q4419559", "sub_label": "Personnage Oiseaux", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q19884203", "sub_label": "Schwalbe/Liebe", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q3153785", "sub_label": "Dutch Interiors (I, II, and III)", "sub_aliases": [], "obj_id": "Q152384", "obj_label": "Joan Mir\u00f3", "obj_aliases": "Joan Mir\u00f3 i Ferr\u00e0"}
+{"sub_id": "Q20724361", "sub_label": "Dolly Branican", "sub_aliases": ["Dolly Starter"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q21426753", "sub_label": "Gra\u00fcben", "sub_aliases": "Gr\u00e4uben", "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q838313", "sub_label": "Um die Welt mit Willy Fog", "sub_aliases": "Willy Fog", "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q20807843", "sub_label": "Thomas Roch", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q3308890", "sub_label": "Michel Ardan", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q21426759", "sub_label": "Marthe", "sub_aliases": ["Marthe"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q20919489", "sub_label": "Fix", "sub_aliases": ["Mr. Fix"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q21013659", "sub_label": "Professor Otto Lidenbrock", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q18173402", "sub_label": "Lake Suwa in Shinano province", "sub_aliases": ["Shinsh\u016b Suwa-ko", "Shinshu Suwa-ko", "Shinsh\u016b Suwako", "Shinshu Suwako", "A View of Mount Fuji Across Lake Suwa"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q18173384", "sub_label": "Lightnings below the summit", "sub_aliases": ["Sanka hakuu", "Storm below Mount Fuji", "Sanka no hakuu", "Sanka no haku u", "Sanka no haku'u", "Sanka haku-u", "Shower below the Summit"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q18173417", "sub_label": "Yoshida at Tokaido", "sub_aliases": ["T\u014dkaid\u014d Yoshida", "Yoshida on the T\u014dkaid\u014d Road"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q60228610", "sub_label": "A Tour of the Waterfalls of the Provinces", "sub_aliases": [], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q17209457", "sub_label": "Dawn at Isawa in Kai Province", "sub_aliases": ["K\u014dsh\u016b Isawa no akatsuki", "Koshu Isawa no akatsuki"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q18173424", "sub_label": "The Lake at Hakone in Sagami Province", "sub_aliases": ["S\u014dsh\u016b Hakone kosui"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q18173395", "sub_label": "Shichiri beach in Sagami province", "sub_aliases": ["S\u014dsh\u016b Shichirigahama", "Shichirigahama in Sagami Province", "Shichirigahama Beach in Sagami Province", "Seven-mile beach in Sagami province"], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q60326368", "sub_label": "Kinoe no Komatsu", "sub_aliases": [], "obj_id": "Q5586", "obj_label": "Katsushika Hokusai", "obj_aliases": "Tokitar\u014d Nakajima"}
+{"sub_id": "Q4390923", "sub_label": "Isleworth Mona Lisa", "sub_aliases": [], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q2471531", "sub_label": "The Virgin and Child with Saint Anne and Saint John the Baptist", "sub_aliases": ["Burlington House Cartoon", "The Virgin and Child with St. Anne and St. John the Baptist", "The Virgin and Child with St Anne and St John the Baptist"], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q1000659", "sub_label": "Budapester Pferd und Reiter", "sub_aliases": ["Horse and Rider", "Rearing Horse and Mounted Warrior", "Warrior on Horseback", "Budapest horse"], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q8254439", "sub_label": "Zeichnung f\u00fcnf grotesker K\u00f6pfe", "sub_aliases": ["A man tricked by gypsies"], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q4787225", "sub_label": "Architonnerre", "sub_aliases": [], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q106522165", "sub_label": "A portrait of a woman in profile", "sub_aliases": ["A portrait of a woman in profile"], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q3373694", "sub_label": "Landschaft mit Fluss", "sub_aliases": "Landschaft des Arno-Tals", "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q28497888", "sub_label": "Sheet of Studies of Cats, a Dragon and other Animals", "sub_aliases": [], "obj_id": "Q762", "obj_label": "Leonardo da Vinci", "obj_aliases": "Lionardo di ser Piero"}
+{"sub_id": "Q965866", "sub_label": "Wortleiter", "sub_aliases": [], "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q29973418", "sub_label": "Queen of May", "sub_aliases": [], "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q864751", "sub_label": "Der Hutmacher", "sub_aliases": "The Hatter", "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q10357223", "sub_label": "die wei\u00dfe K\u00f6nigin", "sub_aliases": "wei\u00dfe K\u00f6nigin", "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q950895", "sub_label": "Haselmaus", "sub_aliases": "Murmelthier", "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q3346639", "sub_label": "Nyctographie", "sub_aliases": ["typhlography", "typhlograph", "nyctograph", "nyctogram", "typhlogram"], "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q3640014", "sub_label": "Bill, die Eidechse", "sub_aliases": "Bill, die Echse", "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q4395118", "sub_label": "Ente", "sub_aliases": "Die Ente", "obj_id": "Q38082", "obj_label": "Lewis Carroll", "obj_aliases": "Lewis Carol"}
+{"sub_id": "Q20708206", "sub_label": "Bouquet pr\u00e8s de la fen\u00eatre", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q59503959", "sub_label": "Memories of Childhood", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q3818183", "sub_label": "Acrobat", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q3828984", "sub_label": "The doors of the cemetery", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q3796270", "sub_label": "Green Violinist", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q3637719", "sub_label": "Bella with White Collar", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q2272215", "sub_label": "Ich und das Dorf", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q106074594", "sub_label": "Le Clown au Cirque", "sub_aliases": [], "obj_id": "Q93284", "obj_label": "Marc Chagall", "obj_aliases": "Shagalov"}
+{"sub_id": "Q558508", "sub_label": "Al Neri", "sub_aliases": ["Albert Neri"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q1342302", "sub_label": "Salvatore Tessio", "sub_aliases": ["Sal Tessio", "Sally Tessio"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q1358761", "sub_label": "Peter Clemenza", "sub_aliases": ["Clemenza", "Pete Clemenza"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q519957", "sub_label": "Carlo Rizzi", "sub_aliases": [], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q2284305", "sub_label": "Moe Greene", "sub_aliases": ["Morris Greene"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q2279224", "sub_label": "Don Fanucci", "sub_aliases": ["Fanucci"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q931582", "sub_label": "Fredo Corleone", "sub_aliases": ["Frederico Corleone", "Freddy Corleone", "Freddie Corleone", "Fred Corleone"], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q21233588", "sub_label": "Non", "sub_aliases": [], "obj_id": "Q182870", "obj_label": "Mario Puzo", "obj_aliases": "Puzo"}
+{"sub_id": "Q7810", "sub_label": "Homer Simpson", "sub_aliases": "Tortenmann", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q1503373", "sub_label": "Seymour Skinner", "sub_aliases": "Rektor Skinner", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q1514450", "sub_label": "Milhouse van Houten", "sub_aliases": ["Milhouse Mussolini Van Houten"], "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q1504586", "sub_label": "Dr. Julius Hibbert", "sub_aliases": "Julius Hibbert", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q7834", "sub_label": "Maggie Simpson", "sub_aliases": "Margaret Simpson", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q5480", "sub_label": "Bart Simpson", "sub_aliases": "Bartholomew JoJo \u201eBart\u201c Simpson", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q646166", "sub_label": "Moe Szyslak", "sub_aliases": "Morris Szyslak", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q745472", "sub_label": "Joseph Quimby", "sub_aliases": "Joseph Fitzpatrick Fitzgerald Fitzhenry Quimby", "obj_id": "Q43994", "obj_label": "Matt Groening"}
+{"sub_id": "Q2627551", "sub_label": "Brutus", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q785767", "sub_label": "Pitti Tondo", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q2440879", "sub_label": "Kauernder Knabe", "sub_aliases": ["Crouching Youth"], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q3482971", "sub_label": "Delphische Sibylle", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q1984954", "sub_label": "D\u00e4mmerung", "sub_aliases": "Abendd\u00e4mmerung", "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q1886263", "sub_label": "Kreuzigung des heiligen Petrus", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q2078173", "sub_label": "Madonna an der Treppe", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q2280603", "sub_label": "Kopf eines Faun", "sub_aliases": [], "obj_id": "Q5592", "obj_label": "Michelangelo"}
+{"sub_id": "Q9380048", "sub_label": "Moses exposed by the river", "sub_aliases": ["The Exposition of Moses", "Exposition of Moses"], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q3373686", "sub_label": "Landschaft mit zwei Nymphen", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q15934821", "sub_label": "Saint Frances Announcing the End of the Plague in Rome", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q20077288", "sub_label": "Zerst\u00f6rung des Tempels in Jerusalem durch Titus", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q19820169", "sub_label": "Apoll und Daphne", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q6485133", "sub_label": "Landscape with the Ashes of Phocion", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q3850323", "sub_label": "Das Martyrium des Hl. Erasmus", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q10901792", "sub_label": "Midas und Bacchus", "sub_aliases": [], "obj_id": "Q41554", "obj_label": "Nicolas Poussin", "obj_aliases": "Niccolo Pussino"}
+{"sub_id": "Q5442919", "sub_label": "Woman with Folded Arms", "sub_aliases": ["Femme aux Bras Croises"], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q5433371", "sub_label": "Les Saltimbanques", "sub_aliases": [], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q7300609", "sub_label": "Reading the Letter", "sub_aliases": [], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q453775", "sub_label": "Fernande Olivier", "sub_aliases": ["Fernande Bellevall\u00e9e", "Am\u00e9lie Lang", "Fernande Bellevallee", "Amelie Lang"], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q3041737", "sub_label": "The Actor", "sub_aliases": [], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q3228112", "sub_label": "The Old Guitarist", "sub_aliases": [], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q7232312", "sub_label": "Portrait of Suzanne Bloch", "sub_aliases": [], "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q910199", "sub_label": "Les Demoiselles d\u2019Avignon", "sub_aliases": "Les Demoiselles d'Avignon", "obj_id": "Q5593", "obj_label": "Pablo Picasso"}
+{"sub_id": "Q7178879", "sub_label": "Petrobelli Altarpiece", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q9395635", "sub_label": "Kephalus und Prokris", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q18573246", "sub_label": "Madonna mit Kind zwischen St. Justina und St. George mit einem knieenden Benediktiner M\u00f6nch", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q16605202", "sub_label": "Serie des Herzogs von Buckingham", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q3937768", "sub_label": "Portr\u00e4t eines Herrn im Pelz", "sub_aliases": ["Portrait of Daniele Barbaro"], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q2839019", "sub_label": "Allegorie der Liebe", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q19912118", "sub_label": "Alessandro Vittoria (1524/25\u20131608)", "sub_aliases": [], "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q20074801", "sub_label": "Erweckung des J\u00fcnglings zu Nain", "sub_aliases": "Die Heilung des Blutf\u00fcssigen", "obj_id": "Q9440", "obj_label": "Paolo Veronese"}
+{"sub_id": "Q9159850", "sub_label": "Harlekin", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q3873326", "sub_label": "Stilleben mit \u00c4pfeln und Orangen", "sub_aliases": ["cxaca"], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q2656755", "sub_label": "Portr\u00e4t des Achille Emperaire", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q2270938", "sub_label": "Die gro\u00dfen Badenden", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q3873324", "sub_label": "Stilleben mit Zwiebeln", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q614986", "sub_label": "Olympia", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q3929306", "sub_label": "M\u00e4dchen am Klavier", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q3138984", "sub_label": "Fastnacht (Pierot und Harlequin)", "sub_aliases": [], "obj_id": "Q35548", "obj_label": "Paul C\u00e9zanne"}
+{"sub_id": "Q780986", "sub_label": "Das Nachtcaf\u00e9 in Arles", "sub_aliases": ["The Night Cafe in Arles"], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q3208973", "sub_label": "The Royal End", "sub_aliases": ["Arii Matamoe"], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q4354644", "sub_label": "Am Meer", "sub_aliases": ["Fatata Te Miti", "By the Sea"], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q500951", "sub_label": "Der gelbe Christus", "sub_aliases": [], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q609572", "sub_label": "Mana\u00f2 tupapa\u00fa", "sub_aliases": "Manao Tupapau", "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q4091893", "sub_label": "Nevermore", "sub_aliases": [], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q1118465", "sub_label": "Gegr\u00fc\u00dft seist du, Maria", "sub_aliases": ["Ave Maria"], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q1627187", "sub_label": "Wie? Bist du eifers\u00fcchtig?", "sub_aliases": [], "obj_id": "Q37693", "obj_label": "Paul Gauguin", "obj_aliases": "Gauguin"}
+{"sub_id": "Q2843410", "sub_label": "Gem\u00e4ldezyklus f\u00fcr Maria de' Medici, K\u00f6nigin von Frankreich, Szene: Ankunft Maria de' Medicis in Marseille", "sub_aliases": ["The Arrival of Marie de Medici at Marseille", "Disembarkation of Marie de Medici at Marseilles"], "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q3228387", "sub_label": "Portr\u00e4t der Susanna Lunden", "sub_aliases": "Chapeau de paille", "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q611583", "sub_label": "Minerva besch\u00fctzt Frieden vor Mars", "sub_aliases": ["Peace and War"], "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q3636299", "sub_label": "Die Amazonenschlacht", "sub_aliases": ["Amazonomachia"], "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q3842690", "sub_label": "Madonna della Vallicella", "sub_aliases": [], "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q3825140", "sub_label": "Jagd auf Nilpferd und Krokodil", "sub_aliases": [], "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q2558141", "sub_label": "Maria de' Medici-Zyklus", "sub_aliases": "Medici-Zyklus", "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q3797799", "sub_label": "Der ungl\u00e4ubige Thomas", "sub_aliases": "Jesu Erscheinung vor den J\u00fcngern", "obj_id": "Q5599", "obj_label": "Peter Paul Rubens"}
+{"sub_id": "Q2344681", "sub_label": "d\u00e6mon", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q12302827", "sub_label": "Balthamos", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q1423287", "sub_label": "Mulefa", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q2368490", "sub_label": "Sally Lockhart", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q12336870", "sub_label": "John Parry", "sub_aliases": ["Stanislaus Grumman", "Jopari"], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q12320174", "sub_label": "John Faa", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q2091177", "sub_label": "Lyra Belacqua", "sub_aliases": ["Lyra Silvertongue"], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q2607099", "sub_label": "Marisa Coulter", "sub_aliases": [], "obj_id": "Q190220", "obj_label": "Philip Pullman"}
+{"sub_id": "Q1659469", "sub_label": "Im Sommer", "sub_aliases": "Lise", "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q1114718", "sub_label": "Tanz auf dem Land", "sub_aliases": [], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q3177703", "sub_label": "Portr\u00e4t des Ehepaares Sisley", "sub_aliases": "Ein Paar im Gr\u00fcnen", "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q2501284", "sub_label": "Die gro\u00dfen Badenden", "sub_aliases": [], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q686105", "sub_label": "Portr\u00e4t der Frau Charpentier und ihre Kinder", "sub_aliases": ["Madame Georges Charpentier (Margu\u00e9rite-Louise Lemonnier, 1848\u20131904) and Her Children, Georgette-Berthe (1872\u20131945) and Paul-\u00c9mile-Charles (1875\u20131895)"], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q472037", "sub_label": "By the Seashore", "sub_aliases": [], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q4657050", "sub_label": "M\u00e4dchen mit Gie\u00dfkanne", "sub_aliases": [], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q6251405", "sub_label": "Pink and Blue", "sub_aliases": ["Alice and Elisabeth Cahen d\u2019Anvers"], "obj_id": "Q39931", "obj_label": "Pierre-Auguste Renoir", "obj_aliases": "Auguste Renoir"}
+{"sub_id": "Q2223877", "sub_label": "Composition in line, second state", "sub_aliases": ["Compositie in lijn, tweede staat"], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q24021121", "sub_label": "Composition in colour A", "sub_aliases": [], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q18710663", "sub_label": "New York City", "sub_aliases": ["New York City I"], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q22115296", "sub_label": "Farmhouse with Haystack", "sub_aliases": ["Farm building with haystack viewed along the horizon"], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q18710673", "sub_label": "Windmolen at the Gein", "sub_aliases": [], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q2321345", "sub_label": "Composition XIV", "sub_aliases": [], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q19609192", "sub_label": "Rastercompositie 9: dambordcompositie heldere kleuren", "sub_aliases": [], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q18608141", "sub_label": "\u00d6stliche M\u00fchle am Gein bei Mondlicht", "sub_aliases": [], "obj_id": "Q151803", "obj_label": "Piet Mondrian", "obj_aliases": "Pieter Mondriaan"}
+{"sub_id": "Q9355649", "sub_label": "Kirmes in Hoboken", "sub_aliases": [], "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q644856", "sub_label": "Der Triumph des Todes", "sub_aliases": ["Pieter Brueghel de Oude", "De Triomf van de Dood"], "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q56394941", "sub_label": "Christus und die Apostel am See Genezareth", "sub_aliases": "Christus erscheint den Aposteln am See bei Tiberias", "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q2059447", "sub_label": "Misanthrop", "sub_aliases": "Die Treulosigkeit der Welt", "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q665337", "sub_label": "Die Bekehrung des Paulus", "sub_aliases": "Bekehrung Pauli", "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q4258682", "sub_label": "Sloth", "sub_aliases": [], "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q375216", "sub_label": "Die Volksz\u00e4hlung zu Bethlehem", "sub_aliases": "Volksz\u00e4hlung in Betlehem", "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q689236", "sub_label": "Kampf zwischen Fastnacht und Fasten", "sub_aliases": "Streit des Karnevals mit der Fastenzeit", "obj_id": "Q43270", "obj_label": "Pieter Bruegel der \u00c4ltere", "obj_aliases": "Pieter Brueghel der \u00c4ltere"}
+{"sub_id": "Q254923", "sub_label": "Madonna Alba, Szene: Maria mit Christuskind und Johannes dem T\u00e4ufer, Tondo", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q966681", "sub_label": "Madonna della Seggiola", "sub_aliases": "Madonna della Sedia", "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2344396", "sub_label": "Dame mit dem Einhorn", "sub_aliases": "Maddalena Strozzi", "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2664637", "sub_label": "Kreuztragung Christi", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2535563", "sub_label": "Portr\u00e4t eines Kardinals", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2427320", "sub_label": "Madonna von Loreto", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2035209", "sub_label": "Madonna del Granduca", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q2627028", "sub_label": "Portr\u00e4t der Elisabetta Gonzaga", "sub_aliases": [], "obj_id": "Q5597", "obj_label": "Raffael", "obj_aliases": "Raffaello Sanzio da Urbino"}
+{"sub_id": "Q1211651", "sub_label": "Die Blendung Simsons", "sub_aliases": [], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q768333", "sub_label": "Rembrandts Sohn Titus in M\u00f6nchstracht", "sub_aliases": ["Rembrandt\u2019s Son Titus in a Monk\u2019s Habit", "Rembrandts zoon Titus in monniksdracht"], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q3381192", "sub_label": "Meditierender Philosoph", "sub_aliases": "Interieur mit Tobias und Anna", "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q325267", "sub_label": "Moses zerschmettert die Gesetzestafeln", "sub_aliases": [], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q2589202", "sub_label": "Ahasuerus and Haman at the Feast of Esther", "sub_aliases": [], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q766782", "sub_label": "Die Judenbraut", "sub_aliases": "Het Joodse bruidje", "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q1170480", "sub_label": "Die Vorsteher der Tuchmacherzunft", "sub_aliases": ["The Wardens of the Amsterdam Drapers\u2019 Guild, Known as \u2018The Syndics\u2019", "De Staalmeesters", "The Sampling Officials", "Sampling Officials of the Drapers' Guild", "The Syndics of the Amsterdam Drapers' Guild 1662", "The\u00a0Staalmeesters", "Syndics of the Drapers\u2019 Guild\u00a0(The\u00a0Staalmeesters)", "Syndics of the Drapers\u2019 Guild", "Staalmeesters"], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q2252345", "sub_label": "Die Anatomiestunde von Dr. Joan Deyman", "sub_aliases": [], "obj_id": "Q5598", "obj_label": "Rembrandt van Rijn"}
+{"sub_id": "Q1151384", "sub_label": "The Son of Man", "sub_aliases": ["Le fils de l'homme", "El hijo del hombre"], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q7731980", "sub_label": "Die leere Maske", "sub_aliases": [], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q7773042", "sub_label": "The Voice of Space", "sub_aliases": [], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q62042185", "sub_label": "Word paintings", "sub_aliases": [], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q19883989", "sub_label": "The False Mirrore", "sub_aliases": ["Le Faux Miroir (The False Mirror)", "The False Mirror", "Le Faux Miroir"], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q1061035", "sub_label": "La trahison des images", "sub_aliases": "Dies ist keine Pfeife", "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q1923232", "sub_label": "Das Pyren\u00e4enschloss", "sub_aliases": [], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q2022606", "sub_label": "Not to be Reproduced", "sub_aliases": ["La Reproduction interdite"], "obj_id": "Q7836", "obj_label": "Ren\u00e9 Magritte", "obj_aliases": "Magritte, Ren\u00e9"}
+{"sub_id": "Q2990594", "sub_label": "Lobster Telephone", "sub_aliases": [], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q4423965", "sub_label": "The Elephants", "sub_aliases": ["Project for \"As you like it\""], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q9019086", "sub_label": "The Apotheosis of the Dollar", "sub_aliases": [], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q133839", "sub_label": "The Burning Giraffe", "sub_aliases": [], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q94845", "sub_label": "The Temptation of St. Anthony", "sub_aliases": [], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q2663568", "sub_label": "Das Gesicht des Krieges", "sub_aliases": ["Le visage de la guerre"], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q611945", "sub_label": "The Swallow's Tail", "sub_aliases": ["The Swallow's Tail \u2014 Series on Catastrophes", "Swallow\u2019s Tail and Cellos. The Catastrophes Series"], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q17986845", "sub_label": "Mae West Lips Sofa", "sub_aliases": [], "obj_id": "Q5577", "obj_label": "Salvador Dal\u00ed", "obj_aliases": "Dal\u00ed, Salvador D."}
+{"sub_id": "Q2267509", "sub_label": "Judiths R\u00fcckkehr nach Bethulia", "sub_aliases": ["Return of Judith to Bethulia"], "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q549847", "sub_label": "Primavera", "sub_aliases": "Primavera - Der Fr\u00fchling", "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q1114856", "sub_label": "Madonna del Padiglione, Szene: Maria mit Christuskind und drei Engeln, Tondo", "sub_aliases": ["Madonna con il Bambino e tre angeli"], "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q28497200", "sub_label": "Portr\u00e4t des Dante Alighieri", "sub_aliases": [], "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q2551625", "sub_label": "Madonna des Magnificat", "sub_aliases": [], "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q4373363", "sub_label": "Weibliches Idealbildnis (Bildnis der Simonetta Vespucci als Nymphe)", "sub_aliases": "Weibliches Brustbild (Idealbildnis der Simonetta Vespucci?)", "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q7885787", "sub_label": "Die Auffindung des enthaupteten Holofernes", "sub_aliases": ["Discovery of the Body of Holofernes"], "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q2426058", "sub_label": "Minerva und der Kentaur", "sub_aliases": "Pallas Athena einen Kentaur b\u00e4ndigend", "obj_id": "Q5669", "obj_label": "Sandro Botticelli"}
+{"sub_id": "Q1982051", "sub_label": "Kang the Conqueror", "sub_aliases": ["Nathaniel Richards", "Blue Man", "Victor Timely", "Blue Totem", "Scarlet Centurion", "Rama-Tut", "King of Kings", "Master of Men", "Lord of the Seven Suns"], "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q5350072", "sub_label": "Jean Grey", "sub_aliases": "Marvel Girl", "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q945817", "sub_label": "Gwen Stacy", "sub_aliases": ["Gwendolyn Maxine \"Gwen\" Stacy", "Gwendolyne Maxine Stacy", "arriba las Chivas"], "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q770064", "sub_label": "Warren Worthington III", "sub_aliases": "Angel", "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q2299139", "sub_label": "Uncle Ben", "sub_aliases": "Benjamin Parker", "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q838088", "sub_label": "Iceman", "sub_aliases": "Bobby Drake", "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q544290", "sub_label": "Edwin Jarvis", "sub_aliases": [], "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q2296291", "sub_label": "Vulture", "sub_aliases": ["Adrian Toomes"], "obj_id": "Q181900", "obj_label": "Stan Lee", "obj_aliases": "Stanley Martin Lieber"}
+{"sub_id": "Q4129601", "sub_label": "Oy", "sub_aliases": [], "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q625770", "sub_label": "Die Langoliers", "sub_aliases": "The Langoliers", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q3036003", "sub_label": "Donald Callahan", "sub_aliases": "Pater Callahan", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q2988692", "sub_label": "Eddie Dean", "sub_aliases": "Edward Cantor Dean", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q383222", "sub_label": "Kingdom Hospital", "sub_aliases": "Stephen King's Kingdom Hospital \u2013 Das Reich der Finsternis", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q1752538", "sub_label": "Stephen Kings The Stand \u2013 Das letzte Gefecht", "sub_aliases": "The Stand \u2013 Das letzte Gefecht", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q1100632", "sub_label": "Jerusalem's Lot", "sub_aliases": [], "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q383876", "sub_label": "Derry", "sub_aliases": [], "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q20069325", "sub_label": "Portrait of Anna Zakrevska", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12090186", "sub_label": "Ascension Cathedral in Pereslavl", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12087112", "sub_label": "In Dustin Traditional church", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12142562", "sub_label": "Portrait of an unknown with necklace", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12142571", "sub_label": "unknown portraits", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12116149", "sub_label": "Corner of Smolensk cemetery in St. Petersburg", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12142539", "sub_label": "Portrait of Gorlenko", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q12142560", "sub_label": "Portrait of a girl with a dog", "sub_aliases": [], "obj_id": "Q134958", "obj_label": "Taras Schewtschenko", "obj_aliases": "Taras Shevchenko"}
+{"sub_id": "Q963492", "sub_label": "Nanny Ogg", "sub_aliases": "Gytha Ogg", "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q514782", "sub_label": "Samuel Mumm", "sub_aliases": ["Samuel Vimes"], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q2991805", "sub_label": "Hexe", "sub_aliases": [], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q1248783", "sub_label": "A'Tuin", "sub_aliases": [], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q3104712", "sub_label": "Greebo", "sub_aliases": [], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q3401100", "sub_label": "Tiffany Weh", "sub_aliases": [], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q2369247", "sub_label": "Angua von \u00dcberwald", "sub_aliases": ["Angua"], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q3490455", "sub_label": "Detritus", "sub_aliases": [], "obj_id": "Q46248", "obj_label": "Terry Pratchett", "obj_aliases": "Terence David John PRATCHETT"}
+{"sub_id": "Q204243", "sub_label": "Glorie des hl. Rochus von Montpellier", "sub_aliases": [], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q65132090", "sub_label": "Darstellung Jesu im Tempel", "sub_aliases": "Pr\u00e4sentation Jesu im Tempel", "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q1125410", "sub_label": "The Siege of Asola", "sub_aliases": [], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q5829623", "sub_label": "Elisha Multiplies the Bread", "sub_aliases": [], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q5963059", "sub_label": "Die Erschaffung der Tiere", "sub_aliases": ["Creation of the animals"], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q11769022", "sub_label": "Hl. Maria Magdalena", "sub_aliases": [], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q3937458", "sub_label": "Portr\u00e4t von Alvise Cornaro", "sub_aliases": ["Portrait of Luigi Cornaro"], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q5650332", "sub_label": "Portr\u00e4t einer Frau mit entbl\u00f6\u00dftem Busen", "sub_aliases": [], "obj_id": "Q9319", "obj_label": "Jacopo Tintoretto"}
+{"sub_id": "Q1238886", "sub_label": "Portr\u00e4t von Gerolamo (?) Barbarigo", "sub_aliases": "Herr in Blau (Ariosto)", "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q3643957", "sub_label": "Der Bravo", "sub_aliases": [], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q4013804", "sub_label": "Violante", "sub_aliases": [], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q2528145", "sub_label": "Allegorie der von der Klugheit beherrschten Zeit", "sub_aliases": [], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q3632485", "sub_label": "Bachanalien der Andriner", "sub_aliases": ["The Andrians", "Bacchanal of the Andrians"], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q1133103", "sub_label": "Votivbild der Familie Vendramin, Szene: Familienmitglieder vor einer Reliquie des Heiligen Kreuzes", "sub_aliases": [], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q23922", "sub_label": "Die Frau im Spiegel", "sub_aliases": "Junge Frau bei der Toilette", "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q7920648", "sub_label": "Venus mit Spiegel", "sub_aliases": [], "obj_id": "Q47551", "obj_label": "Tizian"}
+{"sub_id": "Q500554", "sub_label": "Trauernder alter Mann", "sub_aliases": "Trauriger alter Mann", "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q2269788", "sub_label": "Portr\u00e4t des Doktor Felix Rey", "sub_aliases": [], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q45585", "sub_label": "Sternennacht", "sub_aliases": ["Starry Night"], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q4892867", "sub_label": "Die Ebene La Crau\" bei Arles mit Montmajour im Hintergrund\"", "sub_aliases": [], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q948894", "sub_label": "La Mousm\u00e9", "sub_aliases": ["La Mousme"], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q2278818", "sub_label": "Agostina Segatori im Caf\u00e9 du Tambourin", "sub_aliases": ["Agostina Segatori Sitting in the Cafe du Tambourin"], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q22329831", "sub_label": "Selbstbildnis ohne Bart", "sub_aliases": [], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q634122", "sub_label": "Kr\u00e4hen \u00fcber Weizenfeld", "sub_aliases": [], "obj_id": "Q5582", "obj_label": "Vincent van Gogh", "obj_aliases": "Vincent Willem van Gogh"}
+{"sub_id": "Q18705518", "sub_label": "Schwarzes Raster", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q3756647", "sub_label": "Gabriele M\u00fcnter", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q3797004", "sub_label": "Impression III (Konzert)", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q2990634", "sub_label": "Composition VII", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q3797022", "sub_label": "Improvisation 19", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q66474020", "sub_label": "Inner Alliance", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q16543389", "sub_label": "Composition VI", "sub_aliases": [], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q18705498", "sub_label": "Bild mit rotem Fleck", "sub_aliases": ["Painting with Red Stain"], "obj_id": "Q61064", "obj_label": "Wassily Kandinsky", "obj_aliases": "Vasily Kandinsky"}
+{"sub_id": "Q5073788", "sub_label": "Characters and Caricaturas", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q30682837", "sub_label": "Der letzte Widerstand", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q4164272", "sub_label": "Das Krabbenm\u00e4dchen", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q17060006", "sub_label": "The Bad Taste of the Town", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q3451328", "sub_label": "Portr\u00e4t der Graham-Kinder", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q5150006", "sub_label": "Columbus Breaking the Egg", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q7624318", "sub_label": "Strolling Actresses Dressing in a Barn", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q59347987", "sub_label": "Vorher und Nachher", "sub_aliases": [], "obj_id": "Q171344", "obj_label": "William Hogarth"}
+{"sub_id": "Q1650633", "sub_label": "Yorick", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q3140503", "sub_label": "Horatio", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2736774", "sub_label": "Queen Mab", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q7828727", "sub_label": "Probstein", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2568064", "sub_label": "Fortinbras", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q1226010", "sub_label": "Sycorax", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q806945", "sub_label": "Banquo", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2447542", "sub_label": "Prinz Hamlet", "sub_aliases": "Hamlet", "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2899286", "sub_label": "Berthe Morisot mit Veilchenstrau\u00df", "sub_aliases": [], "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q1844748", "sub_label": "Knabe mit Schwert", "sub_aliases": ["Boy with a Sword"], "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q1212098", "sub_label": "Die Eisenbahn", "sub_aliases": "Le Chemin de fer", "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q3227448", "sub_label": "Der Selbstm\u00f6rder", "sub_aliases": "Le Suicid\u00e9", "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q3203711", "sub_label": "Toter Torero", "sub_aliases": "Der tote Torero", "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q154653", "sub_label": "Schlacht zwischen der \u00bbKearsarge\u00ab und der \u00bbAlabama\u00ab", "sub_aliases": [], "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q775407", "sub_label": "Der Balkon", "sub_aliases": [], "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
+{"sub_id": "Q2974978", "sub_label": "Clair de lune sur le port de Boulogne", "sub_aliases": [], "obj_id": "Q40599", "obj_label": "\u00c9douard Manet", "obj_aliases": "\u00c8douard Manet"}
