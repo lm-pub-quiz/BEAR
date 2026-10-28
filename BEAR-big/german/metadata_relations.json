@@ -34,6 +34,20 @@
             "[Y] erkennt [X] als seinen Staatsb\u00fcrger an."
         ]
     },
+    "P30": {
+        "templates": [
+            "[X] liegt in [Y].",
+            "[X] ist Teil von [Y].",
+            "[X] befindet sich in [Y]."
+        ]
+    },
+    "P36": {
+        "templates": [
+            "Die Hauptstadt von [X] ist [Y].",
+            "[X] hat seinen Regierungssitz in [Y].",
+            "[Y] dient als Hauptstadt von [X]."
+        ]
+    },
     "P37": {
         "templates": [
             "Die offizielle Sprache von [X] ist [Y].",
@@ -102,6 +116,13 @@
             "[X] wurde an der [Y] ausgebildet.",
             "[X] erhielt seine Ausbildung an der [Y].",
             "[X] studierte an der [Y]."
+        ]
+    },
+    "P81": {
+        "templates": [
+            "[X] ist direkt mit der [Y] verbunden.",
+            "[X] verfügt über eine Anschlusslinie zur [Y].",
+            "[X] ist über die Bahnstrecke [Y] angebunden."
         ]
     },
     "P86": {
@@ -195,6 +216,13 @@
             "[X] war eine bedeutende Figur der [Y] Bewegung."
         ]
     },
+    "P137": {
+        "templates": [
+            "[X] wird von [Y] betrieben.",
+            "[Y] ist der Betreiber von [X].",
+            "[X] wird von [Y] betrieben."
+        ]
+    },
     "P141": {
         "templates": [
             "Der Erhaltungszustand von [X] laut IUCN ist [Y].",
@@ -272,11 +300,25 @@
             "[Y] absolvierte einen Doktortitel unter [X]."
         ]
     },
+    "P190": {
+        "templates": [
+            "[X] und [Y] sind Partnerstädte.",
+            "[X] unterhält eine Städtepartnerschaft mit [Y].",
+            "[X] ist eine Partnerstadt von [Y]."
+        ]
+    },
     "P195": {
         "templates": [
             "Die Sammlung von [Y] enth\u00e4lt [X].",
             "[X] ist ein St\u00fcck in der Sammlung von [Y].",
             "[X] ist Teil der Sammlung von [Y]."
+        ]
+    },
+    "P206": {
+        "templates": [
+            "[X] liegt neben [Y].",
+            "[X] befindet sich am Ufer von [Y].",
+            "[X] befindet sich in unmittelbarer Nähe von [Y]."
         ]
     },
     "P264": {
@@ -340,6 +382,13 @@
             "[X] wird an der [Y] gehandelt.",
             "[X] ist an der [Y] gelistet.",
             "[X] kann an der [Y] gefunden werden."
+        ]
+    },
+    "P427": {
+        "templates": [
+            "[X] ist ein taxonomischer Typ von [Y].",
+            "Der taxonomische Typ von [X] ist [Y].",
+            "[X] ist in der Taxonomie ein [Y]."
         ]
     },
     "P449": {
@@ -433,6 +482,13 @@
             "[X] fungiert als Hauptstadt von [Y]."
         ]
     },
+    "P1412": {
+        "templates": [
+            "[X] kommunizierte früher auf [Y].",
+            "[Y] ist die von [X] verwendete Sprache.",
+            "[X] beherrscht [Y]."
+        ]
+    },
     "P1441": {
         "templates": [
             "[X] erscheint in [Y].",
@@ -459,6 +515,13 @@
             "[X] befindet sich in [Y].",
             "[X] kann in [Y] gefunden werden.",
             "[X] ist in [Y] gelegen."
+        ]
+    },
+    "P3373": {
+        "templates": [
+            "[X] und [Y] sind Geschwister.",
+            "[X] ist ein Geschwisterteil von [Y].",
+            "[X] hatte ein Geschwister namens [Y]."
         ]
     },
     "P4552": {

@@ -27,6 +27,20 @@
             "Der Ehepartner von [X] ist [Y]."
         ]
     },
+    "P27": {
+        "templates": [
+            "[X] besitzt die Staatsb\u00fcrgerschaft von [Y].",
+            "[X] ist Staatsb\u00fcrger von [Y].",
+            "[Y] erkennt [X] als Staatsb\u00fcrger an."
+        ]
+    },
+    "P30": {
+        "templates": [
+            "[X] liegt in [Y].",
+            "[X] ist ein Teil von [Y].",
+            "[X] befindet sich in [Y]."
+        ]
+    },
     "P36": {
         "templates": [
             "Die Hauptstadt von [X] ist [Y].",
@@ -60,6 +74,13 @@
             "[X] wurde von [Y] inszeniert.",
             "[Y] war der Regisseur von [X].",
             "Der Regisseur von [X] war [Y]."
+        ]
+    },
+    "P58": {
+        "templates": [
+            "[X] wurde von [Y] geschrieben.",
+            "[Y] war der Drehbuchautor von [X].",
+            "Das Drehbuch f\u00fcr [X] stammt von [Y]."
         ]
     },
     "P69": {
@@ -109,6 +130,13 @@
             "Der Heimspielort von [X] ist das [Y].",
             "Das Heimstadion von [X] ist das [Y].",
             "[X] spielt seine Heimspiele im [Y]."
+        ]
+    },
+    "P127": {
+        "templates": [
+            "[X] ist im Besitz von [Y].",
+            "[Y] ist der Eigent\u00fcmer von [X].",
+            "[X] geh\u00f6rt [Y]."
         ]
     },
     "P131": {
@@ -244,6 +272,13 @@
             "Die Stimme von [X] ist vom Typ [Y]."
         ]
     },
+    "P413": {
+        "templates": [
+            "[X] spielt auf der Position [Y].",
+            "[X] ist auf die Position [Y] spezialisiert.",
+            "[X] spielt als [Y]."
+        ]
+    },
     "P427": {
         "templates": [
             "[X] ist ein taxonomischer Typ von [Y].",
@@ -270,6 +305,13 @@
             "[X] wird von [Y] besetzt.",
             "Der Besatzer von [X] ist [Y].",
             "[Y] besetzt [X]."
+        ]
+    },
+    "P509": {
+        "templates": [
+            "[X] starb an [Y].",
+            "Die Todesursache von [X] war [Y].",
+            "[X] starb infolge von [Y]."
         ]
     },
     "P610": {
@@ -314,6 +356,13 @@
             "[X] dient als Hauptstadt von [Y]."
         ]
     },
+    "P1412": {
+        "templates": [
+            "[X] kommunizierte auf [Y].",
+            "[Y] ist die Sprache, die [X] verwendet.",
+            "[X] beherrscht [Y]."
+        ]
+    },
     "P1441": {
         "templates": [
             "[X] erscheint in [Y].",
@@ -333,6 +382,20 @@
             "[X] wurde in [Y] inhaftiert.",
             "[X] war in [Y] gefangen.",
             "[X] war in [Y] eingesperrt."
+        ]
+    },
+    "P3373": {
+        "templates": [
+            "[X] und [Y] sind Geschwister.",
+            "[X] ist ein Geschwisterteil von [Y].",
+            "[X] hatte ein Geschwisterteil namens [Y]."
+        ]
+    },
+    "P4552": {
+        "templates": [
+            "[X] ist Teil von [Y].",
+            "[X] liegt in [Y].",
+            "[X] geh\u00f6rt zu [Y]."
         ]
     },
     "P6886": {
