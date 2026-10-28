@@ -1,0 +1,304 @@
+{"sub_id": "Q3714209", "sub_label": "IC 239", "sub_aliases": [], "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q3716148", "sub_label": "IC 43", "sub_aliases": [], "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q632347", "sub_label": "Nachtwacht", "sub_aliases": ["HAT-P-6b", "BD+41 4831b"], "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q851182", "sub_label": "HD 16175", "sub_aliases": ["HD 16175"], "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q513275", "sub_label": "Andromediden", "sub_aliases": "Bieliden", "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q746769", "sub_label": "GO Andromedae", "sub_aliases": ["GO Andromedae", "HR 234"], "obj_id": "Q9256", "obj_label": "Andromeda"}
+{"sub_id": "Q598861", "sub_label": "NGC 3268", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q1103951", "sub_label": "NGC 3271", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q368391", "sub_label": "NGC 3260", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q1103875", "sub_label": "NGC 3258", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q1103791", "sub_label": "NGC 3249", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q647604", "sub_label": "NGC 3108", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q1103121", "sub_label": "NGC 3137", "sub_aliases": [], "obj_id": "Q10481", "obj_label": "Luftpumpe", "obj_aliases": "Antlia Pneumatica"}
+{"sub_id": "Q2715971", "sub_label": "Delta Apodis", "sub_aliases": [], "obj_id": "Q10506", "obj_label": "Paradiesvogel", "obj_aliases": "Apus"}
+{"sub_id": "Q15831", "sub_label": "Saturnnebel", "sub_aliases": ["NGC 7009"], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1167739", "sub_label": "NGC 7492", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1149392", "sub_label": "NGC 7069", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1168259", "sub_label": "NGC 7600", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1150519", "sub_label": "NGC 7257", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1149462", "sub_label": "NGC 7077", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q1166901", "sub_label": "NGC 7302", "sub_aliases": [], "obj_id": "Q10576", "obj_label": "Wassermann", "obj_aliases": "Aqr"}
+{"sub_id": "Q949322", "sub_label": "NGC 6781", "sub_aliases": [], "obj_id": "Q10586", "obj_label": "Adler", "obj_aliases": "Aquila"}
+{"sub_id": "Q1148429", "sub_label": "NGC 6906", "sub_aliases": [], "obj_id": "Q10586", "obj_label": "Adler", "obj_aliases": "Aquila"}
+{"sub_id": "Q93935678", "sub_label": "Gliese 676", "sub_aliases": ["LDS 599"], "obj_id": "Q9253", "obj_label": "Altar", "obj_aliases": "Ara"}
+{"sub_id": "Q1653326", "sub_label": "IC 4651", "sub_aliases": "IC4651", "obj_id": "Q9253", "obj_label": "Altar", "obj_aliases": "Ara"}
+{"sub_id": "Q1583273", "sub_label": "Tc 1", "sub_aliases": "Thackeray 1", "obj_id": "Q9253", "obj_label": "Altar", "obj_aliases": "Ara"}
+{"sub_id": "Q1040318", "sub_label": "NGC 935 and IC 1801", "sub_aliases": ["Arp 276"], "obj_id": "Q10584", "obj_label": "Widder", "obj_aliases": "\u2648"}
+{"sub_id": "Q1038938", "sub_label": "NGC 765", "sub_aliases": [], "obj_id": "Q10584", "obj_label": "Widder", "obj_aliases": "\u2648"}
+{"sub_id": "Q1041647", "sub_label": "NGC 1115", "sub_aliases": [], "obj_id": "Q10584", "obj_label": "Widder", "obj_aliases": "\u2648"}
+{"sub_id": "Q1039456", "sub_label": "NGC 820", "sub_aliases": [], "obj_id": "Q10584", "obj_label": "Widder", "obj_aliases": "\u2648"}
+{"sub_id": "Q1041760", "sub_label": "NGC 1134", "sub_aliases": [], "obj_id": "Q10584", "obj_label": "Widder", "obj_aliases": "\u2648"}
+{"sub_id": "Q1047258", "sub_label": "NGC 2165", "sub_aliases": [], "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q841306", "sub_label": "IC 405", "sub_aliases": "IC405", "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q2964963", "sub_label": "Palomar 2", "sub_aliases": [], "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q1045350", "sub_label": "NGC 1790", "sub_aliases": [], "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q1046340", "sub_label": "NGC 1985", "sub_aliases": [], "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q13878", "sub_label": "Messier 37", "sub_aliases": "M37", "obj_id": "Q10476", "obj_label": "Fuhrmann", "obj_aliases": "Auriga"}
+{"sub_id": "Q838275", "sub_label": "Quadrantiden", "sub_aliases": "Bootiden", "obj_id": "Q8667", "obj_label": "B\u00e4renh\u00fcter", "obj_aliases": "Arktophylax"}
+{"sub_id": "Q3691407", "sub_label": "IC 2090", "sub_aliases": [], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q1044052", "sub_label": "NGC 1570", "sub_aliases": ["NGC 1571", "New General Catalogue 1570", "New General Catalogue 1571", "PGC 14971"], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q1044129", "sub_label": "NGC 1585", "sub_aliases": [], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q3692020", "sub_label": "IC 2076", "sub_aliases": [], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q1044194", "sub_label": "NGC 1595", "sub_aliases": [], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q1044016", "sub_label": "NGC 1558", "sub_aliases": [], "obj_id": "Q10488", "obj_label": "Grabstichel", "obj_aliases": "Caela Sculptori"}
+{"sub_id": "Q1121682", "sub_label": "NGC 5640", "sub_aliases": [], "obj_id": "Q8832", "obj_label": "Giraffe", "obj_aliases": "Camelopardus"}
+{"sub_id": "Q750725", "sub_label": "NGC 1961", "sub_aliases": [], "obj_id": "Q8832", "obj_label": "Giraffe", "obj_aliases": "Camelopardus"}
+{"sub_id": "Q1050741", "sub_label": "NGC 2761", "sub_aliases": [], "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q11061", "sub_label": "55 Cancri", "sub_aliases": "55 Cnc", "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q1049441", "sub_label": "NGC 2503", "sub_aliases": [], "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q1050557", "sub_label": "NGC 2730", "sub_aliases": [], "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q961685", "sub_label": "NGC 2560", "sub_aliases": [], "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q1051076", "sub_label": "NGC 2812", "sub_aliases": [], "obj_id": "Q8849", "obj_label": "Krebs", "obj_aliases": "\u264b"}
+{"sub_id": "Q13957", "sub_label": "Whirlpool-Galaxie", "sub_aliases": "Whirlpoolgalaxie", "obj_id": "Q10452", "obj_label": "Jagdhunde", "obj_aliases": "Canes Venatici"}
+{"sub_id": "Q76868858", "sub_label": "Cor Caroli", "sub_aliases": "\u03b1\u00a0Canum Venaticorum", "obj_id": "Q10452", "obj_label": "Jagdhunde", "obj_aliases": "Canes Venatici"}
+{"sub_id": "Q1047524", "sub_label": "NGC 2216", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q749455", "sub_label": "NGC 2292", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1047827", "sub_label": "NGC 2271", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1047562", "sub_label": "NGC 2223", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1047782", "sub_label": "NGC 2263", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1047800", "sub_label": "NGC 2267", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1048404", "sub_label": "NGC 2352", "sub_aliases": [], "obj_id": "Q10538", "obj_label": "Gro\u00dfer Hund", "obj_aliases": "Hund"}
+{"sub_id": "Q1049447", "sub_label": "NGC 2504", "sub_aliases": [], "obj_id": "Q9305", "obj_label": "Kleiner Hund"}
+{"sub_id": "Q1049616", "sub_label": "NGC 2538", "sub_aliases": [], "obj_id": "Q9305", "obj_label": "Kleiner Hund"}
+{"sub_id": "Q1049082", "sub_label": "NGC 2433", "sub_aliases": [], "obj_id": "Q9305", "obj_label": "Kleiner Hund"}
+{"sub_id": "Q1048819", "sub_label": "NGC 2394", "sub_aliases": [], "obj_id": "Q9305", "obj_label": "Kleiner Hund"}
+{"sub_id": "Q1062596", "sub_label": "Luytens Stern", "sub_aliases": "GJ 273", "obj_id": "Q9305", "obj_label": "Kleiner Hund"}
+{"sub_id": "Q1068047", "sub_label": "Dabih", "sub_aliases": "Giedi", "obj_id": "Q10535", "obj_label": "Steinbock", "obj_aliases": "Ziegenfisch"}
+{"sub_id": "Q15057245", "sub_label": "PSO J318.5-22", "sub_aliases": [], "obj_id": "Q10535", "obj_label": "Steinbock", "obj_aliases": "Ziegenfisch"}
+{"sub_id": "Q1149125", "sub_label": "NGC 7030", "sub_aliases": [], "obj_id": "Q10535", "obj_label": "Steinbock", "obj_aliases": "Ziegenfisch"}
+{"sub_id": "Q939452", "sub_label": "NGC 2808", "sub_aliases": ["HD 79627"], "obj_id": "Q10470", "obj_label": "Kiel des Schiffs", "obj_aliases": "Carina"}
+{"sub_id": "Q12189", "sub_label": "Canopus", "sub_aliases": "\u0391 Carinae", "obj_id": "Q10470", "obj_label": "Kiel des Schiffs", "obj_aliases": "Carina"}
+{"sub_id": "Q1048997", "sub_label": "NGC 2417", "sub_aliases": [], "obj_id": "Q10470", "obj_label": "Kiel des Schiffs", "obj_aliases": "Carina"}
+{"sub_id": "Q33586", "sub_label": "Herznebel", "sub_aliases": ["IC 1805"], "obj_id": "Q10464", "obj_label": "Kassiopeia", "obj_aliases": "Himmels-W"}
+{"sub_id": "Q27994", "sub_label": "IC 10", "sub_aliases": [], "obj_id": "Q10464", "obj_label": "Kassiopeia", "obj_aliases": "Himmels-W"}
+{"sub_id": "Q1036347", "sub_label": "NGC 381", "sub_aliases": [], "obj_id": "Q10464", "obj_label": "Kassiopeia", "obj_aliases": "Himmels-W"}
+{"sub_id": "Q641074", "sub_label": "NGC 281", "sub_aliases": "Pac-Man-Nebel", "obj_id": "Q10464", "obj_label": "Kassiopeia", "obj_aliases": "Himmels-W"}
+{"sub_id": "Q14228", "sub_label": "Epsilon Centauri", "sub_aliases": [], "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q934700", "sub_label": "Supernova 1006", "sub_aliases": "SN 1006", "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q980168", "sub_label": "NGC 4650", "sub_aliases": [], "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q860979", "sub_label": "Bumerangnebel", "sub_aliases": "Bumerang-Nebel", "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q581019", "sub_label": "NGC 3766", "sub_aliases": ["New General Catalogue 3766", "Caldwell 97", "C 97"], "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q735690", "sub_label": "2M1207 b", "sub_aliases": "2M1207b", "obj_id": "Q8844", "obj_label": "Zentaur"}
+{"sub_id": "Q1475104", "sub_label": "IC 1396", "sub_aliases": [], "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q310540", "sub_label": "Rho2 Cephei", "sub_aliases": "Al Kalb al Rai", "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q13265", "sub_label": "Gamma Cephei", "sub_aliases": "Errai", "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q3099056", "sub_label": "IC 1470", "sub_aliases": [], "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q1050934", "sub_label": "Elefantenr\u00fcsselnebel", "sub_aliases": "VdB 142", "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q649379", "sub_label": "Iris Nebula", "sub_aliases": "Irisnebel", "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q603657", "sub_label": "VV Cephei", "sub_aliases": "HD 208816", "obj_id": "Q10468", "obj_label": "Kepheus"}
+{"sub_id": "Q15821", "sub_label": "Iota Ceti", "sub_aliases": "8 Ceti", "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q14017", "sub_label": "Messier 77", "sub_aliases": "Cetus A", "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q1041263", "sub_label": "NGC 1065", "sub_aliases": [], "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q3715767", "sub_label": "IC 21", "sub_aliases": [], "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q15819", "sub_label": "Kaffaljidhm", "sub_aliases": "Gamma Ceti", "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q1191084", "sub_label": "Arp 147", "sub_aliases": "Arp 147", "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q1039806", "sub_label": "Mrk 590", "sub_aliases": "Mkn 590", "obj_id": "Q8839", "obj_label": "Walfisch", "obj_aliases": "Cet"}
+{"sub_id": "Q963556", "sub_label": "Ceibo", "sub_aliases": ["HD 63454"], "obj_id": "Q10457", "obj_label": "Cham\u00e4leon"}
+{"sub_id": "Q588973", "sub_label": "NGC 1891", "sub_aliases": [], "obj_id": "Q10425", "obj_label": "Taube"}
+{"sub_id": "Q944059", "sub_label": "NGC 4725", "sub_aliases": [], "obj_id": "Q9285", "obj_label": "Haar der Berenike", "obj_aliases": "Coma Berenices"}
+{"sub_id": "Q1111785", "sub_label": "NGC 4473", "sub_aliases": [], "obj_id": "Q9285", "obj_label": "Haar der Berenike", "obj_aliases": "Coma Berenices"}
+{"sub_id": "Q280420", "sub_label": "NGC 4314", "sub_aliases": [], "obj_id": "Q9285", "obj_label": "Haar der Berenike", "obj_aliases": "Coma Berenices"}
+{"sub_id": "Q754715", "sub_label": "NGC 4889", "sub_aliases": [], "obj_id": "Q9285", "obj_label": "Haar der Berenike", "obj_aliases": "Coma Berenices"}
+{"sub_id": "Q5098300", "sub_label": "Coronet cluster", "sub_aliases": [], "obj_id": "Q10413", "obj_label": "S\u00fcdliche Krone", "obj_aliases": "Corona Austrina"}
+{"sub_id": "Q1125493", "sub_label": "NGC 6077", "sub_aliases": [], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1125819", "sub_label": "NGC 6117", "sub_aliases": ["NGC 6117A", "PGC 57816"], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1125904", "sub_label": "NGC 6129", "sub_aliases": [], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q14046", "sub_label": "Gemma", "sub_aliases": "Alpha Coronae Borealis", "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1125969", "sub_label": "NGC 6137", "sub_aliases": [], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1124760", "sub_label": "NGC 6001", "sub_aliases": [], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1125748", "sub_label": "NGC 6109", "sub_aliases": ["PGC 57748", "UGC 10316"], "obj_id": "Q10406", "obj_label": "N\u00f6rdliche Krone", "obj_aliases": "Krone der Ariadne"}
+{"sub_id": "Q1114251", "sub_label": "NGC 4783", "sub_aliases": [], "obj_id": "Q10517", "obj_label": "Rabe", "obj_aliases": "Corvus"}
+{"sub_id": "Q15698", "sub_label": "Algorab", "sub_aliases": "Delta Corvi", "obj_id": "Q10517", "obj_label": "Rabe", "obj_aliases": "Corvus"}
+{"sub_id": "Q1105859", "sub_label": "NGC 3676", "sub_aliases": [], "obj_id": "Q9282", "obj_label": "Becher", "obj_aliases": "Crater"}
+{"sub_id": "Q1106025", "sub_label": "NGC 3702", "sub_aliases": [], "obj_id": "Q9282", "obj_label": "Becher", "obj_aliases": "Crater"}
+{"sub_id": "Q1105841", "sub_label": "NGC 3672", "sub_aliases": [], "obj_id": "Q9282", "obj_label": "Becher", "obj_aliases": "Crater"}
+{"sub_id": "Q1105283", "sub_label": "NGC 3541", "sub_aliases": [], "obj_id": "Q9282", "obj_label": "Becher", "obj_aliases": "Crater"}
+{"sub_id": "Q6873795", "sub_label": "HR 4887", "sub_aliases": [], "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q13102", "sub_label": "Alpha Crucis", "sub_aliases": ["\u0391 Cru", "Alpha Crucis"], "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q14273", "sub_label": "Kohlensack", "sub_aliases": [], "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q387399", "sub_label": "Lambda Crucis", "sub_aliases": [], "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q1347720", "sub_label": "Epsilon Crucis", "sub_aliases": "Juxta Crucem", "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q13105", "sub_label": "Becrux", "sub_aliases": "Beta Crucis", "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q15291487", "sub_label": "HD 106906 b", "sub_aliases": ["HD 106906B"], "obj_id": "Q10542", "obj_label": "Kreuz des S\u00fcdens", "obj_aliases": "Crux Australis"}
+{"sub_id": "Q47304", "sub_label": "Kepler-22b", "sub_aliases": "Kepler-22 b", "obj_id": "Q8921", "obj_label": "Schwan", "obj_aliases": "Cygni"}
+{"sub_id": "Q13883", "sub_label": "Messier 39", "sub_aliases": ["M39", "NGC 7092", "New General Catalogue 7092"], "obj_id": "Q8921", "obj_label": "Schwan", "obj_aliases": "Cygni"}
+{"sub_id": "Q20726281", "sub_label": "Kepler-452b", "sub_aliases": [], "obj_id": "Q8921", "obj_label": "Schwan", "obj_aliases": "Cygni"}
+{"sub_id": "Q4957", "sub_label": "NML Cygni", "sub_aliases": ["V1489 Cyg", "NML Cyg"], "obj_id": "Q8921", "obj_label": "Schwan", "obj_aliases": "Cygni"}
+{"sub_id": "Q1149017", "sub_label": "NGC 7003", "sub_aliases": [], "obj_id": "Q9302", "obj_label": "Delphin", "obj_aliases": "Delfin"}
+{"sub_id": "Q1186990", "sub_label": "Epsilon Delphini", "sub_aliases": "Aldulfin", "obj_id": "Q9302", "obj_label": "Delphin", "obj_aliases": "Delfin"}
+{"sub_id": "Q969756", "sub_label": "Rho Aquilae", "sub_aliases": "67 Aquilae", "obj_id": "Q9302", "obj_label": "Delphin", "obj_aliases": "Delfin"}
+{"sub_id": "Q13522", "sub_label": "Rotanev", "sub_aliases": "Beta Delphini", "obj_id": "Q9302", "obj_label": "Delphin", "obj_aliases": "Delfin"}
+{"sub_id": "Q696627", "sub_label": "NGC 4236", "sub_aliases": ["Caldwell 3", "C 3"], "obj_id": "Q8675", "obj_label": "Drache", "obj_aliases": "Draco"}
+{"sub_id": "Q15829", "sub_label": "Katzenaugennebel", "sub_aliases": ["NGC 6543", "New General Catalogue 6543", "C 6", "Caldwell 6", "'''Cat's Eye Nebula'''"], "obj_id": "Q8675", "obj_label": "Drache", "obj_aliases": "Draco"}
+{"sub_id": "Q1102713", "sub_label": "NGC 3057", "sub_aliases": [], "obj_id": "Q8675", "obj_label": "Drache", "obj_aliases": "Draco"}
+{"sub_id": "Q1109961", "sub_label": "NGC 4221", "sub_aliases": [], "obj_id": "Q8675", "obj_label": "Drache", "obj_aliases": "Draco"}
+{"sub_id": "Q5174623", "sub_label": "Zeta Equulei", "sub_aliases": "3 Equulei", "obj_id": "Q10438", "obj_label": "F\u00fcllen", "obj_aliases": "Equuleus"}
+{"sub_id": "Q3236071", "sub_label": "Delta Equulei", "sub_aliases": "7 Equulei", "obj_id": "Q10438", "obj_label": "F\u00fcllen", "obj_aliases": "Equuleus"}
+{"sub_id": "Q1149254", "sub_label": "NGC 7046", "sub_aliases": [], "obj_id": "Q10438", "obj_label": "F\u00fcllen", "obj_aliases": "Equuleus"}
+{"sub_id": "Q5174613", "sub_label": "Lambda Equulei", "sub_aliases": "2 Equulei", "obj_id": "Q10438", "obj_label": "F\u00fcllen", "obj_aliases": "Equuleus"}
+{"sub_id": "Q5174610", "sub_label": "HD 199942", "sub_aliases": [], "obj_id": "Q10438", "obj_label": "F\u00fcllen", "obj_aliases": "Equuleus"}
+{"sub_id": "Q1079743", "sub_label": "IC 2118", "sub_aliases": "IC2118", "obj_id": "Q10433", "obj_label": "Eridanus", "obj_aliases": "Fluss Eridanus"}
+{"sub_id": "Q66477106", "sub_label": "Theta Eridani", "sub_aliases": [], "obj_id": "Q10433", "obj_label": "Eridanus", "obj_aliases": "Fluss Eridanus"}
+{"sub_id": "Q512565", "sub_label": "NGC 1049", "sub_aliases": [], "obj_id": "Q8913", "obj_label": "Chemischer Ofen", "obj_aliases": "Fornax"}
+{"sub_id": "Q1039489", "sub_label": "NGC 824", "sub_aliases": [], "obj_id": "Q8913", "obj_label": "Chemischer Ofen", "obj_aliases": "Fornax"}
+{"sub_id": "Q1042101", "sub_label": "NGC 1201", "sub_aliases": [], "obj_id": "Q8913", "obj_label": "Chemischer Ofen", "obj_aliases": "Fornax"}
+{"sub_id": "Q899940", "sub_label": "NGC 1360", "sub_aliases": [], "obj_id": "Q8913", "obj_label": "Chemischer Ofen", "obj_aliases": "Fornax"}
+{"sub_id": "Q1042157", "sub_label": "NGC 1210", "sub_aliases": [], "obj_id": "Q8913", "obj_label": "Chemischer Ofen", "obj_aliases": "Fornax"}
+{"sub_id": "Q13028", "sub_label": "Pollux", "sub_aliases": "Beta Geminorum", "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q1048273", "sub_label": "NGC 2333", "sub_aliases": [], "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q661421", "sub_label": "NGC 2294", "sub_aliases": [], "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q1047979", "sub_label": "NGC 2291", "sub_aliases": [], "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q1049287", "sub_label": "NGC 2480", "sub_aliases": [], "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q957843", "sub_label": "NGC 2375", "sub_aliases": [], "obj_id": "Q8923", "obj_label": "Zwillinge", "obj_aliases": "\u264a"}
+{"sub_id": "Q854042", "sub_label": "Al Nair", "sub_aliases": "Alpha Gruis", "obj_id": "Q10563", "obj_label": "Kranich", "obj_aliases": "Flamingo"}
+{"sub_id": "Q672630", "sub_label": "NGC 6186", "sub_aliases": [], "obj_id": "Q10448", "obj_label": "Herkules"}
+{"sub_id": "Q2085473", "sub_label": "NGC 6197", "sub_aliases": [], "obj_id": "Q10448", "obj_label": "Herkules"}
+{"sub_id": "Q2088160", "sub_label": "NGC 6179", "sub_aliases": [], "obj_id": "Q10448", "obj_label": "Herkules"}
+{"sub_id": "Q1040988", "sub_label": "NGC 1025", "sub_aliases": [], "obj_id": "Q10574", "obj_label": "Pendeluhr"}
+{"sub_id": "Q1041028", "sub_label": "NGC 1031", "sub_aliases": [], "obj_id": "Q10574", "obj_label": "Pendeluhr"}
+{"sub_id": "Q1039984", "sub_label": "NGC 888", "sub_aliases": [], "obj_id": "Q10574", "obj_label": "Pendeluhr"}
+{"sub_id": "Q4044837", "sub_label": "NGC 1136", "sub_aliases": [], "obj_id": "Q10574", "obj_label": "Pendeluhr"}
+{"sub_id": "Q1041767", "sub_label": "NGC 1135", "sub_aliases": [], "obj_id": "Q10574", "obj_label": "Pendeluhr"}
+{"sub_id": "Q1104166", "sub_label": "NGC 3313", "sub_aliases": [], "obj_id": "Q10578", "obj_label": "Wasserschlange", "obj_aliases": "Hya"}
+{"sub_id": "Q1103039", "sub_label": "NGC 3124", "sub_aliases": [], "obj_id": "Q10578", "obj_label": "Wasserschlange", "obj_aliases": "Hya"}
+{"sub_id": "Q489940", "sub_label": "NGC 3109", "sub_aliases": [], "obj_id": "Q10578", "obj_label": "Wasserschlange", "obj_aliases": "Hya"}
+{"sub_id": "Q14914793", "sub_label": "Eta1 Hydri", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q1039273", "sub_label": "NGC 802", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q2315079", "sub_label": "Gamma Hydri", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q1043804", "sub_label": "NGC 1511", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q50028", "sub_label": "Magellansche Wolken", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q15724408", "sub_label": "SMSS J031300.36-670839.3", "sub_aliases": [], "obj_id": "Q10416", "obj_label": "Kleine Wasserschlange", "obj_aliases": "Hyi"}
+{"sub_id": "Q1149097", "sub_label": "NGC 7022", "sub_aliases": [], "obj_id": "Q10450", "obj_label": "Indus", "obj_aliases": "Indianer"}
+{"sub_id": "Q1149214", "sub_label": "NGC 7041", "sub_aliases": ["PGC 66463"], "obj_id": "Q10450", "obj_label": "Indus", "obj_aliases": "Indianer"}
+{"sub_id": "Q1149012", "sub_label": "NGC 7002", "sub_aliases": [], "obj_id": "Q10450", "obj_label": "Indus", "obj_aliases": "Indianer"}
+{"sub_id": "Q1104556", "sub_label": "NGC 3400", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1103052", "sub_label": "NGC 3126", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1102016", "sub_label": "NGC 2942", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1104303", "sub_label": "NGC 3344", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1104355", "sub_label": "NGC 3350", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1102367", "sub_label": "NGC 3003", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1105143", "sub_label": "NGC 3515", "sub_aliases": [], "obj_id": "Q10403", "obj_label": "Kleiner L\u00f6we", "obj_aliases": "Leo Minor"}
+{"sub_id": "Q1045493", "sub_label": "NGC 1821", "sub_aliases": [], "obj_id": "Q10446", "obj_label": "Hase", "obj_aliases": "Sternbild Hase"}
+{"sub_id": "Q1045016", "sub_label": "NGC 1738", "sub_aliases": [], "obj_id": "Q10446", "obj_label": "Hase", "obj_aliases": "Sternbild Hase"}
+{"sub_id": "Q1045958", "sub_label": "NGC 1906", "sub_aliases": [], "obj_id": "Q10446", "obj_label": "Hase", "obj_aliases": "Sternbild Hase"}
+{"sub_id": "Q1044955", "sub_label": "NGC 1730", "sub_aliases": [], "obj_id": "Q10446", "obj_label": "Hase", "obj_aliases": "Sternbild Hase"}
+{"sub_id": "Q1046938", "sub_label": "NGC 2106", "sub_aliases": [], "obj_id": "Q10446", "obj_label": "Hase", "obj_aliases": "Sternbild Hase"}
+{"sub_id": "Q170347", "sub_label": "Gliese 581 c", "sub_aliases": "Gliese 581c", "obj_id": "Q10580", "obj_label": "Waage", "obj_aliases": "Lib"}
+{"sub_id": "Q1123861", "sub_label": "NGC 5892", "sub_aliases": [], "obj_id": "Q10580", "obj_label": "Waage", "obj_aliases": "Lib"}
+{"sub_id": "Q1123700", "sub_label": "NGC 5872", "sub_aliases": [], "obj_id": "Q10580", "obj_label": "Waage", "obj_aliases": "Lib"}
+{"sub_id": "Q1123600", "sub_label": "NGC 5861", "sub_aliases": [], "obj_id": "Q10580", "obj_label": "Waage", "obj_aliases": "Lib"}
+{"sub_id": "Q74288", "sub_label": "HE 1523\u22120901", "sub_aliases": [], "obj_id": "Q10580", "obj_label": "Waage", "obj_aliases": "Lib"}
+{"sub_id": "Q66477132", "sub_label": "Eta Lupi", "sub_aliases": [], "obj_id": "Q10571", "obj_label": "Wolf"}
+{"sub_id": "Q1125043", "sub_label": "NGC 6026", "sub_aliases": [], "obj_id": "Q10571", "obj_label": "Wolf"}
+{"sub_id": "Q1048364", "sub_label": "NGC 2344", "sub_aliases": [], "obj_id": "Q10443", "obj_label": "Luchs", "obj_aliases": "Lynx"}
+{"sub_id": "Q1051144", "sub_label": "NGC 2823", "sub_aliases": [], "obj_id": "Q10443", "obj_label": "Luchs", "obj_aliases": "Lynx"}
+{"sub_id": "Q1048110", "sub_label": "NGC 2308", "sub_aliases": [], "obj_id": "Q10443", "obj_label": "Luchs", "obj_aliases": "Lynx"}
+{"sub_id": "Q1049152", "sub_label": "NGC 2456", "sub_aliases": [], "obj_id": "Q10443", "obj_label": "Luchs", "obj_aliases": "Lynx"}
+{"sub_id": "Q1049070", "sub_label": "NGC 2431", "sub_aliases": "NGC 2436", "obj_id": "Q10443", "obj_label": "Luchs", "obj_aliases": "Lynx"}
+{"sub_id": "Q1147084", "sub_label": "NGC 6685", "sub_aliases": [], "obj_id": "Q10484", "obj_label": "Leier", "obj_aliases": "Lyrae"}
+{"sub_id": "Q11394346", "sub_label": "Kepler-62 f", "sub_aliases": ["Kepler-62 f"], "obj_id": "Q10484", "obj_label": "Leier", "obj_aliases": "Lyrae"}
+{"sub_id": "Q1369602", "sub_label": "WASP-7 b", "sub_aliases": [], "obj_id": "Q10492", "obj_label": "Mikroskop", "obj_aliases": "Microscopium"}
+{"sub_id": "Q1149039", "sub_label": "NGC 7012", "sub_aliases": [], "obj_id": "Q10492", "obj_label": "Mikroskop", "obj_aliases": "Microscopium"}
+{"sub_id": "Q1366043", "sub_label": "AU Microscopii", "sub_aliases": [], "obj_id": "Q10492", "obj_label": "Mikroskop", "obj_aliases": "Microscopium"}
+{"sub_id": "Q1047164", "sub_label": "NGC 2149", "sub_aliases": [], "obj_id": "Q10428", "obj_label": "Einhorn", "obj_aliases": "Monocerus"}
+{"sub_id": "Q1048413", "sub_label": "NGC 2353", "sub_aliases": [], "obj_id": "Q10428", "obj_label": "Einhorn", "obj_aliases": "Monocerus"}
+{"sub_id": "Q108041", "sub_label": "Rosettennebel", "sub_aliases": "NGC 2246", "obj_id": "Q10428", "obj_label": "Einhorn", "obj_aliases": "Monocerus"}
+{"sub_id": "Q855198", "sub_label": "V838 Monocerotis", "sub_aliases": "Nova Monocerotis 2002", "obj_id": "Q10428", "obj_label": "Einhorn", "obj_aliases": "Monocerus"}
+{"sub_id": "Q66476835", "sub_label": "3 Monocerotis", "sub_aliases": ["3 Monocerotis", "NGC 2142", "HD 40967"], "obj_id": "Q10428", "obj_label": "Einhorn", "obj_aliases": "Monocerus"}
+{"sub_id": "Q1047271", "sub_label": "Stundenglasnebel", "sub_aliases": "Sanduhrnebel", "obj_id": "Q10435", "obj_label": "Fliege", "obj_aliases": "Biene"}
+{"sub_id": "Q3270867", "sub_label": "Delta Octantis", "sub_aliases": [], "obj_id": "Q10503", "obj_label": "Oktant", "obj_aliases": "Octans"}
+{"sub_id": "Q15036120", "sub_label": "PGC 10340", "sub_aliases": [], "obj_id": "Q10503", "obj_label": "Oktant", "obj_aliases": "Octans"}
+{"sub_id": "Q320670", "sub_label": "Supernova 1604", "sub_aliases": "SN 1604", "obj_id": "Q8906", "obj_label": "Schlangentr\u00e4ger", "obj_aliases": "Oph"}
+{"sub_id": "Q13070", "sub_label": "Alnilam", "sub_aliases": "Epsilon Orionis", "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q1046718", "sub_label": "NGC 2064", "sub_aliases": [], "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q1046050", "sub_label": "NGC 1924", "sub_aliases": [], "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q490342", "sub_label": "Flammennebel", "sub_aliases": "Flammender Baum", "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q13066", "sub_label": "Bellatrix", "sub_aliases": "Gamma Orionis", "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q1047394", "sub_label": "NGC 2194", "sub_aliases": [], "obj_id": "Q8860", "obj_label": "Orion", "obj_aliases": "Orionis"}
+{"sub_id": "Q3299933", "sub_label": "Lambda Pegasi", "sub_aliases": "47 Pegasi", "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q5114", "sub_label": "Stephans Quintett", "sub_aliases": [], "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q1069747", "sub_label": "WASP-10b", "sub_aliases": [], "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q2747799", "sub_label": "Pease 1", "sub_aliases": [], "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q922419", "sub_label": "Einsteinkreuz", "sub_aliases": "QSO 2237+0305", "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q242309", "sub_label": "51 Pegasi b", "sub_aliases": ["Dimidium"], "obj_id": "Q8864", "obj_label": "Pegasus"}
+{"sub_id": "Q13790", "sub_label": "Mirfak", "sub_aliases": "\u03b1 Persei", "obj_id": "Q10511", "obj_label": "Perseus"}
+{"sub_id": "Q1042458", "sub_label": "NGC 1259", "sub_aliases": [], "obj_id": "Q10511", "obj_label": "Perseus"}
+{"sub_id": "Q173708", "sub_label": "Perseiden", "sub_aliases": "Tr\u00e4nen des Laurentius", "obj_id": "Q10511", "obj_label": "Perseus"}
+{"sub_id": "Q1042536", "sub_label": "NGC 1274", "sub_aliases": [], "obj_id": "Q10511", "obj_label": "Perseus"}
+{"sub_id": "Q1042489", "sub_label": "NGC 1265", "sub_aliases": ["3C 83.1B", "New General Catalogue 1265", "UGC 2651", "PGC 12287"], "obj_id": "Q10511", "obj_label": "Perseus"}
+{"sub_id": "Q2081835", "sub_label": "Gamma Phoenicis", "sub_aliases": [], "obj_id": "Q10441", "obj_label": "Ph\u00f6nix"}
+{"sub_id": "Q196843", "sub_label": "Zeta Phoenicis", "sub_aliases": "Wurren", "obj_id": "Q10441", "obj_label": "Ph\u00f6nix"}
+{"sub_id": "Q92451108", "sub_label": "NGC 454B", "sub_aliases": ["NGC 454B"], "obj_id": "Q10441", "obj_label": "Ph\u00f6nix"}
+{"sub_id": "Q1194565", "sub_label": "HD 2039", "sub_aliases": [], "obj_id": "Q10441", "obj_label": "Ph\u00f6nix"}
+{"sub_id": "Q2081851", "sub_label": "Beta Phoenicis", "sub_aliases": [], "obj_id": "Q10441", "obj_label": "Ph\u00f6nix"}
+{"sub_id": "Q1039158", "sub_label": "SIMP J013656.5+093347", "sub_aliases": "2MASS J01365662+0933473", "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q3693768", "sub_label": "IC 1776", "sub_aliases": [], "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q67622043", "sub_label": "54 Piscium", "sub_aliases": [], "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q14070", "sub_label": "Gamma Piscium", "sub_aliases": "\u03b3 Piscium", "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q1168590", "sub_label": "NGC 7667", "sub_aliases": [], "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q3715064", "sub_label": "IC 101", "sub_aliases": [], "obj_id": "Q8679", "obj_label": "Fische", "obj_aliases": "\u2653"}
+{"sub_id": "Q13169", "sub_label": "Fomalhaut", "sub_aliases": "Alpha Piscis Austrini", "obj_id": "Q10409", "obj_label": "S\u00fcdlicher Fisch", "obj_aliases": "PsA"}
+{"sub_id": "Q1167175", "sub_label": "NGC 7361", "sub_aliases": [], "obj_id": "Q10409", "obj_label": "S\u00fcdlicher Fisch", "obj_aliases": "PsA"}
+{"sub_id": "Q739150", "sub_label": "NGC 6578", "sub_aliases": [], "obj_id": "Q8866", "obj_label": "Sch\u00fctze", "obj_aliases": "\u2650"}
+{"sub_id": "Q80941707", "sub_label": "Red Spider Nebula", "sub_aliases": "Roter Spinnennebel", "obj_id": "Q8866", "obj_label": "Sch\u00fctze", "obj_aliases": "\u2650"}
+{"sub_id": "Q2001397", "sub_label": "NGC 6530", "sub_aliases": [], "obj_id": "Q8866", "obj_label": "Sch\u00fctze", "obj_aliases": "\u2650"}
+{"sub_id": "Q11377", "sub_label": "Trifidnebel", "sub_aliases": "Trifid-Nebel", "obj_id": "Q8866", "obj_label": "Sch\u00fctze", "obj_aliases": "\u2650"}
+{"sub_id": "Q143821", "sub_label": "Gliese 667", "sub_aliases": ["HJ 4935", "Gliese 667 AB"], "obj_id": "Q8865", "obj_label": "Skorpion", "obj_aliases": "Sco"}
+{"sub_id": "Q675170", "sub_label": "NGC 6480", "sub_aliases": [], "obj_id": "Q8865", "obj_label": "Skorpion", "obj_aliases": "Sco"}
+{"sub_id": "Q1037419", "sub_label": "NGC 568", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q957266", "sub_label": "NGC 423", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q1037791", "sub_label": "NGC 633", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q958851", "sub_label": "NGC 334", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q1037855", "sub_label": "NGC 642", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q926937", "sub_label": "NGC 439", "sub_aliases": [], "obj_id": "Q9286", "obj_label": "Bildhauer", "obj_aliases": "Sculptor"}
+{"sub_id": "Q630147", "sub_label": "Beta Scuti", "sub_aliases": [], "obj_id": "Q10529", "obj_label": "Schild", "obj_aliases": "Sobieskischer Schild"}
+{"sub_id": "Q2638364", "sub_label": "Eta Scuti", "sub_aliases": [], "obj_id": "Q10529", "obj_label": "Schild", "obj_aliases": "Sobieskischer Schild"}
+{"sub_id": "Q1653282", "sub_label": "IC 1295", "sub_aliases": "PK 25-4.2", "obj_id": "Q10529", "obj_label": "Schild", "obj_aliases": "Sobieskischer Schild"}
+{"sub_id": "Q13626", "sub_label": "Messier 26", "sub_aliases": ["M26", "NGC 6694"], "obj_id": "Q10529", "obj_label": "Schild", "obj_aliases": "Sobieskischer Schild"}
+{"sub_id": "Q4273035", "sub_label": "V432 Scuti", "sub_aliases": [], "obj_id": "Q10529", "obj_label": "Schild", "obj_aliases": "Sobieskischer Schild"}
+{"sub_id": "Q698547", "sub_label": "Arp 220", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1124053", "sub_label": "NGC 5920", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1125011", "sub_label": "NGC 6022", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1124045", "sub_label": "NGC 5919", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1124997", "sub_label": "NGC 6020", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1125019", "sub_label": "NGC 6023", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1125683", "sub_label": "NGC 6100", "sub_aliases": [], "obj_id": "Q8910", "obj_label": "Schlange", "obj_aliases": "Serpens"}
+{"sub_id": "Q1104232", "sub_label": "NGC 3326", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q1102697", "sub_label": "NGC 3055", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q1102301", "sub_label": "NGC 2990", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q1102178", "sub_label": "NGC 2967", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q1104453", "sub_label": "NGC 3376", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q1103007", "sub_label": "NGC 3117", "sub_aliases": [], "obj_id": "Q10525", "obj_label": "Sextant"}
+{"sub_id": "Q850101", "sub_label": "Merope-Nebel", "sub_aliases": [], "obj_id": "Q10570", "obj_label": "Stier", "obj_aliases": "\u2649"}
+{"sub_id": "Q13434", "sub_label": "Maia", "sub_aliases": "20 Tauri", "obj_id": "Q10570", "obj_label": "Stier", "obj_aliases": "\u2649"}
+{"sub_id": "Q10934", "sub_label": "Krebsnebel", "sub_aliases": "PSR B0531+21", "obj_id": "Q10570", "obj_label": "Stier", "obj_aliases": "\u2649"}
+{"sub_id": "Q1043842", "sub_label": "NGC 1517", "sub_aliases": [], "obj_id": "Q10570", "obj_label": "Stier", "obj_aliases": "\u2649"}
+{"sub_id": "Q971576", "sub_label": "NGC 1633", "sub_aliases": [], "obj_id": "Q10570", "obj_label": "Stier", "obj_aliases": "\u2649"}
+{"sub_id": "Q1076900", "sub_label": "HD 147018", "sub_aliases": [], "obj_id": "Q10422", "obj_label": "S\u00fcdliches Dreieck", "obj_aliases": "Triangulum Australe"}
+{"sub_id": "Q5178416", "sub_label": "WISE 1639\u22126847", "sub_aliases": [], "obj_id": "Q10422", "obj_label": "S\u00fcdliches Dreieck", "obj_aliases": "Triangulum Australe"}
+{"sub_id": "Q14242", "sub_label": "Atria", "sub_aliases": "Alpha Triangulum Australis", "obj_id": "Q10422", "obj_label": "S\u00fcdliches Dreieck", "obj_aliases": "Triangulum Australe"}
+{"sub_id": "Q1154095", "sub_label": "HD 4308", "sub_aliases": [], "obj_id": "Q10567", "obj_label": "Tukan", "obj_aliases": "Tucana"}
+{"sub_id": "Q971251", "sub_label": "NGC 294", "sub_aliases": [], "obj_id": "Q10567", "obj_label": "Tukan", "obj_aliases": "Tucana"}
+{"sub_id": "Q683605", "sub_label": "Lalande 21185", "sub_aliases": ["HD 95735"], "obj_id": "Q8918", "obj_label": "Gro\u00dfer B\u00e4r", "obj_aliases": "Ursa major"}
+{"sub_id": "Q741255", "sub_label": "Hubble Deep Field", "sub_aliases": "Hubble Deep Field North", "obj_id": "Q8918", "obj_label": "Gro\u00dfer B\u00e4r", "obj_aliases": "Ursa major"}
+{"sub_id": "Q23000947", "sub_label": "GN-z11", "sub_aliases": [], "obj_id": "Q8918", "obj_label": "Gro\u00dfer B\u00e4r", "obj_aliases": "Ursa major"}
+{"sub_id": "Q1120168", "sub_label": "NGC 5479", "sub_aliases": [], "obj_id": "Q10478", "obj_label": "Kleiner B\u00e4r", "obj_aliases": "UMi"}
+{"sub_id": "Q14059", "sub_label": "Kochab", "sub_aliases": "Beta Ursae Minoris", "obj_id": "Q10478", "obj_label": "Kleiner B\u00e4r", "obj_aliases": "UMi"}
+{"sub_id": "Q915499", "sub_label": "IC 2391", "sub_aliases": "Omicron-Velorum-Haufen", "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q1103907", "sub_label": "NGC 3261", "sub_aliases": [], "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q1048396", "sub_label": "Delta Velorum", "sub_aliases": "Alsephina", "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q1101951", "sub_label": "NGC 2932", "sub_aliases": [], "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q773507", "sub_label": "NGC 3262", "sub_aliases": [], "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q1049647", "sub_label": "NGC 2547", "sub_aliases": [], "obj_id": "Q10521", "obj_label": "Segel des Schiffs", "obj_aliases": "Vel"}
+{"sub_id": "Q1112270", "sub_label": "NGC 4527", "sub_aliases": [], "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q1109561", "sub_label": "NGC 4178", "sub_aliases": [], "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q92258250", "sub_label": "Messier 86", "sub_aliases": "Messier 86", "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q972576", "sub_label": "NGC 4365", "sub_aliases": [], "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q91461627", "sub_label": "Sombrero Galaxy", "sub_aliases": "Sombrerogalaxie", "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q583850", "sub_label": "Arp 271", "sub_aliases": [], "obj_id": "Q8842", "obj_label": "Jungfrau", "obj_aliases": "Vir"}
+{"sub_id": "Q99293396", "sub_label": "HD 189733", "sub_aliases": [], "obj_id": "Q10519", "obj_label": "Fuchs", "obj_aliases": "Vulpecula"}
+{"sub_id": "Q2975857", "sub_label": "G 185-32", "sub_aliases": [], "obj_id": "Q10519", "obj_label": "Fuchs", "obj_aliases": "Vulpecula"}
+{"sub_id": "Q1147407", "sub_label": "NGC 6748", "sub_aliases": [], "obj_id": "Q10519", "obj_label": "Fuchs", "obj_aliases": "Vulpecula"}
+{"sub_id": "Q1563234", "sub_label": "HD 188015", "sub_aliases": [], "obj_id": "Q10519", "obj_label": "Fuchs", "obj_aliases": "Vulpecula"}
+{"sub_id": "Q13628", "sub_label": "Hantelnebel", "sub_aliases": "Dumbbell-Nebel", "obj_id": "Q10519", "obj_label": "Fuchs", "obj_aliases": "Vulpecula"}

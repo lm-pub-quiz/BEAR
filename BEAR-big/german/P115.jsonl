@@ -1,0 +1,194 @@
+{"sub_id": "Q8466", "sub_label": "1. FC Kaiserslautern", "sub_aliases": "Die roten Teufel", "obj_id": "Q154298", "obj_label": "Fritz-Walter-Stadion", "obj_aliases": "Stadion am Betzenberg"}
+{"sub_id": "Q189671", "sub_label": "FC Basel", "sub_aliases": "FC Basel 1893", "obj_id": "Q190010", "obj_label": "St. Jakob-Park", "obj_aliases": "St.-Jakob-Park"}
+{"sub_id": "Q8760", "sub_label": "Deportivo A Coru\u00f1a", "sub_aliases": "Deportivo de A Coru\u00f1a", "obj_id": "Q22130", "obj_label": "Estadio Riazor"}
+{"sub_id": "Q15786", "sub_label": "1. FC N\u00fcrnberg", "sub_aliases": "FCN", "obj_id": "Q152599", "obj_label": "Max-Morlock-Stadion", "obj_aliases": "St\u00e4dtisches Stadion"}
+{"sub_id": "Q54988", "sub_label": "FK Baku", "sub_aliases": "Bak\u0131 Futbol Klubu", "obj_id": "Q1138958", "obj_label": "Tofiq-B\u0259hramov-Stadion", "obj_aliases": "Tofiq-B\u00e4hr\u00e4mov-Stadion"}
+{"sub_id": "Q191142", "sub_label": "Moldauische Fu\u00dfballnationalmannschaft", "sub_aliases": [], "obj_id": "Q239295", "obj_label": "Stadionul Zimbru"}
+{"sub_id": "Q181216", "sub_label": "Hajduk Split", "sub_aliases": "Torcida Split", "obj_id": "Q841384", "obj_label": "Stadion Poljud", "obj_aliases": "Poljudska Ljepotica"}
+{"sub_id": "Q196107", "sub_label": "Vancouver Whitecaps", "sub_aliases": "Vancouver Whitecaps Football Club", "obj_id": "Q612227", "obj_label": "BC Place Stadium"}
+{"sub_id": "Q912247", "sub_label": "KK Partizan Belgrad", "sub_aliases": "KK Partizan Pivara MB", "obj_id": "Q33277", "obj_label": "\u0160tark-Arena", "obj_aliases": "Kombank-Arena"}
+{"sub_id": "Q160826", "sub_label": "Schwedische Fu\u00dfballnationalmannschaft", "sub_aliases": "Schwedische Nationalmannschaft", "obj_id": "Q1138684", "obj_label": "Strawberry Arena", "obj_aliases": "Swedbank Arena"}
+{"sub_id": "Q18736", "sub_label": "Stoke City", "sub_aliases": ["Stoke City Football Club", "Stoke City FC", "Stoke City", "Stoke", "The Potters", "City", "SCFC"], "obj_id": "Q500922", "obj_label": "Britannia Stadium"}
+{"sub_id": "Q19449", "sub_label": "FC Blackpool", "sub_aliases": ["Blackpool Football Club", "Blackpool FC", "Blackpool", "The Seasiders", "The Pool", "The Tangerines", "BFC"], "obj_id": "Q870859", "obj_label": "Bloomfield Road"}
+{"sub_id": "Q170329", "sub_label": "Indiana Pacers", "sub_aliases": ["Pacers"], "obj_id": "Q545007", "obj_label": "Gainbridge Fieldhouse", "obj_aliases": "Bankers Life Fieldhouse"}
+{"sub_id": "Q28670279", "sub_label": "Barcelona Howlers", "sub_aliases": [], "obj_id": "Q275715", "obj_label": "Olympiastadion Barcelona", "obj_aliases": "Estadi Ol\u00edmpic Llu\u00eds Companys"}
+{"sub_id": "Q737937", "sub_label": "Lyn Oslo", "sub_aliases": "SFK Lyn Oslo", "obj_id": "Q866409", "obj_label": "Bislett-Stadion"}
+{"sub_id": "Q204881", "sub_label": "Malm\u00f6 FF", "sub_aliases": ["Malm\u00f6 F.F.", "MFF", "Malmo FF", "Malmo F.F.", "Malm\u00f6 Fotbollf\u00f6rening", "Malmo Fotbollforening"], "obj_id": "Q867234", "obj_label": "Swedbank Stadion", "obj_aliases": "Malm\u00f6 New Stadium"}
+{"sub_id": "Q18744", "sub_label": "West Bromwich Albion", "sub_aliases": ["West Bromwich Albion Football Club", "West Bromwich Albion FC", "West Bromwich Albion", "West Brom", "The Baggies", "The Throstles", "The Albion", "WBAFC"], "obj_id": "Q31678", "obj_label": "The Hawthorns"}
+{"sub_id": "Q1865460", "sub_label": "Union Bordeaux B\u00e8gles", "sub_aliases": "UBB", "obj_id": "Q386547", "obj_label": "Stade Jacques-Chaban-Delmas", "obj_aliases": "Stade du Parc Lescure"}
+{"sub_id": "Q1110712", "sub_label": "Naples Foot-Ball Club", "sub_aliases": [], "obj_id": "Q82709", "obj_label": "Stadio Diego Armando Maradona", "obj_aliases": "Stadio San Paolo"}
+{"sub_id": "Q619771", "sub_label": "Black Leopards", "sub_aliases": ["Black Leopards"], "obj_id": "Q187042", "obj_label": "Peter-Mokaba-Stadion"}
+{"sub_id": "Q29108", "sub_label": "Zenit St. Petersburg", "sub_aliases": "Zenit Sankt Petersburg", "obj_id": "Q722970", "obj_label": "Gazprom-Arena"}
+{"sub_id": "Q131785", "sub_label": "D\u00e4nische Fu\u00dfballnationalmannschaft", "sub_aliases": "Danish Dynamite", "obj_id": "Q33003", "obj_label": "Parken", "obj_aliases": "Telia Parken"}
+{"sub_id": "Q172567", "sub_label": "Be\u015fikta\u015f Istanbul", "sub_aliases": "Be\u015fikta\u015f JK", "obj_id": "Q14914703", "obj_label": "Vodafone Park", "obj_aliases": "Vodafone Arena"}
+{"sub_id": "Q1447181", "sub_label": "Gotham FC", "sub_aliases": "Sky Blue Football Club", "obj_id": "Q761682", "obj_label": "Sports Illustrated Stadium", "obj_aliases": "Red Bull Arena"}
+{"sub_id": "Q8857", "sub_label": "FC M\u00e1laga", "sub_aliases": "M\u00e1laga CF", "obj_id": "Q695879", "obj_label": "Estadio La Rosaleda", "obj_aliases": "La Rosaleda"}
+{"sub_id": "Q18732", "sub_label": "FC Southampton", "sub_aliases": ["Southampton Football Club", "Southampton FC", "Southampton", "The Saints", "SFC"], "obj_id": "Q567339", "obj_label": "St. Mary\u2019s Stadium", "obj_aliases": "St. Mary's Stadium"}
+{"sub_id": "Q240097", "sub_label": "Tischtennisweltmeisterschaft 2010", "sub_aliases": [], "obj_id": "Q32960", "obj_label": "Olimpijski", "obj_aliases": "Sportkomplex Olimpijski"}
+{"sub_id": "Q460724", "sub_label": "Hammarby IF", "sub_aliases": "Bajen", "obj_id": "Q2701834", "obj_label": "3Arena", "obj_aliases": "Tele2 Arena"}
+{"sub_id": "Q5794", "sub_label": "FC Everton", "sub_aliases": "Everton Football Club", "obj_id": "Q968420", "obj_label": "Goodison Park"}
+{"sub_id": "Q163534", "sub_label": "\u00f6sterreichische Fu\u00dfballnationalmannschaft", "sub_aliases": "\u00d6sterreichische Fussballnationalmannschaft", "obj_id": "Q185741", "obj_label": "Ernst-Happel-Stadion", "obj_aliases": "Wiener Stadion"}
+{"sub_id": "Q242260", "sub_label": "Persepolis FC", "sub_aliases": "Pirouzi Teheran", "obj_id": "Q653535", "obj_label": "Azadi-Stadion"}
+{"sub_id": "Q18661", "sub_label": "FC Middlesbrough", "sub_aliases": ["Middlesbrough Football Club", "Middlesbrough FC", "Middlesbrough", "The Boro", "MFC"], "obj_id": "Q822886", "obj_label": "Riverside Stadium", "obj_aliases": "Riverside-Stadion"}
+{"sub_id": "Q161345", "sub_label": "Houston Rockets", "sub_aliases": "San Diego Rockets", "obj_id": "Q1166157", "obj_label": "Toyota Center"}
+{"sub_id": "Q191477", "sub_label": "Pittsburgh Steelers", "sub_aliases": "Rooneymen", "obj_id": "Q1067148", "obj_label": "Acrisure Stadium", "obj_aliases": "Steelers Stadium"}
+{"sub_id": "Q284281", "sub_label": "Al-Wakrah SC", "sub_aliases": ["Al-Wakrah S.C."], "obj_id": "Q285531", "obj_label": "Al-Janoub-Stadion"}
+{"sub_id": "Q169138", "sub_label": "Miami Heat", "sub_aliases": ["Heat"], "obj_id": "Q420129", "obj_label": "Kaseya Center"}
+{"sub_id": "Q6601875", "sub_label": "Fenerbah\u00e7e Istanbul", "sub_aliases": "Fenerbah\u00e7e Sports Club", "obj_id": "Q222865", "obj_label": "\u015e\u00fckr\u00fc-Saraco\u011flu-Stadion", "obj_aliases": "\u015e\u00fckr\u00fc-Sara\u00e7o\u011flu-Stadion"}
+{"sub_id": "Q4107588", "sub_label": "Werder Bremen II", "sub_aliases": "Werder Bremen Amateure", "obj_id": "Q154475", "obj_label": "Weserstadion", "obj_aliases": "Wohninvest Weserstadion"}
+{"sub_id": "Q12297", "sub_label": "FC Villarreal", "sub_aliases": "Villarreal CF", "obj_id": "Q741157", "obj_label": "Estadio de la Cer\u00e1mica"}
+{"sub_id": "Q18708", "sub_label": "FC Fulham", "sub_aliases": "Fulham Football Club", "obj_id": "Q318043", "obj_label": "Craven Cottage"}
+{"sub_id": "Q12217", "sub_label": "Real Madrid Castilla", "sub_aliases": "Real Madrid B", "obj_id": "Q645670", "obj_label": "Estadio Alfredo di St\u00e9fano", "obj_aliases": "Alfredo-Di-St\u00e9fano-Stadion"}
+{"sub_id": "Q57279002", "sub_label": "Badminton bei den Summer Paralympics 2020", "sub_aliases": [], "obj_id": "Q1069457", "obj_label": "Kokuritsu Yoyogi Ky\u014dgij\u014d", "obj_aliases": "Yoyogi National Gymnasium"}
+{"sub_id": "Q166776", "sub_label": "Belgische Fu\u00dfballnationalmannschaft", "sub_aliases": "Belgische Fussballnationalmannschaft", "obj_id": "Q622671", "obj_label": "K\u00f6nig-Baudouin-Stadion", "obj_aliases": "Heyselstadion"}
+{"sub_id": "Q18723", "sub_label": "Queens Park Rangers", "sub_aliases": ["Queens Park Rangers Football Club", "Queens Park Rangers FC", "Queens Park Rangers", "The Hoops", "The Rs", "QPRFC"], "obj_id": "Q31670", "obj_label": "Loftus Road"}
+{"sub_id": "Q8723", "sub_label": "Betis Sevilla", "sub_aliases": "Real Betis Sevilla", "obj_id": "Q126844", "obj_label": "Estadio Benito Villamar\u00edn", "obj_aliases": "Estadio Manuel Ruiz de Lopera"}
+{"sub_id": "Q1026555", "sub_label": "Leichtathletik-Weltmeisterschaften 2015", "sub_aliases": [], "obj_id": "Q133525", "obj_label": "Nationalstadion Peking", "obj_aliases": "Beijing National Stadium"}
+{"sub_id": "Q190526", "sub_label": "BSC Young Boys", "sub_aliases": "Young Boys Bern", "obj_id": "Q194479", "obj_label": "Stadion Wankdorf", "obj_aliases": "Wankdorf-Stadion"}
+{"sub_id": "Q191843", "sub_label": "RC Lens", "sub_aliases": "Racing Lens", "obj_id": "Q854122", "obj_label": "Stade Bollaert-Delelis", "obj_aliases": "Stade F\u00e9lix-Bollaert"}
+{"sub_id": "Q162990", "sub_label": "Cleveland Cavaliers", "sub_aliases": "Cavs", "obj_id": "Q387157", "obj_label": "Rocket Arena", "obj_aliases": "Rocket Mortgage FieldHouse"}
+{"sub_id": "Q170558", "sub_label": "Minnesota Timberwolves", "sub_aliases": ["T-Wolves", "Wolves", "T'Wolves", "Twolves", "The Wolves"], "obj_id": "Q282675", "obj_label": "Target Center"}
+{"sub_id": "Q134479", "sub_label": "Kroatische Fu\u00dfballnationalmannschaft", "sub_aliases": "Kroatische Fussballnationalmannschaft", "obj_id": "Q723603", "obj_label": "Stadion Maksimir", "obj_aliases": "Maksimir-Stadion"}
+{"sub_id": "Q749113", "sub_label": "SK Austria K\u00e4rnten", "sub_aliases": "Sportklub Austria Kelag K\u00e4rnten", "obj_id": "Q216167", "obj_label": "W\u00f6rthersee Stadion", "obj_aliases": "W\u00f6rtherseestadion"}
+{"sub_id": "Q2052", "sub_label": "AC Florenz", "sub_aliases": "Associazione Calcio Fiorentina", "obj_id": "Q270474", "obj_label": "Stadio Artemio Franchi"}
+{"sub_id": "Q585149", "sub_label": "Marylebone Cricket Club", "sub_aliases": ["MCC"], "obj_id": "Q331613", "obj_label": "Lord\u2019s Cricket Ground", "obj_aliases": "Lord\u2019s"}
+{"sub_id": "Q935022", "sub_label": "Mohun Bagan AC", "sub_aliases": "Mohun Bagan", "obj_id": "Q787124", "obj_label": "Yuba Bharati Krirangan"}
+{"sub_id": "Q188277", "sub_label": "Cruzeiro Belo Horizonte", "sub_aliases": "Cruzeiro Esporte Clube", "obj_id": "Q910370", "obj_label": "Est\u00e1dio Governador Magalh\u00e3es Pinto", "obj_aliases": "Mineir\u00e3o"}
+{"sub_id": "Q169165", "sub_label": "Washington Wizards", "sub_aliases": "Washington Bullets", "obj_id": "Q223240", "obj_label": "Capital One Arena", "obj_aliases": "Verizon Center"}
+{"sub_id": "Q105254", "sub_label": "1. FSV Mainz 05", "sub_aliases": "Mainzer FSV", "obj_id": "Q392494", "obj_label": "Mewa Arena", "obj_aliases": "Coface-Arena"}
+{"sub_id": "Q19477", "sub_label": "Hull City", "sub_aliases": ["Hull City Association Football Club", "Hull City AFC", "Hull City", "Hull", "The Tigers", "City", "HCAFC"], "obj_id": "Q630160", "obj_label": "MKM Stadium"}
+{"sub_id": "Q219714", "sub_label": "Philadelphia Eagles", "sub_aliases": "Eagles", "obj_id": "Q1052370", "obj_label": "Lincoln Financial Field"}
+{"sub_id": "Q320484", "sub_label": "Tennessee Titans", "sub_aliases": "Tennessee Oilers", "obj_id": "Q1142992", "obj_label": "Nissan Stadium", "obj_aliases": "The Coliseum"}
+{"sub_id": "Q929772", "sub_label": "FC Kilikia Jerewan", "sub_aliases": "Kilikia Eriwan", "obj_id": "Q683493", "obj_label": "Stadion Hrazdan"}
+{"sub_id": "Q216773", "sub_label": "FC Vaduz", "sub_aliases": "Fu\u00dfball Club Vaduz", "obj_id": "Q597004", "obj_label": "Rheinpark Stadion Vaduz"}
+{"sub_id": "Q10286", "sub_label": "CA Osasuna", "sub_aliases": "Osasuna Pamplona", "obj_id": "Q735783", "obj_label": "Estadio El Sadar", "obj_aliases": "Estadio Reyno de Navarra"}
+{"sub_id": "Q104761", "sub_label": "Bayer 04 Leverkusen", "sub_aliases": "Bayer 04", "obj_id": "Q156630", "obj_label": "BayArena", "obj_aliases": "Ulrich-Haberland-Stadion"}
+{"sub_id": "Q2329903", "sub_label": "CA Spora Luxembourg", "sub_aliases": [], "obj_id": "Q945298", "obj_label": "Josy-Barthel-Stadion", "obj_aliases": "Stade Josy Barthel"}
+{"sub_id": "Q204888", "sub_label": "PAOK Thessaloniki", "sub_aliases": "PAOK Saloniki", "obj_id": "Q1141292", "obj_label": "Toumba Stadion", "obj_aliases": "Stadio Toumpas"}
+{"sub_id": "Q509347", "sub_label": "UEFA Euro 2004 finals", "sub_aliases": [], "obj_id": "Q7875112", "obj_label": "Est\u00e1dio da Luz"}
+{"sub_id": "Q75729", "sub_label": "Sporting Lissabon", "sub_aliases": "Sporting Lisbon", "obj_id": "Q287359", "obj_label": "Est\u00e1dio Jos\u00e9 Alvalade", "obj_aliases": "Est\u00e1dio Jos\u00e9 Alvalade XXI"}
+{"sub_id": "Q2674", "sub_label": "FC Palermo", "sub_aliases": "US Palermo-Juventina", "obj_id": "Q28500", "obj_label": "Stadio Renzo Barbera", "obj_aliases": "Stadio La Favorita"}
+{"sub_id": "Q9617", "sub_label": "FC Arsenal", "sub_aliases": "Arsenal London", "obj_id": "Q163995", "obj_label": "Emirates Stadium", "obj_aliases": "Ashburton Grove"}
+{"sub_id": "Q2512838", "sub_label": "\u00dclkerspor", "sub_aliases": [], "obj_id": "Q308162", "obj_label": "Abdi \u0130pek\u00e7i Arena"}
+{"sub_id": "Q47762", "sub_label": "englische Fu\u00dfballnationalmannschaft", "sub_aliases": "Englische Fussballnationalmannschaft", "obj_id": "Q128468", "obj_label": "Wembley-Stadion", "obj_aliases": "Wembleystadion"}
+{"sub_id": "Q19451", "sub_label": "Bolton Wanderers", "sub_aliases": ["Bolton Wanderers Football Club", "Bolton Wanderers FC", "Bolton Wanderers", "Bolton", "BWFC", "Wanderers", "The Trotters"], "obj_id": "Q242772", "obj_label": "Toughsheet Community Stadium", "obj_aliases": "University of Bolton Stadium"}
+{"sub_id": "Q1210146", "sub_label": "Lions", "sub_aliases": "Cats", "obj_id": "Q182081", "obj_label": "Ellis-Park-Stadion"}
+{"sub_id": "Q219235", "sub_label": "Servette FC Gen\u00e8ve", "sub_aliases": "Servette Football Club Gen\u00e8ve", "obj_id": "Q215295", "obj_label": "Stade de Gen\u00e8ve", "obj_aliases": "Stade de la Praille"}
+{"sub_id": "Q218883", "sub_label": "Urawa Red Diamonds", "sub_aliases": "Urawa rezzu", "obj_id": "Q482446", "obj_label": "Saitama Stadium", "obj_aliases": "Saitamastadion"}
+{"sub_id": "Q2693", "sub_label": "Parma Calcio 1913", "sub_aliases": "Societ\u00e0 Sportiva Dilettantistica Parma Calcio 1913", "obj_id": "Q610546", "obj_label": "Stadio Ennio Tardini"}
+{"sub_id": "Q8682", "sub_label": "Real Madrid", "sub_aliases": "Real Madrid Club de F\u00fatbol", "obj_id": "Q164027", "obj_label": "Bernab\u00e9u", "obj_aliases": "Santiago-Bernab\u00e9u-Stadion"}
+{"sub_id": "Q19604", "sub_label": "FC Portsmouth", "sub_aliases": ["Portsmouth Football Club", "Portsmouth FC", "Portsmouth", "PFC", "Pompey"], "obj_id": "Q619531", "obj_label": "Fratton Park"}
+{"sub_id": "Q4075", "sub_label": "Lyon Olympique Universitaire", "sub_aliases": ["Lyon Olympique Universitaire"], "obj_id": "Q1980", "obj_label": "Matmut Stadium Gerland"}
+{"sub_id": "Q29115", "sub_label": "Lokomotive Moskau", "sub_aliases": "Lokomotiw Moskau", "obj_id": "Q595937", "obj_label": "Lokomotiv-Stadion", "obj_aliases": "Lokomotive"}
+{"sub_id": "Q784965", "sub_label": "Mamelodi Sundowns", "sub_aliases": "Mamelodi Sundowns Football Club", "obj_id": "Q181398", "obj_label": "Loftus-Versfeld-Stadion", "obj_aliases": "Loftus-Stadion"}
+{"sub_id": "Q19963391", "sub_label": "Riga FC", "sub_aliases": "FC Riga", "obj_id": "Q1474452", "obj_label": "Skonto-Stadion", "obj_aliases": "Skonto Stadion"}
+{"sub_id": "Q748560", "sub_label": "Scottish Claymores", "sub_aliases": [], "obj_id": "Q1024926", "obj_label": "Murrayfield Stadium", "obj_aliases": "Murrayfield"}
+{"sub_id": "Q659207", "sub_label": "Commonwealth Games 2006", "sub_aliases": ["XVIII Commonwealth Games", "18th Commonwealth Games"], "obj_id": "Q330136", "obj_label": "Melbourne Cricket Ground"}
+{"sub_id": "Q180857", "sub_label": "Walisische Fu\u00dfballnationalmannschaft", "sub_aliases": "Walisische Fussballnationalmannschaft", "obj_id": "Q204496", "obj_label": "Millennium Stadium", "obj_aliases": "Millenniumstadion"}
+{"sub_id": "Q33748", "sub_label": "Hannover 96", "sub_aliases": "Hannoverscher Sportverein von 1896", "obj_id": "Q152633", "obj_label": "Heinz-von-Heiden-Arena", "obj_aliases": "Niedersachsenstadion"}
+{"sub_id": "Q167253", "sub_label": "Portland Trail Blazers", "sub_aliases": "Portland Trailblazers", "obj_id": "Q1347442", "obj_label": "Moda Center"}
+{"sub_id": "Q164089", "sub_label": "mexikanische Fu\u00dfballnationalmannschaft", "sub_aliases": "Mexikanische Fussballnationalmannschaft", "obj_id": "Q320454", "obj_label": "Aztekenstadion", "obj_aliases": "Estadio de Futbol Azteca"}
+{"sub_id": "Q9653", "sub_label": "Ipswich Town", "sub_aliases": ["Ipswich Town Football Club", "Ipswich Town FC", "Ipswich Town", "Ipswich", "The Blues", "The Tractor Boys", "Town", "ITFC"], "obj_id": "Q619558", "obj_label": "Portman Road"}
+{"sub_id": "Q974277", "sub_label": "Hokkaid\u014d Nippon Ham Fighters", "sub_aliases": ["Nippon-Ham Fighters", "Fighters", "Nittaku Home Flyers", "Toei Flyers", "Tokyu Flyers", "Kyuei Flyers", "Senators", "Flyers"], "obj_id": "Q494860", "obj_label": "Sapporo Dome"}
+{"sub_id": "Q19568", "sub_label": "AFC Bournemouth", "sub_aliases": ["Bournemouth", "Bournemouth and Boscombe Athletic F.C.", "Boscombe F.C.", "Boscombe Football Club", "Boscombe FC", "Boscombe", "Bournemouth and Boscombe Athletic Football Club", "Bournemouth and Boscombe Athletic FC", "Bournemouth and Boscombe Athletic", "The Cherries", "A.F.C. Bournemouth", "AFCB"], "obj_id": "Q619094", "obj_label": "Dean Court", "obj_aliases": "Fitness First Stadium"}
+{"sub_id": "Q189198", "sub_label": "Isl\u00e4ndische Fu\u00dfballnationalmannschaft", "sub_aliases": "Isl\u00e4ndische Fussballnationalmannschaft", "obj_id": "Q151212", "obj_label": "Laugardalsv\u00f6llur"}
+{"sub_id": "Q121783", "sub_label": "Los Angeles Lakers", "sub_aliases": "Minneapolis Lakers (basketbalov\u00fd t\u00fdm)", "obj_id": "Q186080", "obj_label": "Crypto.com Arena", "obj_aliases": "Staples Center"}
+{"sub_id": "Q38568", "sub_label": "FC S\u00e3o Paulo", "sub_aliases": "S\u00e3o Paulo FC", "obj_id": "Q821761", "obj_label": "Est\u00e1dio do Morumbi", "obj_aliases": "Morumbi-Stadion"}
+{"sub_id": "Q185163", "sub_label": "OGC Nizza", "sub_aliases": "Olympique Gymnaste Club de Nice C\u00f4te d'Azur", "obj_id": "Q127372", "obj_label": "Stade de Nice", "obj_aliases": "Allianz Riviera"}
+{"sub_id": "Q19498", "sub_label": "Sheffield Wednesday", "sub_aliases": ["Sheffield Wednesday Football Club", "Sheffield Wednesday FC", "Sheffield Wednesday", "The Owls", "Sheff Wed", "SWFC", "Wednesday"], "obj_id": "Q642557", "obj_label": "Hillsborough Stadium", "obj_aliases": "Hillsborough-Stadion"}
+{"sub_id": "Q188143", "sub_label": "Canadiens de Montr\u00e9al", "sub_aliases": "Montr\u00e9al Canadiens", "obj_id": "Q522282", "obj_label": "Centre Bell"}
+{"sub_id": "Q18721", "sub_label": "Norwich City", "sub_aliases": "Norwich City Football Club", "obj_id": "Q123017", "obj_label": "Carrow Road"}
+{"sub_id": "Q187528", "sub_label": "RSC Anderlecht", "sub_aliases": "RSCA", "obj_id": "Q262326", "obj_label": "Lotto Park", "obj_aliases": "Constant-Vanden-Stock-Stadion"}
+{"sub_id": "Q8456", "sub_label": "Olympische Sommerspiele 1984", "sub_aliases": ["Los Angeles 1984", "Games of the XXIII Olympiad", "LA84", "1984 Olympics"], "obj_id": "Q849784", "obj_label": "Los Angeles Memorial Coliseum"}
+{"sub_id": "Q311268", "sub_label": "Al-Rayyan SC", "sub_aliases": "Al-Rayyan Sports Club", "obj_id": "Q401643", "obj_label": "Ahmad bin Ali Stadium"}
+{"sub_id": "Q10512", "sub_label": "FC Elche", "sub_aliases": "Elche Club de Futbol", "obj_id": "Q953600", "obj_label": "Estadio Manuel Mart\u00ednez Valero"}
+{"sub_id": "Q192071", "sub_label": "FC Nantes", "sub_aliases": "FC Nantes Atlantique", "obj_id": "Q1053455", "obj_label": "Stade Louis-Fonteneau", "obj_aliases": "Stade de la Beaujoire"}
+{"sub_id": "Q334634", "sub_label": "Los Angeles Dodgers", "sub_aliases": "Albuquerque Isotopes", "obj_id": "Q247420", "obj_label": "Dodger Stadium"}
+{"sub_id": "Q19487", "sub_label": "FC Millwall", "sub_aliases": ["The Lions", "Millwall Football Club", "Millwall FC", "Millwall", "MFC"], "obj_id": "Q908481", "obj_label": "The Den", "obj_aliases": "New Den Stadium"}
+{"sub_id": "Q650829", "sub_label": "Toronto Blue Jays", "sub_aliases": "Blue jays", "obj_id": "Q76318", "obj_label": "Rogers Centre", "obj_aliases": "Sky Dome"}
+{"sub_id": "Q9616", "sub_label": "FC Chelsea", "sub_aliases": "Chelsea London", "obj_id": "Q171458", "obj_label": "Stamford Bridge", "obj_aliases": "Stamford Bridge Stadium"}
+{"sub_id": "Q965994", "sub_label": "Mpumalanga Black Aces", "sub_aliases": ["Mpumalanga Black Aces Football Club"], "obj_id": "Q187087", "obj_label": "Mbombela-Stadion"}
+{"sub_id": "Q29112", "sub_label": "Spartak Moskau", "sub_aliases": "Spartak Moskva", "obj_id": "Q1190634", "obj_label": "Spartak-Stadion"}
+{"sub_id": "Q223450", "sub_label": "Vit\u00f3ria Guimar\u00e3es", "sub_aliases": "VSC Guimar\u00e3es", "obj_id": "Q1057274", "obj_label": "Est\u00e1dio D. Afonso Henriques", "obj_aliases": "Est\u00e1dio Dom Afonso Henriques"}
+{"sub_id": "Q1128631", "sub_label": "Leeds United", "sub_aliases": "Leeds United LFC", "obj_id": "Q619505", "obj_label": "Elland Road"}
+{"sub_id": "Q856083", "sub_label": "CD Condal", "sub_aliases": "SD Espa\u00f1a Industrial", "obj_id": "Q918580", "obj_label": "Camp de Les Corts", "obj_aliases": "Camp de Les Cortes"}
+{"sub_id": "Q8749", "sub_label": "Celta Vigo", "sub_aliases": "Real Club Fortuna de Vigo", "obj_id": "Q1326578", "obj_label": "Estadio Bala\u00eddos", "obj_aliases": "Estadio Balaidos"}
+{"sub_id": "Q2945011", "sub_label": "Cuiab\u00e1 EC", "sub_aliases": ["Cuiaba Esporte Clube"], "obj_id": "Q641448", "obj_label": "Arena Pantanal"}
+{"sub_id": "Q32494", "sub_label": "FC Schalke 04", "sub_aliases": "Schalke 04", "obj_id": "Q150961", "obj_label": "Veltins-Arena", "obj_aliases": "FIFA WM-Stadion Gelsenkirchen"}
+{"sub_id": "Q849315", "sub_label": "California Golden Seals", "sub_aliases": "Oakland Seals", "obj_id": "Q1139021", "obj_label": "Oakland Arena", "obj_aliases": "The Arena in Oakland"}
+{"sub_id": "Q223243", "sub_label": "Miami Dolphins", "sub_aliases": ["Dolphins", "Miami"], "obj_id": "Q864339", "obj_label": "Hard Rock Stadium", "obj_aliases": "Pro Player Stadium"}
+{"sub_id": "Q10308", "sub_label": "Real Saragossa", "sub_aliases": "Real Zaragoza", "obj_id": "Q17484", "obj_label": "La Romareda", "obj_aliases": "Romareda-Stadion"}
+{"sub_id": "Q192081", "sub_label": "New Jersey Devils", "sub_aliases": ["NJ Devils", "The Devils", "Devils"], "obj_id": "Q849027", "obj_label": "Prudential Center"}
+{"sub_id": "Q204357", "sub_label": "LA Galaxy", "sub_aliases": "Los Angeles Galaxy", "obj_id": "Q200684", "obj_label": "Dignity Health Sports Park", "obj_aliases": "The Home Depot Center"}
+{"sub_id": "Q34044", "sub_label": "Schottische Fu\u00dfballnationalmannschaft", "sub_aliases": "Schottische Fussballnationalmannschaft", "obj_id": "Q193651", "obj_label": "Hampden Park"}
+{"sub_id": "Q172221", "sub_label": "Slowenische Fu\u00dfballnationalmannschaft", "sub_aliases": "Slowenische Fussballnationalmannschaft", "obj_id": "Q975819", "obj_label": "Ljudski vrt"}
+{"sub_id": "Q995653", "sub_label": "Olympische Sommerspiele 2024", "sub_aliases": "Spiele der XXXIII. Olympiade", "obj_id": "Q13205", "obj_label": "Stade de France"}
+{"sub_id": "Q5010049", "sub_label": "C.D BURGAL\u00c9S", "sub_aliases": [], "obj_id": "Q1606281", "obj_label": "San Amaro"}
+{"sub_id": "Q478462", "sub_label": "Amsterdam Admirals", "sub_aliases": [], "obj_id": "Q207109", "obj_label": "Johan-Cruyff-Arena", "obj_aliases": "Johan Cruyff Arena"}
+{"sub_id": "Q221878", "sub_label": "Seattle Seahawks", "sub_aliases": [], "obj_id": "Q612736", "obj_label": "Lumen Field", "obj_aliases": "The Hawk"}
+{"sub_id": "Q796201", "sub_label": "BK VEF R\u012bga", "sub_aliases": "VEF R\u012bga", "obj_id": "Q641234", "obj_label": "Xiaomi Arena", "obj_aliases": "Arena Riga"}
+{"sub_id": "Q8806", "sub_label": "FC Getafe", "sub_aliases": ["Getafe Club de F\u00fatbol", "Getafe Club de Futbol", "Getafe Club de F\u00fatbol Team", "Getafe Club Soccer", "Getafe CF Soccer", "Getafe Soccer", "Getafe"], "obj_id": "Q929109", "obj_label": "Coliseum Alfonso P\u00e9rez"}
+{"sub_id": "Q2647572", "sub_label": "All England 1902", "sub_aliases": [], "obj_id": "Q202902", "obj_label": "Crystal Palace", "obj_aliases": "The Crystal Palace"}
+{"sub_id": "Q205033", "sub_label": "Chicago Bears", "sub_aliases": "Decatur Staleys", "obj_id": "Q1132413", "obj_label": "Soldier Field", "obj_aliases": "New Soldier Field"}
+{"sub_id": "Q3198123", "sub_label": "Kobelco Kobe Steelers", "sub_aliases": "Kobe Steel Rugby Club", "obj_id": "Q494766", "obj_label": "Noevir Stadium Kobe", "obj_aliases": "Kobe Wing Stadium"}
+{"sub_id": "Q19509", "sub_label": "Stade Rennes", "sub_aliases": "Stade Rennais UC", "obj_id": "Q1121760", "obj_label": "Roazhon Park", "obj_aliases": "Stade de la Route de Lorient"}
+{"sub_id": "Q1053725", "sub_label": "Central Cheetahs", "sub_aliases": "Cheetahs", "obj_id": "Q181439", "obj_label": "Free-State-Stadion", "obj_aliases": "Vrystaatstadion"}
+{"sub_id": "Q2937395", "sub_label": "Capital CF", "sub_aliases": [], "obj_id": "Q336088", "obj_label": "Est\u00e1dio Nacional de Bras\u00edlia Man\u00e9 Garrincha", "obj_aliases": "Est\u00e1dio Nacional de Bras\u00edlia"}
+{"sub_id": "Q478317", "sub_label": "Coritiba FC", "sub_aliases": "Coritiba Foot Ball Club", "obj_id": "Q1327235", "obj_label": "Est\u00e1dio Major Ant\u00f4nio Couto Pereira"}
+{"sub_id": "Q206692", "sub_label": "FC Z\u00fcrich", "sub_aliases": "FCZ", "obj_id": "Q207623", "obj_label": "Letzigrund", "obj_aliases": "Letzigrundstadion"}
+{"sub_id": "Q19580", "sub_label": "Coventry City", "sub_aliases": ["Coventry City Football Club", "Coventry City FC", "Coventry City", "Coventry", "City", "CCFC", "Sky Blues"], "obj_id": "Q842077", "obj_label": "Coventry Building Society Arena", "obj_aliases": "Ricoh Arena"}
+{"sub_id": "Q2346842", "sub_label": "FC Barcelona C", "sub_aliases": ["Futbol Club Barcelona \"C\"", "Futbol Club Barcelona C"], "obj_id": "Q725581", "obj_label": "Mini Estadi", "obj_aliases": "Mini-Estadi"}
+{"sub_id": "Q572134", "sub_label": "Brooklyn Nets", "sub_aliases": ["New York Nets", "New Jersey Nets"], "obj_id": "Q807966", "obj_label": "Barclays Center"}
+{"sub_id": "Q83459", "sub_label": "Brasilianische Fu\u00dfballnationalmannschaft", "sub_aliases": "Sele\u00e7\u00e3o", "obj_id": "Q155174", "obj_label": "Maracan\u00e3", "obj_aliases": "Maracan\u00e3-Stadion"}
+{"sub_id": "Q8544", "sub_label": "Olympische Sommerspiele 2000", "sub_aliases": "Sydney 2000", "obj_id": "Q295886", "obj_label": "Accor Stadium", "obj_aliases": "Telstra-Stadion"}
+{"sub_id": "Q223514", "sub_label": "Houston Texans", "sub_aliases": ["Texans"], "obj_id": "Q1058864", "obj_label": "Reliant Stadium"}
+{"sub_id": "Q152424", "sub_label": "Fu\u00dfballnationalmannschaft der DDR", "sub_aliases": "Fu\u00dfballnationalmannschaft der Deutschen Demokratischen Republik", "obj_id": "Q210466", "obj_label": "Red Bull Arena", "obj_aliases": "Zentralstadion Leipzig"}
+{"sub_id": "Q506832", "sub_label": "Athletico Paranaense", "sub_aliases": ["Athletico Paranaense", "Club Atl\u00e9tico Paranaense"], "obj_id": "Q606803", "obj_label": "Arena da Baixada"}
+{"sub_id": "Q104770", "sub_label": "1. FC K\u00f6ln", "sub_aliases": "SpVgg S\u00fclz", "obj_id": "Q151893", "obj_label": "RheinEnergieStadion", "obj_aliases": "Rhein-Energie-Stadion"}
+{"sub_id": "Q1422", "sub_label": "Juventus Turin", "sub_aliases": ["Juve", "Juventus Football Club", "Juventus", "Juventus Turin", "JFC", "Juventus of Turin", "Juve FC"], "obj_id": "Q62149", "obj_label": "Juventus Stadium", "obj_aliases": "Allianz Stadium"}
+{"sub_id": "Q499616", "sub_label": "Nacional Montevideo", "sub_aliases": "Club Nacional de F\u00fatbol", "obj_id": "Q786149", "obj_label": "Estadio Gran Parque Central"}
+{"sub_id": "Q19444", "sub_label": "Birmingham City", "sub_aliases": "Birmingham City Football Club", "obj_id": "Q819179", "obj_label": "St. Andrew\u2019s Stadium", "obj_aliases": "St. Andrews Stadium"}
+{"sub_id": "Q190561", "sub_label": "Standard L\u00fcttich", "sub_aliases": "Standard Li\u00e8ge", "obj_id": "Q959934", "obj_label": "Maurice-Dufrasne-Stadion"}
+{"sub_id": "Q19458", "sub_label": "FC Burnley", "sub_aliases": ["Burnley Football Club", "Burnley FC", "Burnley", "The Clarets", "BFC"], "obj_id": "Q683112", "obj_label": "Turf Moor"}
+{"sub_id": "Q208396", "sub_label": "Ferencv\u00e1ros Budapestl", "sub_aliases": "Fradi", "obj_id": "Q17394000", "obj_label": "Groupama Ar\u00e9na"}
+{"sub_id": "Q11938", "sub_label": "PSV Eindhoven", "sub_aliases": "PSV", "obj_id": "Q500972", "obj_label": "Philips-Stadion", "obj_aliases": "PSV Stadion"}
+{"sub_id": "Q646079", "sub_label": "Beerschot AC", "sub_aliases": "KFC Germinal Beerschot", "obj_id": "Q1057087", "obj_label": "Olympiastadion Antwerpen", "obj_aliases": "Olympisch Stadion"}
+{"sub_id": "Q151747", "sub_label": "Fortuna D\u00fcsseldorf", "sub_aliases": "TSV Fortuna D\u00fcsseldorf", "obj_id": "Q155351", "obj_label": "Merkur Spiel-Arena", "obj_aliases": "Multifunktionsarena D\u00fcsseldorf"}
+{"sub_id": "Q190618", "sub_label": "New York Giants", "sub_aliases": ["NY Giants", "NYG", "Giants"], "obj_id": "Q10862290", "obj_label": "MetLife Stadium"}
+{"sub_id": "Q19628", "sub_label": "Olympiakos Pir\u00e4us", "sub_aliases": "Osfp", "obj_id": "Q213508", "obj_label": "Karaiskakis-Stadion", "obj_aliases": "Kara\u00efsk\u00e1kis-Stadion"}
+{"sub_id": "Q198032", "sub_label": "EC Bahia", "sub_aliases": "Esporte Clube Bahia", "obj_id": "Q6499360", "obj_label": "Arena Fonte Nova"}
+{"sub_id": "Q28683830", "sub_label": "Judo-Weltmeisterschaften 2019", "sub_aliases": [], "obj_id": "Q386246", "obj_label": "Nippon Bud\u014dkan"}
+{"sub_id": "Q168397", "sub_label": "Rum\u00e4nische Fu\u00dfballnationalmannschaft", "sub_aliases": "Rum\u00e4nische Fussballnationalmannschaft", "obj_id": "Q338602", "obj_label": "Arena Na\u021bional\u0103"}
+{"sub_id": "Q2798", "sub_label": "Udinese Calcio", "sub_aliases": ["Udinese Football", "Udinese Football Club", "Udinese FC", "First Bianconeri of Italy"], "obj_id": "Q640031", "obj_label": "Stadio Friuli"}
+{"sub_id": "Q1142013", "sub_label": "Fr\u00f6lunda HC", "sub_aliases": "V\u00e4stra Fr\u00f6lunda HC", "obj_id": "Q1138447", "obj_label": "Scandinavium"}
+{"sub_id": "Q1156303", "sub_label": "Auckland Blues", "sub_aliases": "Blues", "obj_id": "Q312411", "obj_label": "Eden Park"}
+{"sub_id": "Q213417", "sub_label": "New York Yankees", "sub_aliases": "Yankees", "obj_id": "Q753529", "obj_label": "Yankee Stadium", "obj_aliases": "New Yankee Stadium"}
+{"sub_id": "Q180305", "sub_label": "AS Monaco", "sub_aliases": ["AS Monaco", "Monaco", "ASMFC", "AS Monaco F.C.", "Association Sportive de Monaco Football Club"], "obj_id": "Q318851", "obj_label": "Stade Louis II"}
+{"sub_id": "Q206381", "sub_label": "San Jose Sharks", "sub_aliases": "San Jos\u00e9 Sharks", "obj_id": "Q261863", "obj_label": "SAP Center"}
+{"sub_id": "Q192890", "sub_label": "Vancouver Canucks", "sub_aliases": [], "obj_id": "Q517318", "obj_label": "Rogers Arena"}
+{"sub_id": "Q1197407", "sub_label": "Yomiuri Giants", "sub_aliases": ["Great Japan Tokyo Baseball Club", "Tokyo Kyojin", "Giants", "Kyojin", "Tokyo Giants"], "obj_id": "Q733748", "obj_label": "Tokyo Dome", "obj_aliases": "Tokio Dome"}
+{"sub_id": "Q19500", "sub_label": "Wolverhampton Wanderers", "sub_aliases": "Wolverhampton Wanderers Football Club", "obj_id": "Q380823", "obj_label": "Molineux Stadium", "obj_aliases": "Molineux-Stadion"}
+{"sub_id": "Q107064501", "sub_label": "FC Saransk", "sub_aliases": [], "obj_id": "Q4533552", "obj_label": "Mordowia Arena"}
+{"sub_id": "Q172025", "sub_label": "chilenische Fu\u00dfballnationalmannschaft", "sub_aliases": "Fu\u00dfballnationalmannschaft von Chile", "obj_id": "Q594994", "obj_label": "Estadio Nacional de Chile"}
+{"sub_id": "Q14508335", "sub_label": "FK Tosno", "sub_aliases": [], "obj_id": "Q27622", "obj_label": "Petrowski"}
+{"sub_id": "Q194393", "sub_label": "Slavia Prag", "sub_aliases": "Slavia Praha", "obj_id": "Q64858", "obj_label": "Eden Ar\u00e9na"}
+{"sub_id": "Q132880", "sub_label": "Toronto Raptors", "sub_aliases": [], "obj_id": "Q406972", "obj_label": "Scotiabank Arena", "obj_aliases": "Air Canada Centre"}
+{"sub_id": "Q223507", "sub_label": "Denver Broncos", "sub_aliases": ["Broncos"], "obj_id": "Q1046135", "obj_label": "Empower Field at Mile High", "obj_aliases": "Sports Authority Field at Mile High"}
+{"sub_id": "Q10367800", "sub_label": "Santa Cruz FC (RN)", "sub_aliases": [], "obj_id": "Q1343986", "obj_label": "Arena das Dunas"}
+{"sub_id": "Q842232", "sub_label": "Leichtathletik-Weltmeisterschaften 2013", "sub_aliases": "Leichtathletik-Weltmeisterschaft 2013", "obj_id": "Q202163", "obj_label": "Olympiastadion Luschniki", "obj_aliases": "Olympiastadion Luzhniki"}
+{"sub_id": "Q19473", "sub_label": "Huddersfield Town", "sub_aliases": ["Huddersfield Town Association Football Club", "Huddersfield Town AFC", "Huddersfield Town", "Huddersfield", "The Terriers", "Huddersfield Town Football Club", "Huddersfield Town FC", "Town", "HTAFC", "HTFC"], "obj_id": "Q619407", "obj_label": "John Smith\u2019s Stadium", "obj_aliases": "John Smith's Stadium"}
+{"sub_id": "Q2714", "sub_label": "FC Watford", "sub_aliases": "Watford Football Club", "obj_id": "Q10626", "obj_label": "Vicarage Road"}
+{"sub_id": "Q193390", "sub_label": "New England Patriots", "sub_aliases": "Pats", "obj_id": "Q373355", "obj_label": "Gillette Stadium"}
+{"sub_id": "Q186785", "sub_label": "Rosenborg Trondheim", "sub_aliases": "Rosenborg BK", "obj_id": "Q1132011", "obj_label": "Lerkendal-Stadion"}
+{"sub_id": "Q172435", "sub_label": "New Orleans Saints", "sub_aliases": "Saints", "obj_id": "Q756452", "obj_label": "Caesars Superdome", "obj_aliases": "New Orleans Superdome"}
+{"sub_id": "Q10333", "sub_label": "FC Valencia", "sub_aliases": "VCF", "obj_id": "Q202762", "obj_label": "Estadio Mestalla", "obj_aliases": "Mestalla-Stadion"}
+{"sub_id": "Q19513", "sub_label": "HSC Montpellier", "sub_aliases": "SC Montpellier", "obj_id": "Q815833", "obj_label": "Stade de la Mosson"}
+{"sub_id": "Q178489", "sub_label": "All England 1951", "sub_aliases": [], "obj_id": "Q1130746", "obj_label": "Earls Court Exhibition Centre", "obj_aliases": "Earl\u2019s Court Exhibition Centre"}
+{"sub_id": "Q170327", "sub_label": "S\u00fcdafrikanische Fu\u00dfballnationalmannschaft", "sub_aliases": "S\u00fcdafrikanische Fussballnationalmannschaft", "obj_id": "Q163521", "obj_label": "Soccer City", "obj_aliases": "Soccer-City-Stadion"}
+{"sub_id": "Q41420", "sub_label": "Borussia Dortmund", "sub_aliases": "BVB", "obj_id": "Q150928", "obj_label": "Signal Iduna Park", "obj_aliases": "Westfalenstadion"}
+{"sub_id": "Q18747", "sub_label": "West Ham United", "sub_aliases": "West Ham United Football Club", "obj_id": "Q172190", "obj_label": "Londoner Stadion", "obj_aliases": "Olympiastadion in London"}
+{"sub_id": "Q15755", "sub_label": "FC Augsburg", "sub_aliases": "Fu\u00dfball-Club Augsburg 1907 e. V.", "obj_id": "Q167418", "obj_label": "WWK ARENA", "obj_aliases": "WWK-Arena"}
+{"sub_id": "Q193795", "sub_label": "Badminton bei den Olympischen Sommerspielen 2012", "sub_aliases": [], "obj_id": "Q815571", "obj_label": "Wembley Arena", "obj_aliases": "Wembley-Arena"}
+{"sub_id": "Q483020", "sub_label": "Paris Saint-Germain", "sub_aliases": "Paris St.-Germain", "obj_id": "Q193431", "obj_label": "Parc des Princes", "obj_aliases": "Prinzenparkstadion"}
+{"sub_id": "Q18716", "sub_label": "Newcastle United", "sub_aliases": "Newcastle", "obj_id": "Q191774", "obj_label": "St James' Park", "obj_aliases": "St. James' Park"}
+{"sub_id": "Q172969", "sub_label": "Schachtar Donezk", "sub_aliases": "Shakhtar Donetsk", "obj_id": "Q180479", "obj_label": "Donbass Arena", "obj_aliases": "Donbass-Arena"}

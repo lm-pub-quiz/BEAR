@@ -1,0 +1,58 @@
+{"sub_id": "Q179608", "sub_label": "Nanning", "sub_aliases": [], "obj_id": "Q41753", "obj_label": "Klagenfurt am W\u00f6rthersee", "answer_idx": 0}
+{"sub_id": "Q12534", "sub_label": "Sant Pol de Mar", "sub_aliases": [], "obj_id": "Q1863", "obj_label": "Andorra la Vella", "answer_idx": 1}
+{"sub_id": "Q10830", "sub_label": "Montecastrilli", "sub_aliases": [], "obj_id": "Q1930", "obj_label": "Ottawa", "answer_idx": 2, "obj_aliases": "Ottawa, Ontario"}
+{"sub_id": "Q15696", "sub_label": "Zamora", "sub_aliases": [], "obj_id": "Q14317", "obj_label": "Oviedo", "answer_idx": 3}
+{"sub_id": "Q331078", "sub_label": "Amol", "sub_aliases": [], "obj_id": "Q11739", "obj_label": "Lahore", "answer_idx": 4, "obj_aliases": "Lahor"}
+{"sub_id": "Q528878", "sub_label": "Fanga", "sub_aliases": [], "obj_id": "Q6454", "obj_label": "Calais", "answer_idx": 5, "obj_aliases": "Kalen"}
+{"sub_id": "Q3832", "sub_label": "Bangui", "sub_aliases": [], "obj_id": "Q3866", "obj_label": "Dodoma", "answer_idx": 6}
+{"sub_id": "Q643919", "sub_label": "Torfaen", "sub_aliases": "Tor-faen", "obj_id": "Q1040", "obj_label": "Karlsruhe", "answer_idx": 7, "obj_aliases": "Residenz des Rechts"}
+{"sub_id": "Q59227", "sub_label": "Chaozhou", "sub_aliases": ["Teochew"], "obj_id": "Q1861", "obj_label": "Bangkok", "answer_idx": 8, "obj_aliases": "Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman Awatan Sathit Sakkathattiya Witsanukam Prasit"}
+{"sub_id": "Q888971", "sub_label": "Bocas del Toro", "sub_aliases": ["Bocas Town"], "obj_id": "Q226", "obj_label": "Nuuk", "answer_idx": 9, "obj_aliases": "N\u00fbk"}
+{"sub_id": "Q244004", "sub_label": "S\u00e9tif", "sub_aliases": "Setif", "obj_id": "Q647", "obj_label": "Rennes", "answer_idx": 10}
+{"sub_id": "Q158604", "sub_label": "Bachtschyssaraj", "sub_aliases": "Ba\u011f\u00e7asaray", "obj_id": "Q40738", "obj_label": "Bursa", "answer_idx": 11, "obj_aliases": "Brussa"}
+{"sub_id": "Q1191011", "sub_label": "Man", "sub_aliases": ["Man, Ivory Coast"], "obj_id": "Q37776", "obj_label": "Besan\u00e7on", "answer_idx": 12, "obj_aliases": "Bisanz"}
+{"sub_id": "Q186935", "sub_label": "Ahuachap\u00e1n", "sub_aliases": ["Ahuachapan"], "obj_id": "Q3070", "obj_label": "San Jos\u00e9", "answer_idx": 13, "obj_aliases": "San Jos\u00e9 (Costa Rica)"}
+{"sub_id": "Q184883", "sub_label": "Moulins", "sub_aliases": [], "obj_id": "Q126148", "obj_label": "Tanger", "answer_idx": 14, "obj_aliases": "Tingis"}
+{"sub_id": "Q1960", "sub_label": "Daressalam", "sub_aliases": "Mzizima", "obj_id": "Q1055", "obj_label": "Hamburg", "answer_idx": 15, "obj_aliases": "Land Hamburg"}
+{"sub_id": "Q164193", "sub_label": "Oblast Lwiw", "sub_aliases": "UA-46", "obj_id": "Q4115712", "obj_label": "Kaunas", "answer_idx": 16, "obj_aliases": "Kowno"}
+{"sub_id": "Q995718", "sub_label": "San Carlos", "sub_aliases": ["Capital de la velocidad y Ciudad del mango."], "obj_id": "Q43199", "obj_label": "Omaha", "answer_idx": 17, "obj_aliases": "Omaha, Nebraska"}
+{"sub_id": "Q696388", "sub_label": "Toyooka", "sub_aliases": [], "obj_id": "Q11959", "obj_label": "Alicante", "answer_idx": 18}
+{"sub_id": "Q14217100", "sub_label": "Griffith", "sub_aliases": ["Griffith, New South Wales", "Griffith, New South Wales, Australia"], "obj_id": "Q42956", "obj_label": "Harbin", "answer_idx": 19}
+{"sub_id": "Q570884", "sub_label": "Tongliao", "sub_aliases": [], "obj_id": "Q79880", "obj_label": "Debrecen", "answer_idx": 20, "obj_aliases": "Debrezin"}
+{"sub_id": "Q59218", "sub_label": "Dongguan", "sub_aliases": [], "obj_id": "Q2107", "obj_label": "Wuppertal", "answer_idx": 22}
+{"sub_id": "Q80517", "sub_label": "Shreveport", "sub_aliases": ["Shreveport, Louisiana", "Shreveport, LA"], "obj_id": "Q8385", "obj_label": "Ostrava", "answer_idx": 23, "obj_aliases": "M\u00e4hrisch-Ostrau"}
+{"sub_id": "Q6544", "sub_label": "Libourne", "sub_aliases": "Libournais", "obj_id": "Q270", "obj_label": "Warschau", "answer_idx": 24}
+{"sub_id": "Q765553", "sub_label": "Sabsevar", "sub_aliases": ["Beihagh", "Beyhaq", "Sabzev\u0101r", "Sabzaw\u0101r"], "obj_id": "Q45313", "obj_label": "Herat", "answer_idx": 25}
+{"sub_id": "Q5756", "sub_label": "Autonome Gemeinschaft Madrid", "sub_aliases": ["Madrid autonomous community", "Madrid province", "Comunidad de Madrid", "Autonomous Community of Madrid"], "obj_id": "Q956", "obj_label": "Peking", "answer_idx": 26}
+{"sub_id": "Q115117", "sub_label": "Plo\u010de", "sub_aliases": "Porto Tolero", "obj_id": "Q437", "obj_label": "Ljubljana", "answer_idx": 27}
+{"sub_id": "Q18207676", "sub_label": "Sihanoukville", "sub_aliases": "Preah Sihanouk", "obj_id": "Q5083", "obj_label": "Seattle", "answer_idx": 28, "obj_aliases": "Seattle, Washington"}
+{"sub_id": "Q3894", "sub_label": "Kampala", "sub_aliases": [], "obj_id": "Q3859", "obj_label": "Kigali", "answer_idx": 29}
+{"sub_id": "Q335423", "sub_label": "Takatsuki", "sub_aliases": [], "obj_id": "Q1461", "obj_label": "Manila", "answer_idx": 30, "obj_aliases": "City of Manila"}
+{"sub_id": "Q1326284", "sub_label": "Saint Ann Parish", "sub_aliases": [], "obj_id": "Q40435", "obj_label": "Buffalo", "answer_idx": 31, "obj_aliases": "Tick-e-ack-gou-ga"}
+{"sub_id": "Q386649", "sub_label": "Schahr-e Kord", "sub_aliases": ["Shahr-e Kord", "Shahr Kord"], "obj_id": "Q9365", "obj_label": "Duschanbe", "answer_idx": 32}
+{"sub_id": "Q586018", "sub_label": "Osuna", "sub_aliases": [], "obj_id": "Q3543", "obj_label": "Potenza", "answer_idx": 33}
+{"sub_id": "Q602783", "sub_label": "Ocho Rios", "sub_aliases": [], "obj_id": "Q17042", "obj_label": "Oakland", "answer_idx": 34}
+{"sub_id": "Q116948", "sub_label": "Isola del Liri", "sub_aliases": [], "obj_id": "Q34404", "obj_label": "New Orleans", "answer_idx": 35, "obj_aliases": "New-Orleans"}
+{"sub_id": "Q500033", "sub_label": "Shah Alam", "sub_aliases": "Schah Alam", "obj_id": "Q11462", "obj_label": "Surabaya", "answer_idx": 37}
+{"sub_id": "Q217084", "sub_label": "Vaux-sur-Aure", "sub_aliases": [], "obj_id": "Q38234", "obj_label": "Nagasaki", "answer_idx": 38}
+{"sub_id": "Q207593", "sub_label": "Muret", "sub_aliases": [], "obj_id": "Q5123", "obj_label": "Monz\u00f3n", "answer_idx": 39}
+{"sub_id": "Q17943", "sub_label": "Arlington", "sub_aliases": ["Arlington, Texas"], "obj_id": "Q41876", "obj_label": "Reims", "answer_idx": 40, "obj_aliases": "Durocortorum"}
+{"sub_id": "Q210365", "sub_label": "Beihai", "sub_aliases": "Pakhoi", "obj_id": "Q44989", "obj_label": "Tulsa", "answer_idx": 41, "obj_aliases": "T-Town"}
+{"sub_id": "Q1983875", "sub_label": "A\u011fcab\u0259di", "sub_aliases": ["Aghjabedi"], "obj_id": "Q25475", "obj_label": "Batumi", "answer_idx": 42}
+{"sub_id": "Q8854", "sub_label": "Las Pi\u00f1as", "sub_aliases": ["Las Pi\u00f1as City", "City of Las Pi\u00f1as", "Las Pinas"], "obj_id": "Q39420", "obj_label": "Sotschi", "answer_idx": 43, "obj_aliases": "\u0421\u043e\u0447\u0438"}
+{"sub_id": "Q271354", "sub_label": "Montr\u00e9al-la-Cluse", "sub_aliases": "Le Land\u00e9ron", "obj_id": "Q340", "obj_label": "Montreal", "answer_idx": 44}
+{"sub_id": "Q677911", "sub_label": "Lucciana", "sub_aliases": [], "obj_id": "Q235", "obj_label": "Monaco", "answer_idx": 45, "obj_aliases": "Principaut\u00e9 de Monaco"}
+{"sub_id": "Q12996", "sub_label": "Ostende", "sub_aliases": "Oostende", "obj_id": "Q3726", "obj_label": "Banjul", "answer_idx": 46, "obj_aliases": "Bathurst (alter Name bis 1973)"}
+{"sub_id": "Q126995", "sub_label": "Weinan", "sub_aliases": [], "obj_id": "Q81581", "obj_label": "Szeged", "answer_idx": 47, "obj_aliases": "Szegedin"}
+{"sub_id": "Q53889", "sub_label": "Lago", "sub_aliases": [], "obj_id": "Q3921", "obj_label": "Harare", "answer_idx": 48}
+{"sub_id": "Q956943", "sub_label": "Le Port", "sub_aliases": [], "obj_id": "Q5468", "obj_label": "Durban", "answer_idx": 49}
+{"sub_id": "Q213832", "sub_label": "Dudley", "sub_aliases": ["Dudley (West Midlands, England)"], "obj_id": "Q24879", "obj_label": "Bremen", "answer_idx": 50, "obj_aliases": "Hansestadt Bremen"}
+{"sub_id": "Q833946", "sub_label": "Nueva Gerona", "sub_aliases": [], "obj_id": "Q7038", "obj_label": "Girona", "answer_idx": 51}
+{"sub_id": "Q16159", "sub_label": "Provinz Catanzaro", "sub_aliases": "Provincia di Catanzaro", "obj_id": "Q39709", "obj_label": "Des Moines", "answer_idx": 52}
+{"sub_id": "Q732923", "sub_label": "Fatih", "sub_aliases": "Gemeinde Fatih", "obj_id": "Q1721", "obj_label": "Wiesbaden", "answer_idx": 53}
+{"sub_id": "Q10395", "sub_label": "Cirebon", "sub_aliases": ["Cheribon", "Chirebon"], "obj_id": "Q9326", "obj_label": "Vientiane", "answer_idx": 54}
+{"sub_id": "Q231645", "sub_label": "Setagaya", "sub_aliases": "Setagaya-ku", "obj_id": "Q2135", "obj_label": "Winnipeg", "answer_idx": 55, "obj_aliases": "Winnipeg, Manitoba"}
+{"sub_id": "Q569447", "sub_label": "Anse-Bertrand", "sub_aliases": [], "obj_id": "Q16567", "obj_label": "Columbus", "answer_idx": 56, "obj_aliases": "The Discovery City"}
+{"sub_id": "Q489267", "sub_label": "Piana degli Albanesi", "sub_aliases": "Piana dei Greci", "obj_id": "Q19689", "obj_label": "Tirana", "answer_idx": 57, "obj_aliases": "Tirona"}
+{"sub_id": "Q3932", "sub_label": "S\u00e3o Tom\u00e9", "sub_aliases": [], "obj_id": "Q597", "obj_label": "Lissabon", "answer_idx": 58}
+{"sub_id": "Q174734", "sub_label": "Hay-on-Wye", "sub_aliases": ["Y Gelli Gandryll"], "obj_id": "Q9427", "obj_label": "Timbuktu", "answer_idx": 59}

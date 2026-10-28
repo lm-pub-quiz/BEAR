@@ -1,0 +1,89 @@
+{
+  "total": 79,
+  "translated": 70,
+  "skipped": [
+    {
+      "P30": {
+        "templates": [
+          "[X] is located in [Y].",
+          "[X] is a part of [Y].",
+          "[X] is situated in [Y]."
+        ]
+      }
+    },
+    {
+      "P36": {
+        "templates": [
+          "The capital of [X] is [Y].",
+          "[X] has its governmental seat in [Y].",
+          "[Y] serves as the capital of [X]."
+        ]
+      }
+    },
+    {
+      "P81": {
+        "templates": [
+          "[X] is directly connected to the [Y].",
+          "[X] has a connecting line to the [Y].",
+          "[X] is linked via the [Y] railway line."
+        ]
+      }
+    },
+    {
+      "P137": {
+        "templates": [
+          "[X] is operated by [Y].",
+          "[Y] is the operator of [X].",
+          "[X] is under the operation of [Y]."
+        ]
+      }
+    },
+    {
+      "P190": {
+        "templates": [
+          "[X] and [Y] are twin cities.",
+          "[X] has a partnership with [Y].",
+          "[X] is a sister city of [Y]."
+        ]
+      }
+    },
+    {
+      "P206": {
+        "templates": [
+          "[X] is next to the [Y].",
+          "[X] is situated on the shores of the [Y].",
+          "[X] can be found adjacent to the [Y]."
+        ]
+      }
+    },
+    {
+      "P427": {
+        "templates": [
+          "[X] is a taxonomic type of [Y].",
+          "The taxonomic type of [X] is [Y].",
+          "[X] is a [Y] in taxonomy."
+        ]
+      }
+    },
+    {
+      "P1412": {
+        "templates": [
+          "[X] used to communicate in [Y].",
+          "[Y] is the language used by [X] .",
+          "[X] is proficient in [Y]."
+        ]
+      }
+    },
+    {
+      "P3373": {
+        "templates": [
+          "[X] and [Y] are siblings.",
+          "[X] is the sibling of [Y].",
+          "[X] had a sibling named [Y]."
+        ]
+      }
+    }
+  ],
+  "XY_english": 0.8565400843881856,
+  "XY_translated": 0.8476190476190476
+}

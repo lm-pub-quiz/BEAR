@@ -1,0 +1,59 @@
+{"sub_id": "Q44796", "sub_label": "La Rioja", "sub_aliases": ["Rioja"], "obj_id": "Q586212", "obj_label": "Monte Pissis", "answer_idx": 0}
+{"sub_id": "Q1030", "sub_label": "Namibia", "sub_aliases": "Republik Namibia", "obj_id": "Q897834", "obj_label": "Brandbergmassiv", "answer_idx": 1}
+{"sub_id": "Q37", "sub_label": "Litauen", "sub_aliases": "Republik Litauen", "obj_id": "Q771431", "obj_label": "Auk\u0161tojas", "answer_idx": 2, "obj_aliases": "Auk\u0161tojo kalnas"}
+{"sub_id": "Q225", "sub_label": "Bosnien und Herzegowina", "sub_aliases": "Bosnien-Herzegowina", "obj_id": "Q837723", "obj_label": "Magli\u0107", "answer_idx": 3}
+{"sub_id": "Q1068630", "sub_label": "Cha\u00eene des Puys", "sub_aliases": "Monts D\u00f4mes", "obj_id": "Q607372", "obj_label": "Puy de D\u00f4me", "answer_idx": 4}
+{"sub_id": "Q424", "sub_label": "Kambodscha", "sub_aliases": "K\u00f6nigreich Kambodscha", "obj_id": "Q539772", "obj_label": "Phnom Aural", "answer_idx": 5}
+{"sub_id": "Q1020", "sub_label": "Malawi", "sub_aliases": ["Republic of Malawi", "mw", "\ud83c\uddf2\ud83c\uddfc", "MAW"], "obj_id": "Q1510436", "obj_label": "Mulanje Massiv", "answer_idx": 6, "obj_aliases": "Mulanje-Massiv"}
+{"sub_id": "Q51", "sub_label": "Antarktika", "sub_aliases": "Antarktis", "obj_id": "Q163758", "obj_label": "Vinson-Massiv", "answer_idx": 7, "obj_aliases": "Vinsonmassiv"}
+{"sub_id": "Q17054", "sub_label": "Martinique", "sub_aliases": ["\ud83c\uddf2\ud83c\uddf6", "Matnik", "Matinik", "MQ", "Martinica", "Territorial Collectivity of Martinique"], "obj_id": "Q76309", "obj_label": "Montagne Pel\u00e9e", "answer_idx": 8, "obj_aliases": "Montagne Pelee"}
+{"sub_id": "Q466628", "sub_label": "Troodos-Gebirge", "sub_aliases": "Tr\u00f3odos-Gebirge", "obj_id": "Q819979", "obj_label": "Olympos", "answer_idx": 9, "obj_aliases": "\u03a7\u03b9\u03bf\u03bd\u03af\u03c3\u03c4\u03c1\u03b1"}
+{"sub_id": "Q19483", "sub_label": "Hong Kong Island", "sub_aliases": ["HK Island"], "obj_id": "Q17541", "obj_label": "Victoria Peak", "answer_idx": 10}
+{"sub_id": "Q188705", "sub_label": "Maui", "sub_aliases": ["The island of Maui"], "obj_id": "Q515719", "obj_label": "Haleakal\u0101", "answer_idx": 11}
+{"sub_id": "Q191", "sub_label": "Estland", "sub_aliases": "Republik Estland", "obj_id": "Q504991", "obj_label": "Suur Munam\u00e4gi", "answer_idx": 12, "obj_aliases": "Gro\u00dfer Eierberg"}
+{"sub_id": "Q38095", "sub_label": "Galapagosinseln", "sub_aliases": "Kolumbusarchipel", "obj_id": "Q1376373", "obj_label": "Wolf", "answer_idx": 13}
+{"sub_id": "Q211900", "sub_label": "Provinz Napo", "sub_aliases": "Napo", "obj_id": "Q14082", "obj_label": "Antisana", "answer_idx": 14, "obj_aliases": "Antizana"}
+{"sub_id": "Q83241", "sub_label": "Galil\u00e4a", "sub_aliases": "Galileia", "obj_id": "Q540520", "obj_label": "Har Meron", "answer_idx": 15}
+{"sub_id": "Q1335318", "sub_label": "Emeishan", "sub_aliases": [], "obj_id": "Q134927", "obj_label": "Emei Shan", "answer_idx": 16, "obj_aliases": "Omeishan"}
+{"sub_id": "Q668584", "sub_label": "Venedigergruppe", "sub_aliases": [], "obj_id": "Q697907", "obj_label": "Gro\u00dfvenediger", "answer_idx": 17}
+{"sub_id": "Q970", "sub_label": "Komoren", "sub_aliases": ["Juzur al-Qumur", "Juzur al-Qamar", "Union of the Comoros", "Udzima wa Komori", "Union des Comores", "al-Itti\u1e25\u0101d al-Qumur\u012b", "km", "\ud83c\uddf0\ud83c\uddf2", "Massiwa ya komori", "ouvoimoja wakomori", "COM", "the Comoros"], "obj_id": "Q527548", "obj_label": "Karthala", "answer_idx": 18}
+{"sub_id": "Q44802", "sub_label": "R\u00edo Negro", "sub_aliases": ["Rio Negro Provinc"], "obj_id": "Q422835", "obj_label": "Tronador", "answer_idx": 19}
+{"sub_id": "Q977", "sub_label": "Dschibuti", "sub_aliases": ["Republic of Djibouti", "Jabuuti", "Gabuuti", "J\u012bb\u016bt\u012b", "dj", "\ud83c\udde9\ud83c\uddef", "DJI"], "obj_id": "Q1951029", "obj_label": "Mousa Alli", "answer_idx": 20, "obj_aliases": "Mousa Ali"}
+{"sub_id": "Q574", "sub_label": "Osttimor", "sub_aliases": "Tim\u00f3r Loro Sa'e", "obj_id": "Q1539961", "obj_label": "Tatamailau", "answer_idx": 21, "obj_aliases": "Tata Mailau"}
+{"sub_id": "Q5758907", "sub_label": "Highland Mountains", "sub_aliases": [], "obj_id": "Q213360", "obj_label": "Tafelberg", "answer_idx": 23}
+{"sub_id": "Q842", "sub_label": "Oman", "sub_aliases": ["om", "\ud83c\uddf4\ud83c\uddf2", "Sultanate of Oman"], "obj_id": "Q1261915", "obj_label": "Dschabal Schams", "answer_idx": 24, "obj_aliases": "Jabal Shams"}
+{"sub_id": "Q29", "sub_label": "Spanien", "sub_aliases": "K\u00f6nigreich Spanien", "obj_id": "Q38954", "obj_label": "Teide", "answer_idx": 25, "obj_aliases": "Teyde"}
+{"sub_id": "Q37056", "sub_label": "Taimyrhalbinsel", "sub_aliases": "Taymyr-Halbinsel", "obj_id": "Q804012", "obj_label": "Byrrangagebirge", "answer_idx": 26, "obj_aliases": "Byrranga-Gebirge"}
+{"sub_id": "Q25", "sub_label": "Wales", "sub_aliases": ["WAL", "WLS", "Cymru", "Cambria"], "obj_id": "Q217142", "obj_label": "Snowdon", "answer_idx": 27}
+{"sub_id": "Q42070", "sub_label": "Gobi", "sub_aliases": "W\u00fcste Gobi", "obj_id": "Q654413", "obj_label": "Bogd Khan Uul", "answer_idx": 28}
+{"sub_id": "Q1499", "sub_label": "Uttarakhand", "sub_aliases": "Uttaranchal", "obj_id": "Q213262", "obj_label": "Nanda Devi", "answer_idx": 29}
+{"sub_id": "Q1028", "sub_label": "Marokko", "sub_aliases": "K\u00f6nigreich Marokko", "obj_id": "Q503433", "obj_label": "Tubqal", "answer_idx": 30, "obj_aliases": "Massif du Toubkal"}
+{"sub_id": "Q884", "sub_label": "S\u00fcdkorea", "sub_aliases": "Suedkorea", "obj_id": "Q494645", "obj_label": "Hallasan", "answer_idx": 31, "obj_aliases": "Halla-san"}
+{"sub_id": "Q1013", "sub_label": "Lesotho", "sub_aliases": ["Kingdom of Lesotho", "ls", "\ud83c\uddf1\ud83c\uddf8", "LES"], "obj_id": "Q733132", "obj_label": "Thabana Ntlenyana", "answer_idx": 32}
+{"sub_id": "Q683923", "sub_label": "Tscherskigebirge", "sub_aliases": ["Khrebet Cherskogo"], "obj_id": "Q745231", "obj_label": "Pobeda", "answer_idx": 33}
+{"sub_id": "Q15104", "sub_label": "Provence-Alpes-C\u00f4te d\u2019Azur", "sub_aliases": "Proven\u00e7a-Aups-C\u00f2sta d'Azur", "obj_id": "Q30480", "obj_label": "Barre des \u00c9crins", "answer_idx": 34}
+{"sub_id": "Q159", "sub_label": "Russland", "sub_aliases": "Ru\u00dfl\u00e4ndische F\u00f6deration", "obj_id": "Q43105", "obj_label": "Elbrus", "answer_idx": 35, "obj_aliases": "Elbrus Westgipfel"}
+{"sub_id": "Q214", "sub_label": "Slowakei", "sub_aliases": "Slowakien", "obj_id": "Q81213", "obj_label": "Gerlsdorfer Spitze", "answer_idx": 36, "obj_aliases": "Gerlachspitze"}
+{"sub_id": "Q272586", "sub_label": "Provinz Pichincha", "sub_aliases": "Pichincha", "obj_id": "Q754734", "obj_label": "Cayambe", "answer_idx": 37}
+{"sub_id": "Q44803", "sub_label": "Salta", "sub_aliases": [], "obj_id": "Q214916", "obj_label": "Llullaillaco", "answer_idx": 38, "obj_aliases": "Vulkan Llullaillaco"}
+{"sub_id": "Q212836", "sub_label": "Durmitor-Gebirge", "sub_aliases": "Durmitor", "obj_id": "Q671897", "obj_label": "Bobotov Kuk", "answer_idx": 39}
+{"sub_id": "Q5472", "sub_label": "Hindukusch", "sub_aliases": ["P\u0101riy\u0101tra Parvata", "Paropamisadae", "Hindukush"], "obj_id": "Q207132", "obj_label": "Tirich Mir", "answer_idx": 40}
+{"sub_id": "Q40", "sub_label": "\u00d6sterreich", "sub_aliases": "Republik \u00d6sterreich", "obj_id": "Q3388", "obj_label": "Gro\u00dfglockner", "answer_idx": 41, "obj_aliases": "Glockner"}
+{"sub_id": "Q717", "sub_label": "Venezuela", "sub_aliases": "Bolivarische Republik Venezuela", "obj_id": "Q213704", "obj_label": "Pico Bol\u00edvar", "answer_idx": 42, "obj_aliases": "Pico Bolivar"}
+{"sub_id": "Q804", "sub_label": "Panama", "sub_aliases": "pa", "obj_id": "Q594726", "obj_label": "Volc\u00e1n Bar\u00fa", "answer_idx": 43}
+{"sub_id": "Q1973", "sub_label": "Britisch-Kolumbien", "sub_aliases": ["BC", "B.C."], "obj_id": "Q1544340", "obj_label": "Mount Fairweather", "answer_idx": 44, "obj_aliases": "Sch\u00f6nwetterberg"}
+{"sub_id": "Q750", "sub_label": "Bolivien", "sub_aliases": ["Plurinational State of Bolivia", "bo", "bol", "\ud83c\udde7\ud83c\uddf4", "Republic of Bolivia", "BOL", "Bolivia (Plurinational State of)"], "obj_id": "Q272593", "obj_label": "Sajama", "answer_idx": 45}
+{"sub_id": "Q215573", "sub_label": "Beskiden", "sub_aliases": "Beskidy", "obj_id": "Q595780", "obj_label": "Babia G\u00f3ra", "answer_idx": 46, "obj_aliases": "Babia hora"}
+{"sub_id": "Q822", "sub_label": "Libanon", "sub_aliases": "Libanesische Republik", "obj_id": "Q311330", "obj_label": "Al-Qurnat as-Sauda", "answer_idx": 47, "obj_aliases": "Qurnat as-Sauda"}
+{"sub_id": "Q155", "sub_label": "Brasilien", "sub_aliases": "F\u00f6derative Republik Brasilien", "obj_id": "Q739484", "obj_label": "Pico da Neblina", "answer_idx": 48, "obj_aliases": "Neblina-Tepui"}
+{"sub_id": "Q732567", "sub_label": "Cordillera Huayhuash", "sub_aliases": [], "obj_id": "Q529797", "obj_label": "Yerupaja", "answer_idx": 49}
+{"sub_id": "Q213", "sub_label": "Tschechien", "sub_aliases": "Tschechische Republik", "obj_id": "Q617511", "obj_label": "Schneekoppe", "answer_idx": 50}
+{"sub_id": "Q298", "sub_label": "Chile", "sub_aliases": "Republik Chile", "obj_id": "Q233836", "obj_label": "Nevado Ojos del Salado", "answer_idx": 51, "obj_aliases": "Ojos del Salado"}
+{"sub_id": "Q307518", "sub_label": "\u00d6tztaler Alpen", "sub_aliases": "Alpi Venoste", "obj_id": "Q679277", "obj_label": "Wildspitze", "answer_idx": 52}
+{"sub_id": "Q265", "sub_label": "Usbekistan", "sub_aliases": ["Republic of Uzbekistan", "uz", "\ud83c\uddfa\ud83c\uddff", "UZB"], "obj_id": "Q519822", "obj_label": "Hasrat Sulton", "answer_idx": 53, "obj_aliases": "(Pik imeni) XXII. Parteitag der KPdSU"}
+{"sub_id": "Q327221", "sub_label": "Berner Alpen", "sub_aliases": ["Berner Alpen"], "obj_id": "Q15127", "obj_label": "Finsteraarhorn", "answer_idx": 54}
+{"sub_id": "Q3334", "sub_label": "Haute-Corse", "sub_aliases": "Oberkorsika", "obj_id": "Q1415428", "obj_label": "Monte Cinto", "answer_idx": 55}
+{"sub_id": "Q14056", "sub_label": "Jan Mayen", "sub_aliases": "NO-22", "obj_id": "Q814113", "obj_label": "Beerenberg", "answer_idx": 56, "obj_aliases": "Beerenberg (Jan Mayen)"}
+{"sub_id": "Q654527", "sub_label": "Sierra Maestra", "sub_aliases": [], "obj_id": "Q1145743", "obj_label": "Pico Turquino", "answer_idx": 57}
+{"sub_id": "Q55", "sub_label": "Niederlande", "sub_aliases": "die Niederlande", "obj_id": "Q1301834", "obj_label": "Mount Scenery", "answer_idx": 58}
+{"sub_id": "Q843", "sub_label": "Pakistan", "sub_aliases": "Islamische Republik Pakistan", "obj_id": "Q43512", "obj_label": "K2", "answer_idx": 59, "obj_aliases": "Qogir Feng"}

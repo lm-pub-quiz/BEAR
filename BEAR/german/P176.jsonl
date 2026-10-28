@@ -1,0 +1,149 @@
+{"sub_id": "Q654114", "sub_label": "Macintosh 512K", "sub_aliases": [], "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q1636919", "sub_label": "Macintosh Portable", "sub_aliases": [], "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q24451476", "sub_label": "Magic Keyboard", "sub_aliases": "Apple Tastatur", "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q621298", "sub_label": "Apple Magic Trackpad", "sub_aliases": "Magic Trackpad", "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q306207", "sub_label": "iPod mini", "sub_aliases": "iPod Mini", "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q14091", "sub_label": "iMac", "sub_aliases": ["Apple iMac"], "obj_id": "Q312", "obj_label": "Apple Inc.", "answer_idx": 0}
+{"sub_id": "Q9542", "sub_label": "Minas-Geraes-Klasse", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q1424289", "sub_label": "Yongala", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q9567", "sub_label": "Almirante Latorre", "sub_aliases": "HMS Canada", "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q2443961", "sub_label": "Eidsvold-class coastal defence ship", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q2029338", "sub_label": "Ordnance QF 18 Pf\u00fcnder", "sub_aliases": ["Ordnance QF 18 pounder", "18-pounder gun", "Ordnance QF 18pdr Gun"], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q685067", "sub_label": "Seaslug", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "answer_idx": 1, "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q1578209", "sub_label": "Pereswet-Klasse", "sub_aliases": "Pereswjet-Klasse", "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q521029", "sub_label": "Kirow-Klasse", "sub_aliases": "Projekt 1144 Orlan", "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q29717", "sub_label": "Herzog Edinburgski", "sub_aliases": "Gerzog Edinbugski", "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q2062306", "sub_label": "Talwar-Klasse", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q628031", "sub_label": "Gromoboi", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q2986103", "sub_label": "Strandung des U-Bootes S-363", "sub_aliases": "Whiskey on the Rocks", "obj_id": "Q530989", "obj_label": "Baltisches Werk", "answer_idx": 2}
+{"sub_id": "Q704128", "sub_label": "SMS Derfflinger", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q150857", "sub_label": "Bismarck", "sub_aliases": ["German battleship Bismarck"], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q1657442", "sub_label": "MEKO 200", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q124664", "sub_label": "Pamir", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q884890", "sub_label": "Blohm & Voss BV 155", "sub_aliases": "Messerschmitt Me 155", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q884883", "sub_label": "Blohm & Voss Bv 141", "sub_aliases": "Ha 141", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "answer_idx": 3, "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q889408", "sub_label": "Boeing C-40", "sub_aliases": "C-40 Clipper", "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q2558622", "sub_label": "B & W Seaplane", "sub_aliases": ["B&W Seaplane", "Boeing Model 1", "Model 1", "Boeing 1"], "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q890192", "sub_label": "Model 40", "sub_aliases": "Boeing 40", "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q890185", "sub_label": "Boeing EA-18", "sub_aliases": "EA-18G", "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q132516", "sub_label": "Boeing RC-135", "sub_aliases": ["Boeing RC-135", "RC135", "Boeing Model 739", "Model 739", "Boeing 739"], "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q177035", "sub_label": "Boeing XB-15", "sub_aliases": "Model 294", "obj_id": "Q66", "obj_label": "Boeing", "answer_idx": 4, "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q781084", "sub_label": "Austin FX4", "sub_aliases": "Austin Taxi", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q1881472", "sub_label": "MG XPower SV", "sub_aliases": "MG XPower WR", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q1881419", "sub_label": "MGA", "sub_aliases": "MG A", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q796282", "sub_label": "Austin Ambassador", "sub_aliases": "BL LM19", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q1881468", "sub_label": "MG Midget", "sub_aliases": [], "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q772742", "sub_label": "Morris Oxford", "sub_aliases": [], "obj_id": "Q386065", "obj_label": "British Motor Corporation", "answer_idx": 5, "obj_aliases": "BMC"}
+{"sub_id": "Q1519401", "sub_label": "MSC Splendida", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1866407", "sub_label": "Vision of the Seas", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1881854", "sub_label": "MSC Magnifica", "sub_aliases": "IMO 9387085", "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1577076", "sub_label": "Paris", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1670349", "sub_label": "Norwegian Epic", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q2714360", "sub_label": "Empress of the Seas", "sub_aliases": ["Nordic Empress", "Empress of the Seas"], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "answer_idx": 6, "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q2541723", "sub_label": "General Lee", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q619002", "sub_label": "M103", "sub_aliases": "Kampfpanzer M103", "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q521076", "sub_label": "Saturn I", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q7826788", "sub_label": "TorqueFlite", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q1473449", "sub_label": "PGM-19 Jupiter", "sub_aliases": "Jupiter", "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q2095648", "sub_label": "Dodge Caravan", "sub_aliases": "Dodge Grand Caravan", "obj_id": "Q181114", "obj_label": "Stellantis North America", "answer_idx": 7}
+{"sub_id": "Q5323375", "sub_label": "EMC E1", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "answer_idx": 8, "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q631779", "sub_label": "EMD G12", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "answer_idx": 8, "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q5323476", "sub_label": "EMD SD90MAC", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "answer_idx": 8, "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q5323449", "sub_label": "EMD GT46PAC", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "answer_idx": 8, "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q2688181", "sub_label": "EMD SD45", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "answer_idx": 8, "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q238461", "sub_label": "5,7 \u00d7 28 mm", "sub_aliases": ["5.7\u00d728mm", "5.7 \u00d7 28mm", "SS90", "SS190", "5,7 \u00d7 28"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q4646472", "sub_label": "9 mm Browning Long", "sub_aliases": ["9 x 20mm SR", "9 mm Browning Long", "9 \u00d7 20mm Browning", "9 x 20mm Browning"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q2891306", "sub_label": "FN FNAR", "sub_aliases": [], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q1284442", "sub_label": "FN Baby Browning", "sub_aliases": [], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q4035471", "sub_label": "FN M1905", "sub_aliases": ["FN Model 1906"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q644344", "sub_label": "FN Browning Modell 1903", "sub_aliases": ["FN M1903"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "answer_idx": 9, "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q930500", "sub_label": "Zuiderdam", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q742121", "sub_label": "Giuseppe Garibaldi", "sub_aliases": ["C 551"], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q1136350", "sub_label": "Costa Fascinosa", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q548546", "sub_label": "Eurodam", "sub_aliases": ["Eurodam", "Odaeurm"], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q631681", "sub_label": "Costa Pacifica", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q20010359", "sub_label": "MSC Seaside", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "answer_idx": 10, "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q2716326", "sub_label": "Little Joe II", "sub_aliases": [], "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q1347206", "sub_label": "Mobile Landing Platform", "sub_aliases": ["Expeditionary Transfer Dock", "Mobile Landing Platform"], "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q473890", "sub_label": "Amphibisches Br\u00fccken- und \u00dcbersetzfahrzeug M3", "sub_aliases": "Amphibie M3", "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q1388613", "sub_label": "FIM-43 Redeye", "sub_aliases": "Redeye", "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q2003791", "sub_label": "USS Albuquerque", "sub_aliases": "SSN-706", "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q1069409", "sub_label": "General Dynamics XM307", "sub_aliases": "Xm312", "obj_id": "Q502940", "obj_label": "General Dynamics", "answer_idx": 11}
+{"sub_id": "Q56166", "sub_label": "Chevrolet Corvette", "sub_aliases": "Chevrolet 1Z", "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q420929", "sub_label": "Saab 900", "sub_aliases": "Saab CD", "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q170296", "sub_label": "M109", "sub_aliases": "Panzerhaubitze M109", "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q910928", "sub_label": "Chevrolet Tahoe", "sub_aliases": ["Chevy Tahoe", "Tahoe"], "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q696537", "sub_label": "M36 Jackson", "sub_aliases": ["90 mm Gun Motor Carriage M36", "M36 tank destroyer", "M36 Jackson"], "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q1339720", "sub_label": "Pontiac GTO", "sub_aliases": [], "obj_id": "Q81965", "obj_label": "General Motors", "answer_idx": 12, "obj_aliases": "GM"}
+{"sub_id": "Q1473287", "sub_label": "RMS Atlantic", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q2902230", "sub_label": "Big-Four-Klasse", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q757178", "sub_label": "HMS Belfast", "sub_aliases": "Belfast", "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q2065060", "sub_label": "RMS Oceanic", "sub_aliases": ["RMMV Oceanic"], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q516401", "sub_label": "HMCS Bonaventure", "sub_aliases": ["HMCS Bonaventure (CVL 22)", "NCSM Bonaventure", "NCSM Bonaventure (CVL 22)", "CVL 22", "Bonaventure", "HMS Powerful", "HMCS Bonaventure, CVL-22"], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q1032093", "sub_label": "Rawalpindi", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "answer_idx": 13, "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q699638", "sub_label": "Panzerkampfwagen E-100", "sub_aliases": "Entwicklung 100", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q655135", "sub_label": "Henschel Hs 129", "sub_aliases": "Hs 129", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q705444", "sub_label": "Kanonenjagdpanzer", "sub_aliases": "Jagdpanzerkanone", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q2204927", "sub_label": "SAR-Klasse 26", "sub_aliases": [], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q9367913", "sub_label": "VK 36.01 (H)", "sub_aliases": "Versuchs Konstruktion 36.01 (Henschel)", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q39056349", "sub_label": "Bangladesh Railway Class 2700", "sub_aliases": [], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "answer_idx": 14, "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q27995423", "sub_label": "Intel-Coffee-Lake-Mikroarchitektur", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q31888920", "sub_label": "Intel-Ice-Lake-Mikroarchitektur", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q370855", "sub_label": "Lynnfield", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q610702", "sub_label": "Sockel 775", "sub_aliases": ["Socket 775", "Socket T"], "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q214314", "sub_label": "Intel Pentium", "sub_aliases": "Pentium", "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q751327", "sub_label": "Sockel 478", "sub_aliases": "mPGA478B", "obj_id": "Q248", "obj_label": "Intel", "answer_idx": 15}
+{"sub_id": "Q909728", "sub_label": "AKS-74U", "sub_aliases": "Zastava M85", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q4654496", "sub_label": "ASh-12.7", "sub_aliases": ["ODEN"], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q1323550", "sub_label": "PP-19 Bison", "sub_aliases": "PP-19 Bizon", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q1278439", "sub_label": "Saiga-12", "sub_aliases": [], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q159509", "sub_label": "Dragunow-Scharfsch\u00fctzengewehr", "sub_aliases": "Snaiperskaja wintowka Dragunowa", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q3267000", "sub_label": "AK-105", "sub_aliases": [], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow", "answer_idx": 16}
+{"sub_id": "Q526759", "sub_label": "Lockheed Martin X-44", "sub_aliases": ["Lockheed Martin X-44 MANTA", "X44 MANTA", "MANTA", "Multi-Axis No-Tail Aircraft"], "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q1431268", "sub_label": "Long Range Anti-Ship Missile", "sub_aliases": ["LRASM"], "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q255648", "sub_label": "X-33", "sub_aliases": ["Lockheed Martin X-33"], "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q431231", "sub_label": "AC-130", "sub_aliases": "Lockheed AC-130", "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q1187536", "sub_label": "C-130J Super Hercules", "sub_aliases": ["Lockheed C-130J", "C130J Super Hercules", "Super Hercules", "Lockheed Martin Hercules C.5", "Hercules C.5", "Lockheed Martin C-130J", "C-130J Super Hercules", "C-130J Hercules", "Lockheed Martin Super Hercules", "Lockheed Martin C-130 Super Hercules", "C130 Super Hercules", "Lockheed Martin C-130J Super Hercules"], "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q183160", "sub_label": "Mars Reconnaissance Orbiter", "sub_aliases": "MRO", "obj_id": "Q7240", "obj_label": "Lockheed Martin", "answer_idx": 17}
+{"sub_id": "Q1754531", "sub_label": "Norwegian Dawn", "sub_aliases": "Superstar Scorpio", "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q19877077", "sub_label": "Ovation of the Seas", "sub_aliases": [], "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q828458", "sub_label": "Estonia", "sub_aliases": "MS Estonia", "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q1760407", "sub_label": "Norwegian Star", "sub_aliases": "IMO 9195157", "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q18128240", "sub_label": "Quantum of the Seas", "sub_aliases": [], "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q2072116", "sub_label": "Jewel of the Seas", "sub_aliases": "IMO 9228356", "obj_id": "Q705377", "obj_label": "Meyer Werft", "answer_idx": 18, "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q210349", "sub_label": "Jeanne d\u2019Arc", "sub_aliases": "Jeanne d'Arc", "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q2981505", "sub_label": "Mistral (Schiff, 2005)", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q3013579", "sub_label": "French ironclad Redoutable", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q7119870", "sub_label": "PNS Hangor", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q65459647", "sub_label": "Suffren", "sub_aliases": ["Q284"], "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q461375", "sub_label": "Charles de Gaulle", "sub_aliases": "R91", "obj_id": "Q1227511", "obj_label": "Naval Group", "answer_idx": 19, "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q1141369", "sub_label": "USS Forrestal", "sub_aliases": "CVA-59", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q83277623", "sub_label": "USS Doris Miller", "sub_aliases": "CVN-81", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q653860", "sub_label": "USS Dwight D. Eisenhower", "sub_aliases": "CVN-69", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q463091", "sub_label": "America", "sub_aliases": "USS Westpoint (AP-23)", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q217132", "sub_label": "USS George H. W. Bush", "sub_aliases": "CVN-77", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q1587078", "sub_label": "Virginia-Klasse", "sub_aliases": ["CGN-38 class"], "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding", "answer_idx": 20}
+{"sub_id": "Q657002", "sub_label": "Granatwerfer 36", "sub_aliases": "5cm leichter Granatenwerfer 36", "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q259089", "sub_label": "7,5-cm-Leichtgesch\u00fctz 40", "sub_aliases": [], "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q697896", "sub_label": "10,5-cm-Flak 38", "sub_aliases": "10,5 cm Flak 38", "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q652468", "sub_label": "MG 17", "sub_aliases": ["Maschinengewehr 17", "MG17", "Rheinmetall-Borsig MG 17"], "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q699606", "sub_label": "M\u00f6rser Karl", "sub_aliases": "Karl-Ger\u00e4t", "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q2658024", "sub_label": "BK 37", "sub_aliases": ["Bordkanone BK 3.7", "BK 3.7"], "obj_id": "Q161544", "obj_label": "Rheinmetall", "answer_idx": 21, "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q247305", "sub_label": "Mars 2", "sub_aliases": "M-71 No. 171", "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q152500", "sub_label": "Venera 1", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q1681656", "sub_label": "Science Power Modules", "sub_aliases": "Wissenschafts- und Energiemodule", "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q16354696", "sub_label": "EgyptSat 2", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q211254", "sub_label": "Sojus 1", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q80811", "sub_label": "Sputnik 1", "sub_aliases": "Sputnik-1", "obj_id": "Q763402", "obj_label": "RKK Energija", "answer_idx": 22}
+{"sub_id": "Q5122795", "sub_label": "Citra", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q7072637", "sub_label": "OK Soda", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q6813153", "sub_label": "Mello Yello", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q3245008", "sub_label": "Fresca", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q5578860", "sub_label": "Gold Spot", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q1815345", "sub_label": "Diet Coke", "sub_aliases": ["Coca-Cola Light", "Diet Coca-Cola"], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company", "answer_idx": 23}
+{"sub_id": "Q2599168", "sub_label": "Valiant-class attack submarine", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}
+{"sub_id": "Q763350", "sub_label": "HMS Venturer", "sub_aliases": ["HMS Venturer, P68"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}
+{"sub_id": "Q749790", "sub_label": "HMS Seraph", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}
+{"sub_id": "Q1422969", "sub_label": "Light Tank Mk VI", "sub_aliases": "MkVI Light Tank", "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}
+{"sub_id": "Q583515", "sub_label": "Rollbombe", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}
+{"sub_id": "Q652058", "sub_label": "Vijayanta", "sub_aliases": ["Vickers MBT"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs", "answer_idx": 24}

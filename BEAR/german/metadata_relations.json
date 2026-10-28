@@ -1,0 +1,359 @@
+{
+    "P6": {
+        "templates": [
+            "Der Regierungschef von [X] ist [Y].",
+            "[Y] war Regierungschef von [X].",
+            "[X] wurde bereits von [Y] regiert."
+        ]
+    },
+    "P19": {
+        "templates": [
+            "[X] wurde in [Y] geboren.",
+            "Der Geburtsort von [X] ist [Y].",
+            "[Y] ist der Geburtsort von [X]."
+        ]
+    },
+    "P20": {
+        "templates": [
+            "[X] starb in [Y].",
+            "[X] verstarb in [Y].",
+            "Der Todesort von [X] ist [Y]."
+        ]
+    },
+    "P26": {
+        "templates": [
+            "[X] ist mit [Y] verheiratet.",
+            "[X] hat [Y] als Ehepartner.",
+            "Der Ehepartner von [X] ist [Y]."
+        ]
+    },
+    "P36": {
+        "templates": [
+            "Die Hauptstadt von [X] ist [Y].",
+            "[X] hat seinen Regierungssitz in [Y].",
+            "[Y] dient als Hauptstadt von [X]."
+        ]
+    },
+    "P37": {
+        "templates": [
+            "Die Amtssprache von [X] ist [Y].",
+            "[Y] ist die offizielle Amtssprache von [X].",
+            "[X] verwendet [Y] als Amtssprache."
+        ]
+    },
+    "P50": {
+        "templates": [
+            "[X] wurde von [Y] verfasst.",
+            "[X] ist ein Werk von [Y].",
+            "Der Autor von [X] ist [Y]."
+        ]
+    },
+    "P53": {
+        "templates": [
+            "[X] ist ein Mitglied der [Y].",
+            "[X] geh\u00f6rt der [Y] an.",
+            "[X] ist Teil der [Y]."
+        ]
+    },
+    "P57": {
+        "templates": [
+            "[X] wurde von [Y] inszeniert.",
+            "[Y] war der Regisseur von [X].",
+            "Der Regisseur von [X] war [Y]."
+        ]
+    },
+    "P69": {
+        "templates": [
+            "[X] wurde an der [Y] ausgebildet.",
+            "[X] erhielt seine Ausbildung an der [Y].",
+            "[X] studierte an der [Y]."
+        ]
+    },
+    "P87": {
+        "templates": [
+            "Der Librettist der Oper [X] war [Y].",
+            "[Y] schrieb das Libretto f\u00fcr [X].",
+            "Die Texte f\u00fcr [X] wurden von [Y] verfasst."
+        ]
+    },
+    "P98": {
+        "templates": [
+            "[X] wurde von [Y] \u00fcberpr\u00fcft und korrigiert.",
+            "[Y] hat [X] bearbeitet.",
+            "[X] wurde von [Y] bearbeitet."
+        ]
+    },
+    "P103": {
+        "templates": [
+            "Die Muttersprache von [X] ist [Y].",
+            "[X] spricht [Y] als Muttersprache.",
+            "[Y] ist die Muttersprache von [X]."
+        ]
+    },
+    "P105": {
+        "templates": [
+            "[X] wird auf der Ebene [Y] klassifiziert.",
+            "[X] geh\u00f6rt zum Taxonrang [Y].",
+            "[X] ist unter dem Rang [Y] kategorisiert."
+        ]
+    },
+    "P108": {
+        "templates": [
+            "[X] arbeitet f\u00fcr [Y].",
+            "[X] ist bei [Y] angestellt.",
+            "[X] ist ein Mitarbeiter bei [Y]."
+        ]
+    },
+    "P115": {
+        "templates": [
+            "Der Heimspielort von [X] ist das [Y].",
+            "Das Heimstadion von [X] ist das [Y].",
+            "[X] spielt seine Heimspiele im [Y]."
+        ]
+    },
+    "P131": {
+        "templates": [
+            "[X] befindet sich in [Y].",
+            "[X] liegt auf dem Territorium von [Y].",
+            "[X] liegt innerhalb der Verwaltungsgrenzen von [Y]."
+        ]
+    },
+    "P137": {
+        "templates": [
+            "[X] wird von [Y] betrieben.",
+            "[Y] ist der Betreiber von [X].",
+            "[X] steht unter dem Betrieb von [Y]."
+        ]
+    },
+    "P162": {
+        "templates": [
+            "[X] wurde von [Y] produziert.",
+            "[Y] ist der Produzent von [X].",
+            "[X] ist eine Produktion von [Y]."
+        ]
+    },
+    "P170": {
+        "templates": [
+            "[X] wurde von [Y] erstellt.",
+            "[Y] ist der Sch\u00f6pfer von [X].",
+            "[X] ist ein Kunstwerk von [Y]."
+        ]
+    },
+    "P171": {
+        "templates": [
+            "Der \u00fcbergeordnete Taxon von [X] ist [Y].",
+            "[X] ist ein Taxon unter dem \u00fcbergeordneten Taxon [Y].",
+            "[Y] ist der \u00fcbergeordnete Taxon von [X]."
+        ]
+    },
+    "P175": {
+        "templates": [
+            "[X] wurde von [Y] ausgef\u00fchrt.",
+            "[Y] ist der Ausf\u00fchrender von [X].",
+            "[Y] hat [X] ausgef\u00fchrt."
+        ]
+    },
+    "P176": {
+        "templates": [
+            "[X] wird von [Y] hergestellt.",
+            "[Y] ist der Hersteller von [X].",
+            "[X] ist ein Produkt von [Y]."
+        ]
+    },
+    "P177": {
+        "templates": [
+            "Die [X] kreuzt die [Y].",
+            "Die [Y] wird von der [X] geschnitten.",
+            "Die [X] verl\u00e4uft durch die [Y]."
+        ]
+    },
+    "P178": {
+        "templates": [
+            "[X] wird von [Y] entwickelt.",
+            "[Y] ist der Entwickler von [X].",
+            "[X] ist ein von [Y] entwickeltes Produkt."
+        ]
+    },
+    "P179": {
+        "templates": [
+            "[X] ist Teil der [Y]-Reihe.",
+            "[X] geh\u00f6rt zur [Y].",
+            "Die [Y]-Reihe umfasst [X]."
+        ]
+    },
+    "P185": {
+        "templates": [
+            "[Y] war Doktorand von [X].",
+            "[X] war der Doktorvater von [Y].",
+            "[Y] promovierte bei [X]."
+        ]
+    },
+    "P190": {
+        "templates": [
+            "[X] und [Y] sind Partnerst\u00e4dte.",
+            "[X] hat eine Partnerschaft mit [Y].",
+            "[X] ist eine Partnerstadt von [Y]."
+        ]
+    },
+    "P206": {
+        "templates": [
+            "[X] befindet sich neben [Y].",
+            "[X] liegt an den Ufern von [Y].",
+            "[X] befindet sich angrenzend an [Y]."
+        ]
+    },
+    "P272": {
+        "templates": [
+            "[Y] produzierte [X].",
+            "[X] wird von [Y] produziert.",
+            "[X] ist eine Produktion von [Y]."
+        ]
+    },
+    "P291": {
+        "templates": [
+            "Der Erscheinungsort von [X] war [Y].",
+            "[X] wurde in [Y] ver\u00f6ffentlicht.",
+            "[X] erschien in [Y]."
+        ]
+    },
+    "P344": {
+        "templates": [
+            "[X] hatte [Y] als Kameramann.",
+            "[Y] war der Kameramann f\u00fcr [X].",
+            "Der Kameramann f\u00fcr [X] ist [Y]."
+        ]
+    },
+    "P364": {
+        "templates": [
+            "Die urspr\u00fcngliche Sprache von [X] ist [Y].",
+            "[X] wurde urspr\u00fcnglich in [Y] erstellt.",
+            "Die Sprache von [X] ist [Y]."
+        ]
+    },
+    "P403": {
+        "templates": [
+            "Der [X] m\u00fcndet in den [Y].",
+            "Der [X] flie\u00dft schlie\u00dflich in den [Y].",
+            "Der [X] leert sich in den [Y]."
+        ]
+    },
+    "P412": {
+        "templates": [
+            "Die Stimmlage von [X] ist [Y].",
+            "[X] ist f\u00fcr seine [Y]-Stimme bekannt.",
+            "Die Stimme von [X] ist vom Typ [Y]."
+        ]
+    },
+    "P427": {
+        "templates": [
+            "[X] ist ein taxonomischer Typ von [Y].",
+            "Der taxonomische Typ von [X] ist [Y].",
+            "[X] ist ein [Y] in der Taxonomie."
+        ]
+    },
+    "P449": {
+        "templates": [
+            "[X] wurde erstmals auf [Y] ausgestrahlt.",
+            "[X] wurde urspr\u00fcnglich von [Y] gesendet.",
+            "[X]Deb\u00fct fand auf [Y] statt."
+        ]
+    },
+    "P463": {
+        "templates": [
+            "[X] ist Mitglied der [Y].",
+            "[X] ist der [Y] angeschlossen.",
+            "[X] ist Teil der [Y]."
+        ]
+    },
+    "P466": {
+        "templates": [
+            "[X] wird von [Y] besetzt.",
+            "Der Besatzer von [X] ist [Y].",
+            "[Y] besetzt [X]."
+        ]
+    },
+    "P610": {
+        "templates": [
+            "Der h\u00f6chste Punkt in [X] ist [Y].",
+            "[Y] ist der h\u00f6chste Gipfel in [X].",
+            "[X] hat seinen h\u00f6chsten Punkt an [Y]."
+        ]
+    },
+    "P611": {
+        "templates": [
+            "[X] ist Mitglied des [Y].",
+            "[X] geh\u00f6rt zum [Y].",
+            "[X] ist Teil des [Y]."
+        ]
+    },
+    "P641": {
+        "templates": [
+            "[X] ist mit [Y] verbunden.",
+            "[X] nimmt an [Y] teil.",
+            "Der Sport, den [X] aus\u00fcbte, ist [Y]."
+        ]
+    },
+    "P676": {
+        "templates": [
+            "Die Texte von [X] wurden von [Y] geschrieben.",
+            "Die Texte von [X] wurden von [Y] verfasst.",
+            "Das Lied \"[X]\" enth\u00e4lt Texte von [Y]."
+        ]
+    },
+    "P1303": {
+        "templates": [
+            "[X] spielt [Y].",
+            "[X] ist bekannt daf\u00fcr, [Y] zu spielen.",
+            "[X] ist ein [Y]-Spieler."
+        ]
+    },
+    "P1376": {
+        "templates": [
+            "[X] ist die Hauptstadt von [Y].",
+            "[Y] hat seinen Regierungssitz in [X].",
+            "[X] dient als Hauptstadt von [Y]."
+        ]
+    },
+    "P1441": {
+        "templates": [
+            "[X] erscheint in [Y].",
+            "[X] ist in [Y] zu sehen.",
+            "[X] ist in [Y] vorhanden."
+        ]
+    },
+    "P1532": {
+        "templates": [
+            "[X] vertritt [Y].",
+            "[X] hat [Y] bei Spielen vertreten.",
+            "[X] ist Sportler f\u00fcr [Y]."
+        ]
+    },
+    "P2632": {
+        "templates": [
+            "[X] wurde in [Y] inhaftiert.",
+            "[X] war in [Y] gefangen.",
+            "[X] war in [Y] eingesperrt."
+        ]
+    },
+    "P6886": {
+        "templates": [
+            "Die Werke von [X] wurden haupts\u00e4chlich in [Y] verfasst.",
+            "[X] komponierte in [Y].",
+            "[X] hat [Y] zum Schreiben verwendet."
+        ]
+    },
+    "P7937": {
+        "templates": [
+            "[X] ist eine Form von [Y].",
+            "[X] ist [Y].",
+            "[X] ist als [Y] strukturiert."
+        ]
+    },
+    "P7959": {
+        "templates": [
+            "[X] liegt im historischen County [Y].",
+            "[X] ist der Ort, an dem [Y] lag.",
+            "[X] befindet sich im historischen County, bekannt als [Y]."
+        ]
+    }
+}
