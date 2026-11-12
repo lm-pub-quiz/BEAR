@@ -34,7 +34,7 @@ jobs:
           VERSION=$(python -c '
           import json
           with open("dataset_version.json", encoding="utf-8") as f:
-              print(json.load(f)["dataset_version"])
+              print(json.load(f)["version"])
           ')
 
           if [[ ! "$VERSION" =~ ^(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$ ]]; then
@@ -119,9 +119,9 @@ jobs:
                   dataset_name = f"bear{suffix}"
 
                   metadata = {
-                      "dataset_name": dataset_name,
-                      "dataset_version": version,
-                      "dataset_language": language,
+                      "name": dataset_name,
+                      "version": version,
+                      "language": language,
                   }
 
                   zip_path = dist / asset_name

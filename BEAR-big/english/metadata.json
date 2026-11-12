@@ -1,5 +1,5 @@
 {
-    "dataset_name": "bear-big",
-    "dataset_version": "1.0.0",
-    "dataset_language":"english" 
+    "name": "bear-big",
+    "version": "1.0.0",
+    "language":"english" 
 }
