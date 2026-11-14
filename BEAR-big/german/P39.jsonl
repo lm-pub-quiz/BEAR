@@ -1,0 +1,578 @@
+{"sub_id": "Q953527", "sub_label": "Epaphras", "sub_aliases": [], "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q2181212", "sub_label": "Nikanor", "sub_aliases": [], "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q236779", "sub_label": "Nino", "sub_aliases": "Heilige Nino", "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q81018", "sub_label": "Judas Ischariot", "sub_aliases": "Judas Iskariot", "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q724476", "sub_label": "Epaphroditus", "sub_aliases": "Epaphroditos", "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q18978", "sub_label": "Maria Faustyna Kowalska", "sub_aliases": "Maria Faustyna vom allerheiligsten Sakrament", "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q164212", "sub_label": "Onesiphorus", "sub_aliases": [], "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q128538", "sub_label": "Lukas der Evangelist", "sub_aliases": "Pseudo-Lukas", "obj_id": "Q43412", "obj_label": "Apostel", "obj_aliases": "Apostel Christi"}
+{"sub_id": "Q7148082", "sub_label": "Patrizia Busignani", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q16164347", "sub_label": "Arimino Baracone", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q5389884", "sub_label": "Ermenegildo Gasperoni", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q3604961", "sub_label": "Adalmiro Bartolini", "sub_aliases": ["Bartolini"], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q3887178", "sub_label": "Ottaviano Rossi", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q3765390", "sub_label": "Giorgio Crescentini", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q16600553", "sub_label": "Ser Bonanni Notaio", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q99485737", "sub_label": "Mirko Dolcini", "sub_aliases": [], "obj_id": "Q258045", "obj_label": "Capitano Reggente"}
+{"sub_id": "Q1636826", "sub_label": "Humbert V.", "sub_aliases": "Humbert V. de Beaujeu", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q1605895", "sub_label": "Henri I. de Montmorency", "sub_aliases": "Henri I. de Montmorency-Damville", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q3175596", "sub_label": "John de Montmirail", "sub_aliases": ["John de Montmirel-en-Brie, Lord de Montmirel-en-Brie"], "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q758529", "sub_label": "Aubry de Montmorency", "sub_aliases": "Alberich von Montmorency", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q744629", "sub_label": "Robert de Fiennes", "sub_aliases": ["Sir Robert de Fiennes"], "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q626829", "sub_label": "Charles I. d\u2019Albret", "sub_aliases": "Karl I. von Albret", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q2546625", "sub_label": "Walter V. von Ch\u00e2tillon", "sub_aliases": "Gaucher V. de Ch\u00e2tillon", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q1066628", "sub_label": "Charles de la Cerda", "sub_aliases": "Charles de La Cerda", "obj_id": "Q346871", "obj_label": "Conn\u00e9table von Frankreich", "obj_aliases": "General-Marschall"}
+{"sub_id": "Q1397196", "sub_label": "Fujiwara no Mototsune", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q578397", "sub_label": "Fujiwara no Kanemichi", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q3090616", "sub_label": "Fujiwara no Fuyutsugu", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q1083379", "sub_label": "Fujiwara no Motofusa", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q710214", "sub_label": "Kuj\u014d Kanezane", "sub_aliases": "Kujou Kanezane", "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q1321703", "sub_label": "Fujiwara no Kaneie", "sub_aliases": "Kaneie", "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q3090694", "sub_label": "Fujiwara no Yoritada", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q594626", "sub_label": "Takatsukasa Masamichi", "sub_aliases": [], "obj_id": "Q1157586", "obj_label": "Daij\u014d Daijin", "obj_aliases": "Daj\u014d Daijin"}
+{"sub_id": "Q647706", "sub_label": "Marcantonio Memmo", "sub_aliases": [], "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q449468", "sub_label": "Alvise Mocenigo IV.", "sub_aliases": "Mocenigo IV.", "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q34481", "sub_label": "Francesco Morosini", "sub_aliases": ["Monte Pulciano", "Il Montepulciano Morosini", "Montepulciano"], "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q345506", "sub_label": "Andrea Gritti", "sub_aliases": ["Andrea, Doge of Venice Gritti", "Andrea, doge di Venezia Gritti", "Andrea Gritti Doge of Venice", "doge di Venezia Andrea Gritti"], "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q729088", "sub_label": "Sebastiano Venier", "sub_aliases": [], "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q908278", "sub_label": "Domenico Selvo", "sub_aliases": "Selvo", "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q443332", "sub_label": "Galla", "sub_aliases": ["Galla Lupanio"], "obj_id": "Q858316", "obj_label": "Doge von Venedig", "obj_aliases": "Venezianischer Doge"}
+{"sub_id": "Q1286757", "sub_label": "Pertinax", "sub_aliases": [], "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q2661123", "sub_label": "Gregor VI.", "sub_aliases": ["Gregory VI"], "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q139194", "sub_label": "Konstantinos Leichoudes", "sub_aliases": "Konstantinos Lichoudis", "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q1148497", "sub_label": "Cyriacus I.", "sub_aliases": "Cyrillianus", "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q552717", "sub_label": "Polykarp I.", "sub_aliases": [], "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q1277551", "sub_label": "Euzois", "sub_aliases": "Euzoios", "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q1286702", "sub_label": "Laurentius von Byzanz", "sub_aliases": [], "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q450325", "sub_label": "Alypius", "sub_aliases": "Alympius", "obj_id": "Q60719", "obj_label": "\u00d6kumenischer Patriarch von Konstantinopel", "obj_aliases": "Patriarch von Konstantinopel"}
+{"sub_id": "Q888773", "sub_label": "Tatadim", "sub_aliases": [], "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q315659", "sub_label": "Yohannes IV.", "sub_aliases": "Kassa", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q460342", "sub_label": "Amda Seyon I.", "sub_aliases": "Gabra Masqual", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q471332", "sub_label": "Gebra Maskal Lalibela", "sub_aliases": "Lalibala", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q244748", "sub_label": "Menelik II.", "sub_aliases": "Sahle Mariam", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q887847", "sub_label": "Claudius", "sub_aliases": "vor dem sich die Gipfel verneigen", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q888086", "sub_label": "Gebre Krestos", "sub_aliases": [], "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q147677", "sub_label": "Zara Yaqob", "sub_aliases": "Zar\u2019a Ya\u2019qob", "obj_id": "Q10962705", "obj_label": "Emperor of Ethiopia"}
+{"sub_id": "Q234285", "sub_label": "Sarah Polk", "sub_aliases": "Sarah Childress Polk", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q233641", "sub_label": "Julia Grant", "sub_aliases": "Julia Dent Grant", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q238397", "sub_label": "Ida McKinley", "sub_aliases": "Ida Saxton McKinley", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q234283", "sub_label": "Ellen Wilson", "sub_aliases": "Ellen Louise Axson Wilson", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q233628", "sub_label": "Elizabeth Kortright Monroe", "sub_aliases": "Elizabeth Monroe", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q234525", "sub_label": "Julia Tyler", "sub_aliases": "Julia Gardiner Tyler", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q233656", "sub_label": "Angelica Van Buren", "sub_aliases": "Angelica Singleton Van Buren", "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q191789", "sub_label": "Martha Washington", "sub_aliases": ["Martha Dandridge Custis Washington", "Martha Dandridge", "Martha Custis"], "obj_id": "Q7166256", "obj_label": "First Lady der Vereinigten Staaten", "obj_aliases": "FLOTUS"}
+{"sub_id": "Q454789", "sub_label": "Raimondo, Prinz Montecuccoli", "sub_aliases": "Raimund von Montecuccoli", "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q76465", "sub_label": "August Weismann", "sub_aliases": "Weism.", "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q62330", "sub_label": "Ferdinand Sauerbruch", "sub_aliases": "Ernst Ferdinand Sauerbruch", "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q62096", "sub_label": "Carl Correns", "sub_aliases": "Carl Franz Joseph Erich Correns", "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q68360", "sub_label": "Heinrich Bruns", "sub_aliases": ["Ernst Heinrich Bruns"], "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q77078", "sub_label": "Arnold Sommerfeld", "sub_aliases": ["Arnold Johannes Wilhelm Sommerfeld"], "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q6694", "sub_label": "Alexander von Humboldt", "sub_aliases": "Alexander v. Humboldt", "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q66092", "sub_label": "Theodor Wiegand", "sub_aliases": [], "obj_id": "Q11165895", "obj_label": "Geheimrat", "obj_aliases": "geheimer Hofrat"}
+{"sub_id": "Q29053265", "sub_label": "Mohammad Qoli Khan Shamlu", "sub_aliases": [], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q125829", "sub_label": "Bou Ahmed", "sub_aliases": "ben Musa Si Ahmed", "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q1584208", "sub_label": "\u0130vaz Mehmet Pasha", "sub_aliases": ["Ivaz Mehmet Pasha"], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q21526504", "sub_label": "\u00c7erkes Osman Pasha", "sub_aliases": [], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q23861022", "sub_label": "Marashli Ali Pasha", "sub_aliases": ["Mara\u015fl\u0131 Ali Pa\u015fa"], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q6563202", "sub_label": "Saru Taqi", "sub_aliases": [], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q1585494", "sub_label": "Kuyucu Murad Pasha", "sub_aliases": "Kuyucu Murat Pascha", "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q16051107", "sub_label": "Mirza Salman Jaberi", "sub_aliases": [], "obj_id": "Q18811", "obj_label": "Gro\u00dfwesir", "obj_aliases": "Oberster Wesir"}
+{"sub_id": "Q1282676", "sub_label": "Donnchad Midi", "sub_aliases": ["Donnchad Midi, High King of Ireland", "Dunchad mac Domhnaill"], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1261436", "sub_label": "Colm\u00e1n R\u00edmid", "sub_aliases": ["Colman Rimid", "Colm\u00e1n 'R\u00edmid', High King of Ireland"], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1133072", "sub_label": "Cormac mac Airt", "sub_aliases": ["Cormac ua Cuinn", "Cormac Ulfhota"], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1283150", "sub_label": "\u00c1ed Oirdnide", "sub_aliases": ["Aed Oirdnide", "\u00c1ed 'Oirdnide', High King of Ireland"], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1272064", "sub_label": "Feradach Finnfechtnach", "sub_aliases": [], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1271722", "sub_label": "\u00c1ed Findliath", "sub_aliases": ["Aed Findliath", "\u00c1ed 'Findliath', High King of Ireland"], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q1272276", "sub_label": "Conchobar Abradruad", "sub_aliases": [], "obj_id": "Q889997", "obj_label": "Irische Hochk\u00f6nige"}
+{"sub_id": "Q75043", "sub_label": "Jonatan", "sub_aliases": "Jonatan der Makkab\u00e4er", "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q2372380", "sub_label": "Jesus ben Damneus", "sub_aliases": [], "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q666152", "sub_label": "Aristobulos", "sub_aliases": "Aristobulos III.", "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q2904547", "sub_label": "Ahimaaz", "sub_aliases": [], "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q400257", "sub_label": "Ahimelech", "sub_aliases": "Achimelech", "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q6176482", "sub_label": "Jehoiarib", "sub_aliases": [], "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q324271", "sub_label": "Simon ben Boethos", "sub_aliases": [], "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q2524799", "sub_label": "Jehoschua ben Gamla", "sub_aliases": "Jesus ben Gamala", "obj_id": "Q51677", "obj_label": "Hoherpriester"}
+{"sub_id": "Q509944", "sub_label": "Hapuseneb", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q953669", "sub_label": "Iuwelot", "sub_aliases": ["Iuwlot"], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q6867887", "sub_label": "Minmontu", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q746660", "sub_label": "Menkheperraseneb I", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q332447", "sub_label": "Ptahmose", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q1406894", "sub_label": "Neferweben", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q724742", "sub_label": "Smendes II.", "sub_aliases": [], "obj_id": "Q376262", "obj_label": "Hoherpriester des Amun", "obj_aliases": "Hohepriester des Amun"}
+{"sub_id": "Q9247", "sub_label": "Adai", "sub_aliases": [], "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q9324", "sub_label": "Bodi Alagh Khan", "sub_aliases": [], "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q9295", "sub_label": "Manduul Khan", "sub_aliases": ["Manduuluu", "Manduyulun", "Manduyul"], "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q381125", "sub_label": "Bilge Khan", "sub_aliases": "Bilge Qaghan", "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q68208", "sub_label": "Tun Baga Tarkan", "sub_aliases": [], "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q154894", "sub_label": "Ashina Amrak", "sub_aliases": "Talopen Noyon", "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q68221", "sub_label": "Kutlug I Bilge Kagan", "sub_aliases": [], "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q1799031", "sub_label": "Bayanchur Khan", "sub_aliases": "Moyun-chur", "obj_id": "Q187878", "obj_label": "Gro\u00dfkhan", "obj_aliases": "Khaghan"}
+{"sub_id": "Q553193", "sub_label": "Muhammad Schaibani", "sub_aliases": "Abu 'I-Fath Mohammed Scheibani", "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q1367194", "sub_label": "Berdi Beg", "sub_aliases": [], "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q2947626", "sub_label": "\u015eahin Giray", "sub_aliases": [], "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q735288", "sub_label": "Dschani Beg", "sub_aliases": ["Zhanibie", "Janibe"], "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q336146", "sub_label": "Abu\u2019l Ghazi Bahadur", "sub_aliases": "Abulgasi Bayadur Chan", "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q559150", "sub_label": "Sahib I. Giray", "sub_aliases": "Sahib Giray Khan I.", "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q366466", "sub_label": "Batbajan", "sub_aliases": "der Gro\u00dfe Bajan", "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q297065", "sub_label": "\u00d6ldscheit\u00fc", "sub_aliases": "Mohammad Chod\u0101bande", "obj_id": "Q181888", "obj_label": "Chan", "obj_aliases": "Khan"}
+{"sub_id": "Q3125711", "sub_label": "Chagnerich", "sub_aliases": "Hagnerich", "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q1253918", "sub_label": "Florentianus", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q3038285", "sub_label": "Mummolin", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q468187", "sub_label": "Raganfrid", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q2248430", "sub_label": "Leudesius", "sub_aliases": ["Lendisius Herzog von Peronne"], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q2293223", "sub_label": "Waddo", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q3128753", "sub_label": "Landerich", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q446210", "sub_label": "Flaochad", "sub_aliases": [], "obj_id": "Q594819", "obj_label": "Hausmeier"}
+{"sub_id": "Q744123", "sub_label": "Ladislaus II Garai", "sub_aliases": [], "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q1302184", "sub_label": "S\u00e1ndor Aranyosr\u00e1kosi Sz\u00e9kely", "sub_aliases": "S\u00e1ndor Sz\u00e9kely von Aranyosr\u00e1kos", "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q12768506", "sub_label": "J\u00e1nos Drugeth", "sub_aliases": ["J\u00e1nos Drugeth"], "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q222534", "sub_label": "Matth\u00e4us Cs\u00e1k", "sub_aliases": "M\u00e1t\u00e9 Cs\u00e1k", "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q903069", "sub_label": "D\u00f3zsa Debreceni", "sub_aliases": ["Dozsa Debreceni"], "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q12765811", "sub_label": "Philip Druget", "sub_aliases": ["F\u00fcl\u00f6p Druget"], "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q1320586", "sub_label": "Szaniszl\u00f3 Thurz\u00f3", "sub_aliases": [], "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q570237", "sub_label": "Nikolaus Esterh\u00e1zy", "sub_aliases": "Nikolaus Esterh\u00e1zy de Galantha", "obj_id": "Q1077786", "obj_label": "Palatin"}
+{"sub_id": "Q3496376", "sub_label": "Casperius Aelianus", "sub_aliases": [], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q2292079", "sub_label": "Claudius Postumus Dardanus", "sub_aliases": [], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q628720", "sub_label": "Marcus Aurelius Cleander", "sub_aliases": [], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q1132171", "sub_label": "Lucius Flavius Aper", "sub_aliases": "Arrius Aper", "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q1133873", "sub_label": "Cornelius Laco", "sub_aliases": [], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q534464", "sub_label": "Timesitheus", "sub_aliases": ["Misiteu"], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q12296414", "sub_label": "Titus Flavius Norbanus", "sub_aliases": [], "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q723167", "sub_label": "Saturninius Secundus Salutius", "sub_aliases": "Secundus Salutius", "obj_id": "Q692343", "obj_label": "Pr\u00e4torianerpr\u00e4fekt", "obj_aliases": "Praefectus praetorio"}
+{"sub_id": "Q19257367", "sub_label": "Bertran Samas\u00f3", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q5994678", "sub_label": "Manuel de Copons i d'Esquerrer", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q16176833", "sub_label": "Berenguer de Sos", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q16190470", "sub_label": "Pere de Darnius", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q11921018", "sub_label": "Esteve de Garret", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q4736480", "sub_label": "Manuel de Montsuar i Mateu", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q1951110", "sub_label": "Josep de Vilamala", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q11922920", "sub_label": "Francesc de Valls i Freixa", "sub_aliases": [], "obj_id": "Q16933549", "obj_label": "Pr\u00e4sident der Generalitat de Catalunya", "obj_aliases": "president de la Generalitat de Catalunya"}
+{"sub_id": "Q2905823", "sub_label": "Yitzhak Aharon Korff", "sub_aliases": [], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q7222900", "sub_label": "Shmuel Yaakov Kohn", "sub_aliases": [], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q547033", "sub_label": "Schneur Salman", "sub_aliases": "Schne'ur Salman", "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q2857943", "sub_label": "Aharon of Karlin", "sub_aliases": ["Aaron ben Jacob of Karlin"], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q8053903", "sub_label": "Yitzchok Friedman", "sub_aliases": [], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q7499581", "sub_label": "Shlomo Goldman", "sub_aliases": ["Zvhil-Sanzer rebbe", "Shlomo_Goldman"], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q1337389", "sub_label": "Menachem Mendel Schneersohn", "sub_aliases": "Zemach Zedek", "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q661697", "sub_label": "Joel Teitelbaum", "sub_aliases": [], "obj_id": "Q359351", "obj_label": "Rebbe", "obj_aliases": "Admor"}
+{"sub_id": "Q2918852", "sub_label": "Gaius Cocceius Balbus", "sub_aliases": [], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q1942775", "sub_label": "Gennobaudes (3. Jahrhundert)", "sub_aliases": ["Genobaud"], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q295228", "sub_label": "Sextus Pompeius", "sub_aliases": "Sextus Pompeius Magnus Pius", "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q1283535", "sub_label": "Quintus Fabius Maximus", "sub_aliases": ["Quintus Fabius Maximus"], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q2240467", "sub_label": "Keltillos", "sub_aliases": [], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q717405", "sub_label": "Fravitta", "sub_aliases": "Fravitus", "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q2520803", "sub_label": "Sextus Vettulenus Cerialis", "sub_aliases": [], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q280869", "sub_label": "Titus Flavius Clemens", "sub_aliases": [], "obj_id": "Q40779", "obj_label": "Konsul", "obj_aliases": "Consulat"}
+{"sub_id": "Q507623", "sub_label": "Vaballathus", "sub_aliases": "Vaballath", "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q314828", "sub_label": "Vetranio", "sub_aliases": [], "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q887042", "sub_label": "Septimius", "sub_aliases": ["Septiminus"], "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q154732", "sub_label": "Agrippina die J\u00fcngere", "sub_aliases": "Iulia Agrippina", "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q311274", "sub_label": "Valerius Valens", "sub_aliases": "Aurelius Valerius Valens", "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q176536", "sub_label": "Iotapianus", "sub_aliases": "Jotapian", "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q562376", "sub_label": "Sebastianus", "sub_aliases": [], "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q373846", "sub_label": "Firmus", "sub_aliases": "Marcus Firmus", "obj_id": "Q842606", "obj_label": "r\u00f6mischer Kaiser", "obj_aliases": "Kaiser von Rom"}
+{"sub_id": "Q10565450", "sub_label": "Abe Masakiyo", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q11431969", "sub_label": "\u014ckubo Tadamasu", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q8013036", "sub_label": "Inoue Masaharu", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q11530346", "sub_label": "Matsudaira Nobuakira", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q6527067", "sub_label": "Aoyama Yoshinari", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q11239141", "sub_label": "Matsudaira Takechika", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q6832196", "sub_label": "Ogasawara Nagakuni", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q6013270", "sub_label": "Inaba Masakuni", "sub_aliases": [], "obj_id": "Q1196812", "obj_label": "R\u014dj\u016b", "obj_aliases": "Roju"}
+{"sub_id": "Q705976", "sub_label": "Artabanos", "sub_aliases": "Artapanos", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q214559", "sub_label": "Ismail I.", "sub_aliases": "Sh\u0101h Ism\u0101'il Abu'l-Mozaffar bin Scheich Haydar bin Scheich Dschunayd Safaw\u012b", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q446965", "sub_label": "Sultan Hosein", "sub_aliases": "Sultan Hosayn", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q271282", "sub_label": "Azarmedukht", "sub_aliases": "Azarmigduxt", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q332583", "sub_label": "Karim Khan", "sub_aliases": "Tushmal Karim", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q1150270", "sub_label": "Kai Kobad", "sub_aliases": "Keikobad", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q13461303", "sub_label": "Azad Khan Afghan", "sub_aliases": ["Azad Khan Afgan"], "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q155755", "sub_label": "Dschamschid", "sub_aliases": "Yima", "obj_id": "Q184299", "obj_label": "Schah", "obj_aliases": "Schahbanu"}
+{"sub_id": "Q6491144", "sub_label": "Larry Speakes", "sub_aliases": ["Larry Melvin Speakes"], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q4757260", "sub_label": "Andrew Hatcher", "sub_aliases": ["Andrew T. Hatcher"], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q6286984", "sub_label": "Joseph Short", "sub_aliases": [], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q6847909", "sub_label": "Mike McCurry", "sub_aliases": ["Michael Demaree McCurry"], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q5543771", "sub_label": "George Reedy", "sub_aliases": ["George Edward Reedy"], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q605370", "sub_label": "Bill Moyers", "sub_aliases": "Billy Moyers", "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q5538854", "sub_label": "George Edward Akerson", "sub_aliases": [], "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q504901", "sub_label": "Jerald terHorst", "sub_aliases": "Jerald ter Horst", "obj_id": "Q2306431", "obj_label": "Pressesprecher des Wei\u00dfen Hauses", "obj_aliases": "Pressesprecherin des Wei\u00dfen Hauses"}
+{"sub_id": "Q994738", "sub_label": "Jean-Antoine Nollet", "sub_aliases": [], "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q381710", "sub_label": "Symeon der Neue Theologe", "sub_aliases": "Symeon der Theologe", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q120132", "sub_label": "Adomnan von Iona", "sub_aliases": "Adomnan von Hy", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q60178", "sub_label": "Johannes Trithemius", "sub_aliases": "Trithemius", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q37970", "sub_label": "Gregor Mendel", "sub_aliases": "Georg Mendel", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q552201", "sub_label": "Benedict Biscop", "sub_aliases": "Benedikt Biscop Baducing", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q68490", "sub_label": "Hermann von Reichenau", "sub_aliases": "Hermanus Contractus", "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q529146", "sub_label": "Giuseppe Parini", "sub_aliases": [], "obj_id": "Q103163", "obj_label": "Abt"}
+{"sub_id": "Q163755", "sub_label": "Karl Philipp zu Schwarzenberg", "sub_aliases": "Karl Philipp F\u00fcrst zu Schwarzenberg", "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q69339", "sub_label": "Nathaniel Hawthorne", "sub_aliases": ["Nathaniel Hathorne", "Monsieur de l'Aub\u00e9pine", "N. H."], "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q316327", "sub_label": "Jos\u00e9 Maria E\u00e7a de Queir\u00f3s", "sub_aliases": "Jos\u00e9 Maria E\u00e7a de Queiroz", "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q317089", "sub_label": "Aischines", "sub_aliases": ["\u00c6schines"], "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q154959", "sub_label": "Hugo Grotius", "sub_aliases": ["Hugo de Groot", "Grotius", "Huig van Groot", "H. de Groot"], "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q47561", "sub_label": "Ivo Andri\u0107", "sub_aliases": "Ivo Andric", "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q338430", "sub_label": "Wonder Woman", "sub_aliases": "Wonderwoman", "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q312548", "sub_label": "Megasthenes", "sub_aliases": [], "obj_id": "Q121998", "obj_label": "Botschafter", "obj_aliases": "Botschafterin"}
+{"sub_id": "Q50413678", "sub_label": "Jos\u00e9 Arranz Arranz", "sub_aliases": "Jos\u00e9 Arranz", "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q3260826", "sub_label": "Louis-Phil\u00e9mon Savary", "sub_aliases": ["Louis-Philemon Savary"], "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q11686958", "sub_label": "Justino de Neve", "sub_aliases": ["Justino de Neve y Chaves"], "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q684568", "sub_label": "Francisco de Rioja", "sub_aliases": [], "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q6301292", "sub_label": "Juan de Medina", "sub_aliases": [], "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q85894", "sub_label": "Heinrich Eger von Kalkar", "sub_aliases": "Henricus de Calcar", "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q2865260", "sub_label": "Arthur Mugnier", "sub_aliases": "Abb\u00e9 Mugnier", "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q5974642", "sub_label": "L\u00e9on de Castro", "sub_aliases": ["Leon de Castro"], "obj_id": "Q1104153", "obj_label": "Kanoniker", "obj_aliases": "Reverend Canon"}
+{"sub_id": "Q63027", "sub_label": "Leo Scheffczyk", "sub_aliases": "Leo Kardinal Scheffczyk", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q44490", "sub_label": "John Henry Newman", "sub_aliases": "J. H. Newman", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q1233583", "sub_label": "Raniero Cantalamessa", "sub_aliases": "Raniero Kardinal Cantalamessa", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q934326", "sub_label": "Camillo Caccia Dominioni", "sub_aliases": "Camillo Kardinal Caccia Dominioni", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q707231", "sub_label": "Albert Vanhoye", "sub_aliases": "Vanhoye", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q1029380", "sub_label": "Camillo Laurenti", "sub_aliases": "Camillo Kardinal Laurenti", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q317554", "sub_label": "Hugo von Sankt Viktor", "sub_aliases": "Hugues de Saint-Victor", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q63620", "sub_label": "Joseph Hergenr\u00f6ther", "sub_aliases": "Joseph Adam Gustav Hergenr\u00f6ther", "obj_id": "Q45722", "obj_label": "Kardinal", "obj_aliases": "Cardinal"}
+{"sub_id": "Q17455", "sub_label": "John von Neumann", "sub_aliases": "Johann von Neumann", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q204815", "sub_label": "Marvin Minsky", "sub_aliases": "Marvin Lee Minsky", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q92742", "sub_label": "Alan Kay", "sub_aliases": "Alan Curtis Kay", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q351815", "sub_label": "Robert Putnam", "sub_aliases": "Robert David Putnam", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q44003", "sub_label": "Theodor Herzl", "sub_aliases": "Binyamin Ze'ev Herzl", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q235517", "sub_label": "Beverly Sills", "sub_aliases": "Beverley Sills", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q213500", "sub_label": "Ralph Bunche", "sub_aliases": "Ralph Johnson Bunche", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q314462", "sub_label": "Harold Dwight Lasswell", "sub_aliases": "Harold Lasswell", "obj_id": "Q140686", "obj_label": "Vorsitzender", "obj_aliases": "Chairman"}
+{"sub_id": "Q10511031", "sub_label": "Gustaf von Essen", "sub_aliases": ["Gustaf von Essen"], "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q587962", "sub_label": "Jean Decazes", "sub_aliases": "Jean \u00c9lie Louis Octave Guillaume S\u00e9v\u00e8re Amanieu Decazes", "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q1338445", "sub_label": "Emmanuel von Canal", "sub_aliases": "Emmanuel Malabayla", "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q1539936", "sub_label": "Gottlob Heinrich von Lindenau", "sub_aliases": [], "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q1679943", "sub_label": "James Alexander de Pourtal\u00e8s-Gorgier", "sub_aliases": "Pourtal\u00e8s-Gorgier", "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q94578258", "sub_label": "Giuseppe Terzi", "sub_aliases": [], "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q5798514", "sub_label": "August Herlenius", "sub_aliases": [], "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q16157666", "sub_label": "Alexis Aminoff", "sub_aliases": [], "obj_id": "Q264323", "obj_label": "Kammerherr", "obj_aliases": "K\u00e4mmerer"}
+{"sub_id": "Q219744", "sub_label": "Luis de G\u00f3ngora", "sub_aliases": "Lu\u00eds de G\u00f3ngora y Argote", "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q170800", "sub_label": "Pedro Calder\u00f3n de la Barca", "sub_aliases": ["Pedro Calderon de la Barca"], "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q2044035", "sub_label": "Thomas Traherne", "sub_aliases": [], "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q537218", "sub_label": "Wipo", "sub_aliases": [], "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q718355", "sub_label": "Roberto Busa", "sub_aliases": [], "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q2414601", "sub_label": "Ulf Ekman", "sub_aliases": [], "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q1133611", "sub_label": "Noel Stookey", "sub_aliases": "Paul Stookey", "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q553128", "sub_label": "Lucilio Vanini", "sub_aliases": "Julius Caesar Vanini", "obj_id": "Q208762", "obj_label": "Kaplan", "obj_aliases": "Kaplanin"}
+{"sub_id": "Q3503829", "sub_label": "Sundar Pichai", "sub_aliases": "Pichai Sundararajan", "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q379946", "sub_label": "Sultan bin Salman bin Abdulaziz Al Saud", "sub_aliases": "Prinz von Saudi-Arabien", "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q312556", "sub_label": "Jeff Bezos", "sub_aliases": ["Jeffrey Preston Bezos", "Jeffrey Preston Jorgensen", "Jeff Preston Bezos", "Jeffrey Preston ''Jeff'' Bezos"], "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q173381", "sub_label": "Tony Fernandes", "sub_aliases": "Anthony Francis Fernandes", "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q319383", "sub_label": "Martin Cooper", "sub_aliases": [], "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q92984", "sub_label": "Luis von Ahn", "sub_aliases": [], "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q7426870", "sub_label": "Satya Nadella", "sub_aliases": ["Bukkapuram Nadella Satyanarayana", "Satya Narayana Nadella"], "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q374229", "sub_label": "Roy E. Disney", "sub_aliases": "Roy Edward Disney", "obj_id": "Q484876", "obj_label": "Chief Executive Officer", "obj_aliases": "Gesch\u00e4ftsf\u00fchrerin"}
+{"sub_id": "Q67563", "sub_label": "Ernst Uhrlau", "sub_aliases": [], "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q167902", "sub_label": "Heiliger Kastulus", "sub_aliases": "Kastulis", "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q391458", "sub_label": "Agathokles", "sub_aliases": [], "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q216427", "sub_label": "G\u00fcnther von B\u00fcltzingsl\u00f6wen", "sub_aliases": "G\u00fcnther Baron von B\u00fcltzingsl\u00f6wen", "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q87623", "sub_label": "Johann Rudolf Czernin von und zu Chudenitz", "sub_aliases": "Johann Rudolf Graf Czernin von und zu Chudenitz", "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q2038753", "sub_label": "Otto Freiherr Fraydt von Fraydenegg und Monzello", "sub_aliases": "Otto Maria Freiherr von Fraydenegg und Monzello", "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q1467682", "sub_label": "Fritz N\u00f6pel", "sub_aliases": [], "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q1716466", "sub_label": "Roman Rittweger", "sub_aliases": "Roman Franz Alexander Rittweger", "obj_id": "Q212238", "obj_label": "Beamter", "obj_aliases": "Beamtin"}
+{"sub_id": "Q3047482", "sub_label": "Edgar Puaud", "sub_aliases": "Edgar Joseph Alexandre Puaud", "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q153522", "sub_label": "Gebhard Leberecht von Bl\u00fccher", "sub_aliases": "Marschall Vorw\u00e4rts", "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q107286731", "sub_label": "Shawn Bratton", "sub_aliases": ["Shawn Bratton"], "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q119329", "sub_label": "Charles Wilkes", "sub_aliases": "Wilkes", "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q55394049", "sub_label": "Petri Hulkko", "sub_aliases": "Petri Jussi Mikael Hulkko", "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q99836778", "sub_label": "Francisco Ant\u00f4nio de Almeida J\u00fanior", "sub_aliases": ["Francisco Ant\u00f4nio de Almeida"], "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q41787928", "sub_label": "Wim Robberecht", "sub_aliases": [], "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q11902123", "sub_label": "V\u00e4in\u00f6 Vuori", "sub_aliases": [], "obj_id": "Q11247470", "obj_label": "Kommandeur", "obj_aliases": "Befehlshaber"}
+{"sub_id": "Q40670", "sub_label": "Henryk Ehrlich", "sub_aliases": [], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q4538191", "sub_label": "Alina Janowska", "sub_aliases": "Alina Maria Janowska-Zab\u0142ocka", "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q11834022", "sub_label": "Regina Fleszarowa", "sub_aliases": ["Regina Zofia Danysz"], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q274289", "sub_label": "Barbara Krafft\u00f3wna", "sub_aliases": "Krafft\u00f3wna", "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q4457180", "sub_label": "Jaime Parada", "sub_aliases": [], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q10347522", "sub_label": "Pedro Ivo Ferreira Caminhas", "sub_aliases": [], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q2162541", "sub_label": "Anna Nehrebecka", "sub_aliases": ["Anna Nehrebecka-Byczewska"], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q645877", "sub_label": "Andrzej Tadeusz Kijowski", "sub_aliases": ["KAT"], "obj_id": "Q708492", "obj_label": "Ratsherr", "obj_aliases": "Ratsverwandte"}
+{"sub_id": "Q18448394", "sub_label": "Adolphe Mathieu", "sub_aliases": [], "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q6698259", "sub_label": "Lucy Cranwell", "sub_aliases": "Lucy Cranwell Smith", "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q2853497", "sub_label": "Antoine-Jean Saint-Martin", "sub_aliases": "Antoine Jean de Saint-Martin", "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q2977549", "sub_label": "Claude Hoin", "sub_aliases": ["Claude-Jean-Baptiste Hoin", "Claude de Hoin", "Claude Jean Baptiste Hoin", "Claude Baptiste Hoin", "houin", "B. Hoin", "hoin claude", "C. Houin", "c. houin"], "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q1509044", "sub_label": "Georges Poisson", "sub_aliases": "Georges Edouard Louis Poisson", "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q4398707", "sub_label": "Barbara Rose", "sub_aliases": ["Barbara Ellen Rose"], "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q552784", "sub_label": "John Summerson", "sub_aliases": "John Newenham Summerson", "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q3102425", "sub_label": "Georges Cain", "sub_aliases": "Georges Jules Auguste Cain", "obj_id": "Q674426", "obj_label": "Kurator", "obj_aliases": "Ausstellungskuratorin"}
+{"sub_id": "Q2614349", "sub_label": "Oda Nobutaka", "sub_aliases": [], "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q749873", "sub_label": "Justo Takayama", "sub_aliases": "Takayama Tomonaga", "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q1194899", "sub_label": "Uesugi Harunori", "sub_aliases": ["Uesugi Yozan", "Uesugi Y\u014dzan"], "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q1323770", "sub_label": "Tokugawa Nariaki", "sub_aliases": ["Lord Tokugawa Nariaki"], "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q662482", "sub_label": "Takeda Katsuyori", "sub_aliases": "Suwa Shir\u014d", "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q736948", "sub_label": "H\u014dj\u014d Ujimasa", "sub_aliases": "Ujimasa H\u014dj\u014d", "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q1054305", "sub_label": "Imagawa Yoshimoto", "sub_aliases": [], "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q1144171", "sub_label": "Sanada Masayuki", "sub_aliases": [], "obj_id": "Q61982", "obj_label": "Daimy\u014d", "obj_aliases": "Daimio"}
+{"sub_id": "Q1344385", "sub_label": "Jean Baptiste Ebl\u00e9", "sub_aliases": "Jean-Baptiste Ebl\u00e9", "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q351852", "sub_label": "Veljko Kadijevi\u0107", "sub_aliases": "Kadijevi\u0107", "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q2414302", "sub_label": "Ruslan Gelayev", "sub_aliases": [], "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q2495740", "sub_label": "Samwel Babajan", "sub_aliases": ["Samvel Andraniki Babayan"], "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q19745310", "sub_label": "Chalifa al-Ghweil", "sub_aliases": "Chalifa Mohamed al-Ghweil", "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q317291", "sub_label": "Abdul Haris Nasution", "sub_aliases": "Nasution", "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q503290", "sub_label": "Andres Larka", "sub_aliases": [], "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q197223", "sub_label": "Zhang Jinghui", "sub_aliases": ["Chang Ching-hui"], "obj_id": "Q2518691", "obj_label": "Verteidigungsminister", "obj_aliases": "Minister f\u00fcr Landesverteidigung"}
+{"sub_id": "Q61975974", "sub_label": "Cristina Giachi", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q18697787", "sub_label": "Paulo de Morais", "sub_aliases": ["Paulo Alexandre Batista Teixeira de Morais", "Paulo Alexandre Baptista Teixeira de Morais"], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q25430056", "sub_label": "Joralf Rindli", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q65251257", "sub_label": "Sharon Mark", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q4776396", "sub_label": "Antonio Alcal\u00e1 Venceslada", "sub_aliases": ["Antonio Alcala Venceslada"], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q66763547", "sub_label": "Ola Lund Renolen", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q19655242", "sub_label": "Jannick Nytoft", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q56760793", "sub_label": "Lajos Folkush\u00e1zy", "sub_aliases": [], "obj_id": "Q581817", "obj_label": "Vizeb\u00fcrgermeister", "obj_aliases": "stellvertender B\u00fcrgermeister"}
+{"sub_id": "Q11833760", "sub_label": "Ram\u00eb Manaj", "sub_aliases": [], "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q30144339", "sub_label": "Kocho Angjushev", "sub_aliases": [], "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q6778558", "sub_label": "Marwan Muasher", "sub_aliases": [], "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q95991622", "sub_label": "David Colville Smith", "sub_aliases": [], "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q317219", "sub_label": "Abdul Ghani Baradar", "sub_aliases": "Baradar Akhund", "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q764478", "sub_label": "Issam Fares", "sub_aliases": "Issam M. Fares", "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q118047", "sub_label": "Bernard Coard", "sub_aliases": "Winston Bernard Coard", "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q1285099", "sub_label": "Radimir \u010ca\u010di\u0107", "sub_aliases": [], "obj_id": "Q877955", "obj_label": "Stellvertreter des Regierungschefs", "obj_aliases": "stellvertretende Premierministerin"}
+{"sub_id": "Q617560", "sub_label": "Belaur", "sub_aliases": [], "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q1776340", "sub_label": "Gjin Bua Shpata", "sub_aliases": "Ghin Bua Spata", "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q376435", "sub_label": "Vuk Grgurevi\u0107", "sub_aliases": "Zmaj Ognjeni Vuk", "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q1987901", "sub_label": "Ivanko", "sub_aliases": [], "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q13036992", "sub_label": "Andrea II. Muzaka", "sub_aliases": "Andreas Musachi II.", "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q887156", "sub_label": "Jovan Oliver", "sub_aliases": [], "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q766296", "sub_label": "Leon Sgouros", "sub_aliases": "Leo Sguros", "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q12902332", "sub_label": "Theodoros Batatzes", "sub_aliases": ["Theodore Vatatzes"], "obj_id": "Q889870", "obj_label": "Despot", "obj_aliases": "Despotes"}
+{"sub_id": "Q1798737", "sub_label": "Wilhelm Fischel", "sub_aliases": [], "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q16988680", "sub_label": "Matti Myllykoski", "sub_aliases": ["Arto Matti Tuomas Myllykoski"], "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q50140470", "sub_label": "Nahema Hanafi", "sub_aliases": [], "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q85604", "sub_label": "Wilhelm Alzinger", "sub_aliases": "Alzinger", "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q18744995", "sub_label": "Errol V\u00e9la", "sub_aliases": "V\u00e9la", "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q17119899", "sub_label": "Johan Theodor Landmark", "sub_aliases": "Theodor Landmark", "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q15736276", "sub_label": "J\u00e1n Sene\u0161", "sub_aliases": ["Jan Senes"], "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q47123858", "sub_label": "Vratislav Precl\u00edk", "sub_aliases": [], "obj_id": "Q462390", "obj_label": "Dozent", "obj_aliases": "Dozentur"}
+{"sub_id": "Q192214", "sub_label": "Ren\u00e9 Goscinny", "sub_aliases": "Rene Goscinny", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q456392", "sub_label": "Perry Anderson", "sub_aliases": "Richard Merton", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q333425", "sub_label": "Fareed Zakaria", "sub_aliases": "Fareed Rafiq Zakaria", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q2957653", "sub_label": "St\u00e9phane Charbonnier", "sub_aliases": "Charb", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q139438", "sub_label": "Jan Timman", "sub_aliases": [], "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q78488", "sub_label": "Alfred Hermann Fried", "sub_aliases": "Alfred Fried", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q355672", "sub_label": "Boris Jefimowitsch Jefimow", "sub_aliases": "Boris Jefimow", "obj_id": "Q589298", "obj_label": "Chefredakteur", "obj_aliases": "Hauptschriftleiter"}
+{"sub_id": "Q3109705", "sub_label": "Vushmgir", "sub_aliases": [], "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q798419", "sub_label": "Umar al-Aqta", "sub_aliases": [], "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q1039329", "sub_label": "Chumarawaih", "sub_aliases": "Abu l-Dschaisch Chumarawaih ibn Ahmad", "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q2820941", "sub_label": "Abdallah ibn Buluggin", "sub_aliases": "Abdallah ibn Buluggin al-Muzaffar", "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q17321124", "sub_label": "Ab\u00fb Yahy\u00e2 Zakar\u00eey\u00e2' al-Lihy\u00e2n\u00ee", "sub_aliases": ["Ab\u016b Ya\u1e25y\u0101 Zakariyy\u0101\u02be I al-Li\u1e25y\u0101n\u012b", "Ab\u016b Ya\u1e25y\u0101 Zakariyy\u0101\u02be I b. A\u1e25mad al-Li\u1e25y\u0101n\u012b"], "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q3473086", "sub_label": "Saud bin Abdulaziz", "sub_aliases": ["Sa\u02bf\u016bd bin \u02bfAbd al-\u02bfAz\u012bz (", "Saud bin Abdulaziz Al Rashid"], "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q3155477", "sub_label": "Isnilon Totoni Hapilon", "sub_aliases": ["Abu Abdullah al-Filipini", "Isnilon Totoni Hapilon", "Abu Musab", "Abu Tuan"], "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q481505", "sub_label": "Kafur", "sub_aliases": "Ab\u016b l-Misk K\u0101f\u016br", "obj_id": "Q166382", "obj_label": "Emir"}
+{"sub_id": "Q2640587", "sub_label": "Alexei Walentinowitsch Uljukajew", "sub_aliases": "Alexej Uljukajew", "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q867284", "sub_label": "Bertram Thomas", "sub_aliases": ["Bertram Sidney Thomas"], "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q713038", "sub_label": "Xi Qia", "sub_aliases": ["Aisin-Gioro Xiqia"], "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q101069", "sub_label": "Ernst H\u00f6fner", "sub_aliases": [], "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q75200", "sub_label": "Hans von B\u00fclow", "sub_aliases": "Graf von B\u00fclow", "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q1675587", "sub_label": "Ivan Miklo\u0161", "sub_aliases": "Ivan Miklos", "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q319902", "sub_label": "Isaak Abrabanel", "sub_aliases": "Isak ben Jehuda Abarbanel", "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q2996289", "sub_label": "Hryhorij Hrynko", "sub_aliases": "Hryhorij Fedorowytsch Hrynko", "obj_id": "Q7614320", "obj_label": "Finanzminister", "obj_aliases": "Staatsminister der Finanzen"}
+{"sub_id": "Q131117", "sub_label": "Maria Montessori", "sub_aliases": "Maria Tecla Artemisia Montessori", "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q977651", "sub_label": "John Marsden", "sub_aliases": [], "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q72076", "sub_label": "Johann August Ernesti", "sub_aliases": [], "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q7562969", "sub_label": "Sophie Bryant", "sub_aliases": "Sophie Willock Bryant", "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q1396507", "sub_label": "Sorley MacLean", "sub_aliases": [], "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q316792", "sub_label": "Alexander Sutherland Neill", "sub_aliases": "Alexander Neill", "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q186258", "sub_label": "Michael Altenburg", "sub_aliases": [], "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q3847222", "sub_label": "Maria Cosway", "sub_aliases": "Maria Luisa Caterina Cecilia Cosway", "obj_id": "Q1056391", "obj_label": "Schulleiter", "obj_aliases": "Schuldirektorin"}
+{"sub_id": "Q5082627", "sub_label": "Charles Stanhope, 12th Earl of Harrington", "sub_aliases": ["Charles Henry Leicester Stanhope, 12th Earl of Harrington", "Charles Harrington", "Charles Stanhope, Viscount Petersham", "Charles Henry Leicester Stanhope, Viscount Petersham", "Charles Petersham"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q8005428", "sub_label": "William Bentinck", "sub_aliases": ["William Jack Henry Bentinck, Viscount Woodstock", "Will Bentinck", "Will Bentinck, Viscount Woodstock", "Will Woodstock", "William Woodstock"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q4772031", "sub_label": "Anthony Ashley-Cooper", "sub_aliases": ["Major Anthony Ashley-Cooper, Lord Ashley", "Maj. Anthony Ashley-Cooper, Lord Ashley"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q20714114", "sub_label": "Henry Beresford, 9th Marquess of Waterford", "sub_aliases": ["Henry Nicholas de la Poer Beresford, 9th Marquess of Waterford", "Henry Waterford", "Henry Beresford, Earl of Tyrone", "Henry Nicholas de la Poer Beresford, Earl of Tyrone", "Henry Tyrone"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q7921177", "sub_label": "Vere Fane, 14th Earl of Westmorland", "sub_aliases": ["Vere Anthony Francis St Clair Fane, 14th Earl of Westmorland", "Vere Westmorland", "Vere Fane, Lord Burghersh", "Vere Anthony Francis St Clair Fane, Lord Burghersh", "Vere Burghersh", "Vere Anthony Francis St. Clair Fane, 14th Earl of Westmorland"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q1009513", "sub_label": "George Windsor, Earl of St Andrews", "sub_aliases": ["George Philip Nicholas Windsor, Earl of St Andrews", "George Philip Nicholas Windsor", "George Windsor", "George Philip Nicholas Windsor, Earl of St. Andrews", "George St Andrews", "George St. Andrews"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q13582135", "sub_label": "Charles Robert George Innes-Ker, 11. Duke of Roxburghe", "sub_aliases": ["Charles Robert George Innes-Ker, 11th Duke of Roxburghe", "Charles Innes-Ker, Marquess of Bowmont and Cessford", "Captain Charles Innes-Ker is the 11th Duke of Roxburghe", "Captain Charles Robert George Innes-Ker is the 11th Duke of Roxburghe", "Charlie Innes-Ker", "Charles Bowmont"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q75321549", "sub_label": "Archibald Montagu-Stuart-Wortley-Mackenzie, 3rd Earl of Wharncliffe", "sub_aliases": ["Archibald Ralph Montagu-Stuart-Wortley-Mackenzie, 3rd Earl of Wharncliffe", "Archibald Wharncliffe", "Hon. Archibald Montagu-Stuart-Wortley-Mackenzie", "Hon. Archibald Ralph Montagu-Stuart-Wortley-Mackenzie"], "obj_id": "Q2762318", "obj_label": "Heir Apparent"}
+{"sub_id": "Q8060280", "sub_label": "Kwok Yung Yuen", "sub_aliases": "K.Y.Yuen", "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q7052057", "sub_label": "Norman Chan", "sub_aliases": ["Norman Chan Tak-Lam"], "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q8009484", "sub_label": "William Fung", "sub_aliases": ["William Fung Kwok Lun"], "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q8010179", "sub_label": "William Greenwell", "sub_aliases": [], "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q1061585", "sub_label": "Chan Wing-wah", "sub_aliases": [], "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q492736", "sub_label": "Honor\u00e9 Flaugergues", "sub_aliases": "Honore Flaugergues", "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q2546985", "sub_label": "Yue-Kong Pao", "sub_aliases": "Bao Yugang Y.K. Pao", "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q4709928", "sub_label": "Albert Cheng", "sub_aliases": "Albert Jinghan Cheng", "obj_id": "Q329455", "obj_label": "Friedensrichter", "obj_aliases": "Friedensrichterin"}
+{"sub_id": "Q312615", "sub_label": "Adrian Willaert", "sub_aliases": "Adriaan Willaert", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q159569", "sub_label": "Carl Reinecke", "sub_aliases": "Carl Heinrich Carsten Reinecke", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q160706", "sub_label": "Carlos Kleiber", "sub_aliases": ["Carlos Luis Bonifacio Kleiber"], "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q215128", "sub_label": "Tom\u00e1s Luis de Victoria", "sub_aliases": "Tom\u00e1s Luis Victoria", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q207390", "sub_label": "Amilcare Ponchielli", "sub_aliases": "Ponchielli", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q101698", "sub_label": "Gaetano Donizetti", "sub_aliases": "Ga\u00ebtano Donizetti", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q164732", "sub_label": "Johann Adolph Hasse", "sub_aliases": "Giovanni Adolfo Hasse", "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q7349", "sub_label": "Joseph Haydn", "sub_aliases": ["Franz Joseph Haydn", "Haydn", "Franciscus Joseph Haydn", "Franciscus Josephus Haydn"], "obj_id": "Q215793", "obj_label": "Kapellmeister", "obj_aliases": "Maestro di cappella"}
+{"sub_id": "Q16596117", "sub_label": "Soraya Post", "sub_aliases": "Soraya Viola Hel\u00e9na Post", "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q237615", "sub_label": "Dana", "sub_aliases": "Dana Scallon", "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q78515", "sub_label": "Karl von Habsburg", "sub_aliases": "Karl Thomas Robert Maria Franziskus Georg Bahnam Habsburg-Lothringen", "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q201794", "sub_label": "Tomasz Frankowski", "sub_aliases": [], "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q458709", "sub_label": "Magdi Allam", "sub_aliases": "Magdi Cristiano Allam", "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q62093", "sub_label": "David McAllister", "sub_aliases": ["David James McAllister"], "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q271266", "sub_label": "Elena B\u0103sescu", "sub_aliases": "Elena Basescu", "obj_id": "Q27169", "obj_label": "Mitglied des Europ\u00e4ischen Parlaments", "obj_aliases": "Mitglieder des EU-Parlaments"}
+{"sub_id": "Q2653133", "sub_label": "Stefan Jaworski", "sub_aliases": ["Stefan Yavorskyi", "Semen Yavorskyi"], "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q2659579", "sub_label": "Daniel (Nushiro)", "sub_aliases": [], "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q1967492", "sub_label": "Iwan Ohijenko", "sub_aliases": "Metropolit Ilarion", "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q470463", "sub_label": "Amfilohije Radovi\u0107", "sub_aliases": ["Metropolitan Amfilohije"], "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q720171", "sub_label": "John of Gothia", "sub_aliases": [], "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q4398414", "sub_label": "Arcibiskup Rastislav", "sub_aliases": ["Ondrej Gont", "Metropolitan Rastislav"], "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q567959", "sub_label": "Petro Mohyla", "sub_aliases": "Petro Symeonowytsch Mohyla", "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q561934", "sub_label": "Konstantin Manasses", "sub_aliases": "Konstantinos Manasses", "obj_id": "Q189854", "obj_label": "Metropolit", "obj_aliases": "Erzbischof der Metropole"}
+{"sub_id": "Q24579276", "sub_label": "Arthur Reginald Hoskins", "sub_aliases": ["Reginald Hoskins"], "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q15429999", "sub_label": "Francis Charles Philips", "sub_aliases": ["F. C. Philips"], "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q12989633", "sub_label": "John Waldegrave, 6th Earl Waldegrave", "sub_aliases": ["John Waldegrave"], "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q1405916", "sub_label": "Norman Cohn", "sub_aliases": "Norman Rufus Colin Cohn", "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q371442", "sub_label": "Bob Astles", "sub_aliases": "Robert Astles", "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q715072", "sub_label": "Constantine Walter Benson", "sub_aliases": ["Benson", "C. W. Benson"], "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q679286", "sub_label": "George Pomeroy Colley", "sub_aliases": "Sir George Pomeroy-Colley", "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q3131721", "sub_label": "John Yate Robinson", "sub_aliases": ["John Robinson"], "obj_id": "Q189290", "obj_label": "Offizier", "obj_aliases": "Offz"}
+{"sub_id": "Q502919", "sub_label": "Franz IV.", "sub_aliases": "Franz Joseph Karl Ambrosius Stanislaus", "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q3374010", "sub_label": "Pedro Luis de Borja", "sub_aliases": ["Pedro Luis de Borja"], "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q932707", "sub_label": "Orazio Farnese", "sub_aliases": [], "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q299378", "sub_label": "Vespasiano Gonzaga", "sub_aliases": "Vespasiano Gonzaga Colonna", "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q640130", "sub_label": "Arduin von Ivrea", "sub_aliases": [], "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q60139", "sub_label": "Vittoria della Rovere", "sub_aliases": ["consort of Ferdinando II Vittoria Grand-Duke of Tuscany Grand Duchess Vittoria", "Grand Duchess, consort of Ferdinando II, Grand-Duke of Tuscany, Vittoria"], "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q352200", "sub_label": "Karl II.", "sub_aliases": "Karl II. Ludwig Ferdinand von Bourbon-Parma", "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q235653", "sub_label": "Irmingard von Tours", "sub_aliases": [], "obj_id": "Q271148", "obj_label": "K\u00f6nig von Italien"}
+{"sub_id": "Q3184219", "sub_label": "Joseph-David D\u00e9ziel", "sub_aliases": ["Joseph-David Deziel"], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q51030056", "sub_label": "Semen Denyssow", "sub_aliases": "Semjon Denissow", "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q11215833", "sub_label": "Bob Helekia Ogola", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q94216591", "sub_label": "Claudius Genevey", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q776390", "sub_label": "Jean-Jacques Olier", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q24529700", "sub_label": "Daniel Matou\u0161", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q47635446", "sub_label": "V\u00e1clav Hurt", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q2820858", "sub_label": "Pierre Fran\u00e7ois Chatelet", "sub_aliases": [], "obj_id": "Q955464", "obj_label": "Pfarrer", "obj_aliases": "Stadtpfarrerin"}
+{"sub_id": "Q105806177", "sub_label": "Pierre Ducros", "sub_aliases": [], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q73573831", "sub_label": "Joseph Martin-Paschoud", "sub_aliases": "Joseph \u00c9tienne Martin-Paschoud", "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q74259325", "sub_label": "Ernest Dhombres", "sub_aliases": [], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q6247716", "sub_label": "John McElroy", "sub_aliases": [], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q3370303", "sub_label": "Paul-Henri Marron", "sub_aliases": [], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q116248", "sub_label": "Adolphe Monod", "sub_aliases": [], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q56642122", "sub_label": "Anthony Caffry", "sub_aliases": ["Anthony Caffrey", "Anthony McCaffrey"], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q2465197", "sub_label": "Jacobus Capitein", "sub_aliases": ["Jacobus Elisa Johannes Capitein", "Capitein, Jacobus Elisa Joannes"], "obj_id": "Q152002", "obj_label": "Pastor", "obj_aliases": "Pastorin"}
+{"sub_id": "Q189582", "sub_label": "Narmer", "sub_aliases": "Hor-nar-mer", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q207847", "sub_label": "Alexander IV. Aigos", "sub_aliases": [], "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q168261", "sub_label": "Ptolemaios I.", "sub_aliases": "Ptolem\u00e4us I.", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q18771", "sub_label": "Amenemhet I.", "sub_aliases": "Amenemhat I.", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q189574", "sub_label": "Menes", "sub_aliases": "Narmer Hor Aha", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q39576", "sub_label": "Ptolemaios II.", "sub_aliases": "Ptolemaios II. Philadelphos", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q39602", "sub_label": "Ptolemaios III.", "sub_aliases": "Ptolemaios III. Euergetes I.", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q174367", "sub_label": "Djoser", "sub_aliases": "Hor Netjer-i-chet", "obj_id": "Q37110", "obj_label": "Pharao", "obj_aliases": "Pharaonen"}
+{"sub_id": "Q227721", "sub_label": "Marinus I.", "sub_aliases": "Martin II.", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q81634", "sub_label": "Sixtus I.", "sub_aliases": "Xystus I.", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q83198", "sub_label": "Pius I.", "sub_aliases": "Papst Pius I.", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q80604", "sub_label": "Hyginus", "sub_aliases": "Papst Hyginus", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q80450", "sub_label": "Anaklet", "sub_aliases": "Papst Kletus", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q151902", "sub_label": "Benedikt I.", "sub_aliases": ["Pope Benedict", "Pope Benedict I", "Benedict"], "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q132797", "sub_label": "Marcus", "sub_aliases": "Markus", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q162080", "sub_label": "Felix III.", "sub_aliases": "Felix IV.", "obj_id": "Q19546", "obj_label": "Papst", "obj_aliases": "Vicarius Christi"}
+{"sub_id": "Q11944242", "sub_label": "Quintus Arrius", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q11923646", "sub_label": "Gaius Pomptinus", "sub_aliases": "Lucius Pomptinus", "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q1281352", "sub_label": "Publius Varinius", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q3991855", "sub_label": "Titus Ampius Balbus", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q720855", "sub_label": "Marcus Livius Drusus Claudianus", "sub_aliases": ["Appius Claudius Pulcher", "Drusus Claudianus", "Claudianus"], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q944831", "sub_label": "Gaius Terentius Istra", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q11241698", "sub_label": "Publius Licinius Nerva", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q1533130", "sub_label": "Gnaeus Fulvius Flaccus", "sub_aliases": [], "obj_id": "Q172907", "obj_label": "Praetur", "obj_aliases": "Pr\u00e4tor"}
+{"sub_id": "Q734690", "sub_label": "Jos\u00e9 Manuel Pando", "sub_aliases": "Jos\u00e9 Manuel Inocencio Pando Solares", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q16149892", "sub_label": "Luis Arce", "sub_aliases": "Luis Alberto Arce Catacora", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q3308442", "sub_label": "Carlos Quintanilla Quiroga", "sub_aliases": ["Carlos Quintanilla Quiroga"], "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q467929", "sub_label": "Luis Garc\u00eda Meza Tejada", "sub_aliases": "Meza Tejada", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q312761", "sub_label": "Eduardo Rodr\u00edguez", "sub_aliases": "Eduardo Rodr\u00edguez Veltz\u00e9", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q886300", "sub_label": "Hernando Siles Reyes", "sub_aliases": "Siles Reyes", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q770323", "sub_label": "Mariano Baptista", "sub_aliases": ["Mariano Baptista Caserta"], "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q886514", "sub_label": "David Padilla", "sub_aliases": "David Padilla Arancibia", "obj_id": "Q373548", "obj_label": "Pr\u00e4sident Boliviens"}
+{"sub_id": "Q70227878", "sub_label": "Santiago Cantera", "sub_aliases": [], "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q54921674", "sub_label": "Jos\u00e9 Manuel Mi\u00f1ana", "sub_aliases": "Jos\u00e9 Manuel Mi\u00f1ana Estela", "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q17276357", "sub_label": "Pedro de la Vega", "sub_aliases": [], "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q28054556", "sub_label": "Elizabeth Throckmorton", "sub_aliases": ["Elizabeth Teresa Pulcheria"], "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q22209939", "sub_label": "Brocardus of Sankt-Nikolas", "sub_aliases": ["Brocardus a Sancto Nicolao"], "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q174880", "sub_label": "Teresa von \u00c1vila", "sub_aliases": "Theresia von Avila", "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q11819766", "sub_label": "Dominicus a Jesu Maria", "sub_aliases": "Miguel Ruzola y Lopez", "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q861443", "sub_label": "Christophe Butkens", "sub_aliases": [], "obj_id": "Q830337", "obj_label": "Prior", "obj_aliases": "Gro\u00dfprior"}
+{"sub_id": "Q3108807", "sub_label": "Glenn Knight", "sub_aliases": ["Glenn Jeyasingam Knight"], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q474873", "sub_label": "Detlev Mehlis", "sub_aliases": [], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q11576909", "sub_label": "Thando Hopa", "sub_aliases": "Thando Bulane-Hopa", "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q2332848", "sub_label": "Raoul Rigault", "sub_aliases": [], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q12839522", "sub_label": "Far\u012bd\u016bn Ibr\u0101h\u012bm\u012b", "sub_aliases": [], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q1677403", "sub_label": "Vincent Bugliosi", "sub_aliases": ["Vincent T. Bugliosi Jr.", "Vincent T. Bugliosi"], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q3216431", "sub_label": "Laity Kama", "sub_aliases": [], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q19857069", "sub_label": "Soledad Cazorla Prieto", "sub_aliases": [], "obj_id": "Q600751", "obj_label": "Staatsanwalt", "obj_aliases": "Amtsanwaltschaft"}
+{"sub_id": "Q6060014", "sub_label": "Jon Lauritz Qvisling", "sub_aliases": [], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q7240662", "sub_label": "Prepositus Brixiensis", "sub_aliases": [], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q99247", "sub_label": "Otto von Cappenberg", "sub_aliases": "Odo von Cappenberg", "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q16134284", "sub_label": "Guillaume Van den Calstre", "sub_aliases": [], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q4887369", "sub_label": "Benedictus van Haeften", "sub_aliases": ["Benedictus van Haeften, O.S.B."], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q11731411", "sub_label": "J\u00f3zef Stefan Turczynowicz", "sub_aliases": [], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q1792951", "sub_label": "Stanislaus W\u00fclberz", "sub_aliases": "Stanislaus W\u00fclbertz", "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q1086186", "sub_label": "Christoph von Freyberg-Eisenberg", "sub_aliases": [], "obj_id": "Q756215", "obj_label": "Propst", "obj_aliases": "Verbitter"}
+{"sub_id": "Q1114524", "sub_label": "Flavius Liberalis", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q1338377", "sub_label": "Gnaeus Pompeius Magnus", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q6456490", "sub_label": "Lucius Hirtuleius", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q833663", "sub_label": "Herennius Senecio", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q11935192", "sub_label": "Marcus Nonius Sufenas", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q1181860", "sub_label": "Decimus Turullius", "sub_aliases": "Decimus Turulius", "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q3754788", "sub_label": "Furius Crassipes", "sub_aliases": [], "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q256212", "sub_label": "Caesarius von Nazianz", "sub_aliases": "C\u00e4sarius von Nazianz", "obj_id": "Q189430", "obj_label": "Quaestur", "obj_aliases": "Qu\u00e4stur"}
+{"sub_id": "Q236774", "sub_label": "Katharina von Sachsen-Lauenburg", "sub_aliases": "Katharina von Schweden", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q237851", "sub_label": "Parysatis", "sub_aliases": [], "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q235174", "sub_label": "Jolanthe von Arag\u00f3n", "sub_aliases": "Yolande d'Arag\u00f3n", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q663348", "sub_label": "R\u00e1n", "sub_aliases": ["Ran"], "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q460960", "sub_label": "M\u00e1xima", "sub_aliases": "Maxima Zorreguieta", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q76927", "sub_label": "Maria von Teck", "sub_aliases": "Victoria Mary von Teck", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q234311", "sub_label": "Sophie Magdalene von D\u00e4nemark", "sub_aliases": "Sofia Magdalena von D\u00e4nemark", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q235168", "sub_label": "Giovanna von Savoyen", "sub_aliases": "Queen Ioanna", "obj_id": "Q719039", "obj_label": "K\u00f6nigsgemahlin"}
+{"sub_id": "Q232128", "sub_label": "Artemisia I.", "sub_aliases": [], "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q40022", "sub_label": "Berenike IV.", "sub_aliases": ["Berenice IV Epiphaneia"], "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q286612", "sub_label": "Maria von Sizilien", "sub_aliases": "Maria von Aragonien", "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q1952241", "sub_label": "Mullissu-mukanni\u0161at-Ninua", "sub_aliases": [], "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q485131", "sub_label": "Seondeok", "sub_aliases": "Seondeok Yeowang", "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q2324179", "sub_label": "Morgase Trakand", "sub_aliases": [], "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q905162", "sub_label": "Dido", "sub_aliases": "Elyssa", "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q28534059", "sub_label": "Saliha Banu Begum", "sub_aliases": ["Padshah Mahal", "Padshah Banu Begum"], "obj_id": "Q19643", "obj_label": "regierende K\u00f6nigin"}
+{"sub_id": "Q297960", "sub_label": "Kyros der J\u00fcngere", "sub_aliases": "Kyros, der J\u00fcngere", "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q627458", "sub_label": "Pharnakes II.", "sub_aliases": "Parnaka", "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q29455", "sub_label": "Atropates", "sub_aliases": "Atarepata", "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q575274", "sub_label": "Antigenes", "sub_aliases": [], "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q379863", "sub_label": "Hystaspes", "sub_aliases": "Wi\u0161t\u0101spa", "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q355727", "sub_label": "Tissaphernes", "sub_aliases": [], "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q662006", "sub_label": "Ariobarzanes", "sub_aliases": [], "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q977461", "sub_label": "Laomedon von Mytilene", "sub_aliases": [], "obj_id": "Q170305", "obj_label": "Satrap", "obj_aliases": "Satrapen"}
+{"sub_id": "Q108816", "sub_label": "Antigonos III. Doson", "sub_aliases": ["Antigonus III", "Antigonus Doson"], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q218102", "sub_label": "Kimon", "sub_aliases": ["Kimon"], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q294781", "sub_label": "Narses", "sub_aliases": [], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q139083", "sub_label": "Theramenes", "sub_aliases": [], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q200401", "sub_label": "Antigonos I. Monophthalmos", "sub_aliases": "Antigonos I. der Ein\u00e4ugige", "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q311742", "sub_label": "Brasidas", "sub_aliases": [], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q299387", "sub_label": "Ptolemaios Keraunos", "sub_aliases": [], "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q311835", "sub_label": "Pittakos", "sub_aliases": "Pittakos von Mytilene", "obj_id": "Q335954", "obj_label": "Strategos", "obj_aliases": "Stratege"}
+{"sub_id": "Q2601431", "sub_label": "Ixtlilxochitl I", "sub_aliases": ["Ixtlilxochitl Ome Tochtli"], "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q3437049", "sub_label": "Ilancueitl", "sub_aliases": [], "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q2055041", "sub_label": "Tlacateotl", "sub_aliases": [], "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q1647668", "sub_label": "Moquihuix", "sub_aliases": [], "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q335525", "sub_label": "Acamapichtli", "sub_aliases": "Acamapichtili", "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q3697733", "sub_label": "Crist\u00f3bal de Guzm\u00e1n Cecetzin", "sub_aliases": "Crist\u00f3bal de Guzm\u00e1n Cecepaticatzin", "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q2568485", "sub_label": "Ixtlilxochitl II.", "sub_aliases": ["Hernando Ixtlilx\u00f3chitl", "Hernando Cort\u00e9s Ixtlilx\u00f3chitl", "Hernando Ixtlix\u00f3chitl", "Ixtlilxochitl II"], "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q732535", "sub_label": "Xicot\u00e9ncatl der \u00c4ltere", "sub_aliases": "Xicotencatl der \u00c4ltere", "obj_id": "Q16104362", "obj_label": "Tlatoani", "obj_aliases": "Tlahto\u0101ni"}
+{"sub_id": "Q44853", "sub_label": "Hiawatha", "sub_aliases": "Hai\u00eb\u00f1'wa'tha", "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q12107533", "sub_label": "Cavarinus", "sub_aliases": [], "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q43527", "sub_label": "Sitting Bull", "sub_aliases": "Tatanka Yotanka", "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q29351", "sub_label": "Spake Torleiv", "sub_aliases": [], "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q1656017", "sub_label": "Tulayha", "sub_aliases": ["Tulayha ibn Khuwaylid ibn Nawfal al-Asadi"], "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q267752", "sub_label": "Spotted Tail", "sub_aliases": "Sinte Gle\u015bka", "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q578878", "sub_label": "Chief Powhatan", "sub_aliases": ["Wahunsenacawh", "Wahunsonacock", "Wahunsonacook", "Powhatan"], "obj_id": "Q1259323", "obj_label": "H\u00e4uptling", "obj_aliases": "Stammesh\u00e4uptling"}
+{"sub_id": "Q11016959", "sub_label": "Gaius Licinius Lucullus", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q10447214", "sub_label": "Gaius Cestius Epulo", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q6697606", "sub_label": "Lucius Roscius Otho", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q5249189", "sub_label": "Decimus Laelius", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q3621464", "sub_label": "Lucius Caesetius Flavus", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q3655332", "sub_label": "Aulus Pompeius", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q3655298", "sub_label": "Tiberius Canutius", "sub_aliases": "Tiberius Cannutius", "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q284626", "sub_label": "Decimus Carfulenus", "sub_aliases": [], "obj_id": "Q11704729", "obj_label": "Volkstribun"}
+{"sub_id": "Q1745439", "sub_label": "Klaus Metzl", "sub_aliases": "Metzl", "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q1512576", "sub_label": "Gerhard Stanke", "sub_aliases": [], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q12035697", "sub_label": "Martin Dav\u00eddek", "sub_aliases": ["Martin Davidek"], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q101793128", "sub_label": "Angel Maria Unzueta", "sub_aliases": "\u00c1ngel Mar\u00eda Unzueta Zamalloa", "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q64691784", "sub_label": "Florent de Montmorency", "sub_aliases": [], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q2127816", "sub_label": "Raimund Sternal", "sub_aliases": [], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q55794604", "sub_label": "Klaus Winterkamp", "sub_aliases": [], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q55791305", "sub_label": "Klaus Pfeffer", "sub_aliases": [], "obj_id": "Q1044528", "obj_label": "Generalvikar", "obj_aliases": "Generalvikarin"}
+{"sub_id": "Q1469489", "sub_label": "Froduald Karamira", "sub_aliases": "Karamira", "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q2642109", "sub_label": "Alexander Fjodorowitsch Andrejew", "sub_aliases": "Alexandr Andreev", "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q3019571", "sub_label": "Jeff Kaplan", "sub_aliases": ["Jeffrey Kaplan"], "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q5361184", "sub_label": "Mar\u00eda Antonieta de Bogr\u00e1n", "sub_aliases": ["Maria Antonieta de Bogran"], "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q2257907", "sub_label": "Nicolaas Jouwe", "sub_aliases": [], "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q3082317", "sub_label": "Franck de Lapersonne", "sub_aliases": "Franck Lapersonne", "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q372591", "sub_label": "Nguy\u1ec5n Cao K\u1ef3", "sub_aliases": "Nguyen Kao Ky", "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}
+{"sub_id": "Q918630", "sub_label": "Charles Munger", "sub_aliases": "Charlie Munger", "obj_id": "Q42178", "obj_label": "Vizepr\u00e4sident", "obj_aliases": "Vizepr\u00e4sidentin"}

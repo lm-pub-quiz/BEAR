@@ -1,0 +1,150 @@
+{"sub_id": "Q186395", "sub_label": "Tachar", "sub_aliases": "Takhar", "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q1092639", "sub_label": "Alexandria Arachosia", "sub_aliases": [], "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q183036", "sub_label": "Dschuzdschan", "sub_aliases": "\u062c\u0648\u0632\u062c\u0627\u0646", "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q183056", "sub_label": "Wardak", "sub_aliases": "Maidan Wardak", "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q186418", "sub_label": "Kunduz", "sub_aliases": "Provinz Kunduz", "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q165376", "sub_label": "Badachschan", "sub_aliases": "Badakhshan", "obj_id": "Q889", "obj_label": "Afghanistan", "answer_idx": 0}
+{"sub_id": "Q231331", "sub_label": "Oran", "sub_aliases": "DZ-31", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q213944", "sub_label": "Annaba", "sub_aliases": "DZ-23", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q235718", "sub_label": "Jijel", "sub_aliases": "DZ-18", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q231748", "sub_label": "Laghouat", "sub_aliases": "DZ-03", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q235814", "sub_label": "Tipaza", "sub_aliases": "DZ-42", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q141026", "sub_label": "Provinz Algier", "sub_aliases": "DZ-16", "obj_id": "Q262", "obj_label": "Algerien", "answer_idx": 1, "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q44823", "sub_label": "Santa Fe", "sub_aliases": ["Santa Fe Province, Argentina"], "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q44764", "sub_label": "Jujuy", "sub_aliases": ["Jujuy Province"], "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q2365041", "sub_label": "Argentinier", "sub_aliases": ["Argentine people", "Argentinians", "Argentineans", "Argentina residents"], "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q44754", "sub_label": "Buenos Aires", "sub_aliases": ["Province of Buenos Aires", "Buenos Aires"], "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q44762", "sub_label": "Entre R\u00edos", "sub_aliases": "Provinz Entre R\u00edos", "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q44761", "sub_label": "Formosa", "sub_aliases": [], "obj_id": "Q414", "obj_label": "Argentinien", "answer_idx": 2}
+{"sub_id": "Q2012430", "sub_label": "Oblast Smoljan", "sub_aliases": "BG-21", "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q6587068", "sub_label": "Oblast Lowetsch", "sub_aliases": ["Lovech Oblast"], "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q2012583", "sub_label": "Oblast Stara Sagora", "sub_aliases": "BG-24", "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q907395", "sub_label": "Oblast Dobritsch", "sub_aliases": "BG-08", "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q2012589", "sub_label": "Oblast Targowischte", "sub_aliases": "BG-25", "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q182809", "sub_label": "Oblast Chaskowo", "sub_aliases": "BG-26", "obj_id": "Q219", "obj_label": "Bulgarien", "answer_idx": 3}
+{"sub_id": "Q272747", "sub_label": "La Guajira", "sub_aliases": "CO-LAG", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q121233", "sub_label": "Departamento de Boyac\u00e1", "sub_aliases": "CO-BOY", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q234501", "sub_label": "Tolima", "sub_aliases": "CO-TOL", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q235166", "sub_label": "Departamento de Santander", "sub_aliases": "CO-SAN", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q230602", "sub_label": "Departamento del Cauca", "sub_aliases": "CO-CAU", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q44724", "sub_label": "Departamento del Amazonas", "sub_aliases": "CO-AMA", "obj_id": "Q739", "obj_label": "Kolumbien", "answer_idx": 4}
+{"sub_id": "Q967133", "sub_label": "Negoslavci", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q208178", "sub_label": "Trpinja", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58060", "sub_label": "Gespanschaft Bjelovar-Bilogora", "sub_aliases": "HR-07", "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58146", "sub_label": "Gespanschaft Zadar", "sub_aliases": "Zadarska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58268", "sub_label": "Gespanschaft Istrien", "sub_aliases": "Istarska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58159", "sub_label": "Gespanschaft Osijek-Baranja", "sub_aliases": "Osje\u010dko-baranjska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "answer_idx": 5, "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q499475", "sub_label": "Provinz Orellana", "sub_aliases": "Orellana", "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q241140", "sub_label": "Provinz Cotopaxi", "sub_aliases": "EC-X", "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q272586", "sub_label": "Provinz Pichincha", "sub_aliases": "Pichincha", "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q321863", "sub_label": "Provinz Imbabura", "sub_aliases": "Imbabura", "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q248770", "sub_label": "Reventador", "sub_aliases": [], "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q504238", "sub_label": "Provinz Loja", "sub_aliases": "Loja", "obj_id": "Q736", "obj_label": "Ecuador", "answer_idx": 6, "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q30662", "sub_label": "Schimal Sina", "sub_aliases": "Schim\u0101l S\u012bn\u0101\u02be", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30831", "sub_label": "Gouvernement Rotes Meer", "sub_aliases": "Gouvernement al-Bahr al-ahmar", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q29965", "sub_label": "Asyut", "sub_aliases": "Gouvernement Asyut", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30682", "sub_label": "Gouvernement Matruh", "sub_aliases": "Matr\u016bh", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30656", "sub_label": "al-Fayyum", "sub_aliases": "Gouvernement al-Fayyum", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q29937", "sub_label": "Aswan", "sub_aliases": "Gouvernement Aswan", "obj_id": "Q79", "obj_label": "\u00c4gypten", "answer_idx": 7, "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q543703", "sub_label": "Nationalpark Donau-Eipel", "sub_aliases": [], "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q185374", "sub_label": "Komitat Zala", "sub_aliases": "Szala", "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q188612", "sub_label": "Komitat Pest", "sub_aliases": "HU-PE", "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q191604", "sub_label": "Komitat Heves", "sub_aliases": "HU-HE", "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q15226853", "sub_label": "Hungarian-Turkish Friendship Park", "sub_aliases": ["Magyar\u2013T\u00f6r\u00f6k Bar\u00e1ts\u00e1g Park"], "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q187677", "sub_label": "Komitat Vas", "sub_aliases": "HU-VA", "obj_id": "Q28", "obj_label": "Ungarn", "answer_idx": 8}
+{"sub_id": "Q5094", "sub_label": "Nordmolukken", "sub_aliases": [], "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q1823", "sub_label": "Aceh", "sub_aliases": "Provinz Aceh", "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q3916", "sub_label": "Kalimantan Barat", "sub_aliases": "Provinz Westkalimantan", "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q2223", "sub_label": "Kepulauan Riau", "sub_aliases": "Provinz der Riauinseln", "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q3891", "sub_label": "Kalimantan Tengah", "sub_aliases": "Provinz Zentralkalimantan", "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q2140", "sub_label": "Sumatera Utara", "sub_aliases": "Provinz Nordsumatra", "obj_id": "Q252", "obj_label": "Indonesien", "answer_idx": 9, "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q120730", "sub_label": "Pr\u00e4fektur Ky\u014dto", "sub_aliases": "Pr\u00e4fektur Kyoto", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q123258", "sub_label": "Pr\u00e4fektur Fukuoka", "sub_aliases": "JP-40", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q71699", "sub_label": "Pr\u00e4fektur Aomori", "sub_aliases": "JP-02", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q13991", "sub_label": "Shikoku", "sub_aliases": "Schikoku", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q81863", "sub_label": "Pr\u00e4fektur Akita", "sub_aliases": "JP-05", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q129499", "sub_label": "Pr\u00e4fektur Gunma", "sub_aliases": "Pr\u00e4fektur Gumma", "obj_id": "Q17", "obj_label": "Japan", "answer_idx": 10, "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q463959", "sub_label": "Taraba", "sub_aliases": "NG-TA", "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q424388", "sub_label": "Akwa Ibom", "sub_aliases": "NG-AK", "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q145793", "sub_label": "Zamfara", "sub_aliases": [], "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q503910", "sub_label": "Delta", "sub_aliases": "NG-DE", "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q836645", "sub_label": "Nassarawa", "sub_aliases": "NG-NA", "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q503905", "sub_label": "Oyo", "sub_aliases": "NG-OY", "obj_id": "Q1033", "obj_label": "Nigeria", "answer_idx": 11, "obj_aliases": "Nigerien"}
+{"sub_id": "Q50614", "sub_label": "\u00d8stfold", "sub_aliases": [], "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50626", "sub_label": "Sogn og Fjordane", "sub_aliases": "Sogn und Fjordane", "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50625", "sub_label": "Hordaland", "sub_aliases": [], "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q505125", "sub_label": "Russenorsk", "sub_aliases": "Russennorwegisch", "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50627", "sub_label": "M\u00f8re og Romsdal", "sub_aliases": "M\u00f8re und Romsdal", "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50632", "sub_label": "Finnmark", "sub_aliases": "Ruija", "obj_id": "Q20", "obj_label": "Norwegen", "answer_idx": 12, "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q37211", "sub_label": "Sindh", "sub_aliases": "PK-SD", "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q4700804", "sub_label": "Akhtar Colony", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q2336399", "sub_label": "Baluchistan", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q7160855", "sub_label": "Pehlwan Goth", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q208270", "sub_label": "Stammesgebiete unter Bundesverwaltung", "sub_aliases": "PK-TA", "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q3696019", "sub_label": "Tacht-i Suleiman", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "answer_idx": 13, "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q188959", "sub_label": "Kreis Covasna", "sub_aliases": "RO-CV", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q181513", "sub_label": "Kreis Bistri\u021ba-N\u0103s\u0103ud", "sub_aliases": "RO-BN", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q179779", "sub_label": "Kreis Bac\u0103u", "sub_aliases": "RO-BC", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q182624", "sub_label": "Kreis Cluj", "sub_aliases": "RO-CJ", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q191065", "sub_label": "Kreis Dolj", "sub_aliases": "RO-DJ", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q178861", "sub_label": "Kreis Boto\u0219ani", "sub_aliases": "RO-BT", "obj_id": "Q218", "obj_label": "Rum\u00e4nien", "answer_idx": 14}
+{"sub_id": "Q1043446", "sub_label": "Okrug Rasina", "sub_aliases": "RS-19", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1061082", "sub_label": "Okrug Ra\u0161ka", "sub_aliases": "RS-18", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1048184", "sub_label": "Okrug Toplica", "sub_aliases": "Toplica", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q544118", "sub_label": "Okrug \u0160umadija", "sub_aliases": "RS-12", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q876541", "sub_label": "Okrug Jablanica", "sub_aliases": "RS-23", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1061076", "sub_label": "Ni\u0161avski okrug", "sub_aliases": "RS-20", "obj_id": "Q403", "obj_label": "Serbien", "answer_idx": 15, "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q17042632", "sub_label": "Nexon Computer Museum", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q1649160", "sub_label": "RENO-Experiment", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q487576", "sub_label": "Yeongnam", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q6931712", "sub_label": "Mudeungsan", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q20934", "sub_label": "Incheon", "sub_aliases": "Intsch\u00f6n", "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q41283", "sub_label": "Gwangju", "sub_aliases": "Kwangdschu", "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "answer_idx": 16, "obj_aliases": "Suedkorea"}
+{"sub_id": "Q104877", "sub_label": "V\u00e4sterbottens l\u00e4n", "sub_aliases": ["V\u00e4sterbottens l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103686", "sub_label": "Norrbottens l\u00e4n", "sub_aliases": "SE-BD", "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103679", "sub_label": "J\u00e4mtlands l\u00e4n", "sub_aliases": ["J\u00e4mtlands l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103659", "sub_label": "Sk\u00e5ne l\u00e4n", "sub_aliases": "Schonen", "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103732", "sub_label": "Dalarnas l\u00e4n", "sub_aliases": "Kopparbergs l\u00e4n", "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q106789", "sub_label": "V\u00e4rmlands l\u00e4n", "sub_aliases": ["V\u00e4rmlands l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "answer_idx": 17, "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q11933", "sub_label": "Kanton Zug", "sub_aliases": "ZG", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q12746", "sub_label": "Kanton St. Gallen", "sub_aliases": "Sankt Gallen", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q12121", "sub_label": "Kanton Luzern", "sub_aliases": "LU", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q834", "sub_label": "Kanton Wallis", "sub_aliases": "Staat Wallis", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q12640", "sub_label": "Kanton Freiburg", "sub_aliases": "Staat Freiburg", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q12738", "sub_label": "Kanton Neuenburg", "sub_aliases": "Neuenburg", "obj_id": "Q39", "obj_label": "Schweiz", "answer_idx": 18, "obj_aliases": "Conf\u0153deratio Helvetica"}
+{"sub_id": "Q176458", "sub_label": "Til Barsip", "sub_aliases": ["Til Barsip, Syria", "Til Barsip, Aleppo", "Til Barsib", "Tell Ahmar", "A\u1e29mar, Tall al", "Ahmar, Tell", "\u02bbAmm\u0101r, Tall", "Kar-Shalmaneser", "Kar-Shulmanashared", "Masuwari", "Tall al A\u1e29mar", "Tall \u02bbAmm\u0101r", "Kar-Shulm\u00e2nashared", "Giri-S\u00fbr", "Tell Achmar\u200f", "Giri-Sur"], "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q235563", "sub_label": "Gouvernement ar-Raqqa", "sub_aliases": "Ar-Raqqa", "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q232382", "sub_label": "Gouvernement Tartus", "sub_aliases": "SY-TA", "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q233914", "sub_label": "Gouvernement Al-Hasaka", "sub_aliases": "Gouvernement Al-Hasakah", "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q232387", "sub_label": "Gouvernement Deir ez-Zor", "sub_aliases": "SY-DY", "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q3326600", "sub_label": "Tunip", "sub_aliases": [], "obj_id": "Q858", "obj_label": "Syrien", "answer_idx": 19}
+{"sub_id": "Q46763", "sub_label": "Bilecik", "sub_aliases": "TR-11", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q82096", "sub_label": "Denizli", "sub_aliases": "TR-20", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q83965", "sub_label": "Kocaeli", "sub_aliases": ["Kocaeli"], "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q80370", "sub_label": "Batman", "sub_aliases": "TR-72", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q47813", "sub_label": "\u00c7anakkale", "sub_aliases": "TR-17", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q376797", "sub_label": "Erzurum", "sub_aliases": [], "obj_id": "Q43", "obj_label": "T\u00fcrkei", "answer_idx": 20, "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q167859", "sub_label": "Oblast Wolhynien", "sub_aliases": "Wolynska Oblast", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q168856", "sub_label": "Oblast Tscherniwzi", "sub_aliases": "UA-77", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q181633", "sub_label": "Oblast Mykolajiw", "sub_aliases": "UA-48", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q171334", "sub_label": "Oblast Saporischschja", "sub_aliases": "UA-23", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q161808", "sub_label": "Oblast Tscherkassy", "sub_aliases": "UA-71", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q2682584", "sub_label": "Bahnhof Janiv", "sub_aliases": "Bf Janov", "obj_id": "Q212", "obj_label": "Ukraine", "answer_idx": 21}
+{"sub_id": "Q1456", "sub_label": "South Carolina", "sub_aliases": "S\u00fcd-Karolina", "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q527825", "sub_label": "Mountain States", "sub_aliases": "Mountain West", "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q1811372", "sub_label": "Alaska-Territorium", "sub_aliases": ["Alaska Territory"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q669315", "sub_label": "Nordwestterritorium", "sub_aliases": [], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q1420228", "sub_label": "Oregon-Territorium", "sub_aliases": ["Territory of Oregon"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q1527", "sub_label": "Minnesota", "sub_aliases": ["MN", "Land of 10,000 Lakes", "Minnesota, United States", "State of Minnesota", "Minn.", "US-MN"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "answer_idx": 22, "obj_aliases": "Amerika"}
+{"sub_id": "Q16594", "sub_label": "Departamento Montevideo", "sub_aliases": "Montevideo", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q331196", "sub_label": "Departamento Maldonado", "sub_aliases": "UY-MA", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16580", "sub_label": "Departamento Colonia", "sub_aliases": "UY-CO", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16577", "sub_label": "Departamento Canelones", "sub_aliases": "UY-CA", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q460435", "sub_label": "Departamento Lavalleja", "sub_aliases": "UY-LA", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16603", "sub_label": "Departamento Artigas", "sub_aliases": "UY-AR", "obj_id": "Q77", "obj_label": "Uruguay", "answer_idx": 23, "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q2943", "sub_label": "Sixtinische Kapelle", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}
+{"sub_id": "Q2291560", "sub_label": "Casina Pio IV", "sub_aliases": "Villa von Pius IV.", "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}
+{"sub_id": "Q81644885", "sub_label": "Angels Unawares", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}
+{"sub_id": "Q2547111", "sub_label": "Belvederehof", "sub_aliases": "Hof des Belverdere", "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}
+{"sub_id": "Q1166213", "sub_label": "St. Stephan der \u00c4thiopier", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}
+{"sub_id": "Q4540172", "sub_label": "Mater Ecclesiae", "sub_aliases": "Kloster Mater Ecclesiae", "obj_id": "Q237", "obj_label": "Vatikanstadt", "answer_idx": 24, "obj_aliases": "Vatikan"}

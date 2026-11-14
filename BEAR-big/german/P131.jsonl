@@ -1,0 +1,574 @@
+{"sub_id": "Q186395", "sub_label": "Tachar", "sub_aliases": "Takhar", "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q1092639", "sub_label": "Alexandria Arachosia", "sub_aliases": [], "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q183036", "sub_label": "Dschuzdschan", "sub_aliases": "\u062c\u0648\u0632\u062c\u0627\u0646", "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q183056", "sub_label": "Wardak", "sub_aliases": "Maidan Wardak", "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q21755216", "sub_label": "Zakh\u012brah-ye \u0100b-e Band-e Kajak\u012b", "sub_aliases": [], "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q186418", "sub_label": "Kunduz", "sub_aliases": "Provinz Kunduz", "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q21752342", "sub_label": "Kh\u0101rz\u0101r-e Kh\u014drd", "sub_aliases": [], "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q165376", "sub_label": "Badachschan", "sub_aliases": "Badakhshan", "obj_id": "Q889", "obj_label": "Afghanistan"}
+{"sub_id": "Q231331", "sub_label": "Oran", "sub_aliases": "DZ-31", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q213944", "sub_label": "Annaba", "sub_aliases": "DZ-23", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q168953", "sub_label": "Ain Defla", "sub_aliases": "DZ-44", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q235718", "sub_label": "Jijel", "sub_aliases": "DZ-18", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q231748", "sub_label": "Laghouat", "sub_aliases": "DZ-03", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q235814", "sub_label": "Tipaza", "sub_aliases": "DZ-42", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q233655", "sub_label": "Bouira", "sub_aliases": "DZ-10", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q141026", "sub_label": "Provinz Algier", "sub_aliases": "DZ-16", "obj_id": "Q262", "obj_label": "Algerien", "obj_aliases": "Demokratische Volksrepublik Algerien"}
+{"sub_id": "Q44823", "sub_label": "Santa Fe", "sub_aliases": ["Santa Fe Province, Argentina"], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q44764", "sub_label": "Jujuy", "sub_aliases": ["Jujuy Province"], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q2365041", "sub_label": "Argentinier", "sub_aliases": ["Argentine people", "Argentinians", "Argentineans", "Argentina residents"], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q5708971", "sub_label": "Organizaci\u00f3n Barrial Tupac Amaru", "sub_aliases": [], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q44754", "sub_label": "Buenos Aires", "sub_aliases": ["Province of Buenos Aires", "Buenos Aires"], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q44762", "sub_label": "Entre R\u00edos", "sub_aliases": "Provinz Entre R\u00edos", "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q44761", "sub_label": "Formosa", "sub_aliases": [], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q21835320", "sub_label": "Meseta Pedregosa", "sub_aliases": [], "obj_id": "Q414", "obj_label": "Argentinien"}
+{"sub_id": "Q459732", "sub_label": "Sylhet", "sub_aliases": "BD-G", "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q4998864", "sub_label": "Burimari\u2013Lalmonirhat\u2013Parbatipur line", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q21748573", "sub_label": "Moindaung", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q7593300", "sub_label": "St Gregory's School", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q6965553", "sub_label": "Narayanganj\u2013Bahadurabad Ghat line", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q2621444", "sub_label": "Atrai River", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q21752898", "sub_label": "Bara Singhra Nadi", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q21745665", "sub_label": "Lengta Char", "sub_aliases": [], "obj_id": "Q902", "obj_label": "Bangladesch"}
+{"sub_id": "Q21580062", "sub_label": "Ostrynskiy Rayon", "sub_aliases": [], "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q192959", "sub_label": "Woblast Minsk", "sub_aliases": "Vob\u0142as\u0107 Minsk", "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q185700", "sub_label": "Wizebskaja Woblasz", "sub_aliases": "Witebskaja Oblast", "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q21867645", "sub_label": "Uspol", "sub_aliases": [], "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q962492", "sub_label": "Beresina-Kanalsystem", "sub_aliases": ["Berezinskiy Kanal"], "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q173822", "sub_label": "Breszkaja Woblasz", "sub_aliases": "Woblast Brest", "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q21862977", "sub_label": "Mizhigryadka", "sub_aliases": [], "obj_id": "Q184", "obj_label": "Belarus", "obj_aliases": "Republik Belarus"}
+{"sub_id": "Q21806807", "sub_label": "Mulli Urqu", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q18536427", "sub_label": "Q'aysiri", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q1674009", "sub_label": "Iskanwaya", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q18392615", "sub_label": "Pirwani", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q21792316", "sub_label": "Laguna Las Piranas", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q3241635", "sub_label": "Cerros de Tocorpuri", "sub_aliases": "Vulkan Tocorpuri", "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q1055933", "sub_label": "Cerro Pucarani", "sub_aliases": "Villa Pucarani", "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q235362", "sub_label": "Pando", "sub_aliases": [], "obj_id": "Q750", "obj_label": "Bolivien"}
+{"sub_id": "Q40030", "sub_label": "Rio Grande do Sul", "sub_aliases": "Estado do Rio Grande do Sul", "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q980175", "sub_label": "Zentralwesten", "sub_aliases": [], "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q11699394", "sub_label": "Garganta del Diablo", "sub_aliases": "Garganta do Diabo", "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q3458607", "sub_label": "Cuiari River", "sub_aliases": ["Rio Cuiari"], "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q2500257", "sub_label": "Gurup\u00ed River", "sub_aliases": ["Gurupi River", "Rio Gurupi"], "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q7921037", "sub_label": "Verde Grande River", "sub_aliases": [], "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q1136194", "sub_label": "Regi\u00e3o Nordeste", "sub_aliases": "Nordostregion", "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q745263", "sub_label": "Rio Teles Pires", "sub_aliases": "Rio S\u00e3o Manoel", "obj_id": "Q155", "obj_label": "Brasilien", "obj_aliases": "F\u00f6derative Republik Brasilien"}
+{"sub_id": "Q2012430", "sub_label": "Oblast Smoljan", "sub_aliases": "BG-21", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q6587068", "sub_label": "Oblast Lowetsch", "sub_aliases": ["Lovech Oblast"], "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q2012583", "sub_label": "Oblast Stara Sagora", "sub_aliases": "BG-24", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q907395", "sub_label": "Oblast Dobritsch", "sub_aliases": "BG-08", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q2012589", "sub_label": "Oblast Targowischte", "sub_aliases": "BG-25", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q182809", "sub_label": "Oblast Chaskowo", "sub_aliases": "BG-26", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q1007272", "sub_label": "Oblast Gabrowo", "sub_aliases": "BG-07", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q2012242", "sub_label": "Oblast Plewen", "sub_aliases": "BG-15", "obj_id": "Q219", "obj_label": "Bulgarien"}
+{"sub_id": "Q785896", "sub_label": "Kratie", "sub_aliases": ["Kraches", "Kratie Province"], "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q220966", "sub_label": "Sihanoukville", "sub_aliases": "KH-18", "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q834464", "sub_label": "Pursat", "sub_aliases": "KH-15", "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q810923", "sub_label": "Battambang", "sub_aliases": [], "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q35436212", "sub_label": "St\u0153\u0306ng Thm\u00e2 T\u0153\u0306k D\u0103ch", "sub_aliases": [], "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q751864", "sub_label": "Svay Rieng", "sub_aliases": "KH-20", "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q506646", "sub_label": "Pailin", "sub_aliases": "KH-24", "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q837889", "sub_label": "Stung Treng", "sub_aliases": ["Stung Treng"], "obj_id": "Q424", "obj_label": "Kambodscha", "obj_aliases": "K\u00f6nigreich Kambodscha"}
+{"sub_id": "Q272747", "sub_label": "La Guajira", "sub_aliases": "CO-LAG", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q234912", "sub_label": "Departamento de C\u00f3rdoba", "sub_aliases": "Departement C\u00f3rdoba", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q121233", "sub_label": "Departamento de Boyac\u00e1", "sub_aliases": "CO-BOY", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q234501", "sub_label": "Tolima", "sub_aliases": "CO-TOL", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q235166", "sub_label": "Departamento de Santander", "sub_aliases": "CO-SAN", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q234505", "sub_label": "Departamento del Vaup\u00e9s", "sub_aliases": "CO-VAU", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q230602", "sub_label": "Departamento del Cauca", "sub_aliases": "CO-CAU", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q44724", "sub_label": "Departamento del Amazonas", "sub_aliases": "CO-AMA", "obj_id": "Q739", "obj_label": "Kolumbien"}
+{"sub_id": "Q967133", "sub_label": "Negoslavci", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q208178", "sub_label": "Trpinja", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58060", "sub_label": "Gespanschaft Bjelovar-Bilogora", "sub_aliases": "HR-07", "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q921037", "sub_label": "Zimi\u0107", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q1710909", "sub_label": "Marton-Museum", "sub_aliases": [], "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58146", "sub_label": "Gespanschaft Zadar", "sub_aliases": "Zadarska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58268", "sub_label": "Gespanschaft Istrien", "sub_aliases": "Istarska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q58159", "sub_label": "Gespanschaft Osijek-Baranja", "sub_aliases": "Osje\u010dko-baranjska \u017eupanija", "obj_id": "Q224", "obj_label": "Kroatien", "obj_aliases": "Republik Kroatien"}
+{"sub_id": "Q115434", "sub_label": "Provinz Villa Clara", "sub_aliases": "Las Villas", "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q23795533", "sub_label": "Cayo la Hoya", "sub_aliases": [], "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q115046", "sub_label": "Provinz Granma", "sub_aliases": "CU-12", "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q23796122", "sub_label": "Guantanamo Valley", "sub_aliases": [], "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q115441", "sub_label": "Provinz Sancti Sp\u00edritus", "sub_aliases": "Sancti Sp\u00edritus", "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q23805978", "sub_label": "Cayo Libertad", "sub_aliases": [], "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q12588", "sub_label": "Provinz La Habana", "sub_aliases": "La Habana", "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q23795451", "sub_label": "Cayo Hermano de Afuera", "sub_aliases": [], "obj_id": "Q241", "obj_label": "Kuba"}
+{"sub_id": "Q22985766", "sub_label": "Megas Potamos", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q59147", "sub_label": "Bezirk Nikosia", "sub_aliases": "CY-02", "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q22988463", "sub_label": "Kyparissia Potamos", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q22985617", "sub_label": "Argaki tis Platanias", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q22988554", "sub_label": "Amathos", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q22988579", "sub_label": "Makrorachi", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q59148", "sub_label": "Bezirk Famagusta", "sub_aliases": "CY-03", "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q22985748", "sub_label": "Stavropefkos", "sub_aliases": [], "obj_id": "Q229", "obj_label": "Zypern", "obj_aliases": "S\u00fcdzypern"}
+{"sub_id": "Q3148080", "sub_label": "Ifandu", "sub_aliases": [], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q3153978", "sub_label": "Inzia", "sub_aliases": [], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q22395225", "sub_label": "Kavala Island", "sub_aliases": [], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q22463336", "sub_label": "Mbuji-Mayi River", "sub_aliases": ["Bushmaie River, Bushimaie River"], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q831370", "sub_label": "Orientale", "sub_aliases": "CD-OR", "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q22416230", "sub_label": "Lese River", "sub_aliases": [], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q652383", "sub_label": "Matari Airport", "sub_aliases": ["Isiro-Matari Airport", "IRP", "FZJH"], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q22507993", "sub_label": "Tingitingi", "sub_aliases": [], "obj_id": "Q974", "obj_label": "Demokratische Republik Kongo", "obj_aliases": "DRK"}
+{"sub_id": "Q499475", "sub_label": "Provinz Orellana", "sub_aliases": "Orellana", "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q5762444", "sub_label": "Shell", "sub_aliases": [], "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q4837440", "sub_label": "R\u00edo Babahoyo", "sub_aliases": [], "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q241140", "sub_label": "Provinz Cotopaxi", "sub_aliases": "EC-X", "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q272586", "sub_label": "Provinz Pichincha", "sub_aliases": "Pichincha", "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q321863", "sub_label": "Provinz Imbabura", "sub_aliases": "Imbabura", "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q248770", "sub_label": "Reventador", "sub_aliases": [], "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q504238", "sub_label": "Provinz Loja", "sub_aliases": "Loja", "obj_id": "Q736", "obj_label": "Ecuador", "obj_aliases": "Republik Ecuador"}
+{"sub_id": "Q30662", "sub_label": "Schimal Sina", "sub_aliases": "Schim\u0101l S\u012bn\u0101\u02be", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30831", "sub_label": "Gouvernement Rotes Meer", "sub_aliases": "Gouvernement al-Bahr al-ahmar", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q29965", "sub_label": "Asyut", "sub_aliases": "Gouvernement Asyut", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30682", "sub_label": "Gouvernement Matruh", "sub_aliases": "Matr\u016bh", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q328134", "sub_label": "as-Sadis min Uktubar", "sub_aliases": "Gouvernement as-Sadis min Uktubar", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q475035", "sub_label": "Helwan", "sub_aliases": "Heluan", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q30656", "sub_label": "al-Fayyum", "sub_aliases": "Gouvernement al-Fayyum", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q29937", "sub_label": "Aswan", "sub_aliases": "Gouvernement Aswan", "obj_id": "Q79", "obj_label": "\u00c4gypten", "obj_aliases": "Arabische Republik \u00c4gypten"}
+{"sub_id": "Q1200", "sub_label": "Rheinland-Pfalz", "sub_aliases": "Land Rheinland-Pfalz", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q870831", "sub_label": "Preu\u00dfischer optischer Telegraf", "sub_aliases": "Preu\u00dfischer optischer Telegraph", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q1196", "sub_label": "Mecklenburg-Vorpommern", "sub_aliases": "MeckPomm", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q985", "sub_label": "Baden-W\u00fcrttemberg", "sub_aliases": "Land Baden-W\u00fcrttemberg", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q812474", "sub_label": "Bayern 2", "sub_aliases": "Bayern2Radio", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q1197", "sub_label": "Niedersachsen", "sub_aliases": "Land Niedersachsen", "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q795290", "sub_label": "BR24live", "sub_aliases": ["B5+", "B5 +", "B5 plus"], "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q9394099", "sub_label": "Adlergrund", "sub_aliases": ["Adler Grund"], "obj_id": "Q183", "obj_label": "Deutschland", "obj_aliases": "Bundesrepublik Deutschland"}
+{"sub_id": "Q64685186", "sub_label": "Bono Region", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q24697293", "sub_label": "Bowiye Range", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q1290767", "sub_label": "Sisili", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q24697067", "sub_label": "Atamore", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q26905897", "sub_label": "Fort Vernon", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q24696114", "sub_label": "Nyinawusu", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q24696211", "sub_label": "Pampremsu", "sub_aliases": [], "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q712828", "sub_label": "Upper East Region", "sub_aliases": "GH-UE", "obj_id": "Q117", "obj_label": "Ghana", "obj_aliases": "Republik Ghana"}
+{"sub_id": "Q26232828", "sub_label": "Ecskend", "sub_aliases": [], "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q543703", "sub_label": "Nationalpark Donau-Eipel", "sub_aliases": [], "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q185374", "sub_label": "Komitat Zala", "sub_aliases": "Szala", "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q188612", "sub_label": "Komitat Pest", "sub_aliases": "HU-PE", "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q191604", "sub_label": "Komitat Heves", "sub_aliases": "HU-HE", "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q106834328", "sub_label": "diving at the 2020 European Aquatics Championships \u2013 women's 10 m synchro platform", "sub_aliases": [], "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q15226853", "sub_label": "Hungarian-Turkish Friendship Park", "sub_aliases": ["Magyar\u2013T\u00f6r\u00f6k Bar\u00e1ts\u00e1g Park"], "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q187677", "sub_label": "Komitat Vas", "sub_aliases": "HU-VA", "obj_id": "Q28", "obj_label": "Ungarn"}
+{"sub_id": "Q27006450", "sub_label": "Hlaupfell", "sub_aliases": [], "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q34865350", "sub_label": "Svart\u00e1", "sub_aliases": [], "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q298119", "sub_label": "\u00d6r\u00e6faj\u00f6kull", "sub_aliases": "\u00d6r\u00e6fi", "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q220663", "sub_label": "Austurland", "sub_aliases": ["East Iceland"], "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q27003709", "sub_label": "Kroppinbakur", "sub_aliases": [], "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q27003786", "sub_label": "Kverkj\u00f6kull", "sub_aliases": [], "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q727267", "sub_label": "Vestfir\u00f0ir", "sub_aliases": "Westfjorde", "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q170693", "sub_label": "Keflav\u00edk", "sub_aliases": "Keflavik", "obj_id": "Q189", "obj_label": "Island"}
+{"sub_id": "Q5094", "sub_label": "Nordmolukken", "sub_aliases": [], "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q5065", "sub_label": "Sulawesi Tengah", "sub_aliases": "Provinz Zentralsulawesi", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q1823", "sub_label": "Aceh", "sub_aliases": "Provinz Aceh", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q3916", "sub_label": "Kalimantan Barat", "sub_aliases": "Provinz Westkalimantan", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q3051528", "sub_label": "Kangeaninseln", "sub_aliases": ["Kangean archipelago"], "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q2223", "sub_label": "Kepulauan Riau", "sub_aliases": "Provinz der Riauinseln", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q3891", "sub_label": "Kalimantan Tengah", "sub_aliases": "Provinz Zentralkalimantan", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q2140", "sub_label": "Sumatera Utara", "sub_aliases": "Provinz Nordsumatra", "obj_id": "Q252", "obj_label": "Indonesien", "obj_aliases": "Republik Indonesien"}
+{"sub_id": "Q1367759", "sub_label": "Isfahan", "sub_aliases": "Isfahan (Provinz)", "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q170568", "sub_label": "Yazd", "sub_aliases": [], "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q180068", "sub_label": "Kohgiluye und Boyer Ahmad", "sub_aliases": ["Kohgiluyeh & Boyerahmad", "Kohgiluyeh and Boyerahmad"], "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q392522", "sub_label": "Alborz", "sub_aliases": "Albors", "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q18520774", "sub_label": "Qezel Uzan", "sub_aliases": "Kisil Usen", "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q25953", "sub_label": "Parthisch", "sub_aliases": "parthische Sprache", "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q134417", "sub_label": "Markazi", "sub_aliases": [], "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q171551", "sub_label": "S\u00fcd-Chorasan", "sub_aliases": "IR-29", "obj_id": "Q794", "obj_label": "Iran", "obj_aliases": "Islamische Republik Iran"}
+{"sub_id": "Q26856653", "sub_label": "Tall Ab\u016b \u1e28ayyah", "sub_aliases": [], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q214104", "sub_label": "Karbala", "sub_aliases": "Provinz Karbala", "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q213182", "sub_label": "as-Sulaimaniyya", "sub_aliases": "Provinz Sil\u00eaman\u00ee", "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q2740784", "sub_label": "Tell al-Fakhar", "sub_aliases": [], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q3944781", "sub_label": "Sherwana Castle", "sub_aliases": [], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q26856454", "sub_label": "Jabal Qajar", "sub_aliases": [], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q59202", "sub_label": "Babil", "sub_aliases": ["Babil Governorate", "Babylon Province"], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q4897358", "sub_label": "Betanure", "sub_aliases": [], "obj_id": "Q796", "obj_label": "Irak"}
+{"sub_id": "Q2829026", "sub_label": "Aki Yerushalayim", "sub_aliases": [], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q4121261", "sub_label": "Gaza Envelope", "sub_aliases": ["Otef Aza"], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q2872816", "sub_label": "Autoridad Nasionala del Ladino", "sub_aliases": [], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q267300", "sub_label": "Nabratein synagogue", "sub_aliases": [], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q5450236", "sub_label": "Finger of Og", "sub_aliases": [], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q6922431", "sub_label": "Mount Nitai", "sub_aliases": ["Har Nittay"], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q6634565", "sub_label": "National Photo Collection", "sub_aliases": [], "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q2066007", "sub_label": "Schefela", "sub_aliases": "Wadi-al-Khalil", "obj_id": "Q801", "obj_label": "Israel", "obj_aliases": "Staat Israel"}
+{"sub_id": "Q940957", "sub_label": "Schnellfahrstrecke Roma\u2013Napoli", "sub_aliases": [], "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q1107317", "sub_label": "Pareispitze", "sub_aliases": "Monte Parei", "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q1400312", "sub_label": "Federazione Anarchica Informale", "sub_aliases": "FAI", "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q1280", "sub_label": "Umbrien", "sub_aliases": [], "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q1250", "sub_label": "Friaul-Julisch Venetien", "sub_aliases": ["Friuli-Julian March", "Friuli-Venezia Giulia region"], "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q3743308", "sub_label": "Bahnstrecke Bari\u2013Taranto", "sub_aliases": [], "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q1222", "sub_label": "Aostatal", "sub_aliases": "Ougstalland", "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q3620875", "sub_label": "Southern Apennine", "sub_aliases": ["Appennino Meridionale", "Southern Apennines"], "obj_id": "Q38", "obj_label": "Italien", "obj_aliases": "Italienische Republik"}
+{"sub_id": "Q133879", "sub_label": "Pr\u00e4fektur Fukui", "sub_aliases": "JP-18", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q120730", "sub_label": "Pr\u00e4fektur Ky\u014dto", "sub_aliases": "Pr\u00e4fektur Kyoto", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q123258", "sub_label": "Pr\u00e4fektur Fukuoka", "sub_aliases": "JP-40", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q71699", "sub_label": "Pr\u00e4fektur Aomori", "sub_aliases": "JP-02", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q13991", "sub_label": "Shikoku", "sub_aliases": "Schikoku", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q131314", "sub_label": "Pr\u00e4fektur Wakayama", "sub_aliases": "Wakayama-ken", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q81863", "sub_label": "Pr\u00e4fektur Akita", "sub_aliases": "JP-05", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q129499", "sub_label": "Pr\u00e4fektur Gunma", "sub_aliases": "Pr\u00e4fektur Gumma", "obj_id": "Q17", "obj_label": "Japan", "obj_aliases": "Land der aufgehenden Sonne"}
+{"sub_id": "Q35303997", "sub_label": "W\u0101d\u012b \u1e28isb\u0101n", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q750447", "sub_label": "Gouvernement Madaba", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q35279327", "sub_label": "W\u0101d\u012b Ra's al Khawr", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q35280481", "sub_label": "W\u0101d\u012b Ra\u201ds an Naqb", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q797529", "sub_label": "Bab edh-Dhra", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q472788", "sub_label": "Gouvernement Amman", "sub_aliases": "JO-AM", "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q750270", "sub_label": "Gouvernement Dscharasch", "sub_aliases": ["Jarash Governorate", "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0414\u0436\u0430\u0440\u0430\u0448"], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q35283625", "sub_label": "W\u0101d\u012b Sa\u0163\u012b\u1e29 B\u0101'ir", "sub_aliases": [], "obj_id": "Q810", "obj_label": "Jordanien"}
+{"sub_id": "Q1112885", "sub_label": "Mombasa District", "sub_aliases": "Distrikt Mombasa", "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q27194111", "sub_label": "Point Melhuish", "sub_aliases": [], "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q5091717", "sub_label": "Chepkesin", "sub_aliases": [], "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q38587", "sub_label": "Rift Valley", "sub_aliases": "KE-700", "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q1121429", "sub_label": "Uasin Gishu District", "sub_aliases": "Uasin Gishu County", "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q1520750", "sub_label": "Mount Longonot", "sub_aliases": "Mount-Longonot-Nationalpark", "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q1313202", "sub_label": "Vihiga District", "sub_aliases": [], "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q258780", "sub_label": "Bungoma District", "sub_aliases": [], "obj_id": "Q114", "obj_label": "Kenia", "obj_aliases": "Republik Kenia"}
+{"sub_id": "Q27204400", "sub_label": "Gory Uch-Yemchek", "sub_aliases": [], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q486375", "sub_label": "Oblus Naryn", "sub_aliases": "KG-N", "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q27205472", "sub_label": "Gora Mechet'-Miya", "sub_aliases": [], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q27205238", "sub_label": "Gory Chichirchik", "sub_aliases": [], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q27206495", "sub_label": "Gory Angrek-Tau", "sub_aliases": [], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q27206470", "sub_label": "Gora Ak-Changyl", "sub_aliases": [], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q487413", "sub_label": "Oblus Yssykk\u00f6l", "sub_aliases": "KG-Y", "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q9361", "sub_label": "Bischkek", "sub_aliases": ["Frunze", "Pishpek"], "obj_id": "Q813", "obj_label": "Kirgisistan", "obj_aliases": "Kirgistan"}
+{"sub_id": "Q178382", "sub_label": "J\u016brmala", "sub_aliases": "Rigastrand", "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q2079353", "sub_label": "Bezirk Bab\u012bte", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q865658", "sub_label": "Bezirk Akn\u012bste", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q2989420", "sub_label": "Bezirk Aloja", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q185072", "sub_label": "Kurland", "sub_aliases": "Kurzeme", "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q2252820", "sub_label": "Bezirk In\u010dukalns", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q2030886", "sub_label": "Bezirk Baldone", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q2320320", "sub_label": "Bezirk Grobi\u0146a", "sub_aliases": [], "obj_id": "Q211", "obj_label": "Lettland"}
+{"sub_id": "Q26161", "sub_label": "Munizip an-Nuqat al-Chams", "sub_aliases": "LY-NQ", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q48200", "sub_label": "Munizip al-Kufra", "sub_aliases": "LY-KF", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q27497926", "sub_label": "Jabal al Batr", "sub_aliases": [], "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q27493675", "sub_label": "Minq\u0101r \u015e\u0101li\u1e29", "sub_aliases": [], "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q26417", "sub_label": "Munizip Surt", "sub_aliases": "LY-SR", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q32845", "sub_label": "Munizip Misrata", "sub_aliases": "LY-MI", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q40816", "sub_label": "Bengasi", "sub_aliases": "Euphesperides", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q329060", "sub_label": "Munizip al-Dschifara", "sub_aliases": "LY-JI", "obj_id": "Q1016", "obj_label": "Libyen", "obj_aliases": "Staat Libyen"}
+{"sub_id": "Q188085", "sub_label": "Bezirk Panev\u0117\u017eys", "sub_aliases": "Panev\u0117\u017eys Apskritis", "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q186410", "sub_label": "Bezirk \u0160iauliai", "sub_aliases": "\u0160iauli\u0173 Apskritis", "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q11064520", "sub_label": "Bebirva", "sub_aliases": [], "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q10725605", "sub_label": "Aitra", "sub_aliases": [], "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q10725516", "sub_label": "Ais\u0117", "sub_aliases": [], "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q1461972", "sub_label": "Kazl\u0173 R\u016bda", "sub_aliases": [], "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q10544169", "sub_label": "\u012estras", "sub_aliases": [], "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q188963", "sub_label": "Bezirk Tel\u0161iai", "sub_aliases": "Tel\u0161i\u0173 Apskritis", "obj_id": "Q37", "obj_label": "Litauen", "obj_aliases": "Republik Litauen"}
+{"sub_id": "Q832223", "sub_label": "Betsiboka", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q679739", "sub_label": "Bongolava", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q489821", "sub_label": "Antananarivo", "sub_aliases": "Tana", "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q1352996", "sub_label": "Alaotra-Mangoro", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q1463029", "sub_label": "Vakinankaratra", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q1462671", "sub_label": "Vatovavy-Fitovinany", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q656073", "sub_label": "Antsiranana", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q1143947", "sub_label": "Diana", "sub_aliases": [], "obj_id": "Q1019", "obj_label": "Madagaskar", "obj_aliases": "Staat Madagaskar"}
+{"sub_id": "Q183032", "sub_label": "Johor", "sub_aliases": "MY-01", "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q182378", "sub_label": "Putrajaya", "sub_aliases": "MY-16", "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q185221", "sub_label": "Malakka", "sub_aliases": "MY-04", "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q33353391", "sub_label": "Bukit Lagong Forest Reserve", "sub_aliases": [], "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q35495802", "sub_label": "Sungai Bekoh", "sub_aliases": [], "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q34824286", "sub_label": "Sungai Tenong", "sub_aliases": [], "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q1116581", "sub_label": "Commonwealth Games 1998", "sub_aliases": ["Sukan Komanwel 1998", "16th Commonwealth Games"], "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q34747824", "sub_label": "One Fathom Bank", "sub_aliases": [], "obj_id": "Q833", "obj_label": "Malaysia", "obj_aliases": "Malaysien"}
+{"sub_id": "Q860716", "sub_label": "Rajon Glodeni", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q865884", "sub_label": "Rajon Taraclia", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q648767", "sub_label": "Administrative-Territorial Units of the Left Bank of the Dniester", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q753795", "sub_label": "Rajon Briceni", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q611656", "sub_label": "Rajon R\u00ee\u0219cani", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q2129025", "sub_label": "Rajon Telene\u0219ti", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q1826662", "sub_label": "Rajon Leova", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q878375", "sub_label": "Rajon F\u0103le\u0219ti", "sub_aliases": [], "obj_id": "Q217", "obj_label": "Moldau", "obj_aliases": "Republik Moldau"}
+{"sub_id": "Q15630696", "sub_label": "Gemeinde Petnjica", "sub_aliases": "Op\u0161tina Petnjica", "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q207468", "sub_label": "Bucht von Kotor", "sub_aliases": "Bucht von Cattaro", "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q11735019", "sub_label": "Kapa Mora\u010dka", "sub_aliases": [], "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q3296677", "sub_label": "Gemeinde Ro\u017eaje", "sub_aliases": [], "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q4086488", "sub_label": "Gemeinde Bijelo Polje", "sub_aliases": [], "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q14225442", "sub_label": "Montenegrin South Coast", "sub_aliases": [], "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q3738564", "sub_label": "Gemeinde Tivat", "sub_aliases": [], "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q3364446", "sub_label": "Nationalpark Durmitor", "sub_aliases": "Durmitor-Nationalpark", "obj_id": "Q236", "obj_label": "Montenegro", "obj_aliases": "Republik Montenegro"}
+{"sub_id": "Q19951051", "sub_label": "Guelmim-Oued Noun", "sub_aliases": ["Guelmim-Wad Noun", "Guelmim Oued Noun"], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q477961", "sub_label": "Rabat-Sal\u00e9-Zemmour-Zaer", "sub_aliases": ["Rabat-Sale-Zemmour-Zaer"], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q390331", "sub_label": "Chaouia-Ouardigha", "sub_aliases": [], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q477968", "sub_label": "Gharb-Chrarda-B\u00e9ni Hsen", "sub_aliases": ["Gharb-Chrarda-Beni Hssen"], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q648249", "sub_label": "F\u00e8s-Boulemane", "sub_aliases": "Fes-Boulemane", "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q264529", "sub_label": "Souss-Massa-Dra\u00e2", "sub_aliases": ["Souss-Massa-Dr\u00e2a"], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q19951125", "sub_label": "Marrakesch-Safi", "sub_aliases": ["Marrakech-Safi"], "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q1778840", "sub_label": "Oum er-Rbia", "sub_aliases": "Oum Errabi\u00e2", "obj_id": "Q1028", "obj_label": "Marokko", "obj_aliases": "K\u00f6nigreich Marokko"}
+{"sub_id": "Q27699926", "sub_label": "High Conical Peak", "sub_aliases": ["Mount Jiangao", "Jiangaoshan", "Manang Pum", "Manang Bum", "Mu Lang Pum"], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q495342", "sub_label": "Kayin-Staat", "sub_aliases": "MM-13", "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q13063538", "sub_label": "Gaungze Kyun", "sub_aliases": [], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q27696400", "sub_label": "Shwedaungnyotaung", "sub_aliases": [], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q843954", "sub_label": "Tanintharyi-Region", "sub_aliases": "Taninthayi", "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q51348538", "sub_label": "Lahu Democratic Union", "sub_aliases": ["LDU"], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q27700342", "sub_label": "Da-that Island", "sub_aliases": [], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q27699543", "sub_label": "Kaingtaunggyi", "sub_aliases": [], "obj_id": "Q836", "obj_label": "Myanmar", "obj_aliases": "Union von Myanmar"}
+{"sub_id": "Q20757624", "sub_label": "Karyolung", "sub_aliases": "Karelu\u1e45 \u1e0c\u0101\u0303\u1e0d\u0101", "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q3451677", "sub_label": "Begnas Lake", "sub_aliases": ["Begn\u0101s T\u0101l"], "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q31653725", "sub_label": "Kalo\u1e6dupp\u0101 \u1e0c\u0101n\u1e0d\u0101", "sub_aliases": [], "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q13423903", "sub_label": "Talung", "sub_aliases": "T\u0101lu\u1e45", "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q31653973", "sub_label": "Luri\u0307\u0304 Him\u0101l", "sub_aliases": [], "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q20757628", "sub_label": "Lunag Ri", "sub_aliases": [], "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q14214615", "sub_label": "Eastern Tarai", "sub_aliases": [], "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q20757629", "sub_label": "Mal\u0101\u1e45phul\u0101\u1e45", "sub_aliases": "Malangphulang", "obj_id": "Q837", "obj_label": "Nepal", "obj_aliases": "Demokratische Bundesrepublik Nepal"}
+{"sub_id": "Q2673790", "sub_label": "Bahnstrecke Winterswijk\u2013Zevenaar", "sub_aliases": "Bahnstrecke Zevenaar\u2013Winterswijk", "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q1295357", "sub_label": "Eemmeer", "sub_aliases": [], "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q689171", "sub_label": "Het Financieele Dagblad", "sub_aliases": [], "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q802411", "sub_label": "Bahnstrecke Harlingen\u2013Nieuwe Schans", "sub_aliases": "Staatslijn B", "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q1122508", "sub_label": "Profronde van Drenthe", "sub_aliases": "Ronde van Drenthe", "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q1101", "sub_label": "Nordbrabant", "sub_aliases": "Nord-Brabant", "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q803530", "sub_label": "Bahnstrecke Zaandam\u2013Enkhuizen", "sub_aliases": "Bahnstrecke Zaandam-Enkhuizen", "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q707", "sub_label": "Flevoland", "sub_aliases": [], "obj_id": "Q55", "obj_label": "Niederlande", "obj_aliases": "die Niederlande"}
+{"sub_id": "Q666142", "sub_label": "Tasman", "sub_aliases": "NZ-TAS", "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q1663781", "sub_label": "Inland Revenue Department (Neuseeland)", "sub_aliases": "Te Tari Taake", "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q6055415", "sub_label": "InternetNZ", "sub_aliases": ["Internet New Zealand", "Internet NZ", "Internet Society of New Zealand", "The Internet Society of New Zealand", "Internet New Zealand Inc", "Internet New Zealand Incorporated", "ISONZ"], "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q5074454", "sub_label": "Charities Services", "sub_aliases": ["Charities Commission", "Charities Services New Zealand", "Charities Commission New Zealand", "Charities NZ"], "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q140083", "sub_label": "Marlborough", "sub_aliases": "Te Tauihu-o-te-waka", "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q56875539", "sub_label": "Mata Aho Collective", "sub_aliases": [], "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q56302519", "sub_label": "Shorland Medal", "sub_aliases": [], "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q856010", "sub_label": "Wellington", "sub_aliases": "NZ-WGN", "obj_id": "Q664", "obj_label": "Neuseeland"}
+{"sub_id": "Q463959", "sub_label": "Taraba", "sub_aliases": "NG-TA", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q424388", "sub_label": "Akwa Ibom", "sub_aliases": "NG-AK", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q145793", "sub_label": "Zamfara", "sub_aliases": [], "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q503910", "sub_label": "Delta", "sub_aliases": "NG-DE", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q836645", "sub_label": "Nassarawa", "sub_aliases": "NG-NA", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q503905", "sub_label": "Oyo", "sub_aliases": "NG-OY", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q682777", "sub_label": "Yobe", "sub_aliases": "NG-YO", "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q376241", "sub_label": "Gombe", "sub_aliases": ["Gombe"], "obj_id": "Q1033", "obj_label": "Nigeria", "obj_aliases": "Nigerien"}
+{"sub_id": "Q221734", "sub_label": "Ras\u014fn", "sub_aliases": "KP-NAJ", "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q41416", "sub_label": "Kangw\u014fn-do", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q34896976", "sub_label": "S\u014fdu-su", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q32244984", "sub_label": "Ch\u014fkch\u014fn-ch'\u014fn", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q32249090", "sub_label": "Naeok-ch'\u014fn", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q59344", "sub_label": "Pyongyang Folklore Park", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q110171", "sub_label": "Ryanggang-do", "sub_aliases": "Ryanggang", "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q32244630", "sub_label": "Chingni-ch'\u014fn", "sub_aliases": [], "obj_id": "Q423", "obj_label": "Nordkorea", "obj_aliases": "Koreanische Demokratische Volksrepublik"}
+{"sub_id": "Q856278", "sub_label": "Op\u0161tina Demir Hisar", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q1992691", "sub_label": "Op\u0161tina Dolneni", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q1475001", "sub_label": "Op\u0161tina Rankovce", "sub_aliases": "MK-65", "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q2282274", "sub_label": "Op\u0161tina Tearce", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q1779775", "sub_label": "Op\u0161tina Bosilovo", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q2018974", "sub_label": "Op\u0161tina Gevgelija", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q281898", "sub_label": "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo", "sub_aliases": "\u010ce\u0161inovo-Oble\u0161evo", "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q1839369", "sub_label": "Op\u0161tina Mogila", "sub_aliases": [], "obj_id": "Q221", "obj_label": "Nordmazedonien", "obj_aliases": "Makedonien"}
+{"sub_id": "Q50614", "sub_label": "\u00d8stfold", "sub_aliases": [], "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50626", "sub_label": "Sogn og Fjordane", "sub_aliases": "Sogn und Fjordane", "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50625", "sub_label": "Hordaland", "sub_aliases": [], "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50621", "sub_label": "Ost-Agder", "sub_aliases": ["East Agder"], "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q11973466", "sub_label": "Gyldenpris", "sub_aliases": [], "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q505125", "sub_label": "Russenorsk", "sub_aliases": "Russennorwegisch", "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50627", "sub_label": "M\u00f8re og Romsdal", "sub_aliases": "M\u00f8re und Romsdal", "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q50632", "sub_label": "Finnmark", "sub_aliases": "Ruija", "obj_id": "Q20", "obj_label": "Norwegen", "obj_aliases": "K\u00f6nigreich Norwegen"}
+{"sub_id": "Q37211", "sub_label": "Sindh", "sub_aliases": "PK-SD", "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q4700804", "sub_label": "Akhtar Colony", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q2336399", "sub_label": "Baluchistan", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q8065029", "sub_label": "Zakariya Town", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q7160855", "sub_label": "Pehlwan Goth", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q208270", "sub_label": "Stammesgebiete unter Bundesverwaltung", "sub_aliases": "PK-TA", "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q6425851", "sub_label": "Koh-i-Murdaar", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q3696019", "sub_label": "Tacht-i Suleiman", "sub_aliases": [], "obj_id": "Q843", "obj_label": "Pakistan", "obj_aliases": "Islamische Republik Pakistan"}
+{"sub_id": "Q682654", "sub_label": "Departamento Alto Paran\u00e1", "sub_aliases": "PY-10", "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q35445015", "sub_label": "R\u00edo Yabebyry", "sub_aliases": [], "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q16904181", "sub_label": "Ypo\u00e1 National Park", "sub_aliases": [], "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q741017", "sub_label": "Boquer\u00f3n", "sub_aliases": "PY-19", "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q755115", "sub_label": "\u00d1eembuc\u00fa", "sub_aliases": "PY-12", "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q222564", "sub_label": "Itap\u00faa", "sub_aliases": ["Itapua Department", "Itapua"], "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q31206701", "sub_label": "Sierra de San Joaqu\u00edn", "sub_aliases": [], "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q30904262", "sub_label": "Region Oriental", "sub_aliases": "Orientalregion", "obj_id": "Q733", "obj_label": "Paraguay"}
+{"sub_id": "Q41705", "sub_label": "Fujian", "sub_aliases": "Fukien", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q47097", "sub_label": "Guizhou", "sub_aliases": "Kweichou", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q46913", "sub_label": "Shanxi", "sub_aliases": "CN-14", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q4101391", "sub_label": "Bei Shan", "sub_aliases": [], "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q45833", "sub_label": "Qinghai", "sub_aliases": "Tsinghai", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q15175", "sub_label": "Guangdong", "sub_aliases": ["Kwangtung", "Canton", "Guangdong province"], "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q46862", "sub_label": "Hubei", "sub_aliases": "Hupeh", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q43194", "sub_label": "Yunnan", "sub_aliases": "Y\u00fcnnan", "obj_id": "Q148", "obj_label": "Volksrepublik China", "obj_aliases": "VR China"}
+{"sub_id": "Q22079312", "sub_label": "Hyatt Terraces Baguio Hotel", "sub_aliases": ["Hyatt Terraces Hotel"], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31469952", "sub_label": "Ugdongan Mountain Range", "sub_aliases": [], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31469428", "sub_label": "Western Cordillera Range", "sub_aliases": [], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31492062", "sub_label": "Gurain Mountains", "sub_aliases": [], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31212136", "sub_label": "Estero de Valencia", "sub_aliases": [], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q13606", "sub_label": "Cordillera Administrative Region", "sub_aliases": ["CAR"], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q25053456", "sub_label": "Allah River", "sub_aliases": ["Alah River"], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31458097", "sub_label": "Palali Range", "sub_aliases": [], "obj_id": "Q928", "obj_label": "Philippinen", "obj_aliases": "Republik der Philippinen"}
+{"sub_id": "Q31249489", "sub_label": "Mendro", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q105394983", "sub_label": "Igreja Paroquial de Fafe", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q742117", "sub_label": "Estremadura", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q10370434", "sub_label": "Serra de S\u00e3o Mac\u00e1rio", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q31797532", "sub_label": "Serra dos Candieiros", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q788653", "sub_label": "Baixo Alentejo (Provinz)", "sub_aliases": [], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q369458", "sub_label": "Tr\u00e1s-os-Montes e Alto Douro", "sub_aliases": ["Tr\u00e1s-os-Montes", "Tras-os-Montes e Alto Douro Province"], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q909420", "sub_label": "Douro Litoral", "sub_aliases": ["Douro Litoral Province"], "obj_id": "Q45", "obj_label": "Portugal", "obj_aliases": "Portugiesische Republik"}
+{"sub_id": "Q188948", "sub_label": "Kreis C\u0103l\u0103ra\u0219i", "sub_aliases": "RO-CL", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q188959", "sub_label": "Kreis Covasna", "sub_aliases": "RO-CV", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q181513", "sub_label": "Kreis Bistri\u021ba-N\u0103s\u0103ud", "sub_aliases": "RO-BN", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q179779", "sub_label": "Kreis Bac\u0103u", "sub_aliases": "RO-BC", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q182624", "sub_label": "Kreis Cluj", "sub_aliases": "RO-CJ", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q191065", "sub_label": "Kreis Dolj", "sub_aliases": "RO-DJ", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q178861", "sub_label": "Kreis Boto\u0219ani", "sub_aliases": "RO-BT", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q188503", "sub_label": "Kreis Br\u0103ila", "sub_aliases": "RO-BR", "obj_id": "Q218", "obj_label": "Rum\u00e4nien"}
+{"sub_id": "Q4702434", "sub_label": "Al-Ha'ir Prison", "sub_aliases": [], "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q7777697", "sub_label": "Thee Ain", "sub_aliases": [], "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q30343642", "sub_label": "Abraq D\u0101ghir", "sub_aliases": [], "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q234167", "sub_label": "Provinz Mekka", "sub_aliases": "Makka al-Mukarrama", "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q12637440", "sub_label": "Daw\u1e29at al Musallam\u012byah", "sub_aliases": [], "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q737791", "sub_label": "Bahnstrecke Medina\u2013Mekka", "sub_aliases": ["Western railway", "Mecca\u2013Medina high-speed railway"], "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q1471266", "sub_label": "Provinz al-Dschauf", "sub_aliases": "Dschauf (Provinz)", "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q779855", "sub_label": "Provinz Asir", "sub_aliases": "\u02bfAs\u012br", "obj_id": "Q851", "obj_label": "Saudi-Arabien", "obj_aliases": "K\u00f6nigreich Saudi-Arabien"}
+{"sub_id": "Q778561", "sub_label": "Okrug Podunavlje", "sub_aliases": "RS-10", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1043446", "sub_label": "Okrug Rasina", "sub_aliases": "RS-19", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q2729162", "sub_label": "Veliko Golovode", "sub_aliases": [], "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1061082", "sub_label": "Okrug Ra\u0161ka", "sub_aliases": "RS-18", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1048184", "sub_label": "Okrug Toplica", "sub_aliases": "Toplica", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q544118", "sub_label": "Okrug \u0160umadija", "sub_aliases": "RS-12", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q876541", "sub_label": "Okrug Jablanica", "sub_aliases": "RS-23", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q1061076", "sub_label": "Ni\u0161avski okrug", "sub_aliases": "RS-20", "obj_id": "Q403", "obj_label": "Serbien", "obj_aliases": "Republik Serbien"}
+{"sub_id": "Q7899994", "sub_label": "Urban Redevelopment Authority", "sub_aliases": ["Urban Redevelopment Authority of Singapore", "URA Singapore"], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q4986523", "sub_label": "Building and Construction Authority", "sub_aliases": ["BCA"], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q15151135", "sub_label": "Ministry of Social and Family Development", "sub_aliases": ["MSF"], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q23117", "sub_label": "Media Development Authority", "sub_aliases": [], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q3045411", "sub_label": "Selat Pandan", "sub_aliases": [], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q1003271", "sub_label": "Bukit Timah Expressway", "sub_aliases": [], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q1663943", "sub_label": "Innenstadtlinie (Singapur)", "sub_aliases": ["Downtown Line"], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q4294559", "sub_label": "Ministry of Sustainability and the Environment", "sub_aliases": ["MEWR", "Ministry of the Environment", "Kementerian Alam Sekitar dan Sumber Air", "Ministry of the Environment and Water Resources", "MSE"], "obj_id": "Q334", "obj_label": "Singapur", "obj_aliases": "Republik Singapur"}
+{"sub_id": "Q184228", "sub_label": "\u017dilinsk\u00fd kraj", "sub_aliases": "Zilinsky kraj", "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q31926290", "sub_label": "Chocinka", "sub_aliases": [], "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q183640", "sub_label": "Banskobystrick\u00fd kraj", "sub_aliases": "SK-BC", "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q181342", "sub_label": "Trnavsk\u00fd kraj", "sub_aliases": "Tyrnauer Landschaftsverband", "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q1184596", "sub_label": "Komitat Trentschin", "sub_aliases": "Komitat Trencs\u00e9n", "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q31926289", "sub_label": "Chocina", "sub_aliases": [], "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q9372964", "sub_label": "Vel'k\u00fd Prislop", "sub_aliases": [], "obj_id": "Q214", "obj_label": "Slowakei", "obj_aliases": "Slowakien"}
+{"sub_id": "Q15912", "sub_label": "Gemeinde Ribnica", "sub_aliases": "Reifnitz", "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q164123", "sub_label": "Gemeinde Bloke", "sub_aliases": ["Bloke"], "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q15927", "sub_label": "Tr\u017ei\u010d", "sub_aliases": "Trzic", "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q15924", "sub_label": "Gemeinde Tolmin", "sub_aliases": "Tolmino", "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q15910", "sub_label": "Gemeinde Radovljica", "sub_aliases": ["Radovljica"], "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q673562", "sub_label": "Koro\u0161ka", "sub_aliases": ["Koro\u0161ka regija"], "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q15894", "sub_label": "Gemeinde Medvode", "sub_aliases": "Zwischenwassern", "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q846162", "sub_label": "Statistische Region Murgebiet", "sub_aliases": "Pomurska", "obj_id": "Q215", "obj_label": "Slowenien", "obj_aliases": "Republik Slowenien"}
+{"sub_id": "Q1046329", "sub_label": "Nugaal", "sub_aliases": ["Nugal, Somalia"], "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q31887797", "sub_label": "Argesa Pass", "sub_aliases": [], "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q270787", "sub_label": "Kismaayo", "sub_aliases": "Kismayu", "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q35310870", "sub_label": "Xiddidali", "sub_aliases": [], "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q31579036", "sub_label": "Buuraha Gudledar", "sub_aliases": [], "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q856719", "sub_label": "Gedo", "sub_aliases": "SO-GD", "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q31269454", "sub_label": "Buuraha Cartalla", "sub_aliases": [], "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q806070", "sub_label": "Banaadir", "sub_aliases": "SO-BN", "obj_id": "Q1045", "obj_label": "Somalia", "obj_aliases": "Bundesrepublik Somalia"}
+{"sub_id": "Q17042632", "sub_label": "Nexon Computer Museum", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q1649160", "sub_label": "RENO-Experiment", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q487576", "sub_label": "Yeongnam", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q6931712", "sub_label": "Mudeungsan", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q20934", "sub_label": "Incheon", "sub_aliases": "Intsch\u00f6n", "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q6154108", "sub_label": "Jangsan", "sub_aliases": "Berg Jang", "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q6121735", "sub_label": "Jaeyaksan", "sub_aliases": [], "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q41283", "sub_label": "Gwangju", "sub_aliases": "Kwangdschu", "obj_id": "Q884", "obj_label": "S\u00fcdkorea", "obj_aliases": "Suedkorea"}
+{"sub_id": "Q876293", "sub_label": "Uva", "sub_aliases": ["Uva Province, Sri Lanka"], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q27444099", "sub_label": "Kanichchagala", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q5589640", "sub_label": "Gouverneur von Ceylon", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q6492841", "sub_label": "Lascarins", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q34854508", "sub_label": "Weli Oya", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q27447464", "sub_label": "Dotalan Kanda", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q27447584", "sub_label": "Ballabandigala", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q27445771", "sub_label": "Elawalikanda", "sub_aliases": [], "obj_id": "Q854", "obj_label": "Sri Lanka"}
+{"sub_id": "Q104877", "sub_label": "V\u00e4sterbottens l\u00e4n", "sub_aliases": ["V\u00e4sterbottens l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q533915", "sub_label": "Malm\u00f6hus l\u00e4n", "sub_aliases": "Malm\u00f6hus", "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q104257", "sub_label": "\u00d6rebro l\u00e4n", "sub_aliases": "Provinz \u00d6rebro", "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103686", "sub_label": "Norrbottens l\u00e4n", "sub_aliases": "SE-BD", "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103679", "sub_label": "J\u00e4mtlands l\u00e4n", "sub_aliases": ["J\u00e4mtlands l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103659", "sub_label": "Sk\u00e5ne l\u00e4n", "sub_aliases": "Schonen", "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q103732", "sub_label": "Dalarnas l\u00e4n", "sub_aliases": "Kopparbergs l\u00e4n", "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q106789", "sub_label": "V\u00e4rmlands l\u00e4n", "sub_aliases": ["V\u00e4rmlands l\u00e4n"], "obj_id": "Q34", "obj_label": "Schweden", "obj_aliases": "K\u00f6nigreich Schweden"}
+{"sub_id": "Q165136", "sub_label": "Schwabenkrieg", "sub_aliases": "Engadiner Krieg", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q11933", "sub_label": "Kanton Zug", "sub_aliases": "ZG", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q12746", "sub_label": "Kanton St. Gallen", "sub_aliases": "Sankt Gallen", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q12121", "sub_label": "Kanton Luzern", "sub_aliases": "LU", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q12697", "sub_label": "Kanton Schaffhausen", "sub_aliases": "SH", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q834", "sub_label": "Kanton Wallis", "sub_aliases": "Staat Wallis", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q12640", "sub_label": "Kanton Freiburg", "sub_aliases": "Staat Freiburg", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q12738", "sub_label": "Kanton Neuenburg", "sub_aliases": "Neuenburg", "obj_id": "Q39", "obj_label": "Schweiz", "obj_aliases": "Eidgenossenschaft"}
+{"sub_id": "Q176458", "sub_label": "Til Barsip", "sub_aliases": ["Til Barsip, Syria", "Til Barsip, Aleppo", "Til Barsib", "Tell Ahmar", "A\u1e29mar, Tall al", "Ahmar, Tell", "\u02bbAmm\u0101r, Tall", "Kar-Shalmaneser", "Kar-Shulmanashared", "Masuwari", "Tall al A\u1e29mar", "Tall \u02bbAmm\u0101r", "Kar-Shulm\u00e2nashared", "Giri-S\u00fbr", "Tell Achmar\u200f", "Giri-Sur"], "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q6937205", "sub_label": "Murad Pasha Mosque", "sub_aliases": [], "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q14211571", "sub_label": "Orontes Valley", "sub_aliases": [], "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q235563", "sub_label": "Gouvernement ar-Raqqa", "sub_aliases": "Ar-Raqqa", "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q232382", "sub_label": "Gouvernement Tartus", "sub_aliases": "SY-TA", "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q233914", "sub_label": "Gouvernement Al-Hasaka", "sub_aliases": "Gouvernement Al-Hasakah", "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q232387", "sub_label": "Gouvernement Deir ez-Zor", "sub_aliases": "SY-DY", "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q3326600", "sub_label": "Tunip", "sub_aliases": [], "obj_id": "Q858", "obj_label": "Syrien"}
+{"sub_id": "Q31475342", "sub_label": "Khrebet Zagara", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q32560219", "sub_label": "Butau-Kul'", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q633511", "sub_label": "Chatlon", "sub_aliases": "TJ-KT", "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q31474844", "sub_label": "Khrebet Gardaniushti", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q2280882", "sub_label": "Alexandria Eschate", "sub_aliases": ["Alexandria Eskhata", "Alexandria the Farthest"], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q2669438", "sub_label": "Rudaki", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q31474431", "sub_label": "Gora Imeni Fuchika", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q31472510", "sub_label": "Gory Osman-Tala", "sub_aliases": [], "obj_id": "Q863", "obj_label": "Tadschikistan"}
+{"sub_id": "Q13014113", "sub_label": "Lan Chang", "sub_aliases": [], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q1195715", "sub_label": "Tapi", "sub_aliases": ["Mae Nam Ta Pi"], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q31694534", "sub_label": "Doi Nong Ma", "sub_aliases": [], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q1761007", "sub_label": "Thale Sap", "sub_aliases": "Songkhla See", "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q25340864", "sub_label": "Mae Wang National Park", "sub_aliases": [], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q1831399", "sub_label": "Royal Thai Police", "sub_aliases": ["RTP"], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q35454765", "sub_label": "Khlong Sin Pun", "sub_aliases": [], "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q1357447", "sub_label": "Mae Nam Khwae Yai", "sub_aliases": "Kwai", "obj_id": "Q869", "obj_label": "Thailand", "obj_aliases": "Ratcha Anachak Thai"}
+{"sub_id": "Q276574", "sub_label": "Gouvernorat Kairouan", "sub_aliases": "TN-41", "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q328164", "sub_label": "Gouvernorat Mahdia", "sub_aliases": [], "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q276565", "sub_label": "Gouvernement Sousse", "sub_aliases": [], "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q327045", "sub_label": "Gouvernement Tataouine", "sub_aliases": [], "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q241129", "sub_label": "Gouvernorat Bizerta", "sub_aliases": "TN-23", "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q238555", "sub_label": "Gouvernorat Ben Arous", "sub_aliases": "TN-13", "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q30066050", "sub_label": "Oued es Segui", "sub_aliases": [], "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q269968", "sub_label": "Gouvernorat Gafsa", "sub_aliases": "TN-71", "obj_id": "Q948", "obj_label": "Tunesien", "obj_aliases": "Tunesische Republik"}
+{"sub_id": "Q46763", "sub_label": "Bilecik", "sub_aliases": "TR-11", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q80088", "sub_label": "Burdur", "sub_aliases": "TR-15", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q82096", "sub_label": "Denizli", "sub_aliases": "TR-20", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q79760", "sub_label": "Bing\u00f6l", "sub_aliases": "TR-12", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q83965", "sub_label": "Kocaeli", "sub_aliases": ["Kocaeli"], "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q80370", "sub_label": "Batman", "sub_aliases": "TR-72", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q47813", "sub_label": "\u00c7anakkale", "sub_aliases": "TR-17", "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q376797", "sub_label": "Erzurum", "sub_aliases": [], "obj_id": "Q43", "obj_label": "T\u00fcrkei", "obj_aliases": "Republik T\u00fcrkei"}
+{"sub_id": "Q167859", "sub_label": "Oblast Wolhynien", "sub_aliases": "Wolynska Oblast", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q5244299", "sub_label": "Lubacz\u00f3wka", "sub_aliases": ["Lubaczowka", "Lyubachevka"], "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q168856", "sub_label": "Oblast Tscherniwzi", "sub_aliases": "UA-77", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q181633", "sub_label": "Oblast Mykolajiw", "sub_aliases": "UA-48", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q171334", "sub_label": "Oblast Saporischschja", "sub_aliases": "UA-23", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q161808", "sub_label": "Oblast Tscherkassy", "sub_aliases": "UA-71", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q245768", "sub_label": "Waldkarpaten", "sub_aliases": ["Polonina"], "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q2682584", "sub_label": "Bahnhof Janiv", "sub_aliases": "Bf Janov", "obj_id": "Q212", "obj_label": "Ukraine"}
+{"sub_id": "Q888456", "sub_label": "Symbian Ltd.", "sub_aliases": ["Symbian"], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q4045077", "sub_label": "NaturalMotion", "sub_aliases": ["NaturalMotion Limited", "NaturalMotion Ltd", "NaturalMotion Games", "NaturalMotion Games Ltd"], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q31573", "sub_label": "S\u00fcdirland", "sub_aliases": "Deisceart \u00c9ireann", "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q456226", "sub_label": "Direct Rail Services", "sub_aliases": "Direct Rail Services Ltd", "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q192184", "sub_label": "St. Helena, Ascension und Tristan da Cunha", "sub_aliases": ["Saint Helena and Dependencies", "\ud83c\uddf8\ud83c\udded", "SH", "Saint Helena, Ascension, and Tristan da Cunha"], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q3244280", "sub_label": "Schwarze Briten", "sub_aliases": ["Black Britons"], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q15935020", "sub_label": "Ve Interactive", "sub_aliases": ["Ve"], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q3488395", "sub_label": "Discovery Wings", "sub_aliases": [], "obj_id": "Q145", "obj_label": "Vereinigtes K\u00f6nigreich", "obj_aliases": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"}
+{"sub_id": "Q1456", "sub_label": "South Carolina", "sub_aliases": "S\u00fcd-Karolina", "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q527825", "sub_label": "Mountain States", "sub_aliases": "Mountain West", "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q1811372", "sub_label": "Alaska-Territorium", "sub_aliases": ["Alaska Territory"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q669315", "sub_label": "Nordwestterritorium", "sub_aliases": [], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q1420228", "sub_label": "Oregon-Territorium", "sub_aliases": ["Territory of Oregon"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q660384", "sub_label": "Mississippi-Territorium", "sub_aliases": [], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q1527", "sub_label": "Minnesota", "sub_aliases": ["MN", "Land of 10,000 Lakes", "Minnesota, United States", "State of Minnesota", "Minn.", "US-MN"], "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q10806", "sub_label": "Terroranschl\u00e4ge am 11. September 2001", "sub_aliases": "September 11 attacks", "obj_id": "Q30", "obj_label": "Vereinigte Staaten", "obj_aliases": "V.S.A."}
+{"sub_id": "Q16594", "sub_label": "Departamento Montevideo", "sub_aliases": "Montevideo", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q331196", "sub_label": "Departamento Maldonado", "sub_aliases": "UY-MA", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16580", "sub_label": "Departamento Colonia", "sub_aliases": "UY-CO", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16577", "sub_label": "Departamento Canelones", "sub_aliases": "UY-CA", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q31397747", "sub_label": "Cerro de Ibarra", "sub_aliases": [], "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q460435", "sub_label": "Departamento Lavalleja", "sub_aliases": "UY-LA", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q31533662", "sub_label": "Sierra de las Aver\u00edas", "sub_aliases": [], "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q16603", "sub_label": "Departamento Artigas", "sub_aliases": "UY-AR", "obj_id": "Q77", "obj_label": "Uruguay", "obj_aliases": "Republik \u00d6stlich des Uruguay"}
+{"sub_id": "Q2943", "sub_label": "Sixtinische Kapelle", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q2291560", "sub_label": "Casina Pio IV", "sub_aliases": "Villa von Pius IV.", "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q81644885", "sub_label": "Angels Unawares", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q1644167", "sub_label": "Santi Martino e Sebastiano degli Svizzeri", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q2547111", "sub_label": "Belvederehof", "sub_aliases": "Hof des Belverdere", "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q1166213", "sub_label": "St. Stephan der \u00c4thiopier", "sub_aliases": [], "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q4540172", "sub_label": "Mater Ecclesiae", "sub_aliases": "Kloster Mater Ecclesiae", "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q1762366", "sub_label": "Aberkiosinschrift", "sub_aliases": "Aberkios-Inschrift", "obj_id": "Q237", "obj_label": "Vatikanstadt", "obj_aliases": "Vatikan"}
+{"sub_id": "Q7270034", "sub_label": "Queen's Mine", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q31543080", "sub_label": "Nyadzomba Range", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q456556", "sub_label": "Provinz Midlands", "sub_aliases": "ZW-MI", "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q31541067", "sub_label": "Vumbere Range", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q16928358", "sub_label": "Provinz Harare", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q31545384", "sub_label": "Makura Range", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q31540970", "sub_label": "Wangura Range", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
+{"sub_id": "Q31541083", "sub_label": "Vumba Mountains", "sub_aliases": [], "obj_id": "Q954", "obj_label": "Simbabwe", "obj_aliases": "Rhodesien"}
