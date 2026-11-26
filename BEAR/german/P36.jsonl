@@ -1,0 +1,59 @@
+{"sub_id": "Q1356", "sub_label": "Westbengalen", "sub_aliases": ["Paschimbanga"], "obj_id": "Q1348", "obj_label": "Kolkata", "answer_idx": 0, "obj_aliases": "Kalkutta"}
+{"sub_id": "Q1028", "sub_label": "Marokko", "sub_aliases": "K\u00f6nigreich Marokko", "obj_id": "Q3551", "obj_label": "Rabat", "answer_idx": 1}
+{"sub_id": "Q3177715", "sub_label": "Pagaruyung Kingdom", "sub_aliases": [], "obj_id": "Q3492", "obj_label": "Sumatra", "answer_idx": 2}
+{"sub_id": "Q483599", "sub_label": "F\u00f6derationskreis S\u00fcdrussland", "sub_aliases": [], "obj_id": "Q908", "obj_label": "Rostow am Don", "answer_idx": 3, "obj_aliases": "\u0420\u043e\u0441\u0442\u043e\u0301\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443\u0301"}
+{"sub_id": "Q43684", "sub_label": "Henan", "sub_aliases": "Honan", "obj_id": "Q30340", "obj_label": "Zhengzhou", "answer_idx": 4}
+{"sub_id": "Q958", "sub_label": "S\u00fcdsudan", "sub_aliases": "Republik S\u00fcdsudan", "obj_id": "Q1947", "obj_label": "Juba", "answer_idx": 5, "obj_aliases": "Dschuba"}
+{"sub_id": "Q170603", "sub_label": "Vizek\u00f6nigreich Neuspanien", "sub_aliases": "Neuspanien", "obj_id": "Q1489", "obj_label": "Mexiko-Stadt", "answer_idx": 6, "obj_aliases": "Distrito Federal"}
+{"sub_id": "Q962", "sub_label": "Benin", "sub_aliases": ["Republic of Benin", "Dahomey", "bj", "\ud83c\udde7\ud83c\uddef", "BEN"], "obj_id": "Q3799", "obj_label": "Porto-Novo", "answer_idx": 7}
+{"sub_id": "Q794", "sub_label": "Iran", "sub_aliases": "Islamische Republik Iran", "obj_id": "Q3616", "obj_label": "Teheran", "answer_idx": 8}
+{"sub_id": "Q843", "sub_label": "Pakistan", "sub_aliases": "Islamische Republik Pakistan", "obj_id": "Q1362", "obj_label": "Islamabad", "answer_idx": 9}
+{"sub_id": "Q1246", "sub_label": "Kosovo", "sub_aliases": "Republik Kosovo", "obj_id": "Q25270", "obj_label": "Pristina", "answer_idx": 10, "obj_aliases": "Prishtin\u00eb"}
+{"sub_id": "Q1460", "sub_label": "Sizilien", "sub_aliases": "Autonome Region Sizilien", "obj_id": "Q2656", "obj_label": "Palermo", "answer_idx": 11}
+{"sub_id": "Q133083", "sub_label": "Gauteng", "sub_aliases": "Pretoria-Witwatersrand-Vereeniging", "obj_id": "Q34647", "obj_label": "Johannesburg", "answer_idx": 12, "obj_aliases": "IRhawutini"}
+{"sub_id": "Q114", "sub_label": "Kenia", "sub_aliases": "Republik Kenia", "obj_id": "Q3870", "obj_label": "Nairobi", "answer_idx": 13}
+{"sub_id": "Q639491", "sub_label": "Lagunes", "sub_aliases": [], "obj_id": "Q1515", "obj_label": "Abidjan", "answer_idx": 14, "obj_aliases": "Abidschan"}
+{"sub_id": "Q846", "sub_label": "Katar", "sub_aliases": "Staat Katar", "obj_id": "Q3861", "obj_label": "Doha", "answer_idx": 15}
+{"sub_id": "Q265", "sub_label": "Usbekistan", "sub_aliases": ["Republic of Uzbekistan", "uz", "\ud83c\uddfa\ud83c\uddff", "UZB"], "obj_id": "Q269", "obj_label": "Taschkent", "answer_idx": 16}
+{"sub_id": "Q5527575", "sub_label": "Gau Ostpreu\u00dfen", "sub_aliases": [], "obj_id": "Q1829", "obj_label": "Kaliningrad", "answer_idx": 17, "obj_aliases": "Twoyngst"}
+{"sub_id": "Q1185", "sub_label": "Karnataka", "sub_aliases": [], "obj_id": "Q1355", "obj_label": "Bengaluru", "answer_idx": 18, "obj_aliases": "Bangalore"}
+{"sub_id": "Q912", "sub_label": "Mali", "sub_aliases": "R\u00e9publique du Mali", "obj_id": "Q3703", "obj_label": "Bamako", "answer_idx": 19}
+{"sub_id": "Q486229", "sub_label": "Hennepin County", "sub_aliases": ["Hennepin County, Minnesota"], "obj_id": "Q36091", "obj_label": "Minneapolis", "answer_idx": 20}
+{"sub_id": "Q30", "sub_label": "Vereinigte Staaten", "sub_aliases": "V.S.A.", "obj_id": "Q61", "obj_label": "Washington, D.C.", "answer_idx": 21, "obj_aliases": "Washington"}
+{"sub_id": "Q48026", "sub_label": "S\u00fcdwestengland", "sub_aliases": ["UKK"], "obj_id": "Q23154", "obj_label": "Bristol", "answer_idx": 22}
+{"sub_id": "Q47974", "sub_label": "Shaanxi", "sub_aliases": "Shensi", "obj_id": "Q5826", "obj_label": "Xi\u2019an", "answer_idx": 23}
+{"sub_id": "Q1311980", "sub_label": "Vil\u00e2yet Adrianopel", "sub_aliases": ["Vilayet of Edirne", "Southern Thrace", "Adrianopolitan Thrace", "Edirne Vilayet"], "obj_id": "Q43387", "obj_label": "Edirne", "answer_idx": 24, "obj_aliases": "Uscudama"}
+{"sub_id": "Q1256", "sub_label": "Ligurien", "sub_aliases": ["Regio IX"], "obj_id": "Q1449", "obj_label": "Genua", "answer_idx": 25, "obj_aliases": "Genoa"}
+{"sub_id": "Q217230", "sub_label": "Kaiserreich Brasilien", "sub_aliases": "Zweites Brasilianisches Kaiserreich", "obj_id": "Q8678", "obj_label": "Rio de Janeiro", "answer_idx": 26, "obj_aliases": "Munic\u00edpio de Rio de Janeiro"}
+{"sub_id": "Q2396442", "sub_label": "K\u00f6nigreich Galizien und Lodomerien", "sub_aliases": ["Galicia", "Galicia and Lodomeria"], "obj_id": "Q36036", "obj_label": "Lwiw", "answer_idx": 27, "obj_aliases": "Lemberg"}
+{"sub_id": "Q403", "sub_label": "Serbien", "sub_aliases": "Republik Serbien", "obj_id": "Q3711", "obj_label": "Belgrad", "answer_idx": 28, "obj_aliases": "Belgrad, Serbien"}
+{"sub_id": "Q881", "sub_label": "Vietnam", "sub_aliases": "Sozialistische Republik Vietnam", "obj_id": "Q1858", "obj_label": "Hanoi", "answer_idx": 29}
+{"sub_id": "Q17152", "sub_label": "Zentralmakedonien", "sub_aliases": "Zentralmazedonien", "obj_id": "Q17151", "obj_label": "Thessaloniki", "answer_idx": 30, "obj_aliases": "Saloniki"}
+{"sub_id": "Q36074", "sub_label": "Queensland", "sub_aliases": "Staat Queensland", "obj_id": "Q34932", "obj_label": "Brisbane", "answer_idx": 31}
+{"sub_id": "Q2002279", "sub_label": "Portugiesisch-Guinea", "sub_aliases": ["Guin\u00e9 Portuguesa", "Guine Portuguesa"], "obj_id": "Q3739", "obj_label": "Bissau", "answer_idx": 32}
+{"sub_id": "Q954", "sub_label": "Simbabwe", "sub_aliases": "Republik Zimbabwe", "obj_id": "Q3921", "obj_label": "Harare", "answer_idx": 33}
+{"sub_id": "Q93366", "sub_label": "Bizkaia", "sub_aliases": "Provinz Biskaya", "obj_id": "Q8692", "obj_label": "Bilbao", "answer_idx": 34, "obj_aliases": "Otxarkoaga Txurdinaga"}
+{"sub_id": "Q1009", "sub_label": "Kamerun", "sub_aliases": ["Republic of Cameroon", "cm", "\ud83c\udde8\ud83c\uddf2", "CMR", "CAM"], "obj_id": "Q3808", "obj_label": "Yaound\u00e9", "answer_idx": 35, "obj_aliases": "Jaunde"}
+{"sub_id": "Q16994", "sub_label": "Pays de la Loire", "sub_aliases": "L\u00e4nder der Loire", "obj_id": "Q12191", "obj_label": "Nantes", "answer_idx": 36, "obj_aliases": "Naunnt"}
+{"sub_id": "Q5148518", "sub_label": "Colony of New Zealand", "sub_aliases": ["Colony of NZ", "New Zealand colony", "New Zealand"], "obj_id": "Q37100", "obj_label": "Auckland", "answer_idx": 37, "obj_aliases": "T\u0101maki Makaurau"}
+{"sub_id": "Q148", "sub_label": "Volksrepublik China", "sub_aliases": "VR China", "obj_id": "Q956", "obj_label": "Peking", "answer_idx": 38}
+{"sub_id": "Q811", "sub_label": "Nicaragua", "sub_aliases": "Nikaragua", "obj_id": "Q3274", "obj_label": "Managua", "answer_idx": 39, "obj_aliases": "Managua (Gemeinde)"}
+{"sub_id": "Q1006", "sub_label": "Guinea", "sub_aliases": ["Guinea-Conakry", "Republic of Guinea", "R\u00e9publique de Guin\u00e9e", "gn", "\ud83c\uddec\ud83c\uddf3", "Republique de Guinee", "GUI"], "obj_id": "Q3733", "obj_label": "Conakry", "answer_idx": 40, "obj_aliases": "Konakry"}
+{"sub_id": "Q1540300", "sub_label": "Gouvernement Kowno", "sub_aliases": "Gouvernement Kaunas", "obj_id": "Q4115712", "obj_label": "Kaunas", "answer_idx": 41, "obj_aliases": "Kowno"}
+{"sub_id": "Q2071367", "sub_label": "Reichsgau Flandern", "sub_aliases": [], "obj_id": "Q12892", "obj_label": "Antwerpen", "answer_idx": 42, "obj_aliases": "Antorff"}
+{"sub_id": "Q211", "sub_label": "Lettland", "sub_aliases": ["Republic of Latvia", "Latvian Republic", "lv", "Latvija", "\ud83c\uddf1\ud83c\uddfb", "LAT", "LVA"], "obj_id": "Q1773", "obj_label": "Riga", "answer_idx": 43}
+{"sub_id": "Q37", "sub_label": "Litauen", "sub_aliases": "Republik Litauen", "obj_id": "Q216", "obj_label": "Vilnius", "answer_idx": 44, "obj_aliases": "\u05d5\u05d5\u05d9\u05dc\u05e0\u05e2"}
+{"sub_id": "Q54159", "sub_label": "Woiwodschaft Kleinpolen", "sub_aliases": ["Ma\u0142opolska Province", "Ma\u0142opolska Voivodeship"], "obj_id": "Q31487", "obj_label": "Krakau", "answer_idx": 45}
+{"sub_id": "Q347", "sub_label": "Liechtenstein", "sub_aliases": "F\u00fcrstentum Lichtenstein", "obj_id": "Q1844", "obj_label": "Vaduz", "answer_idx": 46}
+{"sub_id": "Q420759", "sub_label": "Zweites Bulgarisches Reich", "sub_aliases": [], "obj_id": "Q173474", "obj_label": "Weliko Tarnowo", "answer_idx": 47, "obj_aliases": "Turnovo"}
+{"sub_id": "Q1200", "sub_label": "Rheinland-Pfalz", "sub_aliases": "Land Rheinland-Pfalz", "obj_id": "Q1720", "obj_label": "Mainz", "answer_idx": 48, "obj_aliases": "Mainz am Rhein"}
+{"sub_id": "Q156291", "sub_label": "Allegheny County", "sub_aliases": ["Allegheny County, Pennsylvania", "Allegheny County, PA"], "obj_id": "Q1342", "obj_label": "Pittsburgh", "answer_idx": 49}
+{"sub_id": "Q865", "sub_label": "Taiwan", "sub_aliases": "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "obj_id": "Q1867", "obj_label": "Taipeh", "answer_idx": 50}
+{"sub_id": "Q7603765", "sub_label": "State of Malta", "sub_aliases": [], "obj_id": "Q23800", "obj_label": "Valletta", "answer_idx": 51, "obj_aliases": "Superbissima"}
+{"sub_id": "Q399", "sub_label": "Armenien", "sub_aliases": ["Republic of Armenia", "\ud83c\udde6\ud83c\uddf2", "ARM", "AM"], "obj_id": "Q1953", "obj_label": "Jerewan", "answer_idx": 52, "obj_aliases": "Erivan"}
+{"sub_id": "Q863", "sub_label": "Tadschikistan", "sub_aliases": ["Republic of Tajikistan", "tj", "\ud83c\uddf9\ud83c\uddef", "TJK"], "obj_id": "Q9365", "obj_label": "Duschanbe", "answer_idx": 53}
+{"sub_id": "Q917", "sub_label": "Bhutan", "sub_aliases": "K\u00f6nigreich Bhutan", "obj_id": "Q9270", "obj_label": "Thimphu", "answer_idx": 55}
+{"sub_id": "Q25", "sub_label": "Wales", "sub_aliases": ["WAL", "WLS", "Cymru", "Cambria"], "obj_id": "Q10690", "obj_label": "Cardiff", "answer_idx": 56}
+{"sub_id": "Q23100", "sub_label": "Merseyside", "sub_aliases": [], "obj_id": "Q24826", "obj_label": "Liverpool", "answer_idx": 57, "obj_aliases": "Liverpudlian"}
+{"sub_id": "Q378004", "sub_label": "For\u00eats", "sub_aliases": ["Forets"], "obj_id": "Q1842", "obj_label": "Luxemburg", "answer_idx": 58, "obj_aliases": "Stadt Luxemburg"}
+{"sub_id": "Q31", "sub_label": "Belgien", "sub_aliases": "K\u00f6nigreich Belgien", "obj_id": "Q239", "obj_label": "Br\u00fcssel", "answer_idx": 59, "obj_aliases": "Stadt Br\u00fcssel"}

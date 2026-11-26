@@ -1,0 +1,147 @@
+{"sub_id": "Q255035", "sub_label": "Habichtsadler", "sub_aliases": "Hieraaetus", "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q254660", "sub_label": "Spizaetus", "sub_aliases": [], "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q902428", "sub_label": "Perninae", "sub_aliases": [], "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q126630", "sub_label": "Gyps", "sub_aliases": "G\u00e4nsegeier", "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q867544", "sub_label": "Schlangenadler", "sub_aliases": "Circaetus", "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q3325926", "sub_label": "Circinae", "sub_aliases": "Weihe", "obj_id": "Q25510", "obj_label": "Habichtartige", "answer_idx": 0, "obj_aliases": "Accipitridae"}
+{"sub_id": "Q1331246", "sub_label": "Ozoroa", "sub_aliases": [], "obj_id": "Q156589", "obj_label": "Sumachgew\u00e4chse", "answer_idx": 1, "obj_aliases": "Anakardiengew\u00e4chse"}
+{"sub_id": "Q2473668", "sub_label": "Astronium", "sub_aliases": [], "obj_id": "Q156589", "obj_label": "Sumachgew\u00e4chse", "answer_idx": 1, "obj_aliases": "Anakardiengew\u00e4chse"}
+{"sub_id": "Q9004466", "sub_label": "Holigarna", "sub_aliases": [], "obj_id": "Q156589", "obj_label": "Sumachgew\u00e4chse", "answer_idx": 1, "obj_aliases": "Anakardiengew\u00e4chse"}
+{"sub_id": "Q4217270", "sub_label": "Gluta", "sub_aliases": [], "obj_id": "Q156589", "obj_label": "Sumachgew\u00e4chse", "answer_idx": 1, "obj_aliases": "Anakardiengew\u00e4chse"}
+{"sub_id": "Q4750637", "sub_label": "Anacardioideae", "sub_aliases": [], "obj_id": "Q156589", "obj_label": "Sumachgew\u00e4chse", "answer_idx": 1, "obj_aliases": "Anakardiengew\u00e4chse"}
+{"sub_id": "Q6408", "sub_label": "Echte Fr\u00f6sche", "sub_aliases": "Ranidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q55461", "sub_label": "Ceratophryidae", "sub_aliases": "ceratophryidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q55455", "sub_label": "Langfingerfr\u00f6sche", "sub_aliases": "arthroleptidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q1935229", "sub_label": "Afrikanische Ochsenfr\u00f6sche", "sub_aliases": "pyxicephalidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q56054", "sub_label": "Madagaskarfr\u00f6sche", "sub_aliases": "mantellidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q53752", "sub_label": "Glasfr\u00f6sche", "sub_aliases": "Centrolenidae", "obj_id": "Q53636", "obj_label": "Froschlurche", "answer_idx": 2, "obj_aliases": "Anura"}
+{"sub_id": "Q27030", "sub_label": "Foeniculum", "sub_aliases": [], "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q6855106", "sub_label": "Silge", "sub_aliases": [], "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q2706965", "sub_label": "Arracacia", "sub_aliases": [], "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q2494656", "sub_label": "Bifora", "sub_aliases": [], "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q3272856", "sub_label": "Osmorhiza", "sub_aliases": [], "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q729143", "sub_label": "Mannstreu", "sub_aliases": "Eryngium", "obj_id": "Q145794", "obj_label": "Doldenbl\u00fctler", "answer_idx": 3, "obj_aliases": "Umbelliferen"}
+{"sub_id": "Q8708", "sub_label": "Ctenidae", "sub_aliases": ["the Wandering spiders"], "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q11710", "sub_label": "Speispinnen", "sub_aliases": ["Scytodidae"], "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q12017", "sub_label": "Streckerspinnen", "sub_aliases": "Kieferspinnen", "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q10995", "sub_label": "Zitterspinnen", "sub_aliases": "Pholcidae", "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q10579", "sub_label": "Idiopidae", "sub_aliases": [], "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q10642", "sub_label": "Spinnenfresser", "sub_aliases": "Mimetidae", "obj_id": "Q1357", "obj_label": "Webspinnen", "answer_idx": 4, "obj_aliases": "Spinnen"}
+{"sub_id": "Q7609983", "sub_label": "Elaeis", "sub_aliases": [], "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q281747", "sub_label": "Strahlenpalmen", "sub_aliases": [], "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q310912", "sub_label": "Borassus", "sub_aliases": [], "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q139724", "sub_label": "Daemonorops", "sub_aliases": ["Rattan palm"], "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q141248", "sub_label": "Latania", "sub_aliases": [], "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q1032555", "sub_label": "Geleepalmen", "sub_aliases": "Geleepalme", "obj_id": "Q14080", "obj_label": "Palmengew\u00e4chse", "answer_idx": 5, "obj_aliases": "Palmen"}
+{"sub_id": "Q83291300", "sub_label": "Parioscorpio Venator", "sub_aliases": ["P. venator"], "obj_id": "Q1360", "obj_label": "Gliederf\u00fc\u00dfer", "answer_idx": 6}
+{"sub_id": "Q2610228", "sub_label": "Skania", "sub_aliases": [], "obj_id": "Q1360", "obj_label": "Gliederf\u00fc\u00dfer", "answer_idx": 6}
+{"sub_id": "Q143944", "sub_label": "Isoxys", "sub_aliases": [], "obj_id": "Q1360", "obj_label": "Gliederf\u00fc\u00dfer", "answer_idx": 6}
+{"sub_id": "Q2430260", "sub_label": "Thylacocephala", "sub_aliases": [], "obj_id": "Q1360", "obj_label": "Gliederf\u00fc\u00dfer", "answer_idx": 6}
+{"sub_id": "Q132653", "sub_label": "Ageratum", "sub_aliases": ["floss flower"], "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q1156814", "sub_label": "Ligularia", "sub_aliases": "Goldkolben", "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q2019188", "sub_label": "Aaronsohnia", "sub_aliases": [], "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q3272962", "sub_label": "Launaea", "sub_aliases": [], "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q133142", "sub_label": "Cichorioideae", "sub_aliases": "Zungenbl\u00fctler", "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q2709984", "sub_label": "Pericallis", "sub_aliases": [], "obj_id": "Q25400", "obj_label": "Korbbl\u00fctler", "answer_idx": 7, "obj_aliases": "Korbbl\u00fcter"}
+{"sub_id": "Q7782990", "sub_label": "Theriodictis", "sub_aliases": [], "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q738191", "sub_label": "Grauf\u00fcchse", "sub_aliases": "Urocyon", "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q28266", "sub_label": "Canini", "sub_aliases": "Echte Hunde", "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q2898113", "sub_label": "Speothos", "sub_aliases": [], "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q132687", "sub_label": "Lycalopex", "sub_aliases": "Pseudalopex", "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q21223141", "sub_label": "Lupulella", "sub_aliases": [], "obj_id": "Q25324", "obj_label": "Hunde", "answer_idx": 8, "obj_aliases": "Wildhund"}
+{"sub_id": "Q2521639", "sub_label": "Notropis", "sub_aliases": [], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q2725287", "sub_label": "Squalius", "sub_aliases": [], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q1088873", "sub_label": "Alburnus", "sub_aliases": [], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q131627", "sub_label": "Puntius", "sub_aliases": [], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q310652", "sub_label": "Gobio", "sub_aliases": ["Se alimenta de gusanos (lombrices de tierra), larvas de mosquito y algas de su habitat"], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q135495", "sub_label": "Epalzeorhynchos", "sub_aliases": [], "obj_id": "Q35047", "obj_label": "Karpfenfische", "answer_idx": 9, "obj_aliases": "Karpfen\u00e4hnliche"}
+{"sub_id": "Q1782917", "sub_label": "Stelzenfliegen", "sub_aliases": "Stelzfliegen", "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q1395707", "sub_label": "Fanniidae", "sub_aliases": "Fannidae", "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q301085", "sub_label": "Fledermausfliegen", "sub_aliases": [], "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q139726", "sub_label": "Mydidae", "sub_aliases": ["Mydas fly", "Mydas flies"], "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q1432709", "sub_label": "Luchsfliegen", "sub_aliases": [], "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q2142779", "sub_label": "Stielaugenfliegen", "sub_aliases": "Stielaugenfliege", "obj_id": "Q25312", "obj_label": "Zweifl\u00fcgler", "answer_idx": 10, "obj_aliases": "Dipteren"}
+{"sub_id": "Q222191", "sub_label": "Hyracotherium", "sub_aliases": "Eohippus", "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q133193", "sub_label": "Hippidion", "sub_aliases": [], "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q679501", "sub_label": "Orohippus", "sub_aliases": [], "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q3870141", "sub_label": "Nannippus", "sub_aliases": [], "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q3408120", "sub_label": "Protohippus", "sub_aliases": [], "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q6993004", "sub_label": "Neohipparion", "sub_aliases": [], "obj_id": "Q165115", "obj_label": "Pferde", "answer_idx": 11, "obj_aliases": "Equidae"}
+{"sub_id": "Q161225", "sub_label": "Acalypha", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q152986", "sub_label": "Jatropha", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q5125840", "sub_label": "Claoxylon", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q3309404", "sub_label": "Alchornea", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q141267", "sub_label": "Aleurites", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q5226286", "sub_label": "Plukenetia", "sub_aliases": [], "obj_id": "Q156584", "obj_label": "Wolfsmilchgew\u00e4chse", "answer_idx": 12, "obj_aliases": "Wolfsmilchgew\u00e4chs"}
+{"sub_id": "Q1350469", "sub_label": "Pseudomyrmecinae", "sub_aliases": [], "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q1207000", "sub_label": "Leptanillinae", "sub_aliases": [], "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q1004255", "sub_label": "Bulldoggenameisen", "sub_aliases": "Myrmeciinae", "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q119691", "sub_label": "Schuppenameisen", "sub_aliases": "Formicinae", "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q1060265", "sub_label": "Knotenameisen", "sub_aliases": "Myrmicinae", "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q4035873", "sub_label": "Carebara", "sub_aliases": [], "obj_id": "Q7386", "obj_label": "Ameisen", "answer_idx": 13, "obj_aliases": "Formicidae"}
+{"sub_id": "Q2317883", "sub_label": "Gehyra", "sub_aliases": [], "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q2318078", "sub_label": "Bunopus", "sub_aliases": [], "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q134522", "sub_label": "Afroedura", "sub_aliases": [], "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q1394970", "sub_label": "Faltengeckos", "sub_aliases": "Ptychozoon", "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q1073955", "sub_label": "Gekkoninae", "sub_aliases": [], "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q244443", "sub_label": "Tropiocolotes", "sub_aliases": [], "obj_id": "Q15872", "obj_label": "Geckos", "answer_idx": 14, "obj_aliases": "Gekkonidae"}
+{"sub_id": "Q138199", "sub_label": "Nepetoideae", "sub_aliases": [], "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q9250007", "sub_label": "Tectona", "sub_aliases": ["teak"], "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q583668", "sub_label": "Bartblumen", "sub_aliases": "Caryopteris", "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q3776417", "sub_label": "Collinsonia", "sub_aliases": [], "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q17114803", "sub_label": "Coleus", "sub_aliases": [], "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q3776462", "sub_label": "Hedeoma", "sub_aliases": [], "obj_id": "Q53476", "obj_label": "Lippenbl\u00fctler", "answer_idx": 15}
+{"sub_id": "Q1050525", "sub_label": "Monticola", "sub_aliases": ["Rock thrush"], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q2351914", "sub_label": "Eumyias", "sub_aliases": [], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q1003690", "sub_label": "Fraseria", "sub_aliases": [], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q2376830", "sub_label": "Cossypha", "sub_aliases": ["Robin-chat"], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q899824", "sub_label": "Cyornis", "sub_aliases": [], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q1081020", "sub_label": "Niltava", "sub_aliases": [], "obj_id": "Q200989", "obj_label": "Fliegenschn\u00e4pper", "answer_idx": 16, "obj_aliases": "Muscicapidae"}
+{"sub_id": "Q163537", "sub_label": "Corallorhiza", "sub_aliases": [], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q133784", "sub_label": "Bifrenaria", "sub_aliases": [], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q28099", "sub_label": "Agrostophyllum", "sub_aliases": [], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q133013", "sub_label": "Apostasioideae", "sub_aliases": [], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q133278", "sub_label": "Gastrodia", "sub_aliases": [], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q20809", "sub_label": "Aeranthes", "sub_aliases": ["Aerth", "Aeranthus"], "obj_id": "Q25308", "obj_label": "Orchideen", "answer_idx": 17, "obj_aliases": "Orchideengew\u00e4chse"}
+{"sub_id": "Q205938", "sub_label": "Bauml\u00e4ufer", "sub_aliases": "Certhiidae", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q681374", "sub_label": "Monarchen", "sub_aliases": "Monarchidae", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q748220", "sub_label": "Vireos", "sub_aliases": "Vireonidae", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q371086", "sub_label": "Brillenv\u00f6gel", "sub_aliases": "Zosteropidae", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q211601", "sub_label": "Weberv\u00f6gel", "sub_aliases": "Widahfink", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q537702", "sub_label": "Maorischl\u00fcpfer", "sub_aliases": "pok\u0159ovn\u00edkovit\u00ed", "obj_id": "Q25341", "obj_label": "Sperlingsv\u00f6gel", "answer_idx": 18, "obj_aliases": "p\u011bvci"}
+{"sub_id": "Q2978108", "sub_label": "Urochloa", "sub_aliases": [], "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q1631087", "sub_label": "Traubenhafer", "sub_aliases": "Danthonia", "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q161132", "sub_label": "Elytrigia", "sub_aliases": [], "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q2440147", "sub_label": "Imperata", "sub_aliases": [], "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q158120", "sub_label": "Zittergr\u00e4ser", "sub_aliases": "Briza", "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q670887", "sub_label": "Bambusoideae", "sub_aliases": "Bambuk", "obj_id": "Q43238", "obj_label": "S\u00fc\u00dfgr\u00e4ser", "answer_idx": 19, "obj_aliases": "S\u00fcssgr\u00e4ser"}
+{"sub_id": "Q786422", "sub_label": "Laterallus", "sub_aliases": [], "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q688188", "sub_label": "Amaurornis", "sub_aliases": [], "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q220705", "sub_label": "Rallus", "sub_aliases": [], "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q869404", "sub_label": "Coturnicops", "sub_aliases": [], "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q135886", "sub_label": "Lewinia", "sub_aliases": [], "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q1137291", "sub_label": "Purpurh\u00fchner", "sub_aliases": "Porphyrio", "obj_id": "Q26623", "obj_label": "Rallen", "answer_idx": 20, "obj_aliases": "Rallenv\u00f6gel"}
+{"sub_id": "Q140300", "sub_label": "Gillenia", "sub_aliases": [], "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q3489865", "sub_label": "Stranvaesia", "sub_aliases": [], "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q149222", "sub_label": "Vauquelinia", "sub_aliases": [], "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q134655", "sub_label": "Rosoideae", "sub_aliases": [], "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q2977547", "sub_label": "Comarum", "sub_aliases": [], "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q157180", "sub_label": "Frauenmantel", "sub_aliases": "Frauenmantelkraut", "obj_id": "Q46299", "obj_label": "Rosengew\u00e4chse", "answer_idx": 21, "obj_aliases": "Rosengew\u00e4chs"}
+{"sub_id": "Q3292003", "sub_label": "Palicourea", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q2700681", "sub_label": "Mussaenda", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q9079483", "sub_label": "Squamellaria", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q309935", "sub_label": "Mitragyna", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q3245386", "sub_label": "Cephalanthus", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q2666292", "sub_label": "Nertera", "sub_aliases": [], "obj_id": "Q156569", "obj_label": "Rubiaceae", "answer_idx": 22, "obj_aliases": "Rubiac\u00e9es"}
+{"sub_id": "Q158510", "sub_label": "Bilsenkr\u00e4uter", "sub_aliases": "Bilsenkraut", "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q141632", "sub_label": "Calibrachoa", "sub_aliases": "Zaubergl\u00f6ckchen", "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q3268411", "sub_label": "Bocksdorne", "sub_aliases": "Lycium", "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q161103", "sub_label": "Petunien", "sub_aliases": "Petunia", "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q3339559", "sub_label": "Nicandra", "sub_aliases": [], "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q192497", "sub_label": "Stech\u00e4pfel", "sub_aliases": "Daturie", "obj_id": "Q134172", "obj_label": "Nachtschattengew\u00e4chse", "answer_idx": 23, "obj_aliases": "Solanac\u00e9es"}
+{"sub_id": "Q2314312", "sub_label": "Hysterocrates", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
+{"sub_id": "Q481684", "sub_label": "Acanthoscurria", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
+{"sub_id": "Q953576", "sub_label": "Pamphobeteus", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
+{"sub_id": "Q523636", "sub_label": "Lampropelma", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
+{"sub_id": "Q2593771", "sub_label": "Iridopelma", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
+{"sub_id": "Q1813011", "sub_label": "Ceratogyrus", "sub_aliases": [], "obj_id": "Q213383", "obj_label": "Vogelspinnen", "answer_idx": 24, "obj_aliases": "Theraphosidae"}
