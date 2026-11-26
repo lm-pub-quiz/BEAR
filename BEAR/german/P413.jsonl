@@ -1,0 +1,149 @@
+{"sub_id": "Q1090473", "sub_label": "Moe Berg", "sub_aliases": "Morris Berg", "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q613319", "sub_label": "Mike Piazza", "sub_aliases": ["Michael Joseph Piazza"], "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q707804", "sub_label": "Joe Torre", "sub_aliases": ["Joseph Paul Torre"], "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q1059152", "sub_label": "Brian McCann", "sub_aliases": ["Brian Michael McCann"], "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q8023023", "sub_label": "Willson Contreras", "sub_aliases": ["Willson Eduardo Contreras", "Wilson E. Contreras"], "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q1186457", "sub_label": "Joe Girardi", "sub_aliases": ["Joseph Elliot Girardi", "Joseph Elliott Girardi"], "obj_id": "Q1050571", "obj_label": "Catcher", "answer_idx": 0, "obj_aliases": "F\u00e4nger"}
+{"sub_id": "Q1376903", "sub_label": "Andruw Jones", "sub_aliases": ["Andruw Rudolf Jones"], "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q561852", "sub_label": "Willie Mays", "sub_aliases": "Willie Howard Mays junior", "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q3259459", "sub_label": "Lorenzo Cain", "sub_aliases": ["Lorenzo Lamar Cain"], "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q1489089", "sub_label": "Richie Ashburn", "sub_aliases": ["Don Richard Ashburn"], "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q345004", "sub_label": "Mickey Mantle", "sub_aliases": "Mickey Charles Mantle", "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q212244", "sub_label": "Curtis Granderson", "sub_aliases": "Grandy Man", "obj_id": "Q5059480", "obj_label": "Centerfielder", "answer_idx": 1}
+{"sub_id": "Q641569", "sub_label": "Asante Samuel", "sub_aliases": [], "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q726226", "sub_label": "Ronnie Lott", "sub_aliases": "Ronald Mandel Lott", "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q1374361", "sub_label": "Tom Landry", "sub_aliases": ["Thomas Wade Landry"], "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q2859108", "sub_label": "Aqib Talib", "sub_aliases": [], "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q206632", "sub_label": "Ty Law", "sub_aliases": "Tajuan Law", "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q1753941", "sub_label": "Patrick Peterson", "sub_aliases": "Patrick De'mon Peterson", "obj_id": "Q869161", "obj_label": "Cornerback", "answer_idx": 2}
+{"sub_id": "Q641408", "sub_label": "Brad William Henke", "sub_aliases": "Brad Henke", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q721031", "sub_label": "Fred Dryer", "sub_aliases": "John Frederick Dryer", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q718840", "sub_label": "John Matuszak", "sub_aliases": "John Daniel Matuszak", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q21622180", "sub_label": "Carl Nassib", "sub_aliases": "Carl Paul Nassib", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q1097511", "sub_label": "J. J. Watt", "sub_aliases": "Justin James Watt", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q196166", "sub_label": "Titus O\u2019Neil", "sub_aliases": "Titus O'Neil", "obj_id": "Q903354", "obj_label": "Defensive End", "answer_idx": 3}
+{"sub_id": "Q726104", "sub_label": "Cortez Kennedy", "sub_aliases": [], "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q969866", "sub_label": "Alex Karras", "sub_aliases": "The Mad Duck", "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q1340769", "sub_label": "Vince Wilfork", "sub_aliases": "Vincent Lamar Wilfork", "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q3023782", "sub_label": "Derek Wolfe", "sub_aliases": [], "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q15267489", "sub_label": "Aaron Donald", "sub_aliases": "Aaron Charles Donald", "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q1151501", "sub_label": "Haloti Ngata", "sub_aliases": "Etuini Haloti Ngata", "obj_id": "Q2550304", "obj_label": "Defensive Tackle", "answer_idx": 4}
+{"sub_id": "Q1091432", "sub_label": "Jeff Bagwell", "sub_aliases": ["Jeffrey Robert Bagwell", "Jeffrey Bagwell"], "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q148726", "sub_label": "Albert Pujols", "sub_aliases": "Jos\u00e9 Albert Pujols", "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q705213", "sub_label": "Ryan Howard", "sub_aliases": ["Ryan James Howard"], "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q679120", "sub_label": "Don Mattingly", "sub_aliases": ["Donald Arthur Mattingly", "Donnie Mattingly"], "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q1585630", "sub_label": "Harmon Killebrew", "sub_aliases": "Hammerin\u2019 Harmon", "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q687282", "sub_label": "Hank Greenberg", "sub_aliases": "Hammerin\u2019 Hank", "obj_id": "Q1326154", "obj_label": "First Baseman", "answer_idx": 5}
+{"sub_id": "Q484384", "sub_label": "F\u00e1bio Coentr\u00e3o", "sub_aliases": "Fabio Coentr\u00e3o", "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q350547", "sub_label": "Filipe Lu\u00eds", "sub_aliases": ["Filipe Lu\u00eds Kasmirski"], "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q181921", "sub_label": "Branislav Ivanovi\u0107", "sub_aliases": "Bane Ivanovi\u0107", "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q40604", "sub_label": "Kieran Gibbs", "sub_aliases": "Kieran James Ricardo Gibbs", "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q127452", "sub_label": "Dani Carvajal", "sub_aliases": "Daniel Carvajal", "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q1938", "sub_label": "Bacary Sagna", "sub_aliases": [], "obj_id": "Q5508224", "obj_label": "Schlussmann", "answer_idx": 6, "obj_aliases": "Fullback"}
+{"sub_id": "Q160472", "sub_label": "Marc-Andr\u00e9 ter Stegen", "sub_aliases": "Marc-Andre ter Stegen", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q150268", "sub_label": "David de Gea", "sub_aliases": "David de Gea Quintana", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q482955", "sub_label": "Edwin van der Sar", "sub_aliases": "Van der Sar", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q107365", "sub_label": "Manuel Neuer", "sub_aliases": "Manuel Peter Neuer", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q295797", "sub_label": "Kasper Schmeichel", "sub_aliases": "Kasper Peter Schmeichel", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q68060", "sub_label": "Gianluigi Buffon", "sub_aliases": "Gigi Buffon", "obj_id": "Q201330", "obj_label": "Fu\u00dfballtorwart", "answer_idx": 7, "obj_aliases": "Torw\u00e4rtin"}
+{"sub_id": "Q1399654", "sub_label": "Red Grange", "sub_aliases": "The Galopping Ghost", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q3530742", "sub_label": "Tom Harmon", "sub_aliases": "Thomas Dudley Harmon", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q363509", "sub_label": "Paul Hornung", "sub_aliases": "Paul Vernon Hornung", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q809097", "sub_label": "Barry Sanders", "sub_aliases": "Barry David Sanders", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q1356923", "sub_label": "Ernie Davis", "sub_aliases": "Elmira Express", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q1185801", "sub_label": "John Kuhn", "sub_aliases": "John Allen Kuhn", "obj_id": "Q589410", "obj_label": "Halftback", "answer_idx": 8, "obj_aliases": "HB"}
+{"sub_id": "Q14375933", "sub_label": "Christian Yelich", "sub_aliases": "Christian Stephen Yelich", "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q1328142", "sub_label": "Stan Musial", "sub_aliases": ["Stanley Frank Musial", "Stanis\u0142aw Franciszek Musia\u0142", "Stan the Man", "Stanislaus Franciszek Musial", "Stashu", "Stash", "The Donora Greyhound"], "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q1037431", "sub_label": "Carl Crawford", "sub_aliases": "Carl Demonte Crawford", "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q2699194", "sub_label": "Yoenis C\u00e9spedes", "sub_aliases": ["Yoenis C\u00e9spedes Milan\u00e9s", "Yoenis Cespedes Milanes", "Yoenis Cespedes"], "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q154810", "sub_label": "Starling Marte", "sub_aliases": ["Starling Javier Marte"], "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q676861", "sub_label": "Lou Piniella", "sub_aliases": ["Louis Victor \"Lou\" Piniella"], "obj_id": "Q1149868", "obj_label": "Leftfielder", "answer_idx": 9}
+{"sub_id": "Q16758", "sub_label": "Ed O\u2019Neill", "sub_aliases": "Edward Leonard O\u2019Neill", "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q14950519", "sub_label": "Khalil Mack", "sub_aliases": [], "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q471841", "sub_label": "Brian Urlacher", "sub_aliases": ["Urlacher"], "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q715511", "sub_label": "Dick Butkus", "sub_aliases": "Richard Butkus", "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q3267090", "sub_label": "Luke Kuechly", "sub_aliases": "Luke August Kuechly", "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q1124532", "sub_label": "Junior Seau", "sub_aliases": "Tiaina Baul Seau Jr.", "obj_id": "Q528145", "obj_label": "Linebacker", "answer_idx": 10}
+{"sub_id": "Q3791153", "sub_label": "Justin Tucker", "sub_aliases": "Justin Paul Tucker", "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q3078021", "sub_label": "Robbie Gould", "sub_aliases": "Robbie Paul III Gould", "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q461719", "sub_label": "Lou Groza", "sub_aliases": "Louis Roy Groza", "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q3113245", "sub_label": "Graham Gano", "sub_aliases": "Graham Clark Gano", "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q364812", "sub_label": "Stephen Gostkowski", "sub_aliases": "Stephen Carroll Gostkowski", "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q718303", "sub_label": "Morten Andersen", "sub_aliases": [], "obj_id": "Q1638113", "obj_label": "Kicker", "answer_idx": 11, "obj_aliases": "Placekicker"}
+{"sub_id": "Q42101", "sub_label": "Denzel Washington", "sub_aliases": "Denzel Hayes Washington Jr.", "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q974603", "sub_label": "Kyle Lowry", "sub_aliases": "Kyle Terrell Lowry", "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q150502", "sub_label": "Muggsy Bogues", "sub_aliases": ["Tyrone Bogues", "Tyrone Curtis Bogues", "Muggs", "Billy", "Apple"], "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q348618", "sub_label": "Kyrie Irving", "sub_aliases": "Uncle Drew", "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q309590", "sub_label": "Jeremy Lin", "sub_aliases": "L\u00edn Sh\u016bh\u00e1o", "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q213346", "sub_label": "John Stockton", "sub_aliases": "John Houston Stockton", "obj_id": "Q212413", "obj_label": "Point Guard", "answer_idx": 12, "obj_aliases": "One Guard"}
+{"sub_id": "Q44068", "sub_label": "Dirk Nowitzki", "sub_aliases": "German Wunderkind", "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q14834367", "sub_label": "Kristaps Porzi\u0146\u0123is", "sub_aliases": ["Kristaps Porzingis"], "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q928077", "sub_label": "Kenneth Faried", "sub_aliases": "Kenneth Bernard Faried Lewis", "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q309783", "sub_label": "Blake Griffin", "sub_aliases": "Blake Austin Griffin", "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q352073", "sub_label": "Shareef Abdur-Rahim", "sub_aliases": "Julius Shareef Abdur-Rahim", "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q363421", "sub_label": "Kris Humphries", "sub_aliases": "Kris Nathan Humphries", "obj_id": "Q462471", "obj_label": "Power Forward", "answer_idx": 13, "obj_aliases": "Big Forward"}
+{"sub_id": "Q14027", "sub_label": "Tony Romo", "sub_aliases": "Antonio Ramiro Romo", "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q38952", "sub_label": "Drew Brees", "sub_aliases": "Drew Christopher Brees", "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q302581", "sub_label": "Aaron Rodgers", "sub_aliases": "Aaron Charles Rodgers", "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q348011", "sub_label": "Joe Montana", "sub_aliases": "Joseph Clifford Montana Jr.", "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q7539", "sub_label": "Peyton Manning", "sub_aliases": ["Peyton Williams Manning", "The Sheriff"], "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q316187", "sub_label": "Eli Manning", "sub_aliases": "Elisha Nelson Manning", "obj_id": "Q622747", "obj_label": "Quarterback", "answer_idx": 14, "obj_aliases": "Blocking back"}
+{"sub_id": "Q8049780", "sub_label": "Yasiel Puig", "sub_aliases": ["Wild Horse", "Yasiel Valdes Puig"], "obj_id": "Q1149560", "obj_label": "Rightfielder", "answer_idx": 15}
+{"sub_id": "Q684020", "sub_label": "Roberto Clemente", "sub_aliases": ["Roberto Clemente Walker", "Roberto Enrique Clemente Walker"], "obj_id": "Q1149560", "obj_label": "Rightfielder", "answer_idx": 15}
+{"sub_id": "Q3218116", "sub_label": "Larry Walker", "sub_aliases": ["Larry Kenneth Robert Walker"], "obj_id": "Q1149560", "obj_label": "Rightfielder", "answer_idx": 15}
+{"sub_id": "Q2524302", "sub_label": "Bryce Harper", "sub_aliases": ["Bryce A. Harper", "Bryce Rod", "Bryce Aaron Harper", "Bryce Aron Max Harper"], "obj_id": "Q1149560", "obj_label": "Rightfielder", "answer_idx": 15}
+{"sub_id": "Q741023", "sub_label": "Roger Maris", "sub_aliases": "Roger Eugene Maris", "obj_id": "Q1149560", "obj_label": "Rightfielder", "answer_idx": 15}
+{"sub_id": "Q1523516", "sub_label": "Ray Rice", "sub_aliases": "Raymell Mourice Rice", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q1374970", "sub_label": "Frank Gore", "sub_aliases": "Franklin Gore", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q16729768", "sub_label": "Derrick Henry", "sub_aliases": "Derrick Lamar Henry Jr.", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q7812406", "sub_label": "Todd Gurley", "sub_aliases": "Todd Gurley II", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q221482", "sub_label": "Jim Thorpe", "sub_aliases": "James Franciscus Thorpe", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q213512", "sub_label": "Bill Cosby", "sub_aliases": "William Henry Cosby, Jr.", "obj_id": "Q912985", "obj_label": "Runningback", "answer_idx": 16, "obj_aliases": "Fullback"}
+{"sub_id": "Q3870706", "sub_label": "Nate Ebner", "sub_aliases": ["Nathan Ebner"], "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q719098", "sub_label": "Tony Dungy", "sub_aliases": "Anthony Kevin Dungy", "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q604393", "sub_label": "Ed Reed", "sub_aliases": "Edward Earl junior Reed", "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q715572", "sub_label": "Troy Polamalu", "sub_aliases": "Troy Benjamin Aumua", "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q3546268", "sub_label": "Tyrann Mathieu", "sub_aliases": "Tyrann Devine Mathieu", "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q21620665", "sub_label": "Jamal Adams", "sub_aliases": "Jamal Lee Adams", "obj_id": "Q24994", "obj_label": "Safety", "answer_idx": 17, "obj_aliases": "Strong Safety"}
+{"sub_id": "Q2696934", "sub_label": "Tony La Russa", "sub_aliases": ["Anthony La Russa, Jr."], "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q3014492", "sub_label": "Daniel Murphy", "sub_aliases": "Daniel Thomas Murphy", "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q3186148", "sub_label": "Jos\u00e9 Altuve", "sub_aliases": "Jos\u00e9 Carlos Altuve", "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q1486575", "sub_label": "Starlin Castro", "sub_aliases": "Starlin DeJesus Castro", "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q2351564", "sub_label": "Matt Carpenter", "sub_aliases": ["Matthew Martin Carpenter", "Matthew Martin Lee Carpenter"], "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q1064440", "sub_label": "Scott Boras", "sub_aliases": ["Scott Dean Boras"], "obj_id": "Q1368195", "obj_label": "Second Baseman", "answer_idx": 18}
+{"sub_id": "Q456374", "sub_label": "DeMar DeRozan", "sub_aliases": ["DeMar Darnell DeRozan"], "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q208623", "sub_label": "Ray Allen", "sub_aliases": "Walter Ray Allen", "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q313485", "sub_label": "Brandon Roy", "sub_aliases": "Brandon Dawayne Roy", "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q897000", "sub_label": "Bradley Beal", "sub_aliases": ["Bradley Emmanuel Beal"], "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q2504840", "sub_label": "Evan Fournier", "sub_aliases": ["Evan Mehdi Fournier"], "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q443724", "sub_label": "Marco Belinelli", "sub_aliases": "Marco Stefano Belinelli", "obj_id": "Q273199", "obj_label": "Shooting Guard", "answer_idx": 19, "obj_aliases": "Two Guard"}
+{"sub_id": "Q1185158", "sub_label": "Miguel Tejada", "sub_aliases": ["Miguel Odalis Tejada"], "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q601982", "sub_label": "Jimmy Rollins", "sub_aliases": ["James Calvin Rollins", "J-Roll"], "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q127494", "sub_label": "Ozzie Smith", "sub_aliases": ["Osborne Earl Smith", "Osborne Smith", "The Wizard"], "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q1185328", "sub_label": "Troy Tulowitzki", "sub_aliases": ["Troy Trevor Tulowitzki", "Tulo"], "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q731168", "sub_label": "Cal Ripken Jr.", "sub_aliases": "Calvin Edwin Ripken Jr.", "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q3026879", "sub_label": "Didi Gregorius", "sub_aliases": ["Mariekson Julius \"Didi\" Gregorius", "Mariekson Julius Gregorius"], "obj_id": "Q1143358", "obj_label": "Shortstop", "answer_idx": 20}
+{"sub_id": "Q358108", "sub_label": "Trevor Ariza", "sub_aliases": "Trevor Anthony Ariza", "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q2614593", "sub_label": "Draymond Green", "sub_aliases": "Draymond Jamal Green Sr.", "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q362872", "sub_label": "James Worthy", "sub_aliases": "James Ager Worthy", "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q434824", "sub_label": "Rick Barry", "sub_aliases": "Richard Francis Dennis III. Barry", "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q193637", "sub_label": "Scottie Pippen", "sub_aliases": ["Scotty Maurice Pippen", "Pip", "Scott Pippen", "Robin", "No Tippin' Pippen"], "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q277780", "sub_label": "Peja Stojakovi\u0107", "sub_aliases": "Predrag Stojakovi\u0107", "obj_id": "Q308879", "obj_label": "Small Forward", "answer_idx": 21}
+{"sub_id": "Q1185516", "sub_label": "Adam Wainwright", "sub_aliases": ["Adam Parrish Wainwright"], "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q3035912", "sub_label": "Don Sutton", "sub_aliases": ["Donald Howard Sutton"], "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q726918", "sub_label": "Pedro Mart\u00ednez", "sub_aliases": ["Pedro Mart\u00ednez", "Pedro el Grande", "Pedro Jaime Martinez"], "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q940215", "sub_label": "Y\u016b Darvish", "sub_aliases": "Y\u016b Darwisch", "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q1399708", "sub_label": "Mark Buehrle", "sub_aliases": "Buehrle", "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q1136890", "sub_label": "David Cone", "sub_aliases": ["David Brian Cone"], "obj_id": "Q772148", "obj_label": "Beginnender Pitcher", "answer_idx": 22}
+{"sub_id": "Q1152442", "sub_label": "George Brett", "sub_aliases": ["George Howard Brett"], "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q246539", "sub_label": "Wade Boggs", "sub_aliases": "Wade Anthony Boggs", "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q3079152", "sub_label": "Manny Machado", "sub_aliases": ["Manuel Arturo Machado", "Manuel Arturo \"Manny\" Machado", "Manuel Machado", "Manuel arturo machado"], "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q521270", "sub_label": "Brooks Robinson", "sub_aliases": "Brooks Calbert Robinson, Jr", "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q1062204", "sub_label": "Adri\u00e1n Beltr\u00e9", "sub_aliases": ["Adri\u00e1n Beltr\u00e9 P\u00e9rez", "Adrian Beltre", "Adrian Beltre Perez"], "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q7026880", "sub_label": "Nick Castellanos", "sub_aliases": ["Nicholas A. Castellanos", "Nick Castellanos", "Nicholas Alexander Castellanos"], "obj_id": "Q1368170", "obj_label": "Third Baseman", "answer_idx": 23, "obj_aliases": "dritter Basemann"}
+{"sub_id": "Q2565943", "sub_label": "Antonio Gates", "sub_aliases": "Antonio Ethan junior Gates", "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}
+{"sub_id": "Q5606082", "sub_label": "Greg Olsen", "sub_aliases": "Gregory Olsen", "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}
+{"sub_id": "Q3849995", "sub_label": "Martellus Bennett", "sub_aliases": ["Martellus Demond Bennett"], "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}
+{"sub_id": "Q720027", "sub_label": "Bill Belichick", "sub_aliases": "William Stephen Belichick", "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}
+{"sub_id": "Q302091", "sub_label": "Aaron Hernandez", "sub_aliases": "Aaron Josef Hernandez", "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}
+{"sub_id": "Q1378223", "sub_label": "Shannon Sharpe", "sub_aliases": [], "obj_id": "Q1153176", "obj_label": "Tight End", "answer_idx": 24}

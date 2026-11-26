@@ -1,0 +1,571 @@
+{"sub_id": "Q249769", "sub_label": "Orestie", "sub_aliases": ["The Oresteia"], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q93295874", "sub_label": "Aitnaiai", "sub_aliases": [], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q6088466", "sub_label": "Proteus", "sub_aliases": [], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q846870", "sub_label": "Der gefesselte Prometheus", "sub_aliases": "Prometheus vinctus", "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q3920595", "sub_label": "Diktyoulkoi", "sub_aliases": [], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q19234933", "sub_label": "Eschyle", "sub_aliases": [], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q506546", "sub_label": "Sieben gegen Theben", "sub_aliases": ["The Seven against Thebes", "The Seven Chiefs against Thebes", "The Seven Against Thebes", "The Seven Who Fought Against Thebes"], "obj_id": "Q40939", "obj_label": "Aischylos", "obj_aliases": "\u00c4schylus"}
+{"sub_id": "Q1067484", "sub_label": "Die Schildkr\u00f6te und der Hase", "sub_aliases": ["The Hare and the Tortoise"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q3221202", "sub_label": "Das Pferd und der Esel", "sub_aliases": ["The Horse and the Ass"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q3220700", "sub_label": "The Honest Woodman", "sub_aliases": ["The Honest Woodcutter", "Mercury and the Workmen", "The Woodcutter and Hermes"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q3233815", "sub_label": "The Belly and the Members", "sub_aliases": ["The Stomach and the Feet"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q54310156", "sub_label": "The Ass Carrying an Image", "sub_aliases": [], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q7754874", "sub_label": "The Old Man and Death", "sub_aliases": [], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q7770108", "sub_label": "The Trees and the Bramble", "sub_aliases": ["The Pomegranate, the Apple Tree, and the Bramble"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q3203689", "sub_label": "The Statue of Hermes", "sub_aliases": ["The Man and the Wooden God", "The Statue of Hermes and the Treasure", "The Man who broke a Statue of Hermes", "The Image of Mercury and the Carpenter"], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q19456239", "sub_label": "The Oxen and the Creaking Cart", "sub_aliases": [], "obj_id": "Q43423", "obj_label": "\u00c4sop", "obj_aliases": "\u00c4sopos"}
+{"sub_id": "Q642911", "sub_label": "Mord in Mesopotamien", "sub_aliases": [], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q752432", "sub_label": "Dreizehn bei Tisch", "sub_aliases": "Thirteen At Dinner", "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q377710", "sub_label": "Hercule Poirots Weihnachten", "sub_aliases": ["Murder for Christmas"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q337944", "sub_label": "Der ballspielende Hund", "sub_aliases": ["Poirot Loses a Client", "Mystery At Littlegreen House", "Murder At Littlegreen House"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q741407", "sub_label": "Die Tote in der Bibliothek", "sub_aliases": "The Body in the Library", "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q727861", "sub_label": "Die Morde des Herrn ABC", "sub_aliases": ["A.B.C. Murders", "The ABC Murders", "ABC Murders"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q304493", "sub_label": "Das unvollendete Bildnis", "sub_aliases": [], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q845889", "sub_label": "Mord im Orient-Express", "sub_aliases": "Der rote Kimono", "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q588531", "sub_label": "Mord im Spiegel", "sub_aliases": ["The Mirror Crack'd"], "obj_id": "Q35064", "obj_label": "Agatha Christie"}
+{"sub_id": "Q2391306", "sub_label": "Der Brunnen von Baktschi-Sarai", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q9372670", "sub_label": "Winter evening", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q21529598", "sub_label": "In Life's Desert, Sad and Boundless", "sub_aliases": ["Three Springs"], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q4506367", "sub_label": "The Gypsies", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q3563398", "sub_label": "A Journey to Arzrum", "sub_aliases": ["A Journey to Arzrum during the Campaign of 1829"], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q3691280", "sub_label": "Der Mohr Peters des Gro\u00dfen", "sub_aliases": ["The Moor of Peter the Great", "The Negro of Peter the Great"], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q10840555", "sub_label": "\u00c4gyptische N\u00e4chte", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q22257118", "sub_label": "The Sergeant of the Guards", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q4535727", "sub_label": "To ***", "sub_aliases": [], "obj_id": "Q7200", "obj_label": "Alexander Sergejewitsch Puschkin", "obj_aliases": "Pouchkine Aleksandr Sergueevitch"}
+{"sub_id": "Q4376560", "sub_label": "The Wolf Leader", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q19042346", "sub_label": "Urbain Grandier", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q7753774", "sub_label": "The New Troy", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q1111179", "sub_label": "D'Artagnan-Romane", "sub_aliases": "D'Artagnan-Trilogie", "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q24964717", "sub_label": "The Regent's Daughter", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q530910", "sub_label": "Ange Pitou", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2407329", "sub_label": "Kean", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q2664833", "sub_label": "Die Dame von Monsoreau", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q3372694", "sub_label": "Pauline (Alexandre Dumas)", "sub_aliases": [], "obj_id": "Q38337", "obj_label": "Alexandre Dumas der \u00c4ltere", "obj_aliases": "Alexandre Dumas d. \u00c4."}
+{"sub_id": "Q872532", "sub_label": "Wanka", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q3233095", "sub_label": "Die Stachelbeeren", "sub_aliases": ["Gooseberry"], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q3191735", "sub_label": "Kaschtanka", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q3548870", "sub_label": "A Horsey Name", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q3205563", "sub_label": "Der Student", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q3212970", "sub_label": "Die Steppe", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q2851327", "sub_label": "Anna am Halse", "sub_aliases": [], "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q1112008", "sub_label": "Platonow", "sub_aliases": "Die Vaterlosen", "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q2418554", "sub_label": "Die Dame mit dem H\u00fcndchen", "sub_aliases": "Die Dame mit dem Spitz", "obj_id": "Q5685", "obj_label": "Anton Pawlowitsch Tschechow", "obj_aliases": "Anton Tschechoff"}
+{"sub_id": "Q1054239", "sub_label": "Corpus Aristotelicum", "sub_aliases": ["The Works of Aristotle"], "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q3481632", "sub_label": "De Insomniis", "sub_aliases": "\u00dcber die Tr\u00e4ume", "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q1251340", "sub_label": "Ungeschriebene Lehre", "sub_aliases": "Prinzipienlehre", "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q185123", "sub_label": "Progression of Animals", "sub_aliases": [], "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q1180725", "sub_label": "De partibus animalium", "sub_aliases": "\u00dcber die Teile der Tiere", "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q3481620", "sub_label": "De divinatione per somnum", "sub_aliases": "\u00dcber die Weissagung im Schlaf", "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q3481665", "sub_label": "De memoria et reminiscentia", "sub_aliases": ["De Memoria et Reminiscentia", "On Memory and Reminiscence"], "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q485217", "sub_label": "Analytica priora", "sub_aliases": "Analytica Priora", "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q500930", "sub_label": "Organon", "sub_aliases": [], "obj_id": "Q868", "obj_label": "Aristoteles"}
+{"sub_id": "Q4395914", "sub_label": "Rodney Stone", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q1151528", "sub_label": "A Case of Identity", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q4281053", "sub_label": "The Maracot Deep", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q22090538", "sub_label": "The Crime of the Congo", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q2563966", "sub_label": "Als die Erde schrie", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q1170214", "sub_label": "Das R\u00e4tsel der Thor-Br\u00fccke", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q2616869", "sub_label": "Das Nebelland", "sub_aliases": [], "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q223131", "sub_label": "Eine Studie in Scharlachrot", "sub_aliases": "A Study in Scarlet", "obj_id": "Q35610", "obj_label": "Arthur Conan Doyle"}
+{"sub_id": "Q1170665", "sub_label": "Das Verh\u00f6r des Lukullus", "sub_aliases": "Die Verurteilung des Lukullus", "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q735889", "sub_label": "Mann ist Mann", "sub_aliases": ["A Man's a Man", "Mann ist Mann"], "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q7729258", "sub_label": "Die Tage der Commune", "sub_aliases": "Die Tage der Kommune", "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q1214645", "sub_label": "Die L\u00f6sung", "sub_aliases": [], "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q442296", "sub_label": "Die Gewehre der Frau Carrar", "sub_aliases": "Gewehre der Frau Carrar", "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q569457", "sub_label": "Trommeln in der Nacht", "sub_aliases": [], "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q1613926", "sub_label": "Herr Puntila und sein Knecht Matti", "sub_aliases": [], "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q2371495", "sub_label": "Svendborger Gedichte", "sub_aliases": [], "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q544256", "sub_label": "Schweyk im Zweiten Weltkrieg", "sub_aliases": "Schweyk", "obj_id": "Q38757", "obj_label": "Bertolt Brecht", "obj_aliases": "Eugen Berthold Friedrich Brecht"}
+{"sub_id": "Q7757110", "sub_label": "The Pilgrim's Regress", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q4657189", "sub_label": "A Grief Observed", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q485093", "sub_label": "Der K\u00f6nig von Narnia", "sub_aliases": ["The Lion, the Witch and the Wardrobe", "the first Narnia book", "The Chronicles of Narnia, book 1", "The Chronicles of Narnia, book 2 (late reissue)", "LWW"], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q331669", "sub_label": "Der silberne Sessel", "sub_aliases": "The Silver Chair", "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q7730298", "sub_label": "The Discarded Image", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q392170", "sub_label": "Perelandra", "sub_aliases": ["Voyage to Venus"], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q4062569", "sub_label": "The Allegory of Love", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q1218012", "sub_label": "Die b\u00f6se Macht", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q14594113", "sub_label": "Aslan's How", "sub_aliases": [], "obj_id": "Q9204", "obj_label": "C. S. Lewis", "obj_aliases": "Clive Staples Lewis"}
+{"sub_id": "Q2997921", "sub_label": "Einkl\u00e4nge", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q19227154", "sub_label": "Reflections on Some of My Contemporaries", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q19230508", "sub_label": "Richard Wagner and Tannh\u00e4user in Paris", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q19172639", "sub_label": "Harmony of the Evening", "sub_aliases": ["Harmonie du soir"], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q3227409", "sub_label": "Skeleton with a Spade", "sub_aliases": ["Le Squelette laboureur", "The Skeleton Navy", "Skeletons Digging"], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q3225375", "sub_label": "Le Peintre de la vie moderne", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q3373680", "sub_label": "Paysage", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q3054395", "sub_label": "Get Drunk", "sub_aliases": [], "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q3576923", "sub_label": "An eine kreolische Dame", "sub_aliases": "Einer Kreolin", "obj_id": "Q501", "obj_label": "Charles Baudelaire"}
+{"sub_id": "Q883305", "sub_label": "Bleak House", "sub_aliases": "Bleakhaus", "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q2700616", "sub_label": "Der Rarit\u00e4tenladen", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q2237117", "sub_label": "All the Year Round", "sub_aliases": "All round the Year", "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q3974316", "sub_label": "Nobody's Story", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q2609480", "sub_label": "Sketches by Boz", "sub_aliases": ["Sketches by \"Boz,\" Illustrative of Every-day Life and Every-day People"], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q1557935", "sub_label": "Unser gemeinsamer Freund", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q32837053", "sub_label": "Oliwer Twist", "sub_aliases": ["Oliver Twist"], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q219552", "sub_label": "Gro\u00dfe Erwartungen", "sub_aliases": "Grosse Erwartungen", "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q3712854", "sub_label": "Sunday Under Three Heads", "sub_aliases": [], "obj_id": "Q5686", "obj_label": "Charles Dickens", "obj_aliases": "C.Dickens"}
+{"sub_id": "Q1559179", "sub_label": "Pro Caelio", "sub_aliases": [], "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q1055008", "sub_label": "Reden gegen Catilina", "sub_aliases": "Orationes In Catilinam", "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3704137", "sub_label": "De Optimo Genere Oratorum", "sub_aliases": ["On the Best Kind of Orators"], "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3237044", "sub_label": "Epistulae ad Atticum", "sub_aliases": "Briefe an Atticus", "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q1180721", "sub_label": "De officiis", "sub_aliases": "Mscr. Dresd. Dc.120", "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3922258", "sub_label": "Pro Roscio Amerino", "sub_aliases": [], "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3406185", "sub_label": "Pro Ligario", "sub_aliases": [], "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3922215", "sub_label": "Pro Archia", "sub_aliases": "Pro Aulo Licinio Archia poeta oratio", "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q3603895", "sub_label": "Academica", "sub_aliases": ["Academic Philosophy"], "obj_id": "Q1541", "obj_label": "Marcus Tullius Cicero", "obj_aliases": "Cicero"}
+{"sub_id": "Q18081", "sub_label": "De vulgari eloquentia", "sub_aliases": ["On Eloquence in the Vernacular"], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q3895042", "sub_label": "Paradiso Canto 05", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q3706230", "sub_label": "Detto d'Amore", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q30057346", "sub_label": "Das Neue Leben", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q19220340", "sub_label": "Morte poich' io non trovo a cui mi doglia", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q19126932", "sub_label": "Commedia (1866, Lana)", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q21191064", "sub_label": "Divina Comedie (Co\u0219buc)", "sub_aliases": [], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q605018", "sub_label": "Purgatorio", "sub_aliases": "L\u00e4uterungsberg", "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q17562638", "sub_label": "Abandon all hope, ye who enter here", "sub_aliases": ["Lasciate ogni speranza voi ch\u2019entrate"], "obj_id": "Q1067", "obj_label": "Dante Alighieri", "obj_aliases": "Dante"}
+{"sub_id": "Q878571", "sub_label": "Das ovale Portr\u00e4t", "sub_aliases": "The Oval Portrait", "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q2757953", "sub_label": "The Conversation of Eiros and Charmion", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q1711962", "sub_label": "The Conqueror Worm", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q733448", "sub_label": "Der entwendete Brief", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q615383", "sub_label": "The Narrative of Arthur Gordon Pym of Nantucket", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q929455", "sub_label": "Die l\u00e4ngliche Kiste", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q1195598", "sub_label": "Der Mann der Menge", "sub_aliases": "The Man of the Crowd", "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q948786", "sub_label": "Ligeia", "sub_aliases": [], "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q2658444", "sub_label": "The Unparalleled Adventure of One Hans Pfaall", "sub_aliases": "Das unvergleichliche Abenteuer eines gewissen Hans Pfaall", "obj_id": "Q16867", "obj_label": "Edgar Allan Poe"}
+{"sub_id": "Q19071993", "sub_label": "Wild Nights \u2014 Wild Nights!", "sub_aliases": ["Wild Nights, Wild Nights!"], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q19101268", "sub_label": "The Truth \u2014 is stirless \u2014", "sub_aliases": ["The Truth, is stirless,"], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q7632593", "sub_label": "Success is Counted Sweetest", "sub_aliases": ["Success"], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q19026007", "sub_label": "A Spider sewed at Night", "sub_aliases": [], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q19031761", "sub_label": "Shall I take thee, the Poet said", "sub_aliases": [], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q19032715", "sub_label": "She dwelleth in the Ground \u2014", "sub_aliases": ["She dwelleth in the Ground,"], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q19021459", "sub_label": "A Drunkard cannot meet a Cork", "sub_aliases": [], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q5966534", "sub_label": "I'm Nobody! Who are you?", "sub_aliases": [], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q4878480", "sub_label": "Because I could not stop for Death", "sub_aliases": ["Because I could not stop for Death"], "obj_id": "Q4441", "obj_label": "Emily Dickinson"}
+{"sub_id": "Q3067537", "sub_label": "Indian Camp", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q5447638", "sub_label": "Fifty Grand", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q3775616", "sub_label": "Big Two-Hearted River", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q26505", "sub_label": "Der alte Mann und das Meer", "sub_aliases": "The Old Man and the Sea", "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q2616425", "sub_label": "Der Garten Eden", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q1216578", "sub_label": "Die Sturmfluten des Fr\u00fchlings", "sub_aliases": "The Torrents of Spring", "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q3363263", "sub_label": "Hills Like White Elephants", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q7721245", "sub_label": "The Capital of the World", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q1970223", "sub_label": "Tod am Nachmittag", "sub_aliases": [], "obj_id": "Q23434", "obj_label": "Ernest Hemingway"}
+{"sub_id": "Q2647459", "sub_label": "Alkmaion in Psophis", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q12900461", "sub_label": "Ino", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q21051975", "sub_label": "Peliades", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q749973", "sub_label": "Cresphontes", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q3791000", "sub_label": "Theristai", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q62034269", "sub_label": "Ifigenia w Tauryi", "sub_aliases": ["Iphigenia in Tauris"], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q769433", "sub_label": "Hypsipyle", "sub_aliases": [], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q1233835", "sub_label": "Herakles", "sub_aliases": ["Heracles Mad", "Heracles", "Hercules", "Hercules Furens", "The Madness of Herakles"], "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q1216943", "sub_label": "Die Troerinnen", "sub_aliases": "Troiades", "obj_id": "Q48305", "obj_label": "Euripides"}
+{"sub_id": "Q19456582", "sub_label": "Los encuentros de un caracol aventurero", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q19435573", "sub_label": "El canto de la miel", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q19418819", "sub_label": "Cantos nuevos", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q5811839", "sub_label": "Div\u00e1n del Tamarit", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q19469649", "sub_label": "Palabras de justificaci\u00f3n", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q50217830", "sub_label": "Balada de un d\u00eda de Julio", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q7992481", "sub_label": "When Five Years Pass", "sub_aliases": ["As\u00ed que pasen cinco a\u00f1os"], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q19418648", "sub_label": "Canci\u00f3n primaveral", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q1097563", "sub_label": "The Butterfly's Evil Spell", "sub_aliases": [], "obj_id": "Q41408", "obj_label": "Federico Garc\u00eda Lorca", "obj_aliases": "Garcia Lorca"}
+{"sub_id": "Q1306469", "sub_label": "Eine Kreuzung", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q1171498", "sub_label": "Das n\u00e4chste Dorf", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q468834", "sub_label": "Der Bau", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q1660727", "sub_label": "In der Strafkolonie", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q1706210", "sub_label": "Josefine, die S\u00e4ngerin oder Das Volk der M\u00e4use", "sub_aliases": "Josefine, die S\u00e4ngerin oder das Volk der M\u00e4use", "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q6533784", "sub_label": "Briefe an Milena", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q48229", "sub_label": "Der Verschollene", "sub_aliases": "Amerika", "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q184222", "sub_label": "Die Verwandlung", "sub_aliases": ["Metamorphosis"], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q1195146", "sub_label": "Der K\u00fcbelreiter", "sub_aliases": [], "obj_id": "Q905", "obj_label": "Franz Kafka"}
+{"sub_id": "Q1197800", "sub_label": "Der Verbrecher aus verlorener Ehre", "sub_aliases": "Verbrecher aus verlorener Ehre", "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q1213497", "sub_label": "Die Huldigung der K\u00fcnste", "sub_aliases": "Huldigung der K\u00fcnste", "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q466333", "sub_label": "Die R\u00e4uber", "sub_aliases": "Die Rauber", "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q1193812", "sub_label": "Der Geisterseher", "sub_aliases": "Geisterseher", "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q1211729", "sub_label": "Die Braut von Messina", "sub_aliases": "Die Braut von Messina oder Die feindlichen Br\u00fcder", "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q263150", "sub_label": "Kabale und Liebe", "sub_aliases": ["Kabale und Liebe"], "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q1147941", "sub_label": "Die G\u00f6tter Griechenlandes", "sub_aliases": ["The Gods of Greece"], "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q734268", "sub_label": "Das Geschenk", "sub_aliases": [], "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q1171700", "sub_label": "Das verschleierte Bild zu Sais", "sub_aliases": [], "obj_id": "Q22670", "obj_label": "Friedrich Schiller", "obj_aliases": "Johann Christoph Friedrich von Schiller"}
+{"sub_id": "Q725409", "sub_label": "Man and Superman", "sub_aliases": "Mensch und \u00dcbermensch", "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q3509127", "sub_label": "Candida", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q7823969", "sub_label": "Too True to Be Good", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q7756712", "sub_label": "The Perfect Wagnerite", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q724688", "sub_label": "Widowers' Houses", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q996107", "sub_label": "Farfetched Fables", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q1218620", "sub_label": "Die heilige Johanna", "sub_aliases": "Die heilige Johanna (Shaw)", "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q5598939", "sub_label": "Great Catherine: Whom Glory Still Adores", "sub_aliases": "Die grosse Katharina", "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q2072045", "sub_label": "Ein Teufelskerl", "sub_aliases": [], "obj_id": "Q19185", "obj_label": "George Bernard Shaw"}
+{"sub_id": "Q3316509", "sub_label": "Miss Harriet", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q3503145", "sub_label": "Suicides", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q3024911", "sub_label": "Deux Amis", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q3226662", "sub_label": "Le Rosier de Madame Husson", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q3549809", "sub_label": "A Vendetta", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q3231279", "sub_label": "Les Caresses", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q2995579", "sub_label": "Tag- und Nachtgeschichten", "sub_aliases": ["Day and Night Stories"], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q17352624", "sub_label": "Im Familienkreise", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q16020840", "sub_label": "\u00c0 vendre", "sub_aliases": [], "obj_id": "Q9327", "obj_label": "Guy de Maupassant"}
+{"sub_id": "Q7749926", "sub_label": "Der Mann, der Wunder tun konnte", "sub_aliases": ["Tales of Space and Time/The Man Who Could Work Miracles"], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q213019", "sub_label": "Der Krieg der Welten", "sub_aliases": "Krieg der Welten", "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q2500351", "sub_label": "Men Like Gods", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q2066902", "sub_label": "The Wheels of Chance", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q16932170", "sub_label": "The Croquet Player", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q2507552", "sub_label": "The History of Mr Polly", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q18204860", "sub_label": "\u00c6pyornis Island", "sub_aliases": ["Aepyornis Island"], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q470", "sub_label": "World Brain", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q7722788", "sub_label": "The Chronic Argonauts", "sub_aliases": [], "obj_id": "Q42511", "obj_label": "H. G. Wells", "obj_aliases": "Herbert George Wells"}
+{"sub_id": "Q889349", "sub_label": "The Tallow Candle", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q1199235", "sub_label": "Der kleine Klaus und der gro\u00dfe Klaus", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q19533291", "sub_label": "Die St\u00f6rche", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q3496170", "sub_label": "The Story of a Mother", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q11876", "sub_label": "Das kleine M\u00e4dchen mit den Schwefelh\u00f6lzern", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q11872", "sub_label": "Der standhafte Zinnsoldat", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q11883", "sub_label": "Die wilden Schw\u00e4ne", "sub_aliases": [], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q11870", "sub_label": "D\u00e4umelinchen", "sub_aliases": ["Little Thumbling"], "obj_id": "Q5673", "obj_label": "Hans Christian Andersen"}
+{"sub_id": "Q230286", "sub_label": "Zur Geschichte der Religion und Philosophie in Deutschland", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q19359432", "sub_label": "Neue Gedichte (3. Auflage, 1852)", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q19212341", "sub_label": "Ich kam von meiner Herrin Haus...", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q181911", "sub_label": "Buch der Lieder", "sub_aliases": ["Buch der Lieder"], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q24027735", "sub_label": "I once had a beautiful homeland", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q19598445", "sub_label": "Es ragt in\u2019s Meer der Runenstein...", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q27230823", "sub_label": "Eduard", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q107938705", "sub_label": "Napis na ksi\u0105\u017cce", "sub_aliases": [], "obj_id": "Q44403", "obj_label": "Heinrich Heine", "obj_aliases": "Harry Heine"}
+{"sub_id": "Q268276", "sub_label": "Emperor and Galilean", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q59998657", "sub_label": "Rosmersholma", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q2660511", "sub_label": "Brand", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q3285327", "sub_label": "Norma", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q19129201", "sub_label": "Budowniczy Solness", "sub_aliases": "Baumeister Solness", "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q1774375", "sub_label": "Catilina (Drama)", "sub_aliases": ["Catilina"], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q50249887", "sub_label": "Une maison de poup\u00e9e", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q59995340", "sub_label": "Et Dukkehjem", "sub_aliases": ["Et dukkehjem"], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q1305319", "sub_label": "Ein Volksfeind", "sub_aliases": [], "obj_id": "Q36661", "obj_label": "Henrik Ibsen"}
+{"sub_id": "Q33130623", "sub_label": "Prayers", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q2998791", "sub_label": "Autumnal Tints", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q55951307", "sub_label": "Yankee in Canada (1866)", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q3390930", "sub_label": "A Plea for Captain John Brown", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q34158898", "sub_label": "The Wellfleet Oysterman", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q5732679", "sub_label": "Herald of Freedom", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q1067239", "sub_label": "Walking", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q34197095", "sub_label": "The Highland Light", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q19070760", "sub_label": "Who equaleth the coward's haste", "sub_aliases": [], "obj_id": "Q131149", "obj_label": "Henry David Thoreau", "obj_aliases": "Henry Thoreau"}
+{"sub_id": "Q3064139", "sub_label": "Facino Cane", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q240617", "sub_label": "Vater Goriot", "sub_aliases": "Le P\u00e8re Goriot", "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q50188", "sub_label": "Die menschliche Kom\u00f6die", "sub_aliases": ["La Comedie humaine"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2700021", "sub_label": "C\u00e9sar Birotteau", "sub_aliases": ["The Rise and Fall of Cesar Birotteau", "Cesar Birotteau"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q1142149", "sub_label": "Das Chagrinleder", "sub_aliases": ["The Skin of Sorrow", "The Wild Ass's Skin"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q477564", "sub_label": "Rote Herberge", "sub_aliases": "Die Rote Herberge", "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2092894", "sub_label": "Verlorene Illusionen", "sub_aliases": ["Lost Illusions"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2631465", "sub_label": "Les Chouans", "sub_aliases": [], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q2543893", "sub_label": "S\u00e9raph\u00eeta", "sub_aliases": ["Seraphita"], "obj_id": "Q9711", "obj_label": "Honor\u00e9 de Balzac"}
+{"sub_id": "Q23758", "sub_label": "Robotergesetze", "sub_aliases": ["The Three Laws", "Three Laws", "Asimov's Laws"], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q382862", "sub_label": "Radioaktiv\u2026! (Pebble in the Sky)", "sub_aliases": "Sandkorn am Himmel", "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q1050014", "sub_label": "Die R\u00fcckkehr zur Erde", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q778683", "sub_label": "Evidence", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q469862", "sub_label": "Die Nackte Sonne", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q737630", "sub_label": "Reason", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q932592", "sub_label": "Auf der Suche nach der Erde", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q928354", "sub_label": "Liar!", "sub_aliases": [], "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q913482", "sub_label": "Roboter Kurzgeschichten", "sub_aliases": "Meine Freunde, die Roboter", "obj_id": "Q34981", "obj_label": "Isaac Asimov", "obj_aliases": "Isaak Judowitsch Osimow"}
+{"sub_id": "Q1826666", "sub_label": "Fr\u00fchlingswogen", "sub_aliases": "Fr\u00fchlingsfluten", "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q760143", "sub_label": "Aufzeichnungen eines J\u00e4gers", "sub_aliases": ["Sketches from a Hunter's Album"], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q21196139", "sub_label": "The Russian Tongue", "sub_aliases": ["The Russian Language"], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q3224941", "sub_label": "Der Kreisarzt", "sub_aliases": [], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q144547", "sub_label": "Vorabend", "sub_aliases": "Am Vorabend", "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q3540043", "sub_label": "Drei Begegnungen", "sub_aliases": [], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q2633327", "sub_label": "Das Adelsnest", "sub_aliases": ["A Nest of the Gentlefolk", "A Nest of the Gentry"], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q3148026", "sub_label": "Jermolaj und die M\u00fcllerin", "sub_aliases": [], "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q7730115", "sub_label": "Tagebuch eines \u00fcberfl\u00fcssigen Menschen", "sub_aliases": "Tagebuch eines \u00dcberfl\u00fcssigen", "obj_id": "Q42831", "obj_label": "Iwan Sergejewitsch Turgenew", "obj_aliases": "Iwan Turgenjew"}
+{"sub_id": "Q208002", "sub_label": "Die Gef\u00e4hrten", "sub_aliases": [], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q15228", "sub_label": "Der Herr der Ringe", "sub_aliases": "DHDR", "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q340515", "sub_label": "Von Tuor und dem Fall von Gondolin", "sub_aliases": [], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q535896", "sub_label": "Herr Gl\u00fcck", "sub_aliases": [], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q4355253", "sub_label": "Beren und L\u00fathien", "sub_aliases": ["The Tale of Beren and Luthien"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q534991", "sub_label": "Die Briefe vom Weihnachtsmann", "sub_aliases": ["Letters from Father Christmas"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q532677", "sub_label": "The Homecoming of Beorhtnoth Beorhthelm's Son", "sub_aliases": [], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q471398", "sub_label": "Bauer Giles von Ham", "sub_aliases": [], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q340607", "sub_label": "The Lays of Beleriand", "sub_aliases": ["HoMe 3"], "obj_id": "Q892", "obj_label": "J. R. R. Tolkien"}
+{"sub_id": "Q3307965", "sub_label": "Michael, der Bruder Jerrys", "sub_aliases": "Michael, Brother of Jerry", "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q1196857", "sub_label": "Der Seewolf", "sub_aliases": "The Sea-Wolf", "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q515819", "sub_label": "Ein Feuer machen", "sub_aliases": "To Build a Fire", "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q7751213", "sub_label": "Der Mexikaner Felipe Rivera", "sub_aliases": [], "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q2637037", "sub_label": "Alaska-Kid", "sub_aliases": "Smoke Bellew", "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q3234050", "sub_label": "Meuterei auf der Elsinore", "sub_aliases": "The Mutiny of the Elsinore", "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q17512014", "sub_label": "The Abysmal Brute", "sub_aliases": ["Abysmal Brute"], "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q3370116", "sub_label": "Tales of the Fish Patrol", "sub_aliases": [], "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q3232379", "sub_label": "Children of the Frost", "sub_aliases": [], "obj_id": "Q45765", "obj_label": "Jack London", "obj_aliases": "John Griffith Chaney"}
+{"sub_id": "Q3223112", "sub_label": "The Acorn and the Pumpkin", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3209858", "sub_label": "Die junge Witwe", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3232030", "sub_label": "The Two Mules", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3231997", "sub_label": "Die beiden Ziegen", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3226271", "sub_label": "Die Ratte und der Elefant", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3015865", "sub_label": "Daphnis et Alcimadure", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3210864", "sub_label": "Der Tod und der Holzf\u00e4ller", "sub_aliases": ["La Mort et le B\u00fbcheron"], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3234801", "sub_label": "Die Fische und der fl\u00f6tende Sch\u00e4fer", "sub_aliases": "Les Poissons et le Berger qui joue de la fl\u00fbte", "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q3225828", "sub_label": "Der irdene Topf und der eiserne Topf", "sub_aliases": [], "obj_id": "Q49496", "obj_label": "Jean de La Fontaine", "obj_aliases": "Jean de la Fontaine"}
+{"sub_id": "Q1229968", "sub_label": "West-\u00f6stlicher Divan", "sub_aliases": "West\u00f6stlicher Divan", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q1298242", "sub_label": "Egmont", "sub_aliases": "Egmont : Ein Trauerspiel in f\u00fcnf Aufz\u00fcgen", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q1195114", "sub_label": "Der K\u00f6nig in Thule", "sub_aliases": "Der K\u00f6nig von Thule. Aus Goethens Dr. Faust", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q151883", "sub_label": "Die Leiden des jungen Werthers", "sub_aliases": "Werther", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q753481", "sub_label": "Elegie", "sub_aliases": "Marienbader Elegie", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q1169913", "sub_label": "Das M\u00e4rchen", "sub_aliases": "Das M\u00e4rchen von der wei\u00dfen Lilie und der gr\u00fcnen Schlange", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q482554", "sub_label": "An den Mond", "sub_aliases": "F\u00fcllest wieder's liebe Tal", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q2548168", "sub_label": "Wandrers Nachtlied", "sub_aliases": "Wanderers Nachtlied", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q1230660", "sub_label": "Venezianische Epigramme", "sub_aliases": "Venetianische Epigramme", "obj_id": "Q5879", "obj_label": "Johann Wolfgang von Goethe"}
+{"sub_id": "Q1097462", "sub_label": "The Garden of Forking Paths", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q473", "sub_label": "Die Bibliothek", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q3226256", "sub_label": "Brodie's Report", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q5306779", "sub_label": "Dreamtigers", "sub_aliases": ["El Hacedor", "The Maker"], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q7740583", "sub_label": "The House of Asterion", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q3818182", "sub_label": "The Approach to Al-Mu'tasim", "sub_aliases": ["El acercamiento a Almot\u00e1sim", "The Conversation with the Man Called Al-Mu'tasim", "El acercamiento a Almotasim"], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q4828337", "sub_label": "Averroes's Search", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q39961", "sub_label": "Fervor de Buenos Aires", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q5247280", "sub_label": "Der Tod und der Kompass", "sub_aliases": [], "obj_id": "Q909", "obj_label": "Jorge Luis Borges", "obj_aliases": "Borges"}
+{"sub_id": "Q628443", "sub_label": "Das Dampfhaus", "sub_aliases": ["La maison \u00e0 vapeur", "La maison a vapeur"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q143707", "sub_label": "Die Stadt unter der Erde", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q472291", "sub_label": "Ein Kapit\u00e4n von f\u00fcnfzehn Jahren", "sub_aliases": "Ein Kapit\u00e4n von 15 Jahren", "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q1213472", "sub_label": "Die Historien von Jean-Marie Cabidoulin", "sub_aliases": ["The Sea Serpent: The Yarns of Jean Marie Cabidoulin", "The Yarns of Jean Marie Cabidoulin"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q1997545", "sub_label": "Nord gegen S\u00fcd", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q53592", "sub_label": "Von der Erde zum Mond", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q768605", "sub_label": "Das Karpatenschloss", "sub_aliases": ["The Carpathian Castle"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q1213902", "sub_label": "Die Kinder des Kapit\u00e4n Grant", "sub_aliases": ["The Children of Captain Grant"], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q1304388", "sub_label": "Ein Drama in Livland", "sub_aliases": [], "obj_id": "Q33977", "obj_label": "Jules Verne", "obj_aliases": "Julius Verne"}
+{"sub_id": "Q7765049", "sub_label": "Im Schneesturm", "sub_aliases": "Der Schneesturm", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q649889", "sub_label": "Der Leinwandmesser", "sub_aliases": ["Strider: the Story of a Horse"], "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q15388909", "sub_label": "Das M\u00e4rchen von Iwan, dem Narren", "sub_aliases": "Iwan der Narr", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q26227415", "sub_label": "Der Feind ist z\u00e4he, aber Gott ist stark", "sub_aliases": "Der Teufel ist z\u00e4h, aber was Gott macht, h\u00e4lt fester zusammen", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q1214669", "sub_label": "Die Macht der Finsternis", "sub_aliases": [], "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q4517325", "sub_label": "Was ist Kunst?", "sub_aliases": [], "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q4088983", "sub_label": "Ein Verbannter", "sub_aliases": "Gott sieht die Wahrheit, sagt sie aber nicht sogleich", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q2894412", "sub_label": "Lesezirkel", "sub_aliases": "Lesekreis", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q14252490", "sub_label": "Die drei Greise", "sub_aliases": "Die drei Starzen", "obj_id": "Q7243", "obj_label": "Lew Nikolajewitsch Tolstoi", "obj_aliases": "Lew Nikolajewitsch Graf Tolstoi"}
+{"sub_id": "Q5827094", "sub_label": "El villano en su rinc\u00f3n", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q19457417", "sub_label": "Lucas, tan justamente peregrino", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q14301781", "sub_label": "La buena guarda", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q5980976", "sub_label": "Madness in Valencia", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q16588280", "sub_label": "La hermosa Ester", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q2608537", "sub_label": "Fuenteovejuna", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q3208338", "sub_label": "La Dorotea", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q3726536", "sub_label": "The Widow from Valencia", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q19466596", "sub_label": "No me quejara yo de larga ausencia", "sub_aliases": [], "obj_id": "Q165257", "obj_label": "Lope de Vega", "obj_aliases": "Lope F\u00e9lix de Vega y Carpio"}
+{"sub_id": "Q7548962", "sub_label": "So, we'll go no more a roving", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q7772878", "sub_label": "The Vision of Judgment", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q55120498", "sub_label": "Athe\u0148anko, ne\u017e d\u00e1l jdem", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q7492082", "sub_label": "She Walks in Beauty", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q7734150", "sub_label": "The First Kiss of Love", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q21038194", "sub_label": "Lines Inscribed upon a Cup Formed from a Skull", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q2896845", "sub_label": "Beppo", "sub_aliases": [], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q1072741", "sub_label": "Childe Harold\u2019s Pilgrimage", "sub_aliases": "Childe Harolds Pilgerfahrt", "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q15624494", "sub_label": "Lachin y Gair", "sub_aliases": ["Dark Lochnagar", "Loch na Garr"], "obj_id": "Q5679", "obj_label": "George Gordon Byron", "obj_aliases": "George Gordon Noel Byron, 6. Baron Byron"}
+{"sub_id": "Q48801247", "sub_label": "La disdetta di Pitagora", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q1215786", "sub_label": "Die Riesen vom Berge", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q48327949", "sub_label": "Sei personaggi in cerca d'autore", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q32751734", "sub_label": "Cinci", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q641651", "sub_label": "Sechs Personen suchen einen Autor", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q1754072", "sub_label": "Novellen f\u00fcr ein Jahr", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q3795120", "sub_label": "Das Vergn\u00fcgen, anst\u00e4ndig zu sein", "sub_aliases": [], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q3021244", "sub_label": "Einer, keiner, hunderttausend", "sub_aliases": ["Uno, nessuno e centomila"], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q16185789", "sub_label": "A Day Goes By", "sub_aliases": ["Una giornata"], "obj_id": "Q1403", "obj_label": "Luigi Pirandello"}
+{"sub_id": "Q7713449", "sub_label": "The American Claimant", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q2386373", "sub_label": "Is He Dead?", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q1582679", "sub_label": "Pers\u00f6nliche Erinnerungen an Jeanne d\u2019Arc", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q19177712", "sub_label": "Mr. Bloke\u2019s Item", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q3058638", "sub_label": "Sketches New and Old", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q2719382", "sub_label": "Extracts from Adam\u2019s Diary", "sub_aliases": ["Extracts from Adam's Diary"], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q4656534", "sub_label": "A Dog's Tale", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q1795966", "sub_label": "K\u00f6nig Leopolds Selbstgespr\u00e4ch", "sub_aliases": "King Leopold\u2019s Soliloquy", "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q5715295", "sub_label": "What Is Man?", "sub_aliases": [], "obj_id": "Q7245", "obj_label": "Mark Twain"}
+{"sub_id": "Q3648862", "sub_label": "Makar Tschudra", "sub_aliases": [], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q59198105", "sub_label": "Jegor Bulytschow und andere", "sub_aliases": "Jegor Bulytschow und die Anderen", "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q20171646", "sub_label": "Die Eheleute Orlow", "sub_aliases": ["The Orlovs", "Orloff and His Wife", "Orlov and His Wife"], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q4180181", "sub_label": "Das Leben des Klim Samgin", "sub_aliases": "Klim Samgin", "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q19138455", "sub_label": "Barbarians", "sub_aliases": ["Barbarians"], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q13178877", "sub_label": "A Woman and Death", "sub_aliases": [], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q17783308", "sub_label": "Drei Menschen", "sub_aliases": ["The Three"], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q18830659", "sub_label": "A Wallachian Legend", "sub_aliases": [], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q13518165", "sub_label": "Die Letzten", "sub_aliases": ["\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435"], "obj_id": "Q12706", "obj_label": "Maxim Gorki", "obj_aliases": "Alexei Maximowitsch Peschkow"}
+{"sub_id": "Q19189077", "sub_label": "The Sky and the Stars", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q21529550", "sub_label": "Gratitude", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q4114777", "sub_label": "Airship", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q21531249", "sub_label": "The Cup of Life", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q16386975", "sub_label": "Menschen und Leidenschaften", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q106864452", "sub_label": "La Voile", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q16933683", "sub_label": "Die F\u00fcrstin Ligowskaja", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q19207825", "sub_label": "Poslanie", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q106862737", "sub_label": "Szatan", "sub_aliases": [], "obj_id": "Q46599", "obj_label": "Michail Jurjewitsch Lermontow"}
+{"sub_id": "Q60032418", "sub_label": "Pocieszne wykwintnisie", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q919540", "sub_label": "George Dandin", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q3207946", "sub_label": "Die Kritik der \u201eSchule der Frauen\u201c", "sub_aliases": ["La Critique de \"L'\u00c9cole des femmes\""], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q2044613", "sub_label": "Die Liebe als Arzt", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q60032434", "sub_label": "Die erzwungene Heirath", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q389933", "sub_label": "Der Geizige", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q3204061", "sub_label": "Das Impromptu von Versailles", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q3224315", "sub_label": "Die Zwangsheirat", "sub_aliases": ["Le Mariage forc\u00e9"], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q3211935", "sub_label": "Princess of Elis", "sub_aliases": [], "obj_id": "Q687", "obj_label": "Moli\u00e8re"}
+{"sub_id": "Q82464", "sub_label": "Das Bildnis des Dorian Gray", "sub_aliases": "Dorian Grays Bildnis", "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q2800988", "sub_label": "The Portrait of Mr. W. H.", "sub_aliases": [], "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q47297170", "sub_label": "The Young King", "sub_aliases": [], "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q1193744", "sub_label": "Der Geburtstag der Infantin", "sub_aliases": "The Birthday of the Infanta", "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q3822205", "sub_label": "The Duchess of Padua", "sub_aliases": [], "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q1149498", "sub_label": "Salome", "sub_aliases": "Salom\u00e9", "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q13360022", "sub_label": "Die Sphinx ohne Geheimnis", "sub_aliases": "Lady Alroy", "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q3818426", "sub_label": "The Devoted Friend", "sub_aliases": [], "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q3795454", "sub_label": "The Remarkable Rocket", "sub_aliases": [], "obj_id": "Q30875", "obj_label": "Oscar Wilde", "obj_aliases": "Sebastian Melmoth"}
+{"sub_id": "Q3211279", "sub_label": "Die Notwendigkeit des Atheismus", "sub_aliases": ["Necessity of Atheism"], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31414715", "sub_label": "Passage of the Apennines", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31416937", "sub_label": "Stanzen, in einer tr\u00fcben Stunde bei Neapel geschrieben", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31881670", "sub_label": "To Emilia Viviani", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q7093404", "sub_label": "One Word is Too Often Profaned", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q2824951", "sub_label": "Adonais", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31431696", "sub_label": "The Indian Serenade", "sub_aliases": ["Song written for an Indian Air", "Lines to an Indian Air"], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31776196", "sub_label": "Summer And Winter", "sub_aliases": [], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q31444451", "sub_label": "To Sophia (Miss Stacey)", "sub_aliases": ["To Sophia"], "obj_id": "Q93343", "obj_label": "Percy Bysshe Shelley", "obj_aliases": "Percy B. Shelley"}
+{"sub_id": "Q241668", "sub_label": "Minos", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q1474843", "sub_label": "Menexenos", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q1130762", "sub_label": "Parmenides", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q105748712", "sub_label": "Di\u00e0legs II", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q1347394", "sub_label": "Kratylos", "sub_aliases": "Kratyl", "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q1153509", "sub_label": "Alkibiades I", "sub_aliases": ["Alcibiades"], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q471715", "sub_label": "Sophistes", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q6499786", "sub_label": "Euthydemos", "sub_aliases": [], "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q572073", "sub_label": "Anterastai", "sub_aliases": "Erastai", "obj_id": "Q859", "obj_label": "Platon", "obj_aliases": "Plato"}
+{"sub_id": "Q11884242", "sub_label": "Coniugalia praecepta", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q12899558", "sub_label": "De Alexandri Magni fortuna aut virtute", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q11871406", "sub_label": "De amore prolis", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q5393672", "sub_label": "On the E at Delphi", "sub_aliases": ["De E apud Delphos"], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q19740345", "sub_label": "Life of Cicero", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q11875770", "sub_label": "De esu carnium", "sub_aliases": ["Eating of flesh", "On the eating of flesh"], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q12469931", "sub_label": "Isis und Osiris", "sub_aliases": ["De Iside et Osiride"], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q87193815", "sub_label": "De curiositate", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q11889950", "sub_label": "Amatorius", "sub_aliases": [], "obj_id": "Q41523", "obj_label": "Plutarch", "obj_aliases": "Plutarchus"}
+{"sub_id": "Q98087174", "sub_label": "Sishu Bholanath", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q107444442", "sub_label": "Bibidha Prasanga", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q4916941", "sub_label": "Birpurush", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q2572513", "sub_label": "Stream of Life", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q13057745", "sub_label": "Gitabitan", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q57708093", "sub_label": "Dui Bigha Jomi", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q6967699", "sub_label": "Nastanirh", "sub_aliases": ["The Broken Nest"], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q7740074", "sub_label": "Das Heim und die Welt", "sub_aliases": [], "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q7285379", "sub_label": "Der K\u00f6nig der dunklen Kammer", "sub_aliases": "K\u00f6nig der dunklen Kammer", "obj_id": "Q7241", "obj_label": "Rabindranath Tagore", "obj_aliases": "Rabindranath Thakur"}
+{"sub_id": "Q19149046", "sub_label": "Das Lied der Bilds\u00e4ule", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q21765388", "sub_label": "Ein Prophet", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q1609550", "sub_label": "Herbsttag", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q19124488", "sub_label": "Abendmahl", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q21767562", "sub_label": "Selbstbildnis aus dem Jahre 1906", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q19144200", "sub_label": "Bist Du so m\u00fcd?", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q19134205", "sub_label": "Aus einem April", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q19157909", "sub_label": "Der Knabe", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q19220624", "sub_label": "M\u00e4dchenmelancholie", "sub_aliases": [], "obj_id": "Q76483", "obj_label": "Rainer Maria Rilke", "obj_aliases": "Ren\u00e9 Rilke"}
+{"sub_id": "Q4710615", "sub_label": "Island Nights' Entertainments", "sub_aliases": ["South Sea Tales"], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q7759357", "sub_label": "Der Diamant des Radschas", "sub_aliases": ["Latter Day Arabian Nights: The Rajah's Diamond"], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q4107691", "sub_label": "Heather Ale", "sub_aliases": ["Heather Ale: A Galloway Legend"], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q2277829", "sub_label": "Catriona", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q4327740", "sub_label": "Villon", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q2068990", "sub_label": "Prinz Otto", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q4710832", "sub_label": "Olalla", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q2615930", "sub_label": "Der Junker von Ballantrae", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q2411893", "sub_label": "Der Leichenr\u00e4uber", "sub_aliases": [], "obj_id": "Q1512", "obj_label": "Robert Louis Stevenson", "obj_aliases": "Robert Louis Balfour Stevenson"}
+{"sub_id": "Q421767", "sub_label": "Akt ohne Worte II", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q3281085", "sub_label": "Ill Seen Ill Said", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q7370884", "sub_label": "Rough for Theatre I", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q7754925", "sub_label": "The Old Tune", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q4729728", "sub_label": "All That Fall", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q3561137", "sub_label": "Eleutheria", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q1175468", "sub_label": "Dream of Fair to Middling Women", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q1366354", "sub_label": "Erz\u00e4hlungen und Texte um Nichts", "sub_aliases": [], "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q1171426", "sub_label": "Das letzte Band", "sub_aliases": "Krapp's Last Tape", "obj_id": "Q37327", "obj_label": "Samuel Beckett", "obj_aliases": "Samuel Becket"}
+{"sub_id": "Q7248189", "sub_label": "Professor Shonku", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q16346052", "sub_label": "Bombaiyer Bombete", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q13059090", "sub_label": "Bosepukure Khunkharapi", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q6347935", "sub_label": "Kailashey Kelenkari", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q4902230", "sub_label": "Bhuswargo Bhayankar", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q4841147", "sub_label": "Badshahi Angti", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q18988968", "sub_label": "Shakuntalar Konthohar", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q7373805", "sub_label": "Royal Bengal Rahashya", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q13057572", "sub_label": "Kailash Chowdhurir Pathor", "sub_aliases": [], "obj_id": "Q8873", "obj_label": "Satyajit Ray"}
+{"sub_id": "Q24789906", "sub_label": "Oidipous \u00e0 Kol\u00f4nos", "sub_aliases": ["Oedipus at Colonus"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q98825188", "sub_label": "Tropiciele", "sub_aliases": ["Ichneutae"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q3880903", "sub_label": "Odysseus Acanthoplex", "sub_aliases": [], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q62009186", "sub_label": "Edip v Kolone", "sub_aliases": ["Oedipus at Colonus"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q106651133", "sub_label": "Las siete tragedias de S\u00f3focles", "sub_aliases": ["Siete tragedias de S\u00f3focles", "The seven tragedies of Sophocles", "Seven tragedies of Sophocles"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q64495231", "sub_label": "Filoktetes", "sub_aliases": ["Philoctetes"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q733158", "sub_label": "Ichneutai", "sub_aliases": "Ichneutai satyroi", "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q24789976", "sub_label": "Oidipous-Roi", "sub_aliases": ["Oedipus the King", "Oedipus Rex"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q107353615", "sub_label": "Filoctetes", "sub_aliases": ["Philoctetes"], "obj_id": "Q7235", "obj_label": "Sophokles"}
+{"sub_id": "Q723020", "sub_label": "Der Anschlag", "sub_aliases": "Der Anschlag (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q930899", "sub_label": "Schlaflos", "sub_aliases": [], "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q742226", "sub_label": "Friedhof der Kuscheltiere", "sub_aliases": "Pet Sematary", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q15222347", "sub_label": "Mr. Mercedes", "sub_aliases": "Mr. Mercedes (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q3657739", "sub_label": "Doctor Sleep", "sub_aliases": "Doctor Sleep (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q623394", "sub_label": "Carrie", "sub_aliases": "Carrie (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q471024", "sub_label": "Fr\u00fchling, Sommer, Herbst und Tod", "sub_aliases": "Jahreszeiten", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q469889", "sub_label": "Puls", "sub_aliases": "Puls (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q909502", "sub_label": "Wahn", "sub_aliases": "Wahn (Roman)", "obj_id": "Q39829", "obj_label": "Stephen King", "obj_aliases": "Richard Bachmann"}
+{"sub_id": "Q1734684", "sub_label": "Tobias Mindernickel", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1197973", "sub_label": "Der Weg zum Friedhof", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q2596046", "sub_label": "W\u00e4lsungenblut", "sub_aliases": "Waelsungenblut", "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1418623", "sub_label": "Fiorenza", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1775812", "sub_label": "Mario und der Zauberer", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q7726959", "sub_label": "Vom zuk\u00fcnftigen Sieg der Demokratie", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1497822", "sub_label": "Gefallen", "sub_aliases": [], "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1613940", "sub_label": "Herr und Hund", "sub_aliases": "Bauschan", "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q1203143", "sub_label": "Deutsche H\u00f6rer!", "sub_aliases": "Deutsche H\u00f6rer! 55 Radiosendungen nach Deutschland", "obj_id": "Q37030", "obj_label": "Thomas Mann"}
+{"sub_id": "Q4838891", "sub_label": "Bachmann", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q2039900", "sub_label": "Der Zauberer", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q19788455", "sub_label": "Spring in Fialta and other stories", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q3213249", "sub_label": "Transparent Things", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q4658150", "sub_label": "A Matter of Chance", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q2996966", "sub_label": "Maschenka", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q3423372", "sub_label": "Sieh doch die Harlekine!", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q2351667", "sub_label": "Das wahre Leben des Sebastian Knight", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q7564888", "sub_label": "Sounds", "sub_aliases": [], "obj_id": "Q36591", "obj_label": "Vladimir Nabokov", "obj_aliases": "Wladimir Wladimirowitsch Nabokow"}
+{"sub_id": "Q1785978", "sub_label": "Microm\u00e9gas", "sub_aliases": "Mikromegas", "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q3058683", "sub_label": "\u00dcber den Geist und die Sitten der Nationen", "sub_aliases": "Geschichte der V\u00f6lker", "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q2551373", "sub_label": "Lettres philosophiques", "sub_aliases": ["Letters concerning the English Nation"], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q3333324", "sub_label": "M\u00e9rope", "sub_aliases": ["Merope"], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q3204706", "sub_label": "L\u2019Orphelin de la Chine", "sub_aliases": [], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q215894", "sub_label": "Candide oder der Optimismus", "sub_aliases": "Candide ou l'optimisme", "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q3401061", "sub_label": "Po\u00e8me sur le d\u00e9sastre de Lisbonne", "sub_aliases": ["Poeme sur le desastre de Lisbonne"], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q3203608", "sub_label": "L'Homme aux quarante \u00e9cus", "sub_aliases": [], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q18238029", "sub_label": "History of Charles XII", "sub_aliases": ["L'Histoire de Charles XII"], "obj_id": "Q9068", "obj_label": "Voltaire", "obj_aliases": "Fran\u00e7ois-Marie Voltaire"}
+{"sub_id": "Q2851345", "sub_label": "Anne of Geierstein", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q3224650", "sub_label": "The Monastery", "sub_aliases": ["The Monastery: a Romance"], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q59771289", "sub_label": "Kolybyel'naya pyesnya", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q2600597", "sub_label": "Kenilworth", "sub_aliases": ["Kenilworth. A Romance"], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q3436601", "sub_label": "Count Robert of Paris", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q3224969", "sub_label": "The Black Dwarf", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q3232602", "sub_label": "The Bridal of Triermain", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q7764126", "sub_label": "The Siege of Malta", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q7359983", "sub_label": "Rokeby", "sub_aliases": [], "obj_id": "Q79025", "obj_label": "Walter Scott"}
+{"sub_id": "Q1642162", "sub_label": "The Garden of Love", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q16386150", "sub_label": "The Human Abstract", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q4750120", "sub_label": "An Island in the Moon", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q4658939", "sub_label": "A Poison Tree", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q2661325", "sub_label": "The Echoing Green", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q4742808", "sub_label": "America, a Prophecy", "sub_aliases": ["America: A Prophecy", "America A Prophecy"], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q16386627", "sub_label": "Laughing Song", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q1887296", "sub_label": "The Little Black Boy", "sub_aliases": [], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q630530", "sub_label": "Songs of Innocence and of Experience", "sub_aliases": ["Songs of Innocence and Experience"], "obj_id": "Q41513", "obj_label": "William Blake"}
+{"sub_id": "Q1536034", "sub_label": "Soldatenlohn", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q3313370", "sub_label": "Requiem for a Nun", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q7497470", "sub_label": "Shingles for the Lord", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q1544119", "sub_label": "Als ich im Sterben lag", "sub_aliases": "As I Lay Dying", "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q135515", "sub_label": "Schall und Wahn", "sub_aliases": "The Sound and the Fury", "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q3204276", "sub_label": "Griff in den Staub", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q2181982", "sub_label": "Absalom, Absalom!", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q1823273", "sub_label": "Licht im August", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q3223464", "sub_label": "Das Dorf", "sub_aliases": [], "obj_id": "Q38392", "obj_label": "William Faulkner", "obj_aliases": "William Falkner"}
+{"sub_id": "Q1196220", "sub_label": "Der Phoenix und die Turteltaube", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q16199061", "sub_label": "All that glitters is not gold", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2448770", "sub_label": "The History of Cardenio", "sub_aliases": ["Cardenio"], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2284425", "sub_label": "Shakespearean history", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q649562", "sub_label": "Richard II.", "sub_aliases": ["King Richard II", "The Tragedy of King Richard the Second", "Tragedy of King Richard the Second", "The Life and Death of Richard the Second", "Life and Death of Richard the Second"], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q833645", "sub_label": "Shakespeares Folio", "sub_aliases": ["First Folio of Shakespeare", "Shakespeare's First Folio", "Mr. William Shakespeare's Comedies, Histories, & Tragedies"], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q954017", "sub_label": "Honorificabilitudinitatibus", "sub_aliases": ["hon\u014drific\u0101bilit\u016bdinit\u0101s", "honorificicabilitudinitatibus"], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q1398793", "sub_label": "Lucretia", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q2749746", "sub_label": "Love's Labour's Won", "sub_aliases": [], "obj_id": "Q692", "obj_label": "William Shakespeare"}
+{"sub_id": "Q1212773", "sub_label": "Die Freude am Leben", "sub_aliases": "La joie de vivre", "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q3275649", "sub_label": "Madeleine F\u00e9rat", "sub_aliases": ["Madeleine Ferat"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q1165442", "sub_label": "Ein feines Haus", "sub_aliases": ["Piping Hot"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q1446938", "sub_label": "Das Werk", "sub_aliases": "Das Werk (Zola)", "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q52556871", "sub_label": "L\u2019Attaque du moulin", "sub_aliases": ["Attaque du moulin"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q1754235", "sub_label": "Seine Exzellenz Eug\u00e8ne Rougon", "sub_aliases": ["Son Excellence Eugene Rougon", "His Excellency Eugene Rougon"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q3234058", "sub_label": "Les Myst\u00e8res de Marseille", "sub_aliases": ["Les Mysteres de Marseille"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q19182379", "sub_label": "Claude's Confession", "sub_aliases": [], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}
+{"sub_id": "Q663632", "sub_label": "Doktor Pascal", "sub_aliases": ["Le Docteur Pascal"], "obj_id": "Q504", "obj_label": "\u00c9mile Zola"}

@@ -1,0 +1,579 @@
+{"sub_id": "Q720876", "sub_label": "Suur T\u00f5ll", "sub_aliases": "IMO 8640351", "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q827476", "sub_label": "Kronprinzessin Cecilie", "sub_aliases": "Kronprinzessin Cecilie (Schiff)", "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q477432", "sub_label": "Brummer-Klasse", "sub_aliases": [], "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q319398", "sub_label": "SMS Hamburg", "sub_aliases": [], "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q655640", "sub_label": "Preu\u00dfische G 8", "sub_aliases": "\u00d6BB 755", "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q819978", "sub_label": "SMS Rheinland", "sub_aliases": [], "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q3270916", "sub_label": "SM UC 8", "sub_aliases": [], "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q703586", "sub_label": "General von Steuben", "sub_aliases": "SS M\u00fcnchen", "obj_id": "Q292745", "obj_label": "AG Vulcan Stettin", "obj_aliases": "Stettiner Maschinenbau AG Vulcan"}
+{"sub_id": "Q549265", "sub_label": "U 124", "sub_aliases": "U124", "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q553902", "sub_label": "Magdeburg-Klasse", "sub_aliases": [], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q540411", "sub_label": "SMS Th\u00fcringen", "sub_aliases": [], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q655312", "sub_label": "U 28", "sub_aliases": "Unterseeboot 28", "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q824732", "sub_label": "SMS Medusa", "sub_aliases": [], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q7391683", "sub_label": "UC 13", "sub_aliases": [], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q15274063", "sub_label": "SM U 58", "sub_aliases": ["SM U 58"], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q2207208", "sub_label": "SM UB 45", "sub_aliases": [], "obj_id": "Q292748", "obj_label": "AG Weser", "obj_aliases": "Eisengiesserei und Maschinenbau-Anstalt Waltjen & Leonhard"}
+{"sub_id": "Q2703331", "sub_label": "Sovereign of the Seas", "sub_aliases": "Sovereign", "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q1739375", "sub_label": "Kernkraftwerk Civaux", "sub_aliases": "KKW Civaux", "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q432763", "sub_label": "Alstom Coradia Duplex SJ X40", "sub_aliases": "SJ X40", "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q935909", "sub_label": "VR-Baureihe Sm3", "sub_aliases": ["Pendolino", "Pendolino S220"], "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q825103", "sub_label": "RATP-Baureihe MI\u202f09", "sub_aliases": [], "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q1441317", "sub_label": "Majesty of the Seas", "sub_aliases": "Majesty of the Oceans", "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q281746", "sub_label": "Renfe-Baureihe 120", "sub_aliases": "Renfe-Reihe 120", "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q2157297", "sub_label": "SNCF CC 72000", "sub_aliases": ["SNCF Class CC 72000"], "obj_id": "Q309084", "obj_label": "Alstom", "obj_aliases": "Alstom AG"}
+{"sub_id": "Q432673", "sub_label": "ALCO RS-1", "sub_aliases": [], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q6956051", "sub_label": "NYC-Klasse S-1", "sub_aliases": [], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q5203030", "sub_label": "D&RGW K-28", "sub_aliases": ["D&RGW 470\u2013479"], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q4652276", "sub_label": "ALCO DL-109", "sub_aliases": [], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q5461339", "sub_label": "Florida East Coast Railway 153", "sub_aliases": ["FEC 153"], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q2813800", "sub_label": "2-10-10-2", "sub_aliases": "(1\u2019E)E1\u2019", "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q7302021", "sub_label": "Rebel", "sub_aliases": [], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q79847337", "sub_label": "Lake Superior and Ishpeming 18", "sub_aliases": ["LS&I 18", "Grand Canyon Railway 18", "Rio Grande Scenic Railroad 18", "Mount Hood Railroad 18", "LS&I 11"], "obj_id": "Q383589", "obj_label": "American Locomotive Company"}
+{"sub_id": "Q1819171", "sub_label": "Leone-Klasse", "sub_aliases": [], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q629394", "sub_label": "Treno Alta Frequentazione", "sub_aliases": ["TAF"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q2293586", "sub_label": "ARA Pueyrred\u00f3n", "sub_aliases": ["ARA Pueyrredon", "ARA General Pueyrred\u00f3n", "General Pueyrredon", "Pueyrredon"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q2609146", "sub_label": "A.1 Balilla", "sub_aliases": ["Balilla aircraft", "Balilla fighter"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q576695", "sub_label": "Model 34 Howitzer 75/18", "sub_aliases": ["Model 1934 Howitzer 75/18", "Howitzer, Towed, 75 mm, Model 34"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q81894", "sub_label": "Nisshin (Schiff, 1904)", "sub_aliases": [], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q592715", "sub_label": "ARA Garibaldi", "sub_aliases": ["Garibaldi armored cruiser", "Garibaldi cruiser"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q1481262", "sub_label": "Aquila", "sub_aliases": ["Aquila"], "obj_id": "Q290188", "obj_label": "Ansaldo"}
+{"sub_id": "Q18010891", "sub_label": "iPhone 6 Plus", "sub_aliases": ["iPhone 6+"], "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q654114", "sub_label": "Macintosh 512K", "sub_aliases": [], "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q1636919", "sub_label": "Macintosh Portable", "sub_aliases": [], "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q24451476", "sub_label": "Magic Keyboard", "sub_aliases": "Apple Tastatur", "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q300948", "sub_label": "eMate 300", "sub_aliases": [], "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q621298", "sub_label": "Apple Magic Trackpad", "sub_aliases": "Magic Trackpad", "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q306207", "sub_label": "iPod mini", "sub_aliases": "iPod Mini", "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q14091", "sub_label": "iMac", "sub_aliases": ["Apple iMac"], "obj_id": "Q312", "obj_label": "Apple Inc."}
+{"sub_id": "Q9542", "sub_label": "Minas-Geraes-Klasse", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q1424289", "sub_label": "Yongala", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q1329696", "sub_label": "Elisabeta", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q282713", "sub_label": "Dogali", "sub_aliases": "25 de Agosto", "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q9567", "sub_label": "Almirante Latorre", "sub_aliases": "HMS Canada", "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q2443961", "sub_label": "Eidsvold-class coastal defence ship", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q2029338", "sub_label": "Ordnance QF 18 Pf\u00fcnder", "sub_aliases": ["Ordnance QF 18 pounder", "18-pounder gun", "Ordnance QF 18pdr Gun"], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q685067", "sub_label": "Seaslug", "sub_aliases": [], "obj_id": "Q689159", "obj_label": "Armstrong-Whitworth", "obj_aliases": "Armstrong Whitworth"}
+{"sub_id": "Q19608222", "sub_label": "Condor Liberation", "sub_aliases": ["Condor 102", "Austal Hull 270", "Austal 270", "Condor Liberation"], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q101229480", "sub_label": "Fjord FSTR", "sub_aliases": "IMO: 9837339", "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q52347415", "sub_label": "Corio Bay", "sub_aliases": ["IMO 9193135"], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q16038773", "sub_label": "Aremiti 5", "sub_aliases": ["IMO 9293387"], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q1116297", "sub_label": "HSC Speed Jet", "sub_aliases": [], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q64022037", "sub_label": "Nafanua II", "sub_aliases": ["IMO 4734130"], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q1534898", "sub_label": "Leonora Christina", "sub_aliases": [], "obj_id": "Q780696", "obj_label": "Austal"}
+{"sub_id": "Q178215", "sub_label": "Amur-Klasse", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q1578209", "sub_label": "Pereswet-Klasse", "sub_aliases": "Pereswjet-Klasse", "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q521029", "sub_label": "Kirow-Klasse", "sub_aliases": "Projekt 1144 Orlan", "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q29717", "sub_label": "Herzog Edinburgski", "sub_aliases": "Gerzog Edinbugski", "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q2062306", "sub_label": "Talwar-Klasse", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q628031", "sub_label": "Gromoboi", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q2986103", "sub_label": "Strandung des U-Bootes S-363", "sub_aliases": "Whiskey on the Rocks", "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q3463249", "sub_label": "Sankt-Peterburg", "sub_aliases": [], "obj_id": "Q530989", "obj_label": "Baltisches Werk"}
+{"sub_id": "Q1467063", "sub_label": "USS Gettysburg", "sub_aliases": "CG-64", "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q1322780", "sub_label": "USS Momsen", "sub_aliases": "DDG-92", "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q1376625", "sub_label": "Gearing-Klasse", "sub_aliases": ["Gearing-class destroyer"], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q1646027", "sub_label": "USS O\u2019Kane", "sub_aliases": [], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q2469142", "sub_label": "USS De Haven", "sub_aliases": ["DD-469"], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q4052213", "sub_label": "USS Emmons", "sub_aliases": ["DD-457", "DMS-22"], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q1646021", "sub_label": "USS Nitze", "sub_aliases": [], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q2165835", "sub_label": "Sims-Klasse", "sub_aliases": [], "obj_id": "Q810783", "obj_label": "Bath Iron Works"}
+{"sub_id": "Q7868481", "sub_label": "USS Comfort", "sub_aliases": ["USS Comfort, AH-6"], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q7867105", "sub_label": "USS Ahrens", "sub_aliases": ["DE-575"], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q4385125", "sub_label": "USS Oregon City (CA-122)", "sub_aliases": [], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q7873035", "sub_label": "USS Porterfield", "sub_aliases": [], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q5632087", "sub_label": "HMS Deane", "sub_aliases": [], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q1661057", "sub_label": "Independence", "sub_aliases": ["Independence", "Oceanic Independence", "Oceanic", "Platinum II", "IMO 5160180"], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q7393428", "sub_label": "Constitution (Schiff, 1951)", "sub_aliases": [], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q7874943", "sub_label": "USS Uhlmann", "sub_aliases": [], "obj_id": "Q27432", "obj_label": "Bethlehem Steel", "obj_aliases": "Bethlehem Steel Corporation"}
+{"sub_id": "Q2124379", "sub_label": "NS-Baureihe 2000 (Dampflokomotive)", "sub_aliases": "NS 2000", "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q5206131", "sub_label": "DSER 15 und 16", "sub_aliases": ["GSR Class 461", "GSR 461 and 462"], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q16554970", "sub_label": "D. Luiz", "sub_aliases": [], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q6825216", "sub_label": "Reihe A (Metropolitan Railway)", "sub_aliases": ["Metropolitan Railway B Class"], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q2183308", "sub_label": "SS 301 to 479", "sub_aliases": ["NBDS 7, 6, and 11", "NS 1300", "NS 1301 to 1479", "NBDS 6, 7 and 11"], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q1408140", "sub_label": "LVCI 155\u2013164", "sub_aliases": ["FS 102"], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q5513993", "sub_label": "GNRI Class V", "sub_aliases": ["GNR(I) Class V"], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q7946449", "sub_label": "WAGR W class", "sub_aliases": [], "obj_id": "Q853110", "obj_label": "Beyer-Peacock", "obj_aliases": "Beyer, Peacock & Co."}
+{"sub_id": "Q704128", "sub_label": "SMS Derfflinger", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q150857", "sub_label": "Bismarck", "sub_aliases": ["German battleship Bismarck"], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q1657442", "sub_label": "MEKO 200", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q124664", "sub_label": "Pamir", "sub_aliases": [], "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q777321", "sub_label": "Gorch Fock", "sub_aliases": "Gorch Fock II", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q884890", "sub_label": "Blohm & Voss BV 155", "sub_aliases": "Messerschmitt Me 155", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q604597", "sub_label": "Sagres", "sub_aliases": "Sagres (Schiff, 1938)", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q884883", "sub_label": "Blohm & Voss Bv 141", "sub_aliases": "Ha 141", "obj_id": "Q218715", "obj_label": "Blohm + Voss", "obj_aliases": "Blohm und Voss"}
+{"sub_id": "Q889408", "sub_label": "Boeing C-40", "sub_aliases": "C-40 Clipper", "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q2558622", "sub_label": "B & W Seaplane", "sub_aliases": ["B&W Seaplane", "Boeing Model 1", "Model 1", "Boeing 1"], "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q1813267", "sub_label": "GBU-57 Massive Ordnance Penetrator", "sub_aliases": "GBU-57", "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q890192", "sub_label": "Model 40", "sub_aliases": "Boeing 40", "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q890185", "sub_label": "Boeing EA-18", "sub_aliases": "EA-18G", "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q49541", "sub_label": "Delta III", "sub_aliases": [], "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q132516", "sub_label": "Boeing RC-135", "sub_aliases": ["Boeing RC-135", "RC135", "Boeing Model 739", "Model 739", "Boeing 739"], "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q177035", "sub_label": "Boeing XB-15", "sub_aliases": "Model 294", "obj_id": "Q66", "obj_label": "Boeing", "obj_aliases": "Boeing Aerospace Company"}
+{"sub_id": "Q781084", "sub_label": "Austin FX4", "sub_aliases": "Austin Taxi", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1881472", "sub_label": "MG XPower SV", "sub_aliases": "MG XPower WR", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1543944", "sub_label": "MG ZS", "sub_aliases": "MG 5", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1881419", "sub_label": "MGA", "sub_aliases": "MG A", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q796282", "sub_label": "Austin Ambassador", "sub_aliases": "BL LM19", "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1544238", "sub_label": "Wolseley 4/44", "sub_aliases": [], "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1881468", "sub_label": "MG Midget", "sub_aliases": [], "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q772742", "sub_label": "Morris Oxford", "sub_aliases": [], "obj_id": "Q386065", "obj_label": "British Motor Corporation", "obj_aliases": "BMC"}
+{"sub_id": "Q1519401", "sub_label": "MSC Splendida", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1866407", "sub_label": "Vision of the Seas", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1881854", "sub_label": "MSC Magnifica", "sub_aliases": "IMO 9387085", "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q654411", "sub_label": "Georges Philippar", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1577076", "sub_label": "Paris", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1670349", "sub_label": "Norwegian Epic", "sub_aliases": [], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q2714360", "sub_label": "Empress of the Seas", "sub_aliases": ["Nordic Empress", "Empress of the Seas"], "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q1881879", "sub_label": "MSC Orchestra", "sub_aliases": "IMO 9320099", "obj_id": "Q765925", "obj_label": "Chantiers de l'Atlantique", "obj_aliases": "Chantiers de l\u2019Atlantique"}
+{"sub_id": "Q2541723", "sub_label": "General Lee", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q4043363", "sub_label": "M67 Zippo", "sub_aliases": ["M67 flame thrower tank", "M67 tank", "Flame Thrower Tank M67", "Zippo"], "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q619002", "sub_label": "M103", "sub_aliases": "Kampfpanzer M103", "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q521076", "sub_label": "Saturn I", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q7826788", "sub_label": "TorqueFlite", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q1473449", "sub_label": "PGM-19 Jupiter", "sub_aliases": "Jupiter", "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q2095648", "sub_label": "Dodge Caravan", "sub_aliases": "Dodge Grand Caravan", "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q7493390", "sub_label": "Shelby GLHS", "sub_aliases": [], "obj_id": "Q181114", "obj_label": "Stellantis North America"}
+{"sub_id": "Q18649137", "sub_label": "NS-Baureihe SNG", "sub_aliases": ["NS SNG"], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q62018791", "sub_label": "CAF Bitrac", "sub_aliases": ["CAF BITRAC"], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q752962", "sub_label": "CAF Oaris", "sub_aliases": [], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q2907498", "sub_label": "BOA", "sub_aliases": "M6", "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q57469448", "sub_label": "Flytoget Type 78", "sub_aliases": [], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q3046226", "sub_label": "FUC ETR 563", "sub_aliases": [], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q6954368", "sub_label": "NIR Class 3000", "sub_aliases": [], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q38375507", "sub_label": "Euskotren-Reihe 950", "sub_aliases": [], "obj_id": "Q838212", "obj_label": "Construcciones y Auxiliar de Ferrocarriles", "obj_aliases": "CAF"}
+{"sub_id": "Q9006219", "sub_label": "Tide-Klasse", "sub_aliases": ["Military Afloat Reach and Sustainability", "MARS class", "Tide class"], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q19364014", "sub_label": "TI Oceania", "sub_aliases": ["Hellespont Fairfax", "Oceania", "Fairfax"], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q20744270", "sub_label": "MSC Zoe", "sub_aliases": [], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q25425030", "sub_label": "Maud", "sub_aliases": [], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q521238", "sub_label": "Tanit", "sub_aliases": [], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q4836148", "sub_label": "BNS Khalid Bin Walid", "sub_aliases": [], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q25172073", "sub_label": "MSC Maya", "sub_aliases": [], "obj_id": "Q497860", "obj_label": "Daewoo Shipbuilding & Marine Engineering"}
+{"sub_id": "Q1921676", "sub_label": "Meridian", "sub_aliases": ["IMO 9299977"], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q4709219", "sub_label": "Orik", "sub_aliases": ["Albanian patrol vessel Orik", "P 132 Orik", "P132 Orik", "Orik patrol vessel"], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q27987692", "sub_label": "Ocean Warrior (Schiff)", "sub_aliases": [], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q4795517", "sub_label": "Greek frigate Limnos", "sub_aliases": [], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q29578358", "sub_label": "Sycamore", "sub_aliases": [], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q6470460", "sub_label": "Dancing Hare", "sub_aliases": ["Lady Mona K", "Lady Ghislaine"], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q2040274", "sub_label": "Eendracht", "sub_aliases": [], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q1093227", "sub_label": "Cisne Branco", "sub_aliases": [], "obj_id": "Q950580", "obj_label": "Damen Shipyards Group", "obj_aliases": "Royal Schelde"}
+{"sub_id": "Q5323375", "sub_label": "EMC E1", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q2067289", "sub_label": "EMD DDM45", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q631779", "sub_label": "EMD G12", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q3512988", "sub_label": "EMD G16", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q5323476", "sub_label": "EMD SD90MAC", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q5323449", "sub_label": "EMD GT46PAC", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q2688181", "sub_label": "EMD SD45", "sub_aliases": [], "obj_id": "Q568501", "obj_label": "Electro-Motive Diesel", "obj_aliases": "Progress Rail Locomotive"}
+{"sub_id": "Q238461", "sub_label": "5,7 \u00d7 28 mm", "sub_aliases": ["5.7\u00d728mm", "5.7 \u00d7 28mm", "SS90", "SS190", "5,7 \u00d7 28"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q4646472", "sub_label": "9 mm Browning Long", "sub_aliases": ["9 x 20mm SR", "9 mm Browning Long", "9 \u00d7 20mm Browning", "9 x 20mm Browning"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q2605412", "sub_label": "FN Special Police Rifle", "sub_aliases": ["SPR A3G"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q2891306", "sub_label": "FN FNAR", "sub_aliases": [], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q1284442", "sub_label": "FN Baby Browning", "sub_aliases": [], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q4035471", "sub_label": "FN M1905", "sub_aliases": ["FN Model 1906"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q2916009", "sub_label": "FN Forty-Nine", "sub_aliases": [], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q644344", "sub_label": "FN Browning Modell 1903", "sub_aliases": ["FN M1903"], "obj_id": "Q747353", "obj_label": "Fabrique Nationale Herstal", "obj_aliases": "L\u00fctticher Kanonenfabrik"}
+{"sub_id": "Q930500", "sub_label": "Zuiderdam", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q1705078", "sub_label": "Vittorio Veneto", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q742121", "sub_label": "Giuseppe Garibaldi", "sub_aliases": ["C 551"], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q493274", "sub_label": "Andrea-Doria-Klasse", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q1136350", "sub_label": "Costa Fascinosa", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q548546", "sub_label": "Eurodam", "sub_aliases": ["Eurodam", "Odaeurm"], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q631681", "sub_label": "Costa Pacifica", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q20010359", "sub_label": "MSC Seaside", "sub_aliases": [], "obj_id": "Q1327429", "obj_label": "Fincantieri", "obj_aliases": "Fincantieri S.p.A."}
+{"sub_id": "Q593296", "sub_label": "Continental Mark III", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q61763413", "sub_label": "T17 Deerhound", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q1131665", "sub_label": "Mercedes-Benz bionic car", "sub_aliases": "Bionic car", "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q545618", "sub_label": "Soybean Car", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q11332989", "sub_label": "Cosworth HB", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q6550314", "sub_label": "LincVolt", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q1225861", "sub_label": "Lincoln MKT", "sub_aliases": [], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q12016755", "sub_label": "4-AT Trimotor", "sub_aliases": ["Ford Trimotor 4-AT", "Trimotor 4-AT", "4AT", "4-AT Tri-Motor", "Ford 4-AT Trimotor", "Ford 4-AT Tri-Motor", "Ford Tri-Motor 4-AT", "Tri-Motor 4-AT"], "obj_id": "Q44294", "obj_label": "Ford"}
+{"sub_id": "Q11198642", "sub_label": "F-02B", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q64008087", "sub_label": "Fugaku", "sub_aliases": ["Post-K", "Post K", "RIKEN Fugaku", "Riken Fugaku"], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q2379925", "sub_label": "FM-7", "sub_aliases": "Fujitsu Micro 7", "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q11198778", "sub_label": "F251i", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q11198795", "sub_label": "F503i", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q11198681", "sub_label": "F-09D", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q11198664", "sub_label": "F-06C", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q11198695", "sub_label": "F-11C", "sub_aliases": [], "obj_id": "Q186394", "obj_label": "Fujitsu"}
+{"sub_id": "Q785970", "sub_label": "M\u00c1V-Baureihe MDmot", "sub_aliases": "MDmot 3000", "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q1103012", "sub_label": "Ganz KCSV\u20136", "sub_aliases": [], "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q787257", "sub_label": "M\u00c1V-Baureihe BCmot", "sub_aliases": "GySEV-Baureihe ABmot", "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q42378096", "sub_label": "N\u0103luca-Klasse", "sub_aliases": [], "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q642429", "sub_label": "SMS Szent Istv\u00e1n", "sub_aliases": "Szent Istv\u00e1n", "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q2124022", "sub_label": "RA 361\u2013363", "sub_aliases": "RA 361-363", "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q9326167", "sub_label": "SMS Lika", "sub_aliases": [], "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q2815765", "sub_label": "PO E 401 and E 402", "sub_aliases": ["PO E 400", "SNCF 2BB2 400"], "obj_id": "Q369524", "obj_label": "Ganz", "obj_aliases": "Ganz & Comp."}
+{"sub_id": "Q11765091", "sub_label": "Marceli Nowotko", "sub_aliases": ["IMO 5220928"], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q7278056", "sub_label": "Oceania", "sub_aliases": [], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q747577", "sub_label": "Iskra", "sub_aliases": [], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q5972489", "sub_label": "INS Cheetah", "sub_aliases": [], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q1163951", "sub_label": "Nadeschda", "sub_aliases": [], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q1293488", "sub_label": "Esperanza", "sub_aliases": ["Echo Fighter", "The Esperanza"], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q455096", "sub_label": "Soldek", "sub_aliases": "Soldek", "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q5972567", "sub_label": "INS Kumbhir", "sub_aliases": [], "obj_id": "Q1736541", "obj_label": "Werft Danzig"}
+{"sub_id": "Q2716326", "sub_label": "Little Joe II", "sub_aliases": [], "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q1347206", "sub_label": "Mobile Landing Platform", "sub_aliases": ["Expeditionary Transfer Dock", "Mobile Landing Platform"], "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q1287639", "sub_label": "USS Groton", "sub_aliases": [], "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q473890", "sub_label": "Amphibisches Br\u00fccken- und \u00dcbersetzfahrzeug M3", "sub_aliases": "Amphibie M3", "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q1388613", "sub_label": "FIM-43 Redeye", "sub_aliases": "Redeye", "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q6120270", "sub_label": "Santa B\u00e1rbara Sistemas 155/52", "sub_aliases": [], "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q2003791", "sub_label": "USS Albuquerque", "sub_aliases": "SSN-706", "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q1069409", "sub_label": "General Dynamics XM307", "sub_aliases": "Xm312", "obj_id": "Q502940", "obj_label": "General Dynamics"}
+{"sub_id": "Q1485314", "sub_label": "GE U26C", "sub_aliases": "NZR-Klasse DX", "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q2272396", "sub_label": "T34 Calliope", "sub_aliases": [], "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q292562", "sub_label": "AGM-87 Focus", "sub_aliases": "AGM-87", "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q5513316", "sub_label": "GE U50", "sub_aliases": [], "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q1816481", "sub_label": "Landsat 1", "sub_aliases": ["ERTS 1", "ERTS-A", "Earth Resources Technology Satellite", "ERTS-1"], "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q5513302", "sub_label": "GE U25C", "sub_aliases": [], "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q1501589", "sub_label": "J85", "sub_aliases": "General Electric J85", "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q4039140", "sub_label": "GE U23C", "sub_aliases": [], "obj_id": "Q54173", "obj_label": "General Electric", "obj_aliases": "General Electric Company"}
+{"sub_id": "Q56166", "sub_label": "Chevrolet Corvette", "sub_aliases": "Chevrolet 1Z", "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q493989", "sub_label": "Chevrolet Lacetti", "sub_aliases": "Lacetti", "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q420929", "sub_label": "Saab 900", "sub_aliases": "Saab CD", "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q371349", "sub_label": "Chevrolet Rezzo", "sub_aliases": [], "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q170296", "sub_label": "M109", "sub_aliases": "Panzerhaubitze M109", "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q910928", "sub_label": "Chevrolet Tahoe", "sub_aliases": ["Chevy Tahoe", "Tahoe"], "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q696537", "sub_label": "M36 Jackson", "sub_aliases": ["90 mm Gun Motor Carriage M36", "M36 tank destroyer", "M36 Jackson"], "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q1339720", "sub_label": "Pontiac GTO", "sub_aliases": [], "obj_id": "Q81965", "obj_label": "General Motors", "obj_aliases": "General-Motors"}
+{"sub_id": "Q5630542", "sub_label": "HMAS Psyche", "sub_aliases": ["HMS Psyche"], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q633082", "sub_label": "Lion-Klasse", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q4351939", "sub_label": "HMS King Edward VII", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q4355325", "sub_label": "HMS Ace", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q5634925", "sub_label": "HMS Wellington", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q5632738", "sub_label": "HMS Hebe", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q5634663", "sub_label": "HMS Totem", "sub_aliases": [], "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q1139953", "sub_label": "INS Dakar", "sub_aliases": "HMS Totem", "obj_id": "Q1207020", "obj_label": "Devonport"}
+{"sub_id": "Q2018711", "sub_label": "Oldenburgische S 5", "sub_aliases": "DR Baureihe 13.18", "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q1201811", "sub_label": "Deutsch-Nordischer Lloyd Nr. 21 bis 24", "sub_aliases": "Mecklenburgische XI", "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q12499779", "sub_label": "NIS 106 class", "sub_aliases": ["NIS 107 class"], "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q1431542", "sub_label": "MEG \u2013 Wodan und Thor", "sub_aliases": [], "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q2204978", "sub_label": "SAR-Klasse NGG 13 / NGG 16", "sub_aliases": "SAR-Klasse NGG 13 / NGG16", "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q25480202", "sub_label": "BD\u017d 19 class", "sub_aliases": ["BDZ class 19", "BDZ 900 clas"], "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q16957547", "sub_label": "Finnish locomotive class C5", "sub_aliases": [], "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q5391689", "sub_label": "VR Class Vr3", "sub_aliases": [], "obj_id": "Q29041", "obj_label": "Hanomag", "obj_aliases": "Hannoversche Maschinenbau AG"}
+{"sub_id": "Q1473287", "sub_label": "RMS Atlantic", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q2902230", "sub_label": "Big-Four-Klasse", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q757178", "sub_label": "HMS Belfast", "sub_aliases": "Belfast", "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q1376275", "sub_label": "Pennland", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q1509361", "sub_label": "Georgic", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q2065060", "sub_label": "RMS Oceanic", "sub_aliases": ["RMMV Oceanic"], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q516401", "sub_label": "HMCS Bonaventure", "sub_aliases": ["HMCS Bonaventure (CVL 22)", "NCSM Bonaventure", "NCSM Bonaventure (CVL 22)", "CVL 22", "Bonaventure", "HMS Powerful", "HMCS Bonaventure, CVL-22"], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q1032093", "sub_label": "Rawalpindi", "sub_aliases": [], "obj_id": "Q848977", "obj_label": "Harland & Wolff", "obj_aliases": "Harland and Wolff"}
+{"sub_id": "Q699638", "sub_label": "Panzerkampfwagen E-100", "sub_aliases": "Entwicklung 100", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q655135", "sub_label": "Henschel Hs 129", "sub_aliases": "Hs 129", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q705444", "sub_label": "Kanonenjagdpanzer", "sub_aliases": "Jagdpanzerkanone", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q2201468", "sub_label": "NS-Baureihe 3900", "sub_aliases": [], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q2204927", "sub_label": "SAR-Klasse 26", "sub_aliases": [], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q10376298", "sub_label": "MD 451 to 466", "sub_aliases": ["CP E201 to E216"], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q9367913", "sub_label": "VK 36.01 (H)", "sub_aliases": "Versuchs Konstruktion 36.01 (Henschel)", "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q39056349", "sub_label": "Bangladesh Railway Class 2700", "sub_aliases": [], "obj_id": "Q163580", "obj_label": "Henschel & Sohn", "obj_aliases": "Henschel-Werke"}
+{"sub_id": "Q629522", "sub_label": "HP-41C", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q1565790", "sub_label": "HP-67", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q1757980", "sub_label": "HP Slate 500", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q499972", "sub_label": "HP TouchPad", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q852649", "sub_label": "HP Deskjet", "sub_aliases": ["Deskjet"], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q5635674", "sub_label": "HP Integral PC", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q3076072", "sub_label": "HP-42S", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q498335", "sub_label": "HP Focus", "sub_aliases": [], "obj_id": "Q80978", "obj_label": "Hewlett-Packard", "obj_aliases": "HP"}
+{"sub_id": "Q896683", "sub_label": "Saga Pearl II", "sub_aliases": "Quest for Adventure", "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q547324", "sub_label": "SMS Rostock", "sub_aliases": [], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q7357599", "sub_label": "KRI Nanggala", "sub_aliases": "KRI Nanggala 402", "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q824911", "sub_label": "SMS Undine", "sub_aliases": [], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q2495235", "sub_label": "Brandtaucher", "sub_aliases": [], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q18191032", "sub_label": "Tanin (U-Boot, 2014)", "sub_aliases": [], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q4834626", "sub_label": "BAP Pisagua", "sub_aliases": [], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q4834616", "sub_label": "BAP Angamos", "sub_aliases": ["BAP Angamos (SS-31)"], "obj_id": "Q700418", "obj_label": "Howaldtswerke-Deutsche Werft", "obj_aliases": "Howaldtswerke-Deutsche Werft AG"}
+{"sub_id": "Q1024166", "sub_label": "COSCO Guangzhou", "sub_aliases": "Cosco Guangzhou", "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q4992410", "sub_label": "IMO 8615801", "sub_aliases": ["HMNZS Endeavour, A11"], "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q2362474", "sub_label": "Dockwise Vanguard", "sub_aliases": [], "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q1672572", "sub_label": "IMO 9285823", "sub_aliases": "Mediterranean Glory", "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q495389", "sub_label": "Sejong the Great-class destroyer", "sub_aliases": [], "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q5630572", "sub_label": "HMAS Sirius", "sub_aliases": ["MT Delos", "Sirius", "Delos", "HMAS Sirius,O 266"], "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q1038745", "sub_label": "Incheon-Klasse", "sub_aliases": "HDF 3000 (Ulsan 1)", "obj_id": "Q483231", "obj_label": "Hyundai Heavy Industries", "obj_aliases": "HD Hyundai Heavy Industries"}
+{"sub_id": "Q3600590", "sub_label": "ACS-1", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q3601248", "sub_label": "ASCI Blue Pacific", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q7236268", "sub_label": "Power 775", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q22073261", "sub_label": "Summit", "sub_aliases": ["SUMMIT"], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q1642787", "sub_label": "590 Madison Avenue", "sub_aliases": "IBM Building", "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q2819287", "sub_label": "AN/FSQ-32", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q7120560", "sub_label": "IBM PS/2 E", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q11239825", "sub_label": "PowerXCell", "sub_aliases": [], "obj_id": "Q37156", "obj_label": "IBM", "obj_aliases": "Mother Blue"}
+{"sub_id": "Q6159115", "sub_label": "Hakachi", "sub_aliases": [], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q6143656", "sub_label": "Okinoshima (Schiff, 1936)", "sub_aliases": [], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q73676", "sub_label": "S-520", "sub_aliases": ["S-Series"], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q6158609", "sub_label": "Japanese fleet oiler Hayasui", "sub_aliases": ["Hayasui"], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q4836393", "sub_label": "BRP Ang Pangulo", "sub_aliases": [], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q419399", "sub_label": "Akitsu Maru", "sub_aliases": ["Akitsu Maru"], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q477477", "sub_label": "Chiyodagata", "sub_aliases": [], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q7496597", "sub_label": "JCG Shikishima", "sub_aliases": [], "obj_id": "Q1653679", "obj_label": "IHI", "obj_aliases": "Ishikawajima-Harima Heavy Industries"}
+{"sub_id": "Q834297", "sub_label": "USS Chosin", "sub_aliases": "CG-65", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q838418", "sub_label": "USS Chancellorsville", "sub_aliases": "CG-62", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q4346607", "sub_label": "HMS Battler", "sub_aliases": [], "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q1783483", "sub_label": "USS Lassen", "sub_aliases": "DDG-82", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q1815683", "sub_label": "USS Gravely", "sub_aliases": "DDG-107", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q492079", "sub_label": "USS Cape St. George", "sub_aliases": "CG-71", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q495509", "sub_label": "USS Leyte Gulf", "sub_aliases": "CG-55", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q175059", "sub_label": "USS Roosevelt", "sub_aliases": "DDG-80", "obj_id": "Q1193195", "obj_label": "Ingalls Shipbuilding"}
+{"sub_id": "Q27995423", "sub_label": "Intel-Coffee-Lake-Mikroarchitektur", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q31888920", "sub_label": "Intel-Ice-Lake-Mikroarchitektur", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q2353701", "sub_label": "StrataFlash", "sub_aliases": "Intel StrataFlash Memory", "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q370855", "sub_label": "Lynnfield", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q610702", "sub_label": "Sockel 775", "sub_aliases": ["Socket 775", "Socket T"], "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q214314", "sub_label": "Intel Pentium", "sub_aliases": "Pentium", "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q1134560", "sub_label": "Tukwila", "sub_aliases": [], "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q751327", "sub_label": "Sockel 478", "sub_aliases": "mPGA478B", "obj_id": "Q248", "obj_label": "Intel"}
+{"sub_id": "Q4450800", "sub_label": "IAI Nammer", "sub_aliases": [], "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q14967", "sub_label": "Intelsat 24", "sub_aliases": "AMOS-1", "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q1770356", "sub_label": "Ofeq-9", "sub_aliases": [], "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q44848", "sub_label": "Kfir", "sub_aliases": "IAI Kfir", "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q1141392", "sub_label": "IAI Nescher", "sub_aliases": "IAI Nesher", "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q2386244", "sub_label": "IAI Scout", "sub_aliases": ["IAI Oriole"], "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q28402811", "sub_label": "IAI Rotem L", "sub_aliases": [], "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q14979", "sub_label": "AMOS-60", "sub_aliases": "AMOS-3", "obj_id": "Q876017", "obj_label": "Israel Aerospace Industries", "obj_aliases": "Israel Aircraft Industries"}
+{"sub_id": "Q14100170", "sub_label": "Express AT2", "sub_aliases": "Express-AT 2", "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q6433275", "sub_label": "Kosmos 2434", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q12753746", "sub_label": "Kosmos 2381", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q17277085", "sub_label": "Kosmos 2500", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q16672558", "sub_label": "Luch 5V", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q12753745", "sub_label": "Kosmos 2380", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q4530651", "sub_label": "Express AM6", "sub_aliases": "Eutelsat 53A", "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q12753752", "sub_label": "Kosmos 2395", "sub_aliases": [], "obj_id": "Q2371486", "obj_label": "ISS Reschetnjow", "obj_aliases": "Reshetnev"}
+{"sub_id": "Q909728", "sub_label": "AKS-74U", "sub_aliases": "Zastava M85", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q4654496", "sub_label": "ASh-12.7", "sub_aliases": ["ODEN"], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q1323550", "sub_label": "PP-19 Bison", "sub_aliases": "PP-19 Bizon", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q219606", "sub_label": "Nudelman-Suranov NS-37", "sub_aliases": ["NS-37", "NS 37", "NS37"], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q1278439", "sub_label": "Saiga-12", "sub_aliases": [], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q159509", "sub_label": "Dragunow-Scharfsch\u00fctzengewehr", "sub_aliases": "Snaiperskaja wintowka Dragunowa", "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q2471712", "sub_label": "PP-91 KEDR", "sub_aliases": [], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q3267000", "sub_label": "AK-105", "sub_aliases": [], "obj_id": "Q7427495", "obj_label": "Konzern Kalaschnikow"}
+{"sub_id": "Q16656625", "sub_label": "KamAZ-5350", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4206238", "sub_label": "KamAZ-54115", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4206250", "sub_label": "KamAZ-65225", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q60851127", "sub_label": "KamAZ-6282", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4206235", "sub_label": "KamAZ-53228", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q1615111", "sub_label": "KamAZ-6520", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4206245", "sub_label": "KamAZ-65111", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4206239", "sub_label": "KamAZ-6350", "sub_aliases": [], "obj_id": "Q30378", "obj_label": "KAMAZ"}
+{"sub_id": "Q4229819", "sub_label": "Kommuna", "sub_aliases": [], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q924742", "sub_label": "SMK", "sub_aliases": ["SMK"], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q22996054", "sub_label": "Kirowez K-703", "sub_aliases": "K-703", "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q18407379", "sub_label": "MS-IV in Sovetsk", "sub_aliases": [], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q4032374", "sub_label": "L-11 76.2 mm tank gun", "sub_aliases": [], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q913187", "sub_label": "Kirowez K-700", "sub_aliases": "K-700", "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q622299", "sub_label": "KW-Serie", "sub_aliases": ["KV series", "KV"], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q4345694", "sub_label": "S\u017dD-Baureihe \u041c", "sub_aliases": ["Soviet locomotive class M", "Soviet Railways M"], "obj_id": "Q2621070", "obj_label": "Kirowwerk"}
+{"sub_id": "Q3006956", "sub_label": "Celebration", "sub_aliases": "Grand Celebration", "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q10515220", "sub_label": "HSwMS Uttern", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q52897", "sub_label": "HMS Gustaf V", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q10513185", "sub_label": "HSwMS Freja", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q10515233", "sub_label": "HSwMS Vargen", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q762384", "sub_label": "Visby-Klasse", "sub_aliases": ["Visby class"], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q10513258", "sub_label": "HSwMS Illern", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q1341319", "sub_label": "Jacob Bagge", "sub_aliases": [], "obj_id": "Q1408079", "obj_label": "Kockums", "obj_aliases": "SAAB Kockums AB"}
+{"sub_id": "Q11227380", "sub_label": "K009", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11227377", "sub_label": "K007", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11195846", "sub_label": "DIGNO", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11227382", "sub_label": "K010", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11197410", "sub_label": "E07K", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11227387", "sub_label": "K012", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11227371", "sub_label": "K002", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q11253215", "sub_label": "W43K", "sub_aliases": [], "obj_id": "Q745099", "obj_label": "Kyocera", "obj_aliases": "Yashica Kyocera"}
+{"sub_id": "Q16974703", "sub_label": "Loughead F-1", "sub_aliases": [], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q6133784", "sub_label": "Stargazer", "sub_aliases": ["N140SC"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q5566138", "sub_label": "Glacier Girl", "sub_aliases": [], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q32979767", "sub_label": "L-402 Bushmaster", "sub_aliases": ["Lockheed L-402 Bushmaster", "L402", "Bushmaster"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q15476362", "sub_label": "Lockheed MC-130W Combat Spear", "sub_aliases": ["MC-130W Combat Spear", "MC130W Combat Spear", "Combat Spear", "Lockheed MC-130W Combat Spear"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q12043480", "sub_label": "Lockheed PV-2 Harpoon", "sub_aliases": ["Lockheed PV-2", "PV2", "Harpoon"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q3257746", "sub_label": "Altair 8D", "sub_aliases": ["Lockheed Model 8D Altair", "Lockheed 8D Altair", "Lockheed Altair 8D", "L-8D Altair", "L8D"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q5757365", "sub_label": "High Virgo", "sub_aliases": ["Weapons System 199C", "WS-199C"], "obj_id": "Q7233", "obj_label": "Lockheed Corporation", "obj_aliases": "Loughead Aircraft Manufacturing Company"}
+{"sub_id": "Q526759", "sub_label": "Lockheed Martin X-44", "sub_aliases": ["Lockheed Martin X-44 MANTA", "X44 MANTA", "MANTA", "Multi-Axis No-Tail Aircraft"], "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q1431268", "sub_label": "Long Range Anti-Ship Missile", "sub_aliases": ["LRASM"], "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q255648", "sub_label": "X-33", "sub_aliases": ["Lockheed Martin X-33"], "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q431231", "sub_label": "AC-130", "sub_aliases": "Lockheed AC-130", "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q590245", "sub_label": "Lunar Prospector", "sub_aliases": [], "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q207164", "sub_label": "2001 Mars Odyssey", "sub_aliases": "Mars Odyssey 2001", "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q1187536", "sub_label": "C-130J Super Hercules", "sub_aliases": ["Lockheed C-130J", "C130J Super Hercules", "Super Hercules", "Lockheed Martin Hercules C.5", "Hercules C.5", "Lockheed Martin C-130J", "C-130J Super Hercules", "C-130J Hercules", "Lockheed Martin Super Hercules", "Lockheed Martin C-130 Super Hercules", "C130 Super Hercules", "Lockheed Martin C-130J Super Hercules"], "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q183160", "sub_label": "Mars Reconnaissance Orbiter", "sub_aliases": "MRO", "obj_id": "Q7240", "obj_label": "Lockheed Martin"}
+{"sub_id": "Q2450329", "sub_label": "LZ 16", "sub_aliases": "Zeppelin 16", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q18199434", "sub_label": "LZ 66", "sub_aliases": "L 23", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q1798511", "sub_label": "LZ 114", "sub_aliases": "LZ114", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q1798515", "sub_label": "LZ 121", "sub_aliases": "LZ121 Nordstern", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q1809414", "sub_label": "LZ 10", "sub_aliases": "Zeppelin LZ 10", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q8069344", "sub_label": "LZ 54", "sub_aliases": "L 19", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q883018", "sub_label": "LZ 7", "sub_aliases": "Zeppelin LZ 7", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q1798524", "sub_label": "LZ 18", "sub_aliases": "Zeppelin 18", "obj_id": "Q547465", "obj_label": "Luftschiffbau Zeppelin", "obj_aliases": "Luftschiffbau Zeppelin GmbH"}
+{"sub_id": "Q1754531", "sub_label": "Norwegian Dawn", "sub_aliases": "Superstar Scorpio", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q293486", "sub_label": "AIDAdiva", "sub_aliases": "Aidadiva", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q19877077", "sub_label": "Ovation of the Seas", "sub_aliases": [], "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q828458", "sub_label": "Estonia", "sub_aliases": "MS Estonia", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q293475", "sub_label": "AIDAblu", "sub_aliases": "AIDA blu", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q1760407", "sub_label": "Norwegian Star", "sub_aliases": "IMO 9195157", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q18128240", "sub_label": "Quantum of the Seas", "sub_aliases": [], "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q2072116", "sub_label": "Jewel of the Seas", "sub_aliases": "IMO 9228356", "obj_id": "Q705377", "obj_label": "Meyer Werft", "obj_aliases": "Meyerwerft"}
+{"sub_id": "Q581747", "sub_label": "MAZ-7917", "sub_aliases": ["WS51200TEL"], "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q16512048", "sub_label": "MAZ-530", "sub_aliases": "BelAZ-530", "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q4273302", "sub_label": "MAZ-6422", "sub_aliases": [], "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q4273290", "sub_label": "MAZ-525", "sub_aliases": "BelAZ-525", "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q12120165", "sub_label": "MAZ-6317", "sub_aliases": [], "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q4273280", "sub_label": "MAZ-206", "sub_aliases": [], "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q4273287", "sub_label": "MAZ-500", "sub_aliases": "\u041c\u0410\u0417-500", "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q4273297", "sub_label": "MAZ-537", "sub_aliases": ["Model 537"], "obj_id": "Q1251215", "obj_label": "Minsker Automobilwerk", "obj_aliases": "Minski Awtomobilny Sawod"}
+{"sub_id": "Q11252439", "sub_label": "V55PI", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q72165957", "sub_label": "Earth Simulator 2", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q11193168", "sub_label": "CFE-01", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q11234178", "sub_label": "N-05A", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q11234148", "sub_label": "N-01B", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q11197927", "sub_label": "EWS4800", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q990503", "sub_label": "Kizuna", "sub_aliases": "Wideband InterNetworking engineering test and Demonstration Satellite", "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q3359587", "sub_label": "PC-Engine Shuttle", "sub_aliases": [], "obj_id": "Q219203", "obj_label": "NEC Corporation", "obj_aliases": "Nippon Electric Corporation"}
+{"sub_id": "Q3400897", "sub_label": "Kosmos 775", "sub_aliases": [], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q837749", "sub_label": "RadioAstron", "sub_aliases": "Spektr-R", "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q1326683", "sub_label": "Elektro-L 1", "sub_aliases": "Elektro-L", "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q3397884", "sub_label": "Kosmos 2209", "sub_aliases": [], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q2032466", "sub_label": "Kosmos 2155", "sub_aliases": [], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q3398004", "sub_label": "Kosmos 2224", "sub_aliases": [], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q3399209", "sub_label": "Kosmos 2133", "sub_aliases": ["Cosmos 2133"], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q7865636", "sub_label": "US-K", "sub_aliases": ["Upravlyaemy Sputnik Kontinentalny"], "obj_id": "Q949211", "obj_label": "Lawotschkin", "obj_aliases": "OKB-301"}
+{"sub_id": "Q210349", "sub_label": "Jeanne d\u2019Arc", "sub_aliases": "Jeanne d'Arc", "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q1637190", "sub_label": "Mogador", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q187622", "sub_label": "Clemenceau", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q2981505", "sub_label": "Mistral (Schiff, 2005)", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q3013579", "sub_label": "French ironclad Redoutable", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q7119870", "sub_label": "PNS Hangor", "sub_aliases": [], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q65459647", "sub_label": "Suffren", "sub_aliases": ["Q284"], "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q461375", "sub_label": "Charles de Gaulle", "sub_aliases": "R91", "obj_id": "Q1227511", "obj_label": "Naval Group", "obj_aliases": "Direction des Constructions Navales"}
+{"sub_id": "Q47080824", "sub_label": "Delf\u00edn", "sub_aliases": [], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q913332", "sub_label": "Isaac-Peral-Klasse", "sub_aliases": ["clase S-80 Plus", "Isaac Peral", "S 80 Plus class", "S 80 class", "S-80 class", "S80", "Isaac Peral class"], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q28163037", "sub_label": "PNA Thompson", "sub_aliases": [], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q28163042", "sub_label": "PNA Prefecto Derbes", "sub_aliases": [], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q1130988", "sub_label": "Meteoro-Klasse", "sub_aliases": "Buque de Acci\u00f3n Mar\u00edtima", "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q6100876", "sub_label": "Rayo", "sub_aliases": ["P-42"], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q5653703", "sub_label": "ANBV Naiguat\u00e1 (GC-23)", "sub_aliases": [], "obj_id": "Q378849", "obj_label": "Navantia"}
+{"sub_id": "Q1141369", "sub_label": "USS Forrestal", "sub_aliases": "CVA-59", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q83277623", "sub_label": "USS Doris Miller", "sub_aliases": "CVN-81", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q653860", "sub_label": "USS Dwight D. Eisenhower", "sub_aliases": "CVN-69", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q463091", "sub_label": "America", "sub_aliases": "USS Westpoint (AP-23)", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q217132", "sub_label": "USS George H. W. Bush", "sub_aliases": "CVN-77", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q1356916", "sub_label": "USS Baton Rouge", "sub_aliases": ["USS Baton Rouge (SSN-689)"], "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q1587078", "sub_label": "Virginia-Klasse", "sub_aliases": ["CGN-38 class"], "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q1205064", "sub_label": "Doulos", "sub_aliases": "MV Doulos", "obj_id": "Q82610", "obj_label": "Newport News Shipbuilding"}
+{"sub_id": "Q1533992", "sub_label": "KJI Nr. 23", "sub_aliases": ["DR 99 4301"], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q928621", "sub_label": "Brook (1949)", "sub_aliases": ["IMO 5053739"], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q20829049", "sub_label": "Mansfeld AG Nr. 6 bis 11", "sub_aliases": [], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q106678028", "sub_label": "IMO 6921309", "sub_aliases": ["Carlo Porr"], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q1718752", "sub_label": "KKP Nr. 1 und 2", "sub_aliases": ["DR 99 4612 and 99 4613"], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q17124964", "sub_label": "O & K MB 125 N", "sub_aliases": ["O & K MB 125 N"], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q895529", "sub_label": "DR-Baureihe ET 167", "sub_aliases": "PKP-Baureihe EW91", "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q17091831", "sub_label": "South West African 2-8-0", "sub_aliases": [], "obj_id": "Q652491", "obj_label": "Orenstein & Koppel", "obj_aliases": "Orenstein und Koppel"}
+{"sub_id": "Q657002", "sub_label": "Granatwerfer 36", "sub_aliases": "5cm leichter Granatenwerfer 36", "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q4835806", "sub_label": "B ord K anone 5", "sub_aliases": ["Bordkanone 5"], "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q259089", "sub_label": "7,5-cm-Leichtgesch\u00fctz 40", "sub_aliases": [], "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q697896", "sub_label": "10,5-cm-Flak 38", "sub_aliases": "10,5 cm Flak 38", "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q259027", "sub_label": "7,5-cm-Feldkanone 16nA", "sub_aliases": "7,5-cm-Feldkanone 16 neue Art", "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q652468", "sub_label": "MG 17", "sub_aliases": ["Maschinengewehr 17", "MG17", "Rheinmetall-Borsig MG 17"], "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q699606", "sub_label": "M\u00f6rser Karl", "sub_aliases": "Karl-Ger\u00e4t", "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q2658024", "sub_label": "BK 37", "sub_aliases": ["Bordkanone BK 3.7", "BK 3.7"], "obj_id": "Q161544", "obj_label": "Rheinmetall", "obj_aliases": "Rheinmetall-Borsig"}
+{"sub_id": "Q247305", "sub_label": "Mars 2", "sub_aliases": "M-71 No. 171", "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q152500", "sub_label": "Venera 1", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q12685228", "sub_label": "Kosmos 143", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q1681656", "sub_label": "Science Power Modules", "sub_aliases": "Wissenschafts- und Energiemodule", "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q16354696", "sub_label": "EgyptSat 2", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q211254", "sub_label": "Sojus 1", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q1119572", "sub_label": "Kosmos 112", "sub_aliases": [], "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q80811", "sub_label": "Sputnik 1", "sub_aliases": "Sputnik-1", "obj_id": "Q763402", "obj_label": "RKK Energija"}
+{"sub_id": "Q918235", "sub_label": "Britische Baureihe 450", "sub_aliases": [], "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q1472045", "sub_label": "\u00d6BB 1116", "sub_aliases": "\u00d6BB-Reihe 1116", "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q959385", "sub_label": "S\u017d-Baureihe 312", "sub_aliases": "S\u017d-Reihe 312", "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q1133704", "sub_label": "Suvarnabhumi Airport Rail Link", "sub_aliases": ["Airport Rail Link (Bangkok)"], "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q2284285", "sub_label": "Siemens Combino Duo", "sub_aliases": "HSB 187 201 bis 203", "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q751742", "sub_label": "NMBS/SNCB-Reihe AM 08", "sub_aliases": ["NMBS Class AM08"], "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q5203312", "sub_label": "D-class tram", "sub_aliases": ["D-class Melbourne tram", "D-class"], "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q856397", "sub_label": "CP-Baureihe 4700", "sub_aliases": "Siemens ES46B1-A", "obj_id": "Q391895", "obj_label": "Siemens Mobility", "obj_aliases": "Siemens TS"}
+{"sub_id": "Q54263831", "sub_label": "B1046", "sub_aliases": ["Falcon 9 B1046", "Falcon 9 booster B1046", "SpaceX Falcon 9 B1046"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q96215848", "sub_label": "C205", "sub_aliases": ["Dragon C205", "SpaceX Dragon C205", "Crew Dragon C205"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q30682914", "sub_label": "B1029", "sub_aliases": ["Falcon 9 B1029", "Falcon 9 booster B1029", "SpaceX Falcon 9 B1029"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q55372093", "sub_label": "B1045", "sub_aliases": ["Falcon 9 B1045", "Falcon 9 booster B1045", "SpaceX Falcon 9 B1045"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q27044183", "sub_label": "Interplanetary Transport System", "sub_aliases": ["ITS"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q66486047", "sub_label": "B1056", "sub_aliases": ["Falcon 9 B1056", "Falcon 9 booster B1056", "SpaceX Falcon 9 B1056"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q91308734", "sub_label": "Raptor sea-level", "sub_aliases": ["Raptor SL", "SpaceX sea-level Raptor"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q16974541", "sub_label": "DragonFly", "sub_aliases": ["Dragon 2 DragonFly", "Crew Dragon DragonFly", "Crew Dragon C201", "Dragon C201", "C201"], "obj_id": "Q193701", "obj_label": "SpaceX"}
+{"sub_id": "Q2311246", "sub_label": "ZB ABeh 160", "sub_aliases": [], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q47143942", "sub_label": "Albula-Gliederzug", "sub_aliases": "Alvra-Gliederzug", "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q57083025", "sub_label": "BOB ABDeh 8/8", "sub_aliases": [], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q19885574", "sub_label": "Vossloh Citylink", "sub_aliases": "Stadler Citylink", "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q671805", "sub_label": "RhB ABe 8/12", "sub_aliases": [], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q2305352", "sub_label": "FC DE M4c.500", "sub_aliases": [], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q4529467", "sub_label": "Belarusian Railway \u042d\u041f\u0433", "sub_aliases": ["Belarusian Railway EPg"], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q11877695", "sub_label": "CZ Class 480", "sub_aliases": [], "obj_id": "Q666703", "obj_label": "Stadler Rail", "obj_aliases": "Stadler Rail Group"}
+{"sub_id": "Q5122795", "sub_label": "Citra", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q7072637", "sub_label": "OK Soda", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q6813153", "sub_label": "Mello Yello", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q6979924", "sub_label": "Nativa", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q4741041", "sub_label": "Ambasa", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q3245008", "sub_label": "Fresca", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q5578860", "sub_label": "Gold Spot", "sub_aliases": [], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q1815345", "sub_label": "Diet Coke", "sub_aliases": ["Coca-Cola Light", "Diet Coca-Cola"], "obj_id": "Q3295867", "obj_label": "The Coca-Cola Company"}
+{"sub_id": "Q11253227", "sub_label": "W45T", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11380917", "sub_label": "ED33", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11247936", "sub_label": "T007", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11421814", "sub_label": "JNR ED72 class", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11527464", "sub_label": "Tobu Railway ED 4010 class", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11197416", "sub_label": "E31T", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q5243960", "sub_label": "Meitetsu DeKi 600", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q11247934", "sub_label": "T006", "sub_aliases": [], "obj_id": "Q49125", "obj_label": "Toshiba", "obj_aliases": "Toshiba Corporation"}
+{"sub_id": "Q325625", "sub_label": "SMS Szigetv\u00e1r", "sub_aliases": [], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q56826684", "sub_label": "Grande Anversa", "sub_aliases": [], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q662644", "sub_label": "Porto", "sub_aliases": "Arion", "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q52334921", "sub_label": "IMO 8802014", "sub_aliases": [], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q16038904", "sub_label": "Dalmacija (Schiff, 1965)", "sub_aliases": [], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q30133825", "sub_label": "Bartolomeu Dias", "sub_aliases": ["IMO 9618991"], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q83607866", "sub_label": "MCT Altair", "sub_aliases": ["Category:IMO 9173082"], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q52377940", "sub_label": "IMO 9377482", "sub_aliases": [], "obj_id": "Q1817824", "obj_label": "Uljanik Werft", "obj_aliases": "Brodogradili\u0161te Uljanik"}
+{"sub_id": "Q2599168", "sub_label": "Valiant-class attack submarine", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q763350", "sub_label": "HMS Venturer", "sub_aliases": ["HMS Venturer, P68"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q2987614", "sub_label": "La Argentina (Schiff, 1937)", "sub_aliases": ["ARA La Argentina (C-3)"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q749790", "sub_label": "HMS Seraph", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q1422969", "sub_label": "Light Tank Mk VI", "sub_aliases": "MkVI Light Tank", "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q2608867", "sub_label": "HMS Nigeria", "sub_aliases": ["HMS Nigeria (60)", "Nigeria"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q583515", "sub_label": "Rollbombe", "sub_aliases": [], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q652058", "sub_label": "Vijayanta", "sub_aliases": ["Vickers MBT"], "obj_id": "Q763052", "obj_label": "Vickers-Armstrongs"}
+{"sub_id": "Q2094531", "sub_label": "Moby Dada", "sub_aliases": "Princess Maria", "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q338340", "sub_label": "Boudicca", "sub_aliases": ["Royal Viking Sky", "Sunward", "Birka Queen", "Golden Princess", "Superstar Capricorn", "Hyundai Kumgang", "Grand Latino", "IMO 7218395"], "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q112753", "sub_label": "Wasa Express", "sub_aliases": "Thjelvar", "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q2383420", "sub_label": "Kapitan Khlebnikov", "sub_aliases": [], "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q917897", "sub_label": "Taymyr", "sub_aliases": [], "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q706088", "sub_label": "Artania", "sub_aliases": "MS Artania", "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q1418193", "sub_label": "Finnjet", "sub_aliases": [], "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q427833", "sub_label": "Song of Norway", "sub_aliases": "Dream", "obj_id": "Q327429", "obj_label": "W\u00e4rtsil\u00e4", "obj_aliases": "W\u00e4rtsila"}
+{"sub_id": "Q2593250", "sub_label": "Lekiu-class frigate", "sub_aliases": [], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q136137", "sub_label": "ZG 3", "sub_aliases": ["Hermes"], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q1264384", "sub_label": "Duke-Klasse (1987)", "sub_aliases": ["Duke-class frigate"], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q18786340", "sub_label": "Graf Spee (F 215)", "sub_aliases": "U03", "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q5634528", "sub_label": "HMS Sutherland", "sub_aliases": [], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q1235315", "sub_label": "Piau\u00ed", "sub_aliases": [], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q5634945", "sub_label": "HMS Whimbrel", "sub_aliases": ["El Malek Farouq", "Tariq"], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q179834", "sub_label": "HMS Kipling", "sub_aliases": [], "obj_id": "Q932897", "obj_label": "Yarrow Shipbuilders", "obj_aliases": "Yarrow and Co (1922)"}
+{"sub_id": "Q51544", "sub_label": "Kosmos 149", "sub_aliases": ["DS-MO No.1"], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q51565", "sub_label": "Kosmos 219", "sub_aliases": ["DS-U2-D No.2"], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q53063", "sub_label": "Kosmos 321", "sub_aliases": "DS-U2-MG #1", "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q51548", "sub_label": "Kosmos 163", "sub_aliases": ["DS-U2-MP No.2"], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q53519", "sub_label": "Kosmos 380", "sub_aliases": ["DS-P1-Yu No.26"], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q51551", "sub_label": "Kosmos 173", "sub_aliases": [], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q51539", "sub_label": "Kosmos 142", "sub_aliases": ["DS-U2-I No.2"], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q51576", "sub_label": "Kosmos 245", "sub_aliases": [], "obj_id": "Q618898", "obj_label": "KB Pivdenne", "obj_aliases": "Yuzhnoe"}
+{"sub_id": "Q4182157", "sub_label": "ZIL-E167", "sub_aliases": [], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q8063104", "sub_label": "ZIL-115", "sub_aliases": [], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q4032819", "sub_label": "9P138 Grad-1", "sub_aliases": ["BM-21B"], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q4182156", "sub_label": "ZIL-5301", "sub_aliases": "Bulle", "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q4182150", "sub_label": "ZIL-4334", "sub_aliases": [], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q136224", "sub_label": "ZIL-112S", "sub_aliases": "ZIL-112/x", "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q241068", "sub_label": "BAW", "sub_aliases": ["ZiS-485", "ZIL-485"], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q295210", "sub_label": "AMO-F-15", "sub_aliases": [], "obj_id": "Q638156", "obj_label": "Sawod imeni Lichatschowa", "obj_aliases": "Zavod Imeni Likhacheva"}
+{"sub_id": "Q442097", "sub_label": "21-cm-Kanone 39", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q1988542", "sub_label": "305-mm-Haubitze M1939 (Br-18)", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q339552", "sub_label": "8-cm-Feldkanone M. 05", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q1974888", "sub_label": "210-mm-Kanone M1939 (Br-17)", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q3507738", "sub_label": "4,7-cm-Festungs-PaK (t)", "sub_aliases": ["L1"], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q1388264", "sub_label": "10,4-cm-Feldkanone M.15", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q229874", "sub_label": "4,7-cm-PaK 36(t)", "sub_aliases": "PaK 38(t)", "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}
+{"sub_id": "Q2090165", "sub_label": "OA vz. 27", "sub_aliases": [], "obj_id": "Q391795", "obj_label": "\u0160koda", "obj_aliases": "\u0160koda-Werke"}

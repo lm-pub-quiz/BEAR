@@ -1,0 +1,60 @@
+{"sub_id": "Q648567", "sub_label": "Bochtar", "sub_aliases": "Kurgan-Tyube", "obj_id": "Q9260", "obj_label": "Tadschikisch", "answer_idx": 0, "obj_aliases": "tgk"}
+{"sub_id": "Q402145", "sub_label": "Sultanat Mataram", "sub_aliases": ["Sultanate of Mataram", "Mataram", "Islamic Mataram Kingdom"], "obj_id": "Q33549", "obj_label": "Javanisch", "answer_idx": 1, "obj_aliases": "javanische Sprache"}
+{"sub_id": "Q1207082", "sub_label": "Dewan Bahasa dan Pustaka", "sub_aliases": [], "obj_id": "Q15065", "obj_label": "Malaiisch malaysisch", "answer_idx": 2}
+{"sub_id": "Q1011020", "sub_label": "Orania", "sub_aliases": [], "obj_id": "Q14196", "obj_label": "Afrikaans", "answer_idx": 3, "obj_aliases": "Kolonial-Niederl\u00e4ndisch"}
+{"sub_id": "Q8660", "sub_label": "Karatschi", "sub_aliases": "Kurrache", "obj_id": "Q1617", "obj_label": "Urdu", "answer_idx": 4}
+{"sub_id": "Q25231", "sub_label": "Spitzbergen", "sub_aliases": "NO-21", "obj_id": "Q9043", "obj_label": "Norwegisch", "answer_idx": 5, "obj_aliases": "norwegische Sprache"}
+{"sub_id": "Q178897", "sub_label": "Lateinisches Kaiserreich", "sub_aliases": "\u30eb\u30fc\u30de\u30cb\u30a2\u5e1d\u56fd", "obj_id": "Q35222", "obj_label": "Altfranz\u00f6sisch", "answer_idx": 6, "obj_aliases": "fro"}
+{"sub_id": "Q466551", "sub_label": "Transkei", "sub_aliases": "Republik Transkei", "obj_id": "Q13218", "obj_label": "IsiXhosa", "answer_idx": 7, "obj_aliases": "Xhosa"}
+{"sub_id": "Q1108445", "sub_label": "Kiewer Rus", "sub_aliases": "Kiewer Russland", "obj_id": "Q35228", "obj_label": "Altostslawisch", "answer_idx": 8, "obj_aliases": "altostslawische Sprache"}
+{"sub_id": "Q808139", "sub_label": "Bargawata", "sub_aliases": [], "obj_id": "Q19895801", "obj_label": "Lisan al-Gharbi", "answer_idx": 9}
+{"sub_id": "Q24931412", "sub_label": "Asmoli", "sub_aliases": ["asmouli"], "obj_id": "Q3361977", "obj_label": "Khariboli", "answer_idx": 10}
+{"sub_id": "Q665761", "sub_label": "Comines-Warneton", "sub_aliases": [], "obj_id": "Q34024", "obj_label": "Picardisch", "answer_idx": 11, "obj_aliases": "pikardische Sprache"}
+{"sub_id": "Q536476", "sub_label": "Empire Peul", "sub_aliases": [], "obj_id": "Q33454", "obj_label": "Fulfulde", "answer_idx": 12, "obj_aliases": "Poular"}
+{"sub_id": "Q1345964", "sub_label": "Gododdin", "sub_aliases": "Guotodin", "obj_id": "Q35965", "obj_label": "Kumbrisch", "answer_idx": 13, "obj_aliases": "kumbrische Sprache"}
+{"sub_id": "Q902", "sub_label": "Bangladesch", "sub_aliases": ["bd", "\ud83c\udde7\ud83c\udde9", "BAN", "People's Republic of Bangladesh"], "obj_id": "Q9610", "obj_label": "Bengalisch", "answer_idx": 14, "obj_aliases": "bengalische Sprache"}
+{"sub_id": "Q680997", "sub_label": "Plattensee-F\u00fcrstentum", "sub_aliases": "Transdanubisches F\u00fcrstentum", "obj_id": "Q747537", "obj_label": "Urslawisch", "answer_idx": 15, "obj_aliases": "urslawische Sprache"}
+{"sub_id": "Q37102", "sub_label": "Rif-Republik", "sub_aliases": "Stammeskonf\u00f6derale Republik des Rif", "obj_id": "Q34174", "obj_label": "Tarifit", "answer_idx": 16}
+{"sub_id": "Q1773", "sub_label": "Riga", "sub_aliases": ["R\u012bga", "Ryga", "Rige", "Riia", "Rija", "R\u012bg\u00f5"], "obj_id": "Q9078", "obj_label": "Lettisch", "answer_idx": 17, "obj_aliases": "lettische Sprache"}
+{"sub_id": "Q36", "sub_label": "Polen", "sub_aliases": "Republik Polen", "obj_id": "Q809", "obj_label": "Polnisch", "answer_idx": 18, "obj_aliases": "polnische Sprache"}
+{"sub_id": "Q38", "sub_label": "Italien", "sub_aliases": "Italienische Republik", "obj_id": "Q652", "obj_label": "Italienisch", "answer_idx": 19, "obj_aliases": "italienische Sprache"}
+{"sub_id": "Q10985042", "sub_label": "Markgrafschaft Montferrat", "sub_aliases": "Marchesato del Monferrato", "obj_id": "Q15085", "obj_label": "Piemontesisch", "answer_idx": 20, "obj_aliases": "piemontesische Sprache"}
+{"sub_id": "Q206789", "sub_label": "Reich von Ghana", "sub_aliases": "Imperium Ghana", "obj_id": "Q36660", "obj_label": "Soninke", "answer_idx": 21}
+{"sub_id": "Q151938", "sub_label": "Neutral-Moresnet", "sub_aliases": "Neutral Moresnet", "obj_id": "Q143", "obj_label": "Esperanto", "answer_idx": 22, "obj_aliases": "internationale Sprache"}
+{"sub_id": "Q1520", "sub_label": "Astana", "sub_aliases": "Zelinograd", "obj_id": "Q9252", "obj_label": "Kasachisch", "answer_idx": 23, "obj_aliases": "Kazachisch"}
+{"sub_id": "Q530567", "sub_label": "Ibi", "sub_aliases": [], "obj_id": "Q15730344", "obj_label": "Castellano", "answer_idx": 24}
+{"sub_id": "Q518791", "sub_label": "Veraval", "sub_aliases": ["Prabhas Patan", "Somnath"], "obj_id": "Q5137", "obj_label": "Gujarati", "answer_idx": 25}
+{"sub_id": "Q1764", "sub_label": "Reykjav\u00edk", "sub_aliases": "Reykjav\u00edkurborg", "obj_id": "Q294", "obj_label": "Isl\u00e4ndisch", "answer_idx": 26, "obj_aliases": "isl\u00e4ndische Sprache"}
+{"sub_id": "Q75613", "sub_label": "Almoraviden", "sub_aliases": "Reich der Almoraviden", "obj_id": "Q25448", "obj_label": "Berbersprachen", "answer_idx": 27, "obj_aliases": "berberische Sprache"}
+{"sub_id": "Q836", "sub_label": "Myanmar", "sub_aliases": "Myanma", "obj_id": "Q9228", "obj_label": "Birmanisch", "answer_idx": 28, "obj_aliases": "Burmesisch"}
+{"sub_id": "Q5069920", "sub_label": "Champaknagar", "sub_aliases": [], "obj_id": "Q35947", "obj_label": "Kokborok", "answer_idx": 29}
+{"sub_id": "Q2043564", "sub_label": "Shamkhalate of Tarki", "sub_aliases": [], "obj_id": "Q36209", "obj_label": "Kumykisch", "answer_idx": 30, "obj_aliases": "kumykische Sprache"}
+{"sub_id": "Q62943", "sub_label": "Maurya-Reich", "sub_aliases": "Maurya", "obj_id": "Q192170", "obj_label": "Prakrit", "answer_idx": 31}
+{"sub_id": "Q1196201", "sub_label": "Tuyuhun", "sub_aliases": "Tuy\u00fchu", "obj_id": "Q33750", "obj_label": "Mongolisch", "answer_idx": 32}
+{"sub_id": "Q15045734", "sub_label": "Karaga", "sub_aliases": ["Karaga"], "obj_id": "Q32238", "obj_label": "Dagbani", "answer_idx": 33, "obj_aliases": "Dagbamba"}
+{"sub_id": "Q1355", "sub_label": "Bengaluru", "sub_aliases": "Bangalore", "obj_id": "Q33673", "obj_label": "Kannada", "answer_idx": 34, "obj_aliases": "Kannara"}
+{"sub_id": "Q215", "sub_label": "Slowenien", "sub_aliases": "Republik Slowenien", "obj_id": "Q9063", "obj_label": "Slowenisch", "answer_idx": 35, "obj_aliases": "slowenische Sprache"}
+{"sub_id": "Q3910149", "sub_label": "praetorian prefecture of Africa", "sub_aliases": [], "obj_id": "Q37560", "obj_label": "Vulg\u00e4rlatein", "answer_idx": 36, "obj_aliases": "Volkslatein"}
+{"sub_id": "Q9248", "sub_label": "Baku", "sub_aliases": ["City of Winds"], "obj_id": "Q9292", "obj_label": "Aserbaidschanisch", "answer_idx": 37, "obj_aliases": "aserbaidschanische Sprache"}
+{"sub_id": "Q497019", "sub_label": "Praia", "sub_aliases": [], "obj_id": "Q35117", "obj_label": "Badiu", "answer_idx": 38, "obj_aliases": "Badio"}
+{"sub_id": "Q34", "sub_label": "Schweden", "sub_aliases": "K\u00f6nigreich Schweden", "obj_id": "Q9027", "obj_label": "Schwedisch", "answer_idx": 39, "obj_aliases": "schwedische Sprache"}
+{"sub_id": "Q178665", "sub_label": "Mittani", "sub_aliases": "Mittanni", "obj_id": "Q35740", "obj_label": "Hurritisch", "answer_idx": 40, "obj_aliases": "hurritische Sprache"}
+{"sub_id": "Q105313", "sub_label": "K\u00f6nigreich Wessex", "sub_aliases": ["Kingdom of the West Saxons", "Wessex"], "obj_id": "Q2658603", "obj_label": "West Saxon", "answer_idx": 41}
+{"sub_id": "Q889912", "sub_label": "K\u00f6nigreich Toro", "sub_aliases": "Toro", "obj_id": "Q7824218", "obj_label": "Toro", "answer_idx": 42}
+{"sub_id": "Q3711", "sub_label": "Belgrad", "sub_aliases": "Belgrad, Serbien", "obj_id": "Q9299", "obj_label": "Serbisch", "answer_idx": 43, "obj_aliases": "serbische Sprache"}
+{"sub_id": "Q853477", "sub_label": "Lan Xang", "sub_aliases": "Lan Sang", "obj_id": "Q9211", "obj_label": "Laotisch", "answer_idx": 44, "obj_aliases": "laotische Sprache"}
+{"sub_id": "Q102679", "sub_label": "Numidien", "sub_aliases": "Numidia", "obj_id": "Q535958", "obj_label": "Punisch", "answer_idx": 45}
+{"sub_id": "Q1146786", "sub_label": "Cuzcatlan", "sub_aliases": [], "obj_id": "Q1186896", "obj_label": "Nawat (Pipil)", "answer_idx": 46}
+{"sub_id": "Q746915", "sub_label": "Huanca", "sub_aliases": ["Wanca people", "Wanka people"], "obj_id": "Q36960", "obj_label": "Wanka-Quechua", "answer_idx": 47, "obj_aliases": "Quechua Huanca"}
+{"sub_id": "Q814959", "sub_label": "Beiyang-Regierung", "sub_aliases": [], "obj_id": "Q9192", "obj_label": "Mandarin", "answer_idx": 48, "obj_aliases": "Nordchinesisch"}
+{"sub_id": "Q1191", "sub_label": "Maharashtra", "sub_aliases": [], "obj_id": "Q1571", "obj_label": "Marathi", "answer_idx": 49}
+{"sub_id": "Q220110", "sub_label": "Rohan", "sub_aliases": "Riddermark", "obj_id": "Q1247809", "obj_label": "Rohirrisch", "answer_idx": 50, "obj_aliases": "Rohanisch"}
+{"sub_id": "Q49697", "sub_label": "Fr\u00fchere Song-Dynastie", "sub_aliases": "Liu-Song-Dynastie", "obj_id": "Q2016252", "obj_label": "Mittelchinesisch", "answer_idx": 51}
+{"sub_id": "Q163798", "sub_label": "Thrissur", "sub_aliases": ["Thrichur", "Thrissivaperur", "Thrissur, Kerala"], "obj_id": "Q36236", "obj_label": "Malayalam", "answer_idx": 52, "obj_aliases": "Malajalam"}
+{"sub_id": "Q1139762", "sub_label": "Kanem-Bornu", "sub_aliases": "Bornu-Kanem", "obj_id": "Q1757661", "obj_label": "Saharanisch", "answer_idx": 53, "obj_aliases": "saharanische Sprachen"}
+{"sub_id": "Q48685", "sub_label": "Juda", "sub_aliases": "S\u00fcdreich Juda", "obj_id": "Q1982248", "obj_label": "Bibelhebr\u00e4isch", "answer_idx": 54}
+{"sub_id": "Q831218", "sub_label": "Uigurisches Kaganat", "sub_aliases": ["Uyghur Empire", "Uighur Khaganate", "Toquz Oghuz Country", "Hu\u00edh\u00fa", "Huihu", "Hu\u00edh\u00e9", "Huihe", "Jiu Xing", "Nine Clans", "Toquz Tughluq"], "obj_id": "Q703173", "obj_label": "Karlukisch", "answer_idx": 55, "obj_aliases": "s\u00fcdostt\u00fcrkische Sprachen"}
+{"sub_id": "Q20973653", "sub_label": "Kingdom of Munster", "sub_aliases": ["Munster"], "obj_id": "Q3320030", "obj_label": "Primitive Irish", "answer_idx": 56}
+{"sub_id": "Q212", "sub_label": "Ukraine", "sub_aliases": ["UA", "UKR", "ua", "Ukrainia", "\ud83c\uddfa\ud83c\udde6", "Ukr.", "Ukraina"], "obj_id": "Q8798", "obj_label": "Ukrainisch", "answer_idx": 57, "obj_aliases": "ukrainische Sprache"}
+{"sub_id": "Q1437", "sub_label": "Rajasthan", "sub_aliases": ["Rajputana"], "obj_id": "Q1568", "obj_label": "Hindi", "answer_idx": 58}
+{"sub_id": "Q193229", "sub_label": "Visoko", "sub_aliases": [], "obj_id": "Q9303", "obj_label": "Bosnisch", "answer_idx": 59, "obj_aliases": "bosnische Sprache"}

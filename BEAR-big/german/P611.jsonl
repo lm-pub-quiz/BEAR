@@ -1,0 +1,584 @@
+{"sub_id": "Q21180866", "sub_label": "Lucien Guissard", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q38145613", "sub_label": "Arthur Horsthuis", "sub_aliases": "Arturo Horsthuis", "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q22018386", "sub_label": "Antoinette Fage", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q1871914", "sub_label": "Louis Pel\u00e2tre", "sub_aliases": "Pel\u00e2tre", "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q41486478", "sub_label": "Jean-Marie Marconot", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q269780", "sub_label": "Marie-Eug\u00e9nie de J\u00e9sus", "sub_aliases": "Marie Eug\u00e9nie Milleret de Brou", "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q9189046", "sub_label": "Charles Kambale Mbogha", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q6823855", "sub_label": "Metodi Stratiew", "sub_aliases": "Metodi Dimitrov Stratiev", "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q61972004", "sub_label": "Adveniat Paris", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q2271989", "sub_label": "Emmanuel d'Alzon", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q4025427", "sub_label": "\u00c9tienne Pernet", "sub_aliases": ["Etienne Pernet"], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q28106962", "sub_label": "Jossafat Kosarow", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q3101417", "sub_label": "George Andrew Beck", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q5116968", "sub_label": "Church of Our Lady of Guadalupe", "sub_aliases": ["Iglesia Nuestra Se\u00f1ora de Guadalupe"], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q3420949", "sub_label": "Raymond Janin", "sub_aliases": [], "obj_id": "Q745449", "obj_label": "Assumptionisten", "obj_aliases": "A.A."}
+{"sub_id": "Q923557", "sub_label": "Nicolas Baudeau", "sub_aliases": [], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q754931", "sub_label": "Athassel Priory", "sub_aliases": [], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q1234687", "sub_label": "William of Newburgh", "sub_aliases": [], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q674694", "sub_label": "Philip Repyngdon", "sub_aliases": "Philip Repingdon", "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q2820294", "sub_label": "Abtei Chancelade", "sub_aliases": ["Chancelade Abbey"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q2588334", "sub_label": "Rotes Kloster", "sub_aliases": "Rood-Klooster", "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q6068478", "sub_label": "Pedro Cerbuna", "sub_aliases": "Pedro Cerbuna del Negro", "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q3397679", "sub_label": "Llanthony Priory", "sub_aliases": ["Llanthony Prima", "Llanthony Abbey"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q281800", "sub_label": "Kells Priory", "sub_aliases": [], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q551316", "sub_label": "Henri Marie Raoul Brincard", "sub_aliases": "Henri Brincard", "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q381951", "sub_label": "Hilarius von Orl\u00e9ans", "sub_aliases": ["Hilarius of Orleans", "Hilary of Orl\u00e9ans", "Hilary of Le Ronceray"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q5297593", "sub_label": "Dorchester Abbey", "sub_aliases": ["Abbey Church of St Peter and St Paul"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q1862657", "sub_label": "Kloster Ballybeg", "sub_aliases": [], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q3403001", "sub_label": "Lanercost Priory", "sub_aliases": ["Lanercost Augustinian priory, precinct wall and medieval standing cross base"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q1775141", "sub_label": "Kloster Clontuskert", "sub_aliases": ["Clontuskert Abbey", "The Priory of Saint Mary, Clontuskert-Hy-Many"], "obj_id": "Q1270388", "obj_label": "Augustiner-Chorherren", "obj_aliases": "CRSA"}
+{"sub_id": "Q654608", "sub_label": "Jakob von Vitry", "sub_aliases": "Jacobus de Vitriaco", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q179389", "sub_label": "Anastasius IV.", "sub_aliases": "Konrad von Suburra", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q785250", "sub_label": "Petrus Comestor", "sub_aliases": [], "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q438681", "sub_label": "Edgardo Mortara", "sub_aliases": "Pio Edgardo Mortara", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q470855", "sub_label": "Nikolaus von Tolentino", "sub_aliases": "Nicholas Of Tolentine", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q132845", "sub_label": "Hadrian IV.", "sub_aliases": "Nikolas Breakspear", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q61369", "sub_label": "Gabriel Biel", "sub_aliases": "Spirensis Gabrielis", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q380652", "sub_label": "Aegidius de Viterbo", "sub_aliases": "Egidio da Viterbo", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q335609", "sub_label": "\u00deorl\u00e1kur \u00de\u00f3rhallsson", "sub_aliases": "St. \u00deorl\u00e1kur \u00deorl\u00e1kur", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q380647", "sub_label": "Aegidius Romanus", "sub_aliases": "\u00c4gidius von Rom", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q203814", "sub_label": "Lorenzo Giustiniani", "sub_aliases": ["Lorenzo Giustiniani", "Saint Lorenzo Giustiniani", "San Lorenzo Giustiniani", "Saint Lawrence Justinian", "Lorenzo Giustinian"], "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q78991", "sub_label": "Friedrich Gustav Piffl", "sub_aliases": "Gustav Piffl", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q721827", "sub_label": "Manuel Blanco", "sub_aliases": "Blanco", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q640587", "sub_label": "St. Florian", "sub_aliases": "St. Florian bei Linz", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q160116", "sub_label": "Alexander III.", "sub_aliases": "Papst Alexander III.", "obj_id": "Q214528", "obj_label": "Augustiner", "obj_aliases": "O.S.A."}
+{"sub_id": "Q1380765", "sub_label": "Alessandro Gavazzi", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q7932180", "sub_label": "Vincentius Sangermano", "sub_aliases": "Vincenzo Sangermano", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q5528002", "sub_label": "Bartolommeo Gavanti", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q956185", "sub_label": "Giacomo Antonio Morigia", "sub_aliases": "Giovanni Ippolito Morigia", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q983077", "sub_label": "Miguel Maria Giambelli", "sub_aliases": "Miguel Giambelli", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q1338033", "sub_label": "Giuseppe Maria Granniello", "sub_aliases": "Granniello", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q3107547", "sub_label": "Giovenale Sacchi", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q15620954", "sub_label": "Giovanni Maria Cavalleri", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q3766756", "sub_label": "Giovanni Battista Spotorno", "sub_aliases": ["Giambattista Spotorno"], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q115820", "sub_label": "Hyacinthe Sigismond Gerdil", "sub_aliases": "Jean-Fran\u00e7ois Gerdil", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q55835697", "sub_label": "Ottavio Boldoni", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q1079538", "sub_label": "Francesco Fontana", "sub_aliases": "Luigi Maria Fontana", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q1528522", "sub_label": "Giuseppe Moretti", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q603254", "sub_label": "Antonio Maria Cadolini", "sub_aliases": "Anton Maria Cadolini", "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q3742125", "sub_label": "Felice Caronni", "sub_aliases": [], "obj_id": "Q620456", "obj_label": "Barnabiten", "obj_aliases": "B."}
+{"sub_id": "Q172383", "sub_label": "Silvester II.", "sub_aliases": "Gerbert von Reims", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q171112", "sub_label": "Alexander II.", "sub_aliases": ["Anselmo da Baggio", "Pope Alexander II"], "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q149315", "sub_label": "Silverius", "sub_aliases": ["Pope Silverius"], "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q42827", "sub_label": "Gregor der Gro\u00dfe", "sub_aliases": "Gregorius Magnus", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q167561", "sub_label": "Eugen IV.", "sub_aliases": "Gabriele Condulmaro", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q30578", "sub_label": "Urban II.", "sub_aliases": "Odo von Ostia", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q139467", "sub_label": "Zacharias", "sub_aliases": ["Pope Zachary"], "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q43939", "sub_label": "Anselm von Canterbury", "sub_aliases": "Anselm von Le Bec", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q320531", "sub_label": "Stephan III.", "sub_aliases": "Stephan IV.", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q124754", "sub_label": "Pius VII.", "sub_aliases": "Luigi Barnaba Niccol\u00f2 Maria Chiaramonti", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q4295", "sub_label": "Petrus Abaelardus", "sub_aliases": "Peter Abaelard", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q71231", "sub_label": "Karl der Kahle", "sub_aliases": "Karl II. der Kahle", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q154938", "sub_label": "Beda Venerabilis", "sub_aliases": "Beda der Ehrw\u00fcrdige", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q170654", "sub_label": "Calixt II.", "sub_aliases": "Kalixtus II.", "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q103292", "sub_label": "Hadrian I.", "sub_aliases": ["Pope Adrian I", "Pope Adrian", "Adrian", "Hadrianus I"], "obj_id": "Q131132", "obj_label": "Benediktiner", "obj_aliases": "Benediktinerorden"}
+{"sub_id": "Q4949899", "sub_label": "Anna Germundsdotter", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q12338612", "sub_label": "S\u00f8ster Abraham", "sub_aliases": "Kirsten Stoffregen Pedersen", "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q20652749", "sub_label": "Valborg Fleming", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q4952537", "sub_label": "Christina Brask", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q4969504", "sub_label": "Christina Nilsdotter", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q3377679", "sub_label": "Petrus Astronomus", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q3822304", "sub_label": "Marina de Escobar", "sub_aliases": ["Marine d\u2019Escobar"], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q513949", "sub_label": "Kloster Vadstena", "sub_aliases": "Kloster Pax Mariae der hl. Brigitta", "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q16199272", "sub_label": "Olaus Johannis Gutho", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q881844", "sub_label": "Birgittenkloster, zuvor Benediktinerkloster Altom\u00fcnster", "sub_aliases": "Birgittenkloster Altom\u00fcnster", "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q3041673", "sub_label": "Maribo Abbey", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q654525", "sub_label": "Richard Reynolds", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q435384", "sub_label": "Elisabeth Hesselblad", "sub_aliases": "Maria Elisabeth Hesselblad", "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q4958038", "sub_label": "Karin Johansdotter", "sub_aliases": [], "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q7029936", "sub_label": "Nicolaus Ragvaldi", "sub_aliases": "Nils Ragvaldsson", "obj_id": "Q952578", "obj_label": "Erl\u00f6serorden", "obj_aliases": "OSSS"}
+{"sub_id": "Q180974", "sub_label": "Romuald Hadbavn\u00fd", "sub_aliases": "\u0160tefan Romuald Hadbavn\u00fd", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q11924859", "sub_label": "Guido della Gherardesca", "sub_aliases": [], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q7396624", "sub_label": "Saccidananda Ashram", "sub_aliases": ["Shantivanam"], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q62606735", "sub_label": "Emma Tirelli", "sub_aliases": [], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q106060945", "sub_label": "Santa Cristina della Fondazza", "sub_aliases": ["former monastery of Santa Cristina"], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q654579", "sub_label": "Bartolomeo della Gatta", "sub_aliases": ["Don Pietro Dei", "Pietro di Antonio Dei", "Piero d'Antonio Dei", "Don Piero d'Antonio Dei", "Bartolommeo della Gatta", "Pietro d'Antonio Dei", "Pier d'Antonio Dei", "Barotolomeo della Gatta", "Pietro Dei", "Bartolomeo Della Gatta", "bartolommeo de la gatta", "bartolomeo della gatta", "Pietro Di Antonio Dei", "bartolommeo della gatta"], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q319108", "sub_label": "Brun von Querfurt", "sub_aliases": "St. Bruno de Querfurt", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q16010375", "sub_label": "Giuliano Amedei", "sub_aliases": ["Giuliano Amadei", "Don Giuliano Amadei", "Fra Giuliano", "Giuliano i Amadei", "Giuliano di Amadeo", "Giuliano Amidei", "Giuliano Amedei"], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q982368", "sub_label": "Guido Grandi", "sub_aliases": "Luigi Guido Grandi", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q27149319", "sub_label": "Stanis\u0142aw Albertyn Nowalski", "sub_aliases": [], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q2256501", "sub_label": "Placido Zurla", "sub_aliases": "Giacinto Placido Zurla", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q41744564", "sub_label": "Vincenzo Querini", "sub_aliases": "Pietro Quirini", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q11940054", "sub_label": "Paolo Giustiniani", "sub_aliases": [], "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q549041", "sub_label": "Gratian", "sub_aliases": "Magister Gratianus", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q719590", "sub_label": "Ren\u00e9 de Froulay de Tess\u00e9", "sub_aliases": "Tess\u00e9", "obj_id": "Q591832", "obj_label": "Kamaldulenser", "obj_aliases": "OSBCam"}
+{"sub_id": "Q154827", "sub_label": "Paulinus a Sancto Bartholomaeo", "sub_aliases": ["Johann Philipp Wesdin"], "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q232125", "sub_label": "Louise de La Valli\u00e8re", "sub_aliases": "Fran\u00e7oise Louise de La Baume Le Blanc", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q1413910", "sub_label": "Filippo Iannone", "sub_aliases": [], "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q1234985", "sub_label": "John Bale", "sub_aliases": "Johannes Balaeus", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q465292", "sub_label": "Wendy Beckett", "sub_aliases": "Schwester Wendy", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q454645", "sub_label": "Titus Brandsma", "sub_aliases": "F. Titus Brandsma O.Carm.", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q588849", "sub_label": "Paternosterkirche", "sub_aliases": [], "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q205148", "sub_label": "Filippo Lippi", "sub_aliases": "Fra Filippo Lippi", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q1377970", "sub_label": "Albertus Siculus", "sub_aliases": "Albert von Trapani", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q786319", "sub_label": "Kuriakose Elias Chavara", "sub_aliases": "Kuriakose Elias of Holy Family", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q493698", "sub_label": "Andrea Corsini", "sub_aliases": "Andreas Corsini", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q2085614", "sub_label": "Euphrasia vom Heiligsten Herzen Jesu", "sub_aliases": [], "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q968123", "sub_label": "Georges Thierry d\u2019Argenlieu", "sub_aliases": "Georges Thierry d'Argenlieu", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q2095295", "sub_label": "Santa Maria in Traspontina", "sub_aliases": [], "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q1470414", "sub_label": "Karmeliterkloster", "sub_aliases": "Convento do Carmo", "obj_id": "Q186277", "obj_label": "Karmeliten", "obj_aliases": "Karmeliter"}
+{"sub_id": "Q1440898", "sub_label": "Francesco Alciati", "sub_aliases": [], "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q1366523", "sub_label": "Louis-S\u00e9bastien Lenormand", "sub_aliases": ["Louis-Sebastien Lenormand"], "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q1734540", "sub_label": "Kartause Pleterje", "sub_aliases": "Pletriach", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q7346756", "sub_label": "Robert Lawrence", "sub_aliases": [], "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q2360251", "sub_label": "Biaroza Monastery", "sub_aliases": [], "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q717720", "sub_label": "Niccol\u00f2 Albergati", "sub_aliases": "Nicolaus Albergatus", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q63206", "sub_label": "Otto Brunfels", "sub_aliases": "Otto Brunsfels", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q2864911", "sub_label": "Arthold von Belley", "sub_aliases": "Arthaud", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q924107", "sub_label": "Hugo von Lincoln", "sub_aliases": "St. Hugh of Avalon", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q1079409", "sub_label": "Alphonse-Louis du Plessis de Richelieu", "sub_aliases": [], "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q121850", "sub_label": "Laurentius Surius", "sub_aliases": "Surius", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q312314", "sub_label": "Bruno von K\u00f6ln", "sub_aliases": "Bruno der Kart\u00e4user", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q919806", "sub_label": "Juan S\u00e1nchez Cot\u00e1n", "sub_aliases": "S\u00e1nchez Cot\u00e1n", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q180709", "sub_label": "La Grande Chartreuse", "sub_aliases": "die Gro\u00dfe Kartause", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q72192", "sub_label": "Gregor Reisch", "sub_aliases": "Rusch de Balingen", "obj_id": "Q220979", "obj_label": "Kart\u00e4user", "obj_aliases": "Ordo Cartusiensis"}
+{"sub_id": "Q1792198", "sub_label": "Kunigunde von Orlam\u00fcnde", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20100439", "sub_label": "Constan\u00e7a de Portella", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q6021317", "sub_label": "Monasterio de San Clemente", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20101390", "sub_label": "\u00d2ria Ram\u00edrez", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q91793728", "sub_label": "Mechthild Bernart", "sub_aliases": "Mechthild Elisabeth Bernart", "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20100474", "sub_label": "Eldiarda d'Anglesola", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20100981", "sub_label": "Llu\u00efsa Dalmau Fal\u00e7", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20100335", "sub_label": "Berenguera de Cervera", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q9009382", "sub_label": "Isabel Guerra", "sub_aliases": "Isabel Guerra Pe\u00f1amar\u00eda", "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q70190086", "sub_label": "Maria de Ll\u00faria i de Magarola", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q6021344", "sub_label": "Zisterzienserinnenkloster San Miguel de las Due\u00f1as", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q6021546", "sub_label": "Zisterzienserinnenabtei Vallsanta", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q5786016", "sub_label": "Zisterzienserinnenkloster Las Bernardas", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q20100438", "sub_label": "Constan\u00e7a de Cabrera", "sub_aliases": [], "obj_id": "Q206090", "obj_label": "Zisterzienserinnen", "obj_aliases": "Nonnen"}
+{"sub_id": "Q2317638", "sub_label": "Antoine Adrien Lamourette", "sub_aliases": "Antoine-Adrien Lamourette", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q1369725", "sub_label": "Pedro Opeka", "sub_aliases": "Opeka", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q459032", "sub_label": "Elisabeth Anna Bayley Seton", "sub_aliases": "Elizabeth Ann Seton", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q1709079", "sub_label": "Jos\u00e9 Carlos Melo", "sub_aliases": ["Jose Carlos Melo"], "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q75326", "sub_label": "Ernst Schmitz", "sub_aliases": "Ernesto Schmitz", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q503389", "sub_label": "Stephanos II. Ghattas", "sub_aliases": "Stephanos II. Kardinal Ghattas", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q631496", "sub_label": "Arcadio Mar\u00eda Larraona", "sub_aliases": "Arcadio Mar\u00eda Larraona Saralegui", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q778640", "sub_label": "Johannes Gabriel Perboyre", "sub_aliases": ["John Gabriel Perboyre"], "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q346939", "sub_label": "Armand David", "sub_aliases": "P\u00e8re David", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q2418816", "sub_label": "Jean Jacques Barth\u00e9lemy", "sub_aliases": "Jean-Jacques Barth\u00e9lemy", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q926741", "sub_label": "Milan \u0160a\u0161ik", "sub_aliases": "Milan Sasik", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q551081", "sub_label": "David Michael O\u2019Connell", "sub_aliases": "David M. O\u2019Connell", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q2222293", "sub_label": "Joseph Gabet", "sub_aliases": "Qin Gabi", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q2410868", "sub_label": "Jesus Armamento Dosado", "sub_aliases": ["Jesus A. Dosado CM"], "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q2067933", "sub_label": "Stephanos I. Sidarouss", "sub_aliases": "Stephanos I. Kardinal Sidarouss", "obj_id": "Q849726", "obj_label": "Lazaristen", "obj_aliases": "CM"}
+{"sub_id": "Q558256", "sub_label": "Johann Nepomuk Neumann", "sub_aliases": "Bischof Neumann", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1378734", "sub_label": "Eustaquio Pastor Cuquejo Verga", "sub_aliases": "Cuquejo Verga", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q560990", "sub_label": "Varkey Vithayathil", "sub_aliases": "Vithayathil", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q48682", "sub_label": "Wassyl Welytschkowskyj", "sub_aliases": [], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q562233", "sub_label": "Gerhard Majella", "sub_aliases": ["Gerardo Maiella"], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q76163", "sub_label": "Bernhard H\u00e4ring", "sub_aliases": [], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1301920", "sub_label": "Victor-Augustin-Isidore Dechamps", "sub_aliases": "Victor-Augustus Dechamps", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q75940", "sub_label": "Franz Xaver Seelos", "sub_aliases": [], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q2890505", "sub_label": "Antonio Baseotto", "sub_aliases": "Antonio Juan Baseotto", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1493605", "sub_label": "Aloysius Ferdinandus Zichem", "sub_aliases": [], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q561938", "sub_label": "Mykolaj Tscharnezkyj", "sub_aliases": "Tsjarnetskyj", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q65938", "sub_label": "Josef Clemens Maurer", "sub_aliases": ["Jose Clemente Maurer", "Jos\u00e9 Clemente Cardinal Maurer"], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1286982", "sub_label": "Edmund Woga", "sub_aliases": "Woga", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q2501364", "sub_label": "Senowij Kowalyk", "sub_aliases": "Zynoviy Zenon", "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1700453", "sub_label": "Michael Wiwchar", "sub_aliases": [], "obj_id": "Q751148", "obj_label": "Redemptoristen", "obj_aliases": "Redemptorist"}
+{"sub_id": "Q1344575", "sub_label": "Francisco \u00c1lvares", "sub_aliases": "Francisco Alvares", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q133350", "sub_label": "Sixtus V.", "sub_aliases": "Felice Peretti di Montalto", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q1464251", "sub_label": "William Patrick Callahan", "sub_aliases": ["William Patrick Callahan"], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q924816", "sub_label": "Gianfranco Girotti", "sub_aliases": [], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q131587", "sub_label": "Clemens XIV.", "sub_aliases": "Papst Clemens XIV.", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q774696", "sub_label": "Basilika St. Peter und Paul", "sub_aliases": "Santi Pietro e Paolo a Via Ostiense", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q495217", "sub_label": "Sacro Convento", "sub_aliases": "Kloster von Assisi", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q1440879", "sub_label": "Francescantonio Nol\u00e8", "sub_aliases": "Nol\u00e8", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q818659", "sub_label": "Berard Toshio Oshikawa", "sub_aliases": "Oshikawa", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q853703", "sub_label": "Couvent des Cordeliers", "sub_aliases": [], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q3846523", "sub_label": "Marco Tasca", "sub_aliases": [], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q6061780", "sub_label": "Ioan Duma", "sub_aliases": "Ioan Maria Duma", "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q533893", "sub_label": "Paolo Mario Virgilio Atzei", "sub_aliases": [], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q8276248", "sub_label": "Rafa\u0142 Chyli\u0144ski", "sub_aliases": ["Melchor Chyli\u0144ski"], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q793909", "sub_label": "San Damiano", "sub_aliases": [], "obj_id": "Q692799", "obj_label": "Minoriten", "obj_aliases": "OMinConv"}
+{"sub_id": "Q1510083", "sub_label": "Geraldo de Proen\u00e7a Sigaud", "sub_aliases": "Geraldo de Proen\u00e7a SVD Sigaud", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q9012852", "sub_label": "Jorge Novak", "sub_aliases": [], "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q1551196", "sub_label": "Grzegorz Fr\u0105ckowiak", "sub_aliases": "Grzegorz Boles\u0142aw Fr\u0105ckowiak", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q71124", "sub_label": "Augustin Henninghaus", "sub_aliases": "Henninghaus", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q67030", "sub_label": "Johann Baptist von Anzer", "sub_aliases": "Johann Baptist Anzer SVD", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q1240763", "sub_label": "Donatus Djagom", "sub_aliases": "Djagom", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q71103", "sub_label": "Helena Stollenwerk", "sub_aliases": "Maria Stollenwerk", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q1042868", "sub_label": "Carlos Eduardo Pellegr\u00edn Barrera", "sub_aliases": "Pellegr\u00edn Barrera", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q220082", "sub_label": "James Terry Steib", "sub_aliases": ["James Terry Steib"], "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q90614", "sub_label": "Karl Christian Weber", "sub_aliases": ["Charles Weber"], "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q778704", "sub_label": "L\u00e1szl\u00f3 N\u00e9met", "sub_aliases": "L\u00e1szl\u00f3 Kardinal N\u00e9met", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q540879", "sub_label": "Jerzy Mazur", "sub_aliases": [], "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q2428346", "sub_label": "Thomas Zhao Fengwu", "sub_aliases": "Thomas Zhao Feng-Wu", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q151879", "sub_label": "Fernando Lugo", "sub_aliases": "Lugo M\u00e9ndez", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q1341253", "sub_label": "John Hung", "sub_aliases": "Shan-Chuan Hung", "obj_id": "Q696656", "obj_label": "Steyler Missionare", "obj_aliases": "Weite Welt"}
+{"sub_id": "Q191850", "sub_label": "Tommaso Campanella", "sub_aliases": [], "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q363970", "sub_label": "Yves Congar", "sub_aliases": "Congar", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q303435", "sub_label": "Heinrich Seuse", "sub_aliases": "Heinrich von Suso", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q171834", "sub_label": "Aldo Moro", "sub_aliases": ["Aldo Romeo Luigi Moro"], "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q155971", "sub_label": "Benedikt XIII.", "sub_aliases": "Vincenzo Maria Orsini de Gravina", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q7780", "sub_label": "Fra Bartolommeo", "sub_aliases": "Fra Bartolommeo di San Marco", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q207416", "sub_label": "Bartolom\u00e9 de Las Casas", "sub_aliases": ["Bartolome de Las Casas Laury Isabella Jauregui", "Bartholom\u00e9 de Las Casas"], "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q76548", "sub_label": "Meister Eckhart", "sub_aliases": "Meister Eckhardt", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q174779", "sub_label": "Mosteiro da Batalha", "sub_aliases": "Kloster Batalha", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q164823", "sub_label": "Girolamo Savonarola", "sub_aliases": "Hieronymus Savonarola", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q170871", "sub_label": "Innozenz V.", "sub_aliases": "Pierre de Tarantaise", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q165568", "sub_label": "Johannes XXII.", "sub_aliases": "Jakob von Cahors", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q318622", "sub_label": "Martin Bucer", "sub_aliases": "Martinus Bucerus", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q36330", "sub_label": "Giordano Bruno", "sub_aliases": "Nolanus", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q9438", "sub_label": "Thomas von Aquin", "sub_aliases": "Thomas Aquinas", "obj_id": "Q131479", "obj_label": "Dominikaner", "obj_aliases": "OP"}
+{"sub_id": "Q25240", "sub_label": "Thrinle Gyatsho", "sub_aliases": "Trinle Gyatso", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q724350", "sub_label": "Gyeltshen Norbu", "sub_aliases": "Qoigyijabu", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q1493379", "sub_label": "Ganden Thripa", "sub_aliases": "Tri Rinpoche", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q18627241", "sub_label": "Chokyi Dronma", "sub_aliases": ["Samding Dorje Phagmo I, Ch\u00f6kyi Dr\u00f6nma", "Ch\u00f6kyi Dr\u00f6nma", "Samding Dorje Pakmo 01"], "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q1992696", "sub_label": "Panchen Sonam Dragpa", "sub_aliases": "Xiazi Banqin Suonam Zhaba", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q2365549", "sub_label": "Sumpa Yeshe Peljor", "sub_aliases": "Yixibalazhuer", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q957724", "sub_label": "Tagdrag Ngawang Sungrab Thutob", "sub_aliases": "Ngawang Sungrab Thutob", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q25256", "sub_label": "S\u00f6nam Gyatsho", "sub_aliases": "bsod nams rgya mtsho", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q25255", "sub_label": "Y\u00f6nten Gyatsho", "sub_aliases": "yon tan rgya mtsho", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q957784", "sub_label": "Jampel Yeshe Gyeltshen", "sub_aliases": "rwa sgreng thub bstan 'jam dpal ye shes bstan pa'i rgyal mtshan", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q1395045", "sub_label": "Khungtaidschi Galdan", "sub_aliases": "Galdan Boshugtu Khan", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q974742", "sub_label": "Lobsang Yeshe", "sub_aliases": "Lobsang Yeshi", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q323439", "sub_label": "Tsongkhapa", "sub_aliases": "Z\u014dngk\u0101b\u0101", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q964199", "sub_label": "Gyeltshab Je", "sub_aliases": "Jiacao Jie", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q1366437", "sub_label": "Khedrub Je", "sub_aliases": "mkhas grub rje dge legs dpal bzang", "obj_id": "Q319218", "obj_label": "Gelug", "obj_aliases": "Gelbe Sekte"}
+{"sub_id": "Q1097091", "sub_label": "Claude Poullart des Places", "sub_aliases": "Poullart des Places", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q754746", "sub_label": "Athanase Bala", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q817080", "sub_label": "Benedito Roberto", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q1224285", "sub_label": "Dieudonn\u00e9 Nzapalainga", "sub_aliases": "Nzapalainga", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q4775469", "sub_label": "Antoine Duss", "sub_aliases": "Duss", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q2542749", "sub_label": "Yves Maria Monot", "sub_aliases": "Yves Monot", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q376270", "sub_label": "Denis Fahey", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q312675", "sub_label": "Marcel Lefebvre", "sub_aliases": "Marcel Fran\u00e7ois Marie Joseph Lefebvre", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q2134046", "sub_label": "Raymond-Maria Tchidimbo", "sub_aliases": "Tchidimbo", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q464540", "sub_label": "Daniel Brottier", "sub_aliases": "Brottier", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q3182622", "sub_label": "John Tuohill Murphy", "sub_aliases": "John T. Murphy", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q1767934", "sub_label": "Maurice Piat", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q723323", "sub_label": "Jean-J\u00e9r\u00f4me Adam", "sub_aliases": "Jean-Jerome Adam", "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q3102829", "sub_label": "Georges Guibert", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q549765", "sub_label": "Denis Wiehe", "sub_aliases": [], "obj_id": "Q687562", "obj_label": "Spiritaner", "obj_aliases": "Kongregation des Heiligen Geistes"}
+{"sub_id": "Q1613449", "sub_label": "Hermano Nic\u00e9foro Mar\u00eda", "sub_aliases": ["Bro. Niceforo Maria", "Brother Niceforo Maria"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q3152821", "sub_label": "Saint Joseph's Institution", "sub_aliases": ["St. Joseph's Institution, Singapore"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q9302982", "sub_label": "Raphael Louis Rafiringa", "sub_aliases": ["Rapha\u00ebl Rafiringa"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q18786227", "sub_label": "Jules Wieme", "sub_aliases": "Jules Julien Fran\u00e7ois Wieme", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q1019464", "sub_label": "B\u00e9nilde Roman\u00e7on", "sub_aliases": "Roman\u00e7on", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q2834431", "sub_label": "Alexis-Marie Gochet", "sub_aliases": ["Jean-Baptiste Gochet"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q2820589", "sub_label": "Abtei Fontaine-Andr\u00e9", "sub_aliases": "Stift Neuenburg", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q965385", "sub_label": "Jaime Hilario", "sub_aliases": "Manuel Barbal i Cos\u00e1n", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q2328676", "sub_label": "Fr\u00e8re Scubilion", "sub_aliases": ["Frere Scubilion", "Jean Bernard Rousseau", "Jean-Bernard Rousseau"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q63088671", "sub_label": "Victorin-Nymphas Pag\u00e8s", "sub_aliases": [], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q1358473", "sub_label": "Miguel Febres Cordero", "sub_aliases": "Michael Febres Cordero", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q18223824", "sub_label": "Hermano Juma\u00e9lien", "sub_aliases": [], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q1974960", "sub_label": "Salomon Leclercq", "sub_aliases": ["Salomone Leclercq"], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q526436", "sub_label": "Mutien-Marie Wiaux", "sub_aliases": [], "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q18202604", "sub_label": "Joseph H\u00e9ribaud", "sub_aliases": "H\u00e9rib.", "obj_id": "Q138579", "obj_label": "Br\u00fcder der christlichen Schulen", "obj_aliases": "Schulbr\u00fcder"}
+{"sub_id": "Q1709477", "sub_label": "Jos\u00e9 Mar\u00eda Vigil", "sub_aliases": ["Jose Maria Vigil"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q985206", "sub_label": "Manuel Revollo Crespo", "sub_aliases": "Manuel CMF Revollo Crespo", "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q16064673", "sub_label": "Geraldo Fernandes Bijos", "sub_aliases": [], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q2171511", "sub_label": "Rub\u00e9n Antonio Gonz\u00e1lez Medina", "sub_aliases": "Ruben Gonz\u00e1lez Medina", "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q3177728", "sub_label": "Jes\u00fas Santiago Moure", "sub_aliases": ["Jesus Santiago Moure", "Jesus S. Moure", "Jesus S Moure", "Jesus Moure", "Jes\u00fas Santiago Moure", "Jes\u00fas Moure", "J S Moure", "J. S. Moure"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q1279900", "sub_label": "Oscar Jos\u00e9 V\u00e9lez Isaza", "sub_aliases": [], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q531661", "sub_label": "Angel Garachana P\u00e9rez", "sub_aliases": [], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q1043048", "sub_label": "Carlos Mar\u00eda Ariz Bolea", "sub_aliases": ["Carlos Maria Ariz Bolea"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q1710585", "sub_label": "Juan Matogo Oyana", "sub_aliases": [], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q19301052", "sub_label": "Maria Ant\u00f2nia Par\u00eds i Riera", "sub_aliases": ["Maria Antonia Paris"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q23069724", "sub_label": "Luis \u00c1ngel de las Heras Berzal", "sub_aliases": [], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q53834664", "sub_label": "Aquilino Bocos Merino", "sub_aliases": "Aquilino Kardinal Bocos Merino", "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q45198", "sub_label": "Jos\u00e9 Saraiva Martins", "sub_aliases": ["Jose Saraiva Martins"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q1253066", "sub_label": "Pl\u00e1cido Rodr\u00edguez", "sub_aliases": ["Placido Rodriguez"], "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q28708051", "sub_label": "Rafael Mar\u00eda Nze", "sub_aliases": "Rafael Mar\u00eda Nze Abuy", "obj_id": "Q1095569", "obj_label": "Claretiner", "obj_aliases": "Cordis Mariae Filii"}
+{"sub_id": "Q1286149", "sub_label": "Frederick William Faber", "sub_aliases": "Frederick William Faber CO", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q1367301", "sub_label": "Joseph-Christian-Ernest Bourret", "sub_aliases": ["Joseph Bourret", "Joseph Christian Ernest Bourret"], "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q318943", "sub_label": "Cornelius Jansen", "sub_aliases": ["Corneille Janssens", "Jansenius"], "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q215128", "sub_label": "Tom\u00e1s Luis de Victoria", "sub_aliases": "Tom\u00e1s Luis Victoria", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q1580421", "sub_label": "Alphonse Gratry", "sub_aliases": "Auguste Joseph Alphonse Gratry", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q1337968", "sub_label": "Giulio Bevilacqua", "sub_aliases": "Giulio Kardinal Bevilacqua", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q44490", "sub_label": "John Henry Newman", "sub_aliases": "J. H. Newman", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q231256", "sub_label": "Franz von Sales", "sub_aliases": "Fran\u00e7ois de Sales", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q1243948", "sub_label": "Pierre de B\u00e9rulle", "sub_aliases": "Pierre de Berulle", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q216958", "sub_label": "Joseph Fouch\u00e9", "sub_aliases": ["Joseph Fouch\u00e9, 1st Duc d'Otrante", "Joseph Fouche"], "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q1150686", "sub_label": "C\u00e9sar Chesneau Du Marsais", "sub_aliases": "C\u00e9sar Chesneau Dumarsais", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q710804", "sub_label": "Eus\u00e8be Renaudot", "sub_aliases": ["Eusebe Renaudot"], "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q277219", "sub_label": "Bernard Lamy", "sub_aliases": [], "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q2121150", "sub_label": "Sebasti\u00e1n Herrero Espinosa de los Monteros", "sub_aliases": "Sebasti\u00e1n Herrero y Espinosa de los Monteros", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q281528", "sub_label": "Luis Antonio Belluga y Moncada", "sub_aliases": "Luis Antonio de Belluga y Moncada", "obj_id": "Q247132", "obj_label": "Oratorium des Heiligen Filippo Neri", "obj_aliases": "dO"}
+{"sub_id": "Q264732", "sub_label": "John Willem Gran", "sub_aliases": "John Willem Nicolaysen Gran", "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q3200547", "sub_label": "Abtei Kurisumala", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q114436", "sub_label": "Kloster Tre Fontane", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q51880", "sub_label": "Charles de Foucauld", "sub_aliases": ["Blessed Charles Eug\u00e8ne de Foucauld", "Blessed Charles Eugene de Foucauld"], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q3276726", "sub_label": "Abbey of New Clairvaux", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q76612583", "sub_label": "Lode Van Hecke", "sub_aliases": "Lode van Hecke", "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q2572101", "sub_label": "Trappistenabtei Tilburg", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q650340", "sub_label": "Abdij der Trappisten, Westvleteren", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q779678", "sub_label": "La Trappe", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q13125313", "sub_label": "Trappistenabtei Caldey", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q69386753", "sub_label": "Erik Varden", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q112466", "sub_label": "Franz Pfanner", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q335011", "sub_label": "Thomas Merton", "sub_aliases": "Thomas Feverel Merton", "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q2820645", "sub_label": "Trappistinnenabtei Nazareth", "sub_aliases": [], "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q331080", "sub_label": "Christian de Cherg\u00e9", "sub_aliases": "Cherg\u00e9", "obj_id": "Q276223", "obj_label": "Zisterzienser der strengeren Observanz", "obj_aliases": "Zisterzienser der Strengeren Observanz"}
+{"sub_id": "Q435776", "sub_label": "Barbe Acarie", "sub_aliases": "Barbara Avrillot", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q5785943", "sub_label": "Monastery of the Encarnaci\u00f3n", "sub_aliases": [], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q59576643", "sub_label": "Convento de las Teresas", "sub_aliases": [], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q168304", "sub_label": "Teresa Margareta Redi", "sub_aliases": "Teresa Margareta vom Heiligsten Herzen Jesu Redi", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q5166337", "sub_label": "Convent of Saint Joseph", "sub_aliases": ["convento de San Jose", "Convent of San Jos\u00e9", "Convent of San Jos\u00e9 in \u00c1vila", "Convent of Saint Joseph", "convento de San Jos\u00e9"], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q260046", "sub_label": "Elisabeth von der Dreifaltigkeit", "sub_aliases": "Elisabeth von Dijon", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q451590", "sub_label": "Mirjam von Abellin", "sub_aliases": "Mirjam Baoardy", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q11905433", "sub_label": "Ana de San Agust\u00edn", "sub_aliases": [], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q3292903", "sub_label": "Mar\u00eda de Jes\u00fa", "sub_aliases": "Maria di Ges\u00f9 L\u00f3pez de Rivas Mart\u00ednez", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q1067362", "sub_label": "Anne-Marie-Madeleine Thouret", "sub_aliases": "Charlotte Thouret", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q5166198", "sub_label": "convent of las Carmelitas de San Jos\u00e9", "sub_aliases": ["convent of las Carmelitas de San Jose", "Convent of Saint Joseph"], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q10380545", "sub_label": "Teresa de Santo Agostinho", "sub_aliases": [], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q181715", "sub_label": "Th\u00e9r\u00e8se von Lisieux", "sub_aliases": "Theresia von Lisieux", "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q3819196", "sub_label": "Catalina de Balmaseda y San Mart\u00edn", "sub_aliases": ["Catalina de Balmaseda y San Martin"], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q21595729", "sub_label": "Mar\u00eda Guggiari Echeverr\u00eda", "sub_aliases": [], "obj_id": "Q646962", "obj_label": "Unbeschuhte Karmelitinnen", "obj_aliases": "OCD"}
+{"sub_id": "Q2538977", "sub_label": "Josef von Leonessa", "sub_aliases": "Giuseppe da Leonessa", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q982691", "sub_label": "Felix von Cantalice", "sub_aliases": [], "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q316731", "sub_label": "Federico Barocci", "sub_aliases": "Fiori da Urbino", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q1140210", "sub_label": "Crispinus von Viterbo", "sub_aliases": "Pietro Fioretti", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q708072", "sub_label": "Luigi Padovese", "sub_aliases": "Padovese", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q612953", "sub_label": "Jos\u00e9 de Calasanz F\u00e9lix Santiago Vives y Tut\u00f3", "sub_aliases": [], "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q17417834", "sub_label": "Celestino A\u00f3s Braco", "sub_aliases": "Celestino Kardinal A\u00f3s Braco", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q521835", "sub_label": "Lucian Pulvermacher", "sub_aliases": "Earl Pulvermacher", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q733329", "sub_label": "Bernardo da Corleone", "sub_aliases": ["Bernardo da Corleone"], "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q580372", "sub_label": "Honorat Ko\u017ami\u0144ski", "sub_aliases": ["Honorat of Bia\u0142a"], "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q733433", "sub_label": "Leopold Mandi\u0107", "sub_aliases": "Leopold Mandic", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q1233583", "sub_label": "Raniero Cantalamessa", "sub_aliases": "Raniero Kardinal Cantalamessa", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q1733698", "sub_label": "Karl von Sezze", "sub_aliases": [], "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q1065117", "sub_label": "Charles Joseph Chaput", "sub_aliases": "Charles Chaput", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q16785", "sub_label": "Konrad von Parzham", "sub_aliases": "Johannes Evangelist Birndorfer", "obj_id": "Q124862", "obj_label": "Kapuziner", "obj_aliases": "Ordo Fratrum Minorum Capucinorum"}
+{"sub_id": "Q77187", "sub_label": "Ferdinand von Hompesch zu Bolheim", "sub_aliases": "Ferdinand Hermann Anton von Hompesch zu Bolheim", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1524092", "sub_label": "Gilbert de Aissailly", "sub_aliases": "Gilbert de Aissailly de Sailly", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1088988", "sub_label": "Manuel Pinto de Fonseca", "sub_aliases": "Pinto de Fonseca", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1454443", "sub_label": "Jean de Villiers", "sub_aliases": [], "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1876498", "sub_label": "Luis Mendez de Vasconcellos", "sub_aliases": "Mendez de Vasconcellos", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1439825", "sub_label": "Foulques de Villaret", "sub_aliases": "Folco del Vilaret", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q426814", "sub_label": "Emmanuel de Rohan-Polduc", "sub_aliases": [], "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q603165", "sub_label": "Antonio Manoel de Vilhena", "sub_aliases": ["Antonio Manoel de Vilhena"], "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q264097", "sub_label": "Jean de Valette Parisot", "sub_aliases": "Jean Parisot de La Valette (falsch)", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q582198", "sub_label": "H\u00e9lion de Villeneuve", "sub_aliases": "Ioannes Eliones Villanovanus", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q260309", "sub_label": "Martin de Redin", "sub_aliases": "Martin de Redin y Cruzat", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q950012", "sub_label": "Geoffroy de Donjon", "sub_aliases": [], "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1396990", "sub_label": "Joubert", "sub_aliases": "Josberto", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q963716", "sub_label": "Raymond du Puy", "sub_aliases": "Raymond du Puy de Provence", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q1376238", "sub_label": "Gaston de Murols", "sub_aliases": "Gastus", "obj_id": "Q187549", "obj_label": "Johanniterorden", "obj_aliases": "Ritterlicher Orden Sankt Johannis vom Spital zu Jerusalem"}
+{"sub_id": "Q3710215", "sub_label": "Giovanni Antonelli", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q7434034", "sub_label": "Scipione Piattoli", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q3767523", "sub_label": "Giovanni Inghirami", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q940119", "sub_label": "Alfonso Mistrangelo", "sub_aliases": "Mistrangelo", "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q939189", "sub_label": "Giovanni Domenico Mansi", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q6836001", "sub_label": "Tadeusz Krajewski", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q731556", "sub_label": "Stanis\u0142aw Papczy\u0144ski", "sub_aliases": ["Stanislaus Papczy\u0144ski"], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q768735", "sub_label": "F\u00e9lix L\u00e1zaro Martinez", "sub_aliases": ["Felix Lazaro Martinez"], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q314261", "sub_label": "Stanis\u0142aw Konarski", "sub_aliases": "X. Stanis\u0142aw a S. Laurentio Scholarum Piarum", "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q1080018", "sub_label": "Ernesto Balducci", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q3713248", "sub_label": "Domenico Sestini", "sub_aliases": "Sest.", "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q954021", "sub_label": "Pompilio Maria Pirrotti", "sub_aliases": ["Pompilio Maria Pirrotti"], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q556568", "sub_label": "Franciszek Ksawery Dmochowski", "sub_aliases": [], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q371286", "sub_label": "Andr\u00e1s Dugonics", "sub_aliases": ["Andras Dugonics"], "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q360589", "sub_label": "Jos\u00e9 Calasanz", "sub_aliases": "Joseph von Calasanza", "obj_id": "Q273894", "obj_label": "Piaristen", "obj_aliases": "Skolopianer"}
+{"sub_id": "Q539904", "sub_label": "W\u0142odzimierz Juszczak", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q8061655", "sub_label": "Yurij Vynnyckyj", "sub_aliases": ["Gabriel Yurij Vynnyckyj"], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q18565949", "sub_label": "History of Bycie\u0144", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q1226946", "sub_label": "Dionisio Lachovicz", "sub_aliases": "Dionysios Liakhovych", "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q392334", "sub_label": "Josaphat Kocylovskyj", "sub_aliases": "Kocylovskyj", "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q104404976", "sub_label": "Yosyf Grods'kyj", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q3493425", "sub_label": "Antin Sielava", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q46167", "sub_label": "Jakub Jan Susza", "sub_aliases": ["Jakiv Su\u0161a"], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q706570", "sub_label": "Pavol Peter Gojdi\u010d", "sub_aliases": "Pavel Peter Gojdic", "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q28522183", "sub_label": "Herman Bidolach", "sub_aliases": "German Bidolach", "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q2286607", "sub_label": "Silvester Bubanovi\u0107", "sub_aliases": "Silvester Bubanovich", "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q1667501", "sub_label": "Sewerian Stefan Yakymyshyn", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q373553", "sub_label": "Cornelius John Pasichny", "sub_aliases": ["Cornelius John Pasichny"], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q11743699", "sub_label": "Korneliusz Lebiecki", "sub_aliases": [], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q653549", "sub_label": "Samuil Micu", "sub_aliases": ["Samuil Micu Klein"], "obj_id": "Q7319129", "obj_label": "Basilianer des hl. Josaphat", "obj_aliases": "OSBM"}
+{"sub_id": "Q205490", "sub_label": "George Mary Searle", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q1098578", "sub_label": "Ivan Belostenec", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q11818729", "sub_label": "Pius Prze\u017adziecki", "sub_aliases": ["J\u00f3zef Prze\u017adziecki"], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q9342727", "sub_label": "Stanis\u0142aw Oporowski", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q976205", "sub_label": "Farkas Gyulai", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q831571", "sub_label": "Eusebius von Gran", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q3499054", "sub_label": "Amandus Ivanschiz", "sub_aliases": "Matthias Leopold Ivanschiz", "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q16113230", "sub_label": "Martin Borkovi\u0107", "sub_aliases": ["M\u00e1rton Borkovics"], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q1687983", "sub_label": "Jerzy Jan Tomzi\u0144ski", "sub_aliases": "Jerzy Jan Tomzinski", "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q936453", "sub_label": "Kloster von Yuste", "sub_aliases": ["Monastery of San Jer\u00f3nimo de Yuste"], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q2331315", "sub_label": "Stanis\u0142aw Jan Dziuba", "sub_aliases": "Stanislaw Jan Dziuba", "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q16600395", "sub_label": "Santuario del Selvaggio", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q3507761", "sub_label": "Ivan Ranger", "sub_aliases": ["Ivan Krstitelj Ranger", "Ivan. Rangger", "Johann Rangger", "Ivan Rangger", "Johann Ranger", "Joannes Rangger", "Ivan. Ranger", "Ivan Krstitelj Rangger", "Joannes Ranger", "Johann Baptist Ranger"], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q20525212", "sub_label": "Josip Bedekovi\u0107", "sub_aliases": [], "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q1649169", "sub_label": "Titu\u0161 Brezova\u010dki", "sub_aliases": "Tito Brezova\u010dki", "obj_id": "Q846687", "obj_label": "Pauliner", "obj_aliases": "Paulinerorden"}
+{"sub_id": "Q3750016", "sub_label": "Francesco Fulvio Frugoni", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q9015555", "sub_label": "Juan Gaspar Roig y Jalpi", "sub_aliases": ["Joan Gaspar Roig i Jalpi"], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q7029512", "sub_label": "Nicolas Barr\u00e9", "sub_aliases": ["Nicolas Barre"], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q241410", "sub_label": "San Francesco di Paola", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q83729", "sub_label": "Gaspar de Bono", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q2857079", "sub_label": "Antoni Serra Serra", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q1809794", "sub_label": "Sant\u2019Andrea delle Fratte", "sub_aliases": "Sant'Andrea delle Fratte", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q3876344", "sub_label": "Nicola Saggio", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q468460", "sub_label": "Charles Plumier", "sub_aliases": "Plumier", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q3756544", "sub_label": "Gabriele Bonomo", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q11706674", "sub_label": "Paulanerkloster Prag", "sub_aliases": [], "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q2393957", "sub_label": "Taras Senkiw", "sub_aliases": "Taras Senkiv", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q1871688", "sub_label": "Louis Feuill\u00e9e", "sub_aliases": "Louis \u00c9conches Feuill\u00e9e", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q55658238", "sub_label": "Josep Gasch", "sub_aliases": "Giuseppe Gasch", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q3761626", "sub_label": "Gherardo degli Angioli", "sub_aliases": "Gherardo De Angelis", "obj_id": "Q1367736", "obj_label": "Paulaner", "obj_aliases": "Paulanerorden"}
+{"sub_id": "Q27436285", "sub_label": "Thomas Thennatt", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q505937", "sub_label": "Vincenzo Pallotti", "sub_aliases": "Vinzenz Pallotti", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q1340524", "sub_label": "J\u00f3zef Stanek", "sub_aliases": "Josef Stanek", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q3496775", "sub_label": "Stanis\u0142aw Szulmi\u0144ski", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q956857", "sub_label": "S\u00e9amus Freeman", "sub_aliases": ["Seamus Freeman"], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q3087744", "sub_label": "Friedrich Kretz", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q71226", "sub_label": "Richard Henkes", "sub_aliases": "Pater Richard SAC Henkes", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q78193371", "sub_label": "Adrian J\u00f3zef Galbas", "sub_aliases": "Adrian Galbas", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q16318685", "sub_label": "Bruno Ateba Edo", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q1677596", "sub_label": "Jacob Nampudakam", "sub_aliases": "Jacob SAC Nampudakam", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q3372486", "sub_label": "Paul de Geslin", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q78302", "sub_label": "Johannes Jobst", "sub_aliases": "John Jobst", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q88186", "sub_label": "Franziskus Hennemann", "sub_aliases": "Franziskus Xaver Hennemann", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q1709422", "sub_label": "Jos\u00e9 Maria Maimone", "sub_aliases": "Maimone", "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q23928058", "sub_label": "Edgar Xavier Ertl", "sub_aliases": [], "obj_id": "Q775333", "obj_label": "Pallottiner", "obj_aliases": "PSM"}
+{"sub_id": "Q234697", "sub_label": "Maria Goretti", "sub_aliases": ["St. Maria Goretti", "Maria Teresa Goretti"], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q679290", "sub_label": "Washington Cruz", "sub_aliases": [], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q420008", "sub_label": "Candido Amantini", "sub_aliases": [], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q611392", "sub_label": "Fernando Saavedra", "sub_aliases": "Francisco de Borja Saavedra y Caro", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q720749", "sub_label": "Gabriele Amorth", "sub_aliases": [], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q4406128", "sub_label": "Lorenzo Maria of Saint Francis Xavier", "sub_aliases": ["Lorenzo Mar\u00eda de San Francisco Javier", "Lorenzo Maria de San Francisco Javier"], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q740904", "sub_label": "Dominikus Barberi", "sub_aliases": "Dominikus von der Gottesmutter Barberi", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q5261882", "sub_label": "Norbert Dorsey", "sub_aliases": "Leonard James Dorsey", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q1709301", "sub_label": "Jos\u00e9 Luis Astigarraga Lizarralde", "sub_aliases": ["Jose Luis Astigarraga Lizarralde"], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q374467", "sub_label": "Gabriel von der Schmerzhaften Jungfrau", "sub_aliases": "Gabriel von der schmerzhaften Muttergottes", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q4893415", "sub_label": "Bernardo Maria di Ges\u00f9", "sub_aliases": "Cesare Silvestrelli", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q370261", "sub_label": "Paul vom Kreuz", "sub_aliases": "Paulus vom Kreuz", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q349709", "sub_label": "Thomas Berry", "sub_aliases": "Thomas CP Berry", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q2496894", "sub_label": "Isidore De Loor", "sub_aliases": "Isidor zum heiligen Joseph De Loor", "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q1331058", "sub_label": "I\u00f1aki Mallona Txertudi", "sub_aliases": [], "obj_id": "Q774589", "obj_label": "Passionisten", "obj_aliases": "C.P."}
+{"sub_id": "Q455252", "sub_label": "Katharina von Bologna", "sub_aliases": ["Caterina Vigri", "Catherine de Vigri", "santa Catharina Bononiensis", "Caterina, Saint Vegri", "da Bologna, Saint Caterina", "sainte Catherine de Bologne", "St. Catherine of Bologna", "Caterina Vegri", "Saint Catherine of Bologna", "Catherine de' Vigri"], "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q191107", "sub_label": "Klara von Assisi", "sub_aliases": "Clara von Assisi", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q276019", "sub_label": "Eustochia Smeraldo Calafato", "sub_aliases": "Smeralda Calafato", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q833920", "sub_label": "Yolanda von Polen", "sub_aliases": "Jolanda Helena", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q236882", "sub_label": "Johanna von Kastilien", "sub_aliases": "Juana La Beltraneja", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q810104", "sub_label": "Basilika Santa Chiara", "sub_aliases": "Santa Chiara (Neapel)", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q2260556", "sub_label": "Anna von \u00d6sterreich", "sub_aliases": "Anna von G\u00f6rz", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q433699", "sub_label": "Hedwig von Kalisch", "sub_aliases": "Hedwig Kaliska", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q450894", "sub_label": "Luise von Savoyen", "sub_aliases": [], "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q3155085", "sub_label": "Isabel de Villena", "sub_aliases": ["Valenciana writer"], "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q286537", "sub_label": "Konstanze von Sizilien", "sub_aliases": "Konstanze von Aragonien", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q454976", "sub_label": "Camilla Battista Varano", "sub_aliases": "Battista Varano", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q1256210", "sub_label": "Santa Maria Donna Regina Vecchia", "sub_aliases": [], "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q2984484", "sub_label": "Gryfina Halicka", "sub_aliases": "Agrypina Rostislawna", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q4869934", "sub_label": "Battista Malatesta", "sub_aliases": "Battistina Montefeltro", "obj_id": "Q733658", "obj_label": "Klarissen", "obj_aliases": "Klarissenorden"}
+{"sub_id": "Q1361390", "sub_label": "Prokop Divi\u0161", "sub_aliases": "Prokop Diwisch", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q710858", "sub_label": "Witelo", "sub_aliases": "Vitellio", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q1102574", "sub_label": "Kloster Jasov", "sub_aliases": [], "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q71105", "sub_label": "Johann Zahn", "sub_aliases": ["Ioanne Zahn"], "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q1696767", "sub_label": "Johann von Bucca", "sub_aliases": "Johann der Eiserne", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q891310", "sub_label": "Boleslav Jablonsk\u00fd", "sub_aliases": "Karel Eugen Tup\u00fd", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q89047", "sub_label": "Jakob Franz Alexander Kern", "sub_aliases": "Franz Alexander Kern", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q160374", "sub_label": "Norbert von Xanten", "sub_aliases": "St. Norbert of Xanten", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q9183248", "sub_label": "Bronis\u0142awa", "sub_aliases": [], "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q460103", "sub_label": "Hermann Joseph von Steinfeld", "sub_aliases": "svat\u00fd He\u0159man Josef", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q966044", "sub_label": "Hethum von Korykos", "sub_aliases": "Haython", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q563391", "sub_label": "Jan Lohelius", "sub_aliases": "Johann Lohel", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q334105", "sub_label": "Abtei Postel", "sub_aliases": [], "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q2513383", "sub_label": "Gerlach von Houthem", "sub_aliases": "Gerlach von Valkenburg", "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q69534", "sub_label": "Sebastian Sailer", "sub_aliases": [], "obj_id": "Q339332", "obj_label": "Pr\u00e4monstratenser", "obj_aliases": "Regularkanoniker von Pr\u00e9montr\u00e9"}
+{"sub_id": "Q1160646", "sub_label": "Daniel Fernando Sturla Berhouet", "sub_aliases": "Daniel Fernando Kardinal SDB Sturla Berhouet", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q539180", "sub_label": "Antonio Mar\u00eda Javierre Ortas", "sub_aliases": "Antonio Mar\u00eda Kardinal Javierre Ortas", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q293434", "sub_label": "\u00d3scar Rodr\u00edguez Maradiaga", "sub_aliases": "Rodr\u00edguez Maradiaga", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q325236", "sub_label": "Josef Kowalski", "sub_aliases": "Josef Kowalski SDB", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q982546", "sub_label": "Giovanni Cagliero", "sub_aliases": "Johannes Cagliero", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q1691923", "sub_label": "Luigi Giuseppe Lasagna", "sub_aliases": [], "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q112159", "sub_label": "Alfons Maria Stickler", "sub_aliases": "Alphons Maria Stickler", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q965283", "sub_label": "Ra\u00fal Silva Henr\u00edquez", "sub_aliases": "Silva Henr\u00edquez", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q392594", "sub_label": "\u0160t\u011bp\u00e1n Trochta", "sub_aliases": "St\u011bp\u00e1n Trochta", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q127211", "sub_label": "Raffaele Farina", "sub_aliases": "Raffaele Kardinal Farina", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q535546", "sub_label": "Angelo Amato", "sub_aliases": "Angelo Kardinal SDB Amato", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q1065489", "sub_label": "Charles Maung Bo", "sub_aliases": "Charles Maung Kardinal Bo", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q536199", "sub_label": "Angelo Moreschi", "sub_aliases": [], "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q47001633", "sub_label": "Crist\u00f3bal L\u00f3pez Romero", "sub_aliases": "Crist\u00f3bal Kardinal L\u00f3pez Romero", "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q12059351", "sub_label": "Thomas Zdechovsky", "sub_aliases": ["Tomas Zdechovsky", "tom\u00e1\u0161 zdechovsk\u00fd"], "obj_id": "Q223659", "obj_label": "Salesianer Don Boscos", "obj_aliases": "Societas Sancti Francisci Salesii"}
+{"sub_id": "Q1349158", "sub_label": "Paolo Sarpi", "sub_aliases": ["Fra (Brother) Paolo Sarpi", "Paul Sarpi", "Father Paul"], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q509449", "sub_label": "Anna Juliana Gonzaga", "sub_aliases": "Anna Caterina, arciduchessa del Tirolo e dell'Austria Anteriore Gonzaga", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q292196", "sub_label": "Juliana von Falconieri", "sub_aliases": [], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q3742628", "sub_label": "Ferdinando Maria Baccilieri", "sub_aliases": [], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q1256284", "sub_label": "Santa Maria del Parto a Mergellina", "sub_aliases": [], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q1492428", "sub_label": "Moacyr Grechi", "sub_aliases": [], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q601844", "sub_label": "Antonio Doni", "sub_aliases": "Anton Francesco Doni", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q538995", "sub_label": "Pietro Maria Pieri", "sub_aliases": [], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q1226957", "sub_label": "Dionisio Neagrus Laurerio", "sub_aliases": "Laurerio", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q1496702", "sub_label": "Ga\u00e9tan Proulx", "sub_aliases": "Gaetan Proulx", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q141900", "sub_label": "Philipp Benizi", "sub_aliases": "Filippo Benizi", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q27040", "sub_label": "Giovanni Angelo Montorsoli", "sub_aliases": "Montorsoli", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q3664106", "sub_label": "Cecilia Eusepi", "sub_aliases": "Caecilia Eusepi", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q1336892", "sub_label": "John Dominic Crossan", "sub_aliases": "J. D. Crossan", "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q731479", "sub_label": "San Carlo al Corso", "sub_aliases": ["chiesa di San Carlo al Corso"], "obj_id": "Q615923", "obj_label": "Serviten", "obj_aliases": "servi sanctae Mariae"}
+{"sub_id": "Q76738", "sub_label": "Athanasius Kircher", "sub_aliases": "Athanasius SJ Kircher", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q122976", "sub_label": "Hans Urs von Balthasar", "sub_aliases": "Hans-Urs von Balthasar", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q380649", "sub_label": "Paul Miki", "sub_aliases": "Pauro Miki", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q44281", "sub_label": "Ignatius von Loyola", "sub_aliases": "\u00cd\u00f1igo L\u00f3pez de Recalde", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q310307", "sub_label": "Aloisius von Gonzaga", "sub_aliases": "Aloysius von Gonzaga", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q57317", "sub_label": "Karl Rahner", "sub_aliases": "Anselm Trescher", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q175544", "sub_label": "Karl Emanuel IV.", "sub_aliases": "Charles IV.", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q316339", "sub_label": "Francisco Su\u00e1rez", "sub_aliases": "Franz Suarez", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q336653", "sub_label": "Alexandre de Rhodes", "sub_aliases": [], "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q380103", "sub_label": "Andrea Pozzo", "sub_aliases": ["Padre Andreas", "Andreas Puteus", "Andrea Pozzi", "Andrea del Pozzo", "Padre Andreas Puteus", "Andrea Putens", "Pozzo Andrea dal", "Andrea Puteus", "Cavalieri Andrea Pozzi", "Andr\u00e9 Pozzi", "Padre Pozzi", "P. Pozzi Gesuita", "Le Pere del Pozzo", "Padre Pozzo", "Cavalieri Pozzi", "andrea dal pozzo", "A. Pozzi", "Padre Poudzy"], "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q53452", "sub_label": "Johann II. Kasimir", "sub_aliases": [], "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q318497", "sub_label": "Carlo Maria Martini", "sub_aliases": "Carlo Maria Kardinal Martini", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q298664", "sub_label": "Robert Bellarmine", "sub_aliases": "Roberto Francesco Romolo Bellarmino", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q283121", "sub_label": "Josef Dobrovsk\u00fd", "sub_aliases": "Joseph Dobrovsk\u00fd", "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q233340", "sub_label": "Matteo Ricci", "sub_aliases": ["Li Madou", "Mateo Ricci"], "obj_id": "Q36380", "obj_label": "Jesuiten", "obj_aliases": "Societas Jesu"}
+{"sub_id": "Q1700522", "sub_label": "John Hubert Macey Rodgers", "sub_aliases": ["John Hubert Macey Rodgers"], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q380651", "sub_label": "Pierre Chanel", "sub_aliases": "Pierre Louis-Marie Chanel", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q16000211", "sub_label": "Joseph Darnand", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q23833013", "sub_label": "Pierre Bataillon", "sub_aliases": ["Bishop Pierre Bataillon"], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q18720007", "sub_label": "Patelisio Punou-Ki-Hihifo Finau", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q997919", "sub_label": "Luis Abilio Sebastiani Aguirre", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q16326831", "sub_label": "Alan Williams", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q1675441", "sub_label": "Paul Donoghue", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q6795000", "sub_label": "Max Mariu", "sub_aliases": "Max Takuira Matthew Mariu", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q2296293", "sub_label": "Soane Lilo Foliaki", "sub_aliases": "Lilo Foliaki", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q1521773", "sub_label": "Ghislain de Rasilly", "sub_aliases": "Rasilly", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q1736950", "sub_label": "Michel-Marie Calvet", "sub_aliases": "Michel Calvet", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q47762277", "sub_label": "Joel Konzen", "sub_aliases": "Joel Matthias Konzen", "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q44694092", "sub_label": "Paul Martin", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q1532824", "sub_label": "Pio Taofinu\u2019u", "sub_aliases": [], "obj_id": "Q923103", "obj_label": "Maristenpatres", "obj_aliases": "SM"}
+{"sub_id": "Q358325", "sub_label": "Ivo H\u00e9lory", "sub_aliases": "Erwan Helouri", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q42544", "sub_label": "Thomas Morus", "sub_aliases": "Thomas More", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q193660", "sub_label": "Ramon Llull", "sub_aliases": "Raymundus Lullus", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q117573", "sub_label": "Maria Theresia Scherer", "sub_aliases": ["Anna Maria Katherina Scherer"], "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q2054855", "sub_label": "Antoine Chevrier", "sub_aliases": [], "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q162819", "sub_label": "Katharina von Aragon", "sub_aliases": "Catalina de Trast\u00e1mara y Trast\u00e1mara", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q240413", "sub_label": "Katharina von Genua", "sub_aliases": "Katharina Fieschi Adorno", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q243122", "sub_label": "Ferdinand III.", "sub_aliases": "Ferdinand von Kastilien", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q440108", "sub_label": "Maria Maddalena dell\u2019Incarnazione", "sub_aliases": "Maria Magdalena von der Menschwerdung", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q1958817", "sub_label": "Juozas Tumas-Vai\u017egantas", "sub_aliases": ["Juozas Tumas", "Vai\u017egantas"], "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q77304", "sub_label": "Wilhelm Killing", "sub_aliases": "Wilhelm Karl Joseph Killing", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q41309", "sub_label": "Franz Liszt", "sub_aliases": "Ferenc Liszt", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q924770", "sub_label": "Albert Chmielowski", "sub_aliases": "Adam Hilarius Chmielowski", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q1373633", "sub_label": "Joseph Cafasso", "sub_aliases": "S\u00e3o Jos\u00e9 Cafasso", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q452680", "sub_label": "Katarina Kosa\u010da-Kotromani\u0107", "sub_aliases": "Kosa\u010da-Kotromani\u0107", "obj_id": "Q9295862", "obj_label": "Dritter Orden des hl. Franziskus"}
+{"sub_id": "Q651999", "sub_label": "Felix von Valois", "sub_aliases": "Hugo II. von Vermandois", "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q920226", "sub_label": "Michael von den Heiligen", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q1403283", "sub_label": "Paul Damance", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q18972845", "sub_label": "Mariano Altolaguirre y Altolaguirre", "sub_aliases": ["Santiago Altolaguirre Altolaguirre"], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q648396", "sub_label": "Hortensio F\u00e9lix Paravicino", "sub_aliases": ["Hortensio Felix Paravicino", "Fray Hortensio F\u00e9lix Paravicino"], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q19013790", "sub_label": "Juan de Jes\u00fas y Mar\u00eda", "sub_aliases": "Johannes von Jesus und Maria Otazua y Madariaga", "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q18984183", "sub_label": "Prudens of the Cross", "sub_aliases": ["Prudencio Guer\u00e9quiz Guezuraga"], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q3721808", "sub_label": "Eleonora Ramirez de Montalvo", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q7563253", "sub_label": "Marcela de San F\u00e9lix", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q470597", "sub_label": "Johannes von Matha", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q127303", "sub_label": "Marcos Criado", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q2734696", "sub_label": "Diego Morcillo Rubio de Au\u00f1\u00f3n", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q3770466", "sub_label": "Giuseppe Di Donna", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q1060454", "sub_label": "Angelo Buccarello", "sub_aliases": [], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q2756936", "sub_label": "Antonio Cerd\u00e0 i Lloscos", "sub_aliases": ["Antonio Cerda i Lloscos"], "obj_id": "Q917518", "obj_label": "Trinitarierorden", "obj_aliases": "OSST"}
+{"sub_id": "Q4998903", "sub_label": "Burkard Huwiler", "sub_aliases": "Burkhard Huwiler", "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q3310166", "sub_label": "Michel Lelong", "sub_aliases": ["Michel Joseph Marie Lelong"], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q1613565", "sub_label": "Joseph Kiw\u00e1nuka", "sub_aliases": ["Joseph Kiwanuka"], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q4685088", "sub_label": "Adrian Hastings", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q2390178", "sub_label": "Joseph Roger de Benoist", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q11220186", "sub_label": "L\u00e9once Bridoux", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q369832", "sub_label": "Charles Martial Lavigerie", "sub_aliases": "Charles Martial Allemand Lavigerie", "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q10862317", "sub_label": "John Joseph Hirth", "sub_aliases": "Jean-Joseph Hirth", "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q3270640", "sub_label": "L\u00e9on-Paul Classe", "sub_aliases": "Leon-Paul Classe", "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q2871591", "sub_label": "Augustin Prosper Hacquard", "sub_aliases": ["Augustin Prosper Hacquard"], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q50319911", "sub_label": "Anatole-Joseph Toulotte", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q6282745", "sub_label": "Joseph Dupont", "sub_aliases": ["Joseph-Marie-Stanislas Dupont"], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q2048916", "sub_label": "Guy Theunis", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q30607985", "sub_label": "Andr\u00e9 Prost", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
+{"sub_id": "Q2835285", "sub_label": "Alfred Louis Delattre", "sub_aliases": [], "obj_id": "Q278165", "obj_label": "Wei\u00dfe V\u00e4ter", "obj_aliases": "MAfr"}
